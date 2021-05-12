@@ -1,0 +1,1802 @@
+[
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關治療甲狀腺風暴的敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "可使用抗甲狀腺藥物以降低血中T4轉化成T3的量",
+          "is_correct": false
+        },
+        {
+          "text": "可使用乙型拮抗劑（beta-blockers）以降低血中T4轉化為T3的量",
+          "is_correct": false
+        },
+        {
+          "text": "給予2%碘劑溶液（Lugol’s solution）可減少甲狀腺荷爾蒙分泌量",
+          "is_correct": false
+        },
+        {
+          "text": "使用類固醇及阿斯匹靈退燒，同時需輸液治療",
+          "is_correct": true
+        }
+      ],
+      "session": "105寒期",
+      "no": "39",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "未分化型甲狀腺癌（anaplastic carcinoma），何者錯誤？",
+      "choices": [
+        {
+          "text": "不可能由分化良好型甲狀腺癌轉變而來",
+          "is_correct": true
+        },
+        {
+          "text": "需作切片檢查或氣管切開",
+          "is_correct": false
+        },
+        {
+          "text": "目前放射線治療（radiation therapy）及化學治療（chemotherapy）效果不彰",
+          "is_correct": false
+        },
+        {
+          "text": "很少需要根除手術，預後甚差",
+          "is_correct": false
+        }
+      ],
+      "session": "105寒期",
+      "no": "40",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "甲狀腺髓質癌（medullary carcinoma），何者錯誤？",
+      "choices": [
+        {
+          "text": "宜作甲狀腺全切除合併中央隔間淋巴結切除（central compartment dissection）",
+          "is_correct": false
+        },
+        {
+          "text": "診斷用CEA、calcitonin及細胞學檢查",
+          "is_correct": false
+        },
+        {
+          "text": "伴有嗜鉻細胞癌（pheochromocytoma）病人時，要先進行甲狀腺髓質癌手術",
+          "is_correct": true
+        },
+        {
+          "text": "碘131治療無效",
+          "is_correct": false
+        }
+      ],
+      "session": "105寒期",
+      "no": "41",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳房攝影檢查時，腫瘤或鈣化之影像因年齡增加而有所改變，下列敘述何者正確？",
+      "choices": [
+        {
+          "text": "脂肪減少，影像清晰",
+          "is_correct": false
+        },
+        {
+          "text": "脂肪增加，影像模糊",
+          "is_correct": false
+        },
+        {
+          "text": "脂肪減少，影像模糊",
+          "is_correct": false
+        },
+        {
+          "text": "脂肪增加，影像清晰",
+          "is_correct": true
+        }
+      ],
+      "session": "105寒期",
+      "no": "42",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關喉返神經（recurrent laryngeal nerve）受傷會造成之症狀，何者錯誤？",
+      "choices": [
+        {
+          "text": "聲音沙啞",
+          "is_correct": false
+        },
+        {
+          "text": "噎住（choking）",
+          "is_correct": false
+        },
+        {
+          "text": "聲帶麻痺，處在中線旁（paramedian）位置或外展（abducted）位置",
+          "is_correct": false
+        },
+        {
+          "text": "咽喉上聲門（supraglottic larynx）感覺麻痺",
+          "is_correct": true
+        }
+      ],
+      "session": "105寒期",
+      "no": "43",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "85歲女性右側第一期乳癌經乳房保留手術切除，病理報告為T1N0M0女性荷爾蒙接受器（estrogen receptor）陰性，黃體素接受器（progesterone receptor）陰性，HER-2/neu陰性腫瘤，邊緣接近，術後應先如何處理最適合？",
+      "choices": [
+        {
+          "text": "化學治療",
+          "is_correct": true
+        },
+        {
+          "text": "荷爾蒙治療",
+          "is_correct": false
+        },
+        {
+          "text": "放射線治療",
+          "is_correct": true
+        },
+        {
+          "text": "標靶治療",
+          "is_correct": false
+        }
+      ],
+      "session": "105寒期",
+      "no": "44",
+      "answer": "A,C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列何者不是罹患乳癌的危險因子？",
+      "choices": [
+        {
+          "text": "一等親姊妹罹患乳癌",
+          "is_correct": false
+        },
+        {
+          "text": "40歲懷孕生第一胎",
+          "is_correct": false
+        },
+        {
+          "text": "停經後服用10年的女性荷爾蒙取代劑",
+          "is_correct": false
+        },
+        {
+          "text": "嬸嬸罹患乳癌",
+          "is_correct": true
+        }
+      ],
+      "session": "105寒期",
+      "no": "45",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳癌手術執行腋下前哨淋巴結摘除（sentinel node biopsy）；前哨淋巴結是指下列何者？",
+      "choices": [
+        {
+          "text": "第一群可能轉移的腋下淋巴結（level Ι）",
+          "is_correct": true
+        },
+        {
+          "text": "第二群可能轉移的淋巴結（level II）",
+          "is_correct": false
+        },
+        {
+          "text": "第一顆可能轉移的腋下淋巴結",
+          "is_correct": true
+        },
+        {
+          "text": "第二顆可能轉移的腋下淋巴結",
+          "is_correct": false
+        }
+      ],
+      "session": "105寒期",
+      "no": "46",
+      "answer": "A,C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "有關ansa cervicalis之敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "分布於infrahyoid muscles",
+          "is_correct": false
+        },
+        {
+          "text": "舌下神經（hypoglossal nerve）與第一、第二頸椎神經（C1，C2）anastomosis後形成",
+          "is_correct": true
+        },
+        {
+          "text": "由下方進入sternocleidomastoid muscle",
+          "is_correct": true
+        },
+        {
+          "text": "radical surgery可清除",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "41",
+      "answer": "B,C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "38歲女性因尿毒症接受透析治療已有8年，於一年多前接受腎移植手術後情況良好，在例行檢查時發現血中intact parathyroidhormone（iPTH）濃度為205 pg/mL，血鈣為12 mg/dL，此時可診斷為：",
+      "choices": [
+        {
+          "text": "原發性副甲狀腺機能亢進（primary hyperparathyroidism）",
+          "is_correct": false
+        },
+        {
+          "text": "繼發性副甲狀腺機能亢進（secondary hyperparathyroidism）",
+          "is_correct": false
+        },
+        {
+          "text": "三發性副甲狀腺機能亢進（tertiary hyperparathyroidism）",
+          "is_correct": true
+        },
+        {
+          "text": "復發性副甲狀腺機能亢進（recurrent hyperparathyroidism）",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "42",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "分化良好的甲狀腺癌其頸部淋巴結轉移，依統計以那一區最常見及那一區最少見？",
+      "choices": [
+        {
+          "text": "第一區（level I）及第二區（level II）",
+          "is_correct": false
+        },
+        {
+          "text": "第三區（level III）及第四區（level IV）",
+          "is_correct": false
+        },
+        {
+          "text": "第五區（level V）及第六區（level VI）",
+          "is_correct": false
+        },
+        {
+          "text": "第六區（level VI）及第一區（level I）",
+          "is_correct": true
+        }
+      ],
+      "session": "105暑期",
+      "no": "43",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "王女士現年47歲，有乳癌的家族病史，最近接受衛生所安排乳癌篩檢。檢查後接到回信告知左側乳房有異常結果，邀請她到醫院接受進一步檢查。王女士到外科門診，她和醫師對檢查結果提出相關問題討論，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "乳房攝影檢查通常包含兩種檢視影像，其一為craniocaudal view，另一為mediolateral oblique view",
+          "is_correct": false
+        },
+        {
+          "text": "數位式的乳房攝影相較傳統式的優點，主要是能加強判讀乳房緻密的年輕族群",
+          "is_correct": false
+        },
+        {
+          "text": "乳房超音波檢查可以判斷病灶是否為實質性（solid）或囊狀性（cystic），也可以判斷病灶的外型，因此乳房超音波成為無症狀婦女篩檢乳癌的影像檢查首選",
+          "is_correct": true
+        },
+        {
+          "text": "乳房磁振照影檢查則對乳房緻密的年輕患者評估病灶，如侵襲性小葉癌（invasive lobular carcinoma）的範圍很有助益",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "44",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "喉返神經（recurrent laryngeal nerve）受傷切斷時，何者錯誤？",
+      "choices": [
+        {
+          "text": "聲帶麻痺，處於近中央位置（paramedian）",
+          "is_correct": false
+        },
+        {
+          "text": "聲音沙啞",
+          "is_correct": false
+        },
+        {
+          "text": "不宜縫補受傷之神經",
+          "is_correct": true
+        },
+        {
+          "text": "環狀甲狀腺肌肉（cricothyroid muscle）不會麻痺",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "45",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "針對乳房的Mondor’s disease最佳的處置為何？",
+      "choices": [
+        {
+          "text": "手術切除",
+          "is_correct": false
+        },
+        {
+          "text": "放射線治療",
+          "is_correct": false
+        },
+        {
+          "text": "荷爾蒙治療",
+          "is_correct": false
+        },
+        {
+          "text": "支持性治療",
+          "is_correct": true
+        }
+      ],
+      "session": "105暑期",
+      "no": "46",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "35歲女性乳癌，接受乳房改良性根除性乳房切除術（modified radical mastectomy）後的病理報告為T1N2M0女性荷爾蒙接受器（estrogen receptor，ER） 陰性，黃體素荷爾蒙接受器（progesterone receptor，PR）陰性，HER-2/neu陽性，下列何者是最適合的治療？",
+      "choices": [
+        {
+          "text": "不需治療",
+          "is_correct": false
+        },
+        {
+          "text": "只需要放射線治療",
+          "is_correct": false
+        },
+        {
+          "text": "只需要標靶治療",
+          "is_correct": false
+        },
+        {
+          "text": "化學治療，標靶治療、放射線治療全部均需要",
+          "is_correct": true
+        }
+      ],
+      "session": "105暑期",
+      "no": "47",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳癌手術後，手臂內側感覺麻木乃因下列何種神經受到傷害？",
+      "choices": [
+        {
+          "text": "胸背神經（thoracodorsal nerve）",
+          "is_correct": false
+        },
+        {
+          "text": "肋間肱神經（intercostobrachial nerve）",
+          "is_correct": true
+        },
+        {
+          "text": "長胸神經（long thoracic nerve）",
+          "is_correct": false
+        },
+        {
+          "text": "肋間神經（intercostal nerve）",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "48",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳癌手術執行前哨淋巴結摘取術（sentinel node biopsy）的最重要目的為何？",
+      "choices": [
+        {
+          "text": "預防乳癌再發",
+          "is_correct": false
+        },
+        {
+          "text": "減少因全腋下淋巴結廓清術引起之併發症",
+          "is_correct": true
+        },
+        {
+          "text": "美觀",
+          "is_correct": false
+        },
+        {
+          "text": "乳房無法全切除手術才做",
+          "is_correct": false
+        }
+      ],
+      "session": "105暑期",
+      "no": "49",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "54歲男性因嚴重高血壓合併低血鉀症多次來急診室處理，初步診斷疑有hyperaldosteronism，手術前的病灶定位以何者之敏感性（sensitivity）最高？",
+      "choices": [
+        {
+          "text": "超音波掃描",
+          "is_correct": false
+        },
+        {
+          "text": "電腦斷層掃描",
+          "is_correct": true
+        },
+        {
+          "text": "鉈掃描（thallium-201 scan）",
+          "is_correct": false
+        },
+        {
+          "text": "血管造影術",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "42",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "根據美國國家衛生院的研究，胰島素瘤（insulinoma）的手術前定位以下列何者最為精確？",
+      "choices": [
+        {
+          "text": "手術前核磁共振檢查",
+          "is_correct": false
+        },
+        {
+          "text": "手術前血管造影術",
+          "is_correct": false
+        },
+        {
+          "text": "手術前以鈣劑動脈注射刺激試驗",
+          "is_correct": true
+        },
+        {
+          "text": "手術中超音波掃描",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "43",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "關於甲狀腺濾泡癌（follicular carcinoma），何者錯誤？",
+      "choices": [
+        {
+          "text": "較多為多發性（multifoci）",
+          "is_correct": true
+        },
+        {
+          "text": "有被膜侵犯",
+          "is_correct": false
+        },
+        {
+          "text": "有血管侵犯",
+          "is_correct": false
+        },
+        {
+          "text": "較少淋巴轉移",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "44",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "35歲未哺乳的女性病人，最近發現左側乳頭有血樣分泌物（bloody discharge），觸診發現乳暈下兩點鐘方向有硬塊，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "應安排乳房攝影、乳房超音波檢查",
+          "is_correct": false
+        },
+        {
+          "text": "可安排乳管攝影（ductography）檢查",
+          "is_correct": false
+        },
+        {
+          "text": "測量血液中CEA、CA 15-3 濃度以排除乳癌可能性",
+          "is_correct": true
+        },
+        {
+          "text": "應儘快安排手術切除",
+          "is_correct": true
+        }
+      ],
+      "session": "106寒期",
+      "no": "45",
+      "answer": "C,D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "三發性副甲狀腺機能亢進（tertiary hyperparathyroidism），何者正確？",
+      "choices": [
+        {
+          "text": "為腎移植後一年，鈣、副甲狀腺素持續升高，應手術治療",
+          "is_correct": true
+        },
+        {
+          "text": "骨疼痛、皮膚癢不嚴重，應手術治療",
+          "is_correct": false
+        },
+        {
+          "text": "骨密度未下降（T>-2.5），應手術治療",
+          "is_correct": false
+        },
+        {
+          "text": "不作全切除也不易再發",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "46",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關乳房腫瘤細針穿刺（fine needle aspiration）檢查之敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "用16或18號針頭（16 or 18 gauge needle）",
+          "is_correct": true
+        },
+        {
+          "text": "不需局部麻醉",
+          "is_correct": false
+        },
+        {
+          "text": "可區分實質腫瘤或囊腫（solid tumor or cyst）",
+          "is_correct": false
+        },
+        {
+          "text": "若發現有癌細胞（carcinoma cell ) 仍需作切片檢查（tumor biopsy）",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "47",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "25歲女性，左乳外上側，離乳暈3公分，約 1公分×1公分腫瘤，經粗針切片是浸潤性管道癌（infiltrating ductal carcinoma），女性荷爾蒙接受器（estrogen receptor）陽性，黃體素荷爾蒙接受器（progesterone receptor）陽性，HER-2/neu 陽性，下列何者是最適合的建議？",
+      "choices": [
+        {
+          "text": "左乳房全切除手術",
+          "is_correct": false
+        },
+        {
+          "text": "左外側乳房部分切除",
+          "is_correct": false
+        },
+        {
+          "text": "左外側乳房部分切除加上前哨淋巴結切除術",
+          "is_correct": true
+        },
+        {
+          "text": "荷爾蒙治療即可，不需要手術",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "48",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳房改良性根除性切除術中，需避免傷害下列那些神經？1.胸背神經（thoracodorsal nerve） 2.長胸神經（long thoracicnerve） 3.內乳神經（internal mammary nerve） 4.膈神經（phrenic nerve)",
+      "choices": [
+        {
+          "text": "123",
+          "is_correct": true
+        },
+        {
+          "text": "僅23",
+          "is_correct": false
+        },
+        {
+          "text": "34",
+          "is_correct": false
+        },
+        {
+          "text": "14",
+          "is_correct": false
+        }
+      ],
+      "session": "106寒期",
+      "no": "49",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "52歲女性病人診斷有甲狀腺乳突癌（papillary carcinoma），術前臨床分期為T3N1aMx，下列何種術式為最佳選擇？",
+      "choices": [
+        {
+          "text": "甲狀腺全切除術",
+          "is_correct": false
+        },
+        {
+          "text": "甲狀腺全切除術及頸部第六區淋巴廓清術",
+          "is_correct": true
+        },
+        {
+          "text": "甲狀腺全切除術及頸部第四、五、六區淋巴廓清術",
+          "is_correct": false
+        },
+        {
+          "text": "甲狀腺全切除術及頸部第二、三、四、五、六區淋巴廓清術",
+          "is_correct": false
+        }
+      ],
+      "session": "106暑期",
+      "no": "30",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列何者不是因胚胎發育異常造成的甲狀腺組織位置變異？",
+      "choices": [
+        {
+          "text": "舌後甲狀腺（lingual thyroid）",
+          "is_correct": false
+        },
+        {
+          "text": "異位性甲狀腺（ectopic thyroid）",
+          "is_correct": false
+        },
+        {
+          "text": "迷路甲狀腺（lateral aberrant thyroid）",
+          "is_correct": true
+        },
+        {
+          "text": "甲狀腺舌骨囊腫（thyroglossal duct cyst）",
+          "is_correct": false
+        }
+      ],
+      "session": "106暑期",
+      "no": "31",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關甲狀腺舌管囊腫（thyroglossal duct cyst）之敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "生長在頸部中央",
+          "is_correct": false
+        },
+        {
+          "text": "不會發生乳突癌",
+          "is_correct": true
+        },
+        {
+          "text": "有時會有細菌感染",
+          "is_correct": false
+        },
+        {
+          "text": "手術時要將舌骨中央切除",
+          "is_correct": false
+        }
+      ],
+      "session": "106暑期",
+      "no": "32",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關乳房 MRI 檢查之敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "對於ductal carcinoma in situ（DCIS）之敏感度 ( sensitivity ) 可達 90%",
+          "is_correct": true
+        },
+        {
+          "text": "特異性 ( specificity) 屬中等 ( moderate ) 而已",
+          "is_correct": true
+        },
+        {
+          "text": "對於occult breast cancer之病人為相當有用的檢查",
+          "is_correct": true
+        },
+        {
+          "text": "對於高風險 ( high risk ) 病人可作為篩檢 ( screening ) 檢查",
+          "is_correct": true
+        }
+      ],
+      "session": "106暑期",
+      "no": "33",
+      "answer": "A,B,C,D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳癌病患接受改良式根治性乳房切除術（modified radical mastectomy）後，發生肩胛畸形（winged scapuladeformity），表示下列何神經受損？",
+      "choices": [
+        {
+          "text": "胸背神經（thoracodorsal nerve）",
+          "is_correct": false
+        },
+        {
+          "text": "長胸神經（long thoracic nerve）",
+          "is_correct": true
+        },
+        {
+          "text": "內胸神經（medial pectoral nerve）",
+          "is_correct": false
+        },
+        {
+          "text": "肋間臂神經（intercostal brachial nerve）",
+          "is_correct": false
+        }
+      ],
+      "session": "106暑期",
+      "no": "34",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳房X光攝影之篩檢報告為breast imaging reporting and data system（BI-RADS）category 0，下列的處置何者最適當？",
+      "choices": [
+        {
+          "text": "一年後再追蹤",
+          "is_correct": false
+        },
+        {
+          "text": "直接手術切片",
+          "is_correct": false
+        },
+        {
+          "text": "細胞針刺檢查",
+          "is_correct": false
+        },
+        {
+          "text": "加做乳房超音波",
+          "is_correct": true
+        }
+      ],
+      "session": "106暑期",
+      "no": "35",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "有關乳癌危險因子之敘述，下列何者錯誤？",
+      "choices": [
+        {
+          "text": "母親或姊妹曾患乳癌者，罹患危險性較高",
+          "is_correct": false
+        },
+        {
+          "text": "家族史或個人病史有子宮頸癌者，罹患危險性較高",
+          "is_correct": true
+        },
+        {
+          "text": "家族史或個人病史有卵巢癌者，罹患危險性較高",
+          "is_correct": false
+        },
+        {
+          "text": "初經早或停經晚者罹患危險性較高",
+          "is_correct": false
+        }
+      ],
+      "session": "106暑期",
+      "no": "36",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "一位51歲男性，30年前即被診斷為B型肝炎帶原者。病患以往身體無其他不適，每天喝酒（高梁酒約100～150 c.c.）。最近一個月陸續有腹痛、嘔吐及下痢。到醫院門診時，生命跡象正常，但眼膜有些黃疸（jaundice），則下一步最不需要何種檢查？",
+      "choices": [
+        {
+          "text": "血清胎兒蛋白指數（α-fetoprotein）",
+          "is_correct": false
+        },
+        {
+          "text": "血清梅毒檢查",
+          "is_correct": true
+        },
+        {
+          "text": "凝血時間檢查",
+          "is_correct": false
+        },
+        {
+          "text": "肝功能",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "36",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "有關多發性內分泌贅瘤症候群（multiple endocrine neoplasia，MEN）的敘述，下列何者錯誤？",
+      "choices": [
+        {
+          "text": "MEN 1包含副甲狀腺機能亢進（hyperparathyroidism）",
+          "is_correct": false
+        },
+        {
+          "text": "MEN 2A包含甲狀腺髓質癌（medullary thyroid carcinoma）",
+          "is_correct": false
+        },
+        {
+          "text": "MEN 2B包含甲狀腺髓質癌（medullary thyroid carcinoma）",
+          "is_correct": false
+        },
+        {
+          "text": "MEN 2C包含嗜鉻細胞瘤（pheochromocytoma）",
+          "is_correct": true
+        }
+      ],
+      "session": "107寒期",
+      "no": "37",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "胰島素瘤（insulinoma）的臨床診斷為Whipple triad ，即：",
+      "choices": [
+        {
+          "text": "低血糖症狀、血糖低於50 mg/dL及有服用糖尿病藥物史",
+          "is_correct": false
+        },
+        {
+          "text": "低血糖症狀、血糖低於50 mg/dL及口服葡萄糖後可改善症狀",
+          "is_correct": true
+        },
+        {
+          "text": "低血糖症狀、血糖低於50 mg/dL及靜脈注射葡萄糖後可改善症狀",
+          "is_correct": true
+        },
+        {
+          "text": "低血糖症狀、血糖低於50 mg/dL及有使用胰島素注射史",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "38",
+      "answer": "B,C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "放射碘（radioiodine）治療應施行於分化明確甲狀腺癌（well-differentiated thyroid carcinoma），何者錯誤？",
+      "choices": [
+        {
+          "text": "所有III、IV期病人",
+          "is_correct": false
+        },
+        {
+          "text": "所有II期45歲以下病人",
+          "is_correct": false
+        },
+        {
+          "text": "大部分II期45歲以上病人",
+          "is_correct": false
+        },
+        {
+          "text": "I期病人",
+          "is_correct": true
+        }
+      ],
+      "session": "107寒期",
+      "no": "39",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "70歲男性右乳暈下發現腫塊、疼痛，下列何項檢查最不需要？",
+      "choices": [
+        {
+          "text": "胸部X光",
+          "is_correct": true
+        },
+        {
+          "text": "乳房超音波",
+          "is_correct": false
+        },
+        {
+          "text": "男性荷爾蒙檢驗",
+          "is_correct": false
+        },
+        {
+          "text": "細針抽取細胞檢查",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "40",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "20歲年輕女性，左乳外側觸摸到一粒1 公分×1公分，表面平滑可移動之乳房腫瘤，最適合的診斷工具為何？",
+      "choices": [
+        {
+          "text": "胸部X光攝影",
+          "is_correct": false
+        },
+        {
+          "text": "乳房X光攝影",
+          "is_correct": false
+        },
+        {
+          "text": "乳房超音波",
+          "is_correct": true
+        },
+        {
+          "text": "全身麻醉手術切除",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "41",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳癌最常見轉移部位為下列何者？",
+      "choices": [
+        {
+          "text": "腦部",
+          "is_correct": false
+        },
+        {
+          "text": "骨骼",
+          "is_correct": true
+        },
+        {
+          "text": "肺部",
+          "is_correct": false
+        },
+        {
+          "text": "肝臟",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "42",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "陳女士48歲，右側乳房發現有3公分大小的腫瘤，經粗針穿刺證實為侵犯性乳管癌，右鎖骨上同時有1.5公分大小的淋巴結，細針穿刺發現癌細胞，安排後續影像檢查，下列何者不適宜？",
+      "choices": [
+        {
+          "text": "正子攝影 ( PET )",
+          "is_correct": false
+        },
+        {
+          "text": "骨骼掃描 ( bone scan )",
+          "is_correct": false
+        },
+        {
+          "text": "肺臟超音波 ( lung sonography )",
+          "is_correct": true
+        },
+        {
+          "text": "肝臟超音波 ( liver sonography )",
+          "is_correct": false
+        }
+      ],
+      "session": "107寒期",
+      "no": "43",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列何者不是常用的病態性肥胖（morbid obesity）定義？",
+      "choices": [
+        {
+          "text": "體重比理想體重多100磅",
+          "is_correct": false
+        },
+        {
+          "text": "體重為理想體重的2倍",
+          "is_correct": false
+        },
+        {
+          "text": "身體質量指數（body mass index）大於40 kg/m2",
+          "is_correct": false
+        },
+        {
+          "text": "身體體表面積（body surface area）大於2.0 m2",
+          "is_correct": true
+        }
+      ],
+      "session": "104寒期",
+      "no": "34",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "神經內分泌瘤（neuroendocrine tumor）常常會出現肝臟轉移，有時在原發部位已經手術清除後，才在肝臟發現轉移病灶。面對此類病人時，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "在肝內轉移性神經內分泌瘤中，類癌（carcinoid tumor）是比較常見的轉移種類",
+          "is_correct": true
+        },
+        {
+          "text": "大部分此類肝腫瘤生長非常緩慢，常常不治療也能長時間存活",
+          "is_correct": true
+        },
+        {
+          "text": "此類肝腫瘤對於手術切除，無線電射頻消融（RFA）或是經動脈化學栓塞治療（TACE）都是可以考慮的治療選項",
+          "is_correct": false
+        },
+        {
+          "text": "有些病人會出現荷爾蒙相關症狀，此時長效somatostatin analogues會有幫助",
+          "is_correct": false
+        }
+      ],
+      "session": "104寒期",
+      "no": "35",
+      "answer": "A,B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "會引起胰臟炎的原因包括有下列數種，何者是最常見會引起急性胰臟炎的原因？",
+      "choices": [
+        {
+          "text": "膽道結石",
+          "is_correct": true
+        },
+        {
+          "text": "酗酒",
+          "is_correct": false
+        },
+        {
+          "text": "高血鈣",
+          "is_correct": false
+        },
+        {
+          "text": "內視鏡逆行性膽道胰管攝影後",
+          "is_correct": false
+        }
+      ],
+      "session": "104寒期",
+      "no": "36",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列關於甲狀腺手術可能造成的nerve injury，何者錯誤？",
+      "choices": [
+        {
+          "text": "若傷及recurrent laryngeal nerve，會導致聲帶麻痺",
+          "is_correct": false
+        },
+        {
+          "text": "若傷及external branch of superior laryngeal nerve，會導致發高音困難",
+          "is_correct": false
+        },
+        {
+          "text": "手術不易傷及internal branch of superior laryngeal nerve",
+          "is_correct": false
+        },
+        {
+          "text": "若傷及cervical sympathetic trunk，會導致Wermer's syndrome",
+          "is_correct": true
+        }
+      ],
+      "session": "107暑期",
+      "no": "36",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "一位女性體檢時，意外發現有高血鈣，進一步檢查證實為原發性副甲狀腺功能亢進（primaryhyperparathyroidism），根據目前的治療指引，有些原發性副甲狀腺功能亢進患者即使無臨床症狀亦建議應接受手術，但下列何者除外？",
+      "choices": [
+        {
+          "text": "骨密度檢查T-score小於-2.5",
+          "is_correct": false
+        },
+        {
+          "text": "肌酸酐廓清率（creatinine clearance）小於60 mL/min",
+          "is_correct": false
+        },
+        {
+          "text": "血鈣超過正常值上限1.0 mg/dL以上",
+          "is_correct": false
+        },
+        {
+          "text": "年齡大於60歲",
+          "is_correct": true
+        }
+      ],
+      "session": "107暑期",
+      "no": "37",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "一位50歲男性因急性心臟衰竭住院，入院時收縮壓為200 mmHg，檢查發現右腎上腺有一5公分腫瘤，臨床醫師懷疑為嗜鉻細胞瘤（pheochromocytoma），下列敘述何者正確？",
+      "choices": [
+        {
+          "text": "收集24小時尿液檢驗兒茶酚胺（catecholamines）和香草扁桃酸（vanillylmandelic acid）來診斷，有很好的特異度（specificity），但敏感度（sensitivity）並不高",
+          "is_correct": true
+        },
+        {
+          "text": "須功能性影像檢查決定腫瘤範圍時，以碘-131碘代膽固醇（131I-iodocholesterol）NP-59掃描為佳",
+          "is_correct": false
+        },
+        {
+          "text": "腎上腺手術前準備藥物，以長效型bisoprolol為首選",
+          "is_correct": false
+        },
+        {
+          "text": "嗜鉻細胞瘤昔稱10%腫瘤，但如今已知約有三分之一的嗜鉻細胞瘤有遺傳性基因突變，例如有SDHB（succinate dehydrogenase B）突變者惡性機會較低",
+          "is_correct": false
+        }
+      ],
+      "session": "107暑期",
+      "no": "38",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "BRCA 1的基因變異與下列何種乳癌型態最相關？",
+      "choices": [
+        {
+          "text": "管腔A型（luminal A）",
+          "is_correct": false
+        },
+        {
+          "text": "管腔B型（luminal B）",
+          "is_correct": false
+        },
+        {
+          "text": "類基底型（basal-like）",
+          "is_correct": true
+        },
+        {
+          "text": "HER-2過度表現型（HER-2 type）",
+          "is_correct": false
+        }
+      ],
+      "session": "107暑期",
+      "no": "39",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "針對患有乳癌的病人，做病史及理學檢查的評估，以決定是否為高危險病患時，下列何項不必列入考慮？",
+      "choices": [
+        {
+          "text": "停經在55歲之後",
+          "is_correct": false
+        },
+        {
+          "text": "未產婦（nulliparity）",
+          "is_correct": false
+        },
+        {
+          "text": "曾有甲狀腺病史",
+          "is_correct": true
+        },
+        {
+          "text": "初經小於12歲",
+          "is_correct": false
+        }
+      ],
+      "session": "107暑期",
+      "no": "40",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "關於身體組織皮瓣移植用來作為乳癌病患手術的重建，下列何者錯誤？",
+      "choices": [
+        {
+          "text": "闊背肌皮瓣（latissimus dorsi）因為解剖位置相近的關係最常被使用",
+          "is_correct": true
+        },
+        {
+          "text": "闊背肌皮瓣可以合併義乳進行重建",
+          "is_correct": false
+        },
+        {
+          "text": "現今手術的技術成熟，大部分的病患可以在手術切除腫瘤，立即進行重建手術",
+          "is_correct": false
+        },
+        {
+          "text": "自體組織皮瓣因為供血的關係，可能有組織壞死（necrosis）的問題",
+          "is_correct": false
+        }
+      ],
+      "session": "107暑期",
+      "no": "41",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列關於medullary thyroid carcinoma的敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "源⾃於parafollicular或C cells",
+          "is_correct": false
+        },
+        {
+          "text": "約80%的medullary carcinoma與MEN 2A或MEN 2B有關",
+          "is_correct": true
+        },
+        {
+          "text": "可分泌calcitonin，亦可能分泌carcinoembryonic antigen（CEA）",
+          "is_correct": false
+        },
+        {
+          "text": "若同時合併pheochromocytoma，則必須先處理pheochromocytoma",
+          "is_correct": false
+        }
+      ],
+      "session": "108寒期",
+      "no": "38",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "48歲男性，患有multiple endocrine neoplasia type 1（MEN type 1） 合併hyperparathyroidism，於10年前接受副甲狀腺切除⼿術，之後⾎鈣及iPTH皆正常，惟最近追蹤抽⾎檢查顯⽰：iPTH為132 pg/mL，⾎鈣為10.8mg/dL，則最適宜的診斷為：",
+      "choices": [
+        {
+          "text": "secondary hyperparathyroidism",
+          "is_correct": false
+        },
+        {
+          "text": "tertiary hyperparathyroidism",
+          "is_correct": false
+        },
+        {
+          "text": "persistent hyperparathyroidism",
+          "is_correct": false
+        },
+        {
+          "text": "recurrent hyperparathyroidism",
+          "is_correct": true
+        }
+      ],
+      "session": "108寒期",
+      "no": "39",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列關於thyroid storm治療的敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "Lugol's iodine含有⼤量的碘，應避免使⽤",
+          "is_correct": true
+        },
+        {
+          "text": "ß-blockers可減少peripheral T4 to T3 conversion",
+          "is_correct": false
+        },
+        {
+          "text": "propylthiouracil（PTU）可減少peripheral conversion of T4 to T3",
+          "is_correct": false
+        },
+        {
+          "text": "應給予氧氣及靜脈輸液補充",
+          "is_correct": false
+        }
+      ],
+      "session": "108寒期",
+      "no": "40",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "乳房原位癌患者必須接受全乳房切除，下列何者除外？",
+      "choices": [
+        {
+          "text": "⾸次局部乳房切除無法有乾淨邊緣（clear margin）",
+          "is_correct": true
+        },
+        {
+          "text": "瀰漫性乳管內鈣化點",
+          "is_correct": false
+        },
+        {
+          "text": "患者強烈無意願保留乳房",
+          "is_correct": false
+        },
+        {
+          "text": "患者無法接受放射線治療",
+          "is_correct": false
+        }
+      ],
+      "session": "108寒期",
+      "no": "41",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "比較同⼀期別的乳癌，下列何種乳癌組織型態預後最好？",
+      "choices": [
+        {
+          "text": "medullary carcinoma",
+          "is_correct": false
+        },
+        {
+          "text": "mucinous carcinoma",
+          "is_correct": true
+        },
+        {
+          "text": "metaplastic carcinoma",
+          "is_correct": false
+        },
+        {
+          "text": "infiltrating ductal carcinoma",
+          "is_correct": false
+        }
+      ],
+      "session": "108寒期",
+      "no": "42",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "關於乳癌的影像檢查包括超⾳波、乳房攝影及核磁共振，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "breast imaging reporting and data system（BI-RADS）⽤以評估惡性可能，其中第⼀類BI-RADS，代表沒有任何病灶",
+          "is_correct": false
+        },
+        {
+          "text": "BI-RADS 3代表病灶出現，可能為良性，需短期追蹤",
+          "is_correct": false
+        },
+        {
+          "text": "BI-RADS 5代表病灶出現，⽽且已經證實為乳癌",
+          "is_correct": true
+        },
+        {
+          "text": "核磁共振（MRI）適⽤於腋下淋巴乳癌轉移，其原發病灶不明（unknown primary tumor）或佩吉特⽒病（Paget disease）",
+          "is_correct": false
+        }
+      ],
+      "session": "108寒期",
+      "no": "43",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列何者在甲狀腺全切除術後，不適合接受碘-131治療？",
+      "choices": [
+        {
+          "text": "甲狀腺乳突癌papillary carcinoma（T1N1aM0）",
+          "is_correct": false
+        },
+        {
+          "text": "甲狀腺濾泡癌follicular carcinoma（T1N1aM0）",
+          "is_correct": false
+        },
+        {
+          "text": "甲狀腺髓質癌medullary carcinoma（T1N1aM0）",
+          "is_correct": true
+        },
+        {
+          "text": "甲狀腺何氏細胞癌Hurthle cell carcinoma（T1N1aM0）",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "34",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關前哨淋巴結切片術（sentinel lymph node biopsy）的敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "可減少腋下淋巴廓清（axillary lymph node dissection）造成手臂淋巴水腫的發生",
+          "is_correct": false
+        },
+        {
+          "text": "外科醫師執行前哨淋巴結切片術之經驗中，前百例若有偽陰性，不應再執行前哨淋巴結切片術",
+          "is_correct": true
+        },
+        {
+          "text": "乳房全切除（total mastectomy）者亦可做前哨淋巴結切片術",
+          "is_correct": false
+        },
+        {
+          "text": "理學檢查若摸到腋下淋巴結者，不適合做前哨淋巴結切片術",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "35",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "10 歲女童右側乳暈下摸到約2公分大小的硬塊，略有壓痛，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "最可能為prepubertal gynecomastia",
+          "is_correct": false
+        },
+        {
+          "text": "左側乳房可能不久亦會出現對稱硬塊",
+          "is_correct": false
+        },
+        {
+          "text": "觀察追蹤（follow-up）即可",
+          "is_correct": false
+        },
+        {
+          "text": "安排乳房切片（biopsy）",
+          "is_correct": true
+        }
+      ],
+      "session": "108暑期",
+      "no": "36",
+      "answer": "D"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "一位45歲女性接受篩檢乳房攝影 ( screening mammography )，發現有聚集微細鈣化 ( clusteredmicrocalcification ) 屬 BI-RADS Ⅳ，乳房觸診未發現有硬塊，下列處置何者不宜？",
+      "choices": [
+        {
+          "text": "安排定位切片手術 ( wire-localized surgical excision )",
+          "is_correct": false
+        },
+        {
+          "text": "安排立體定位粗針穿刺 ( stereotactic core needle biopsy )",
+          "is_correct": false
+        },
+        {
+          "text": "三至六個月後再追蹤乳房攝影",
+          "is_correct": true
+        },
+        {
+          "text": "安排乳房超音波檢查，確認有無乳房腫瘤存在",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "37",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列有關乳房Paget disease之敘述，何者錯誤？",
+      "choices": [
+        {
+          "text": "一種由乳管內乳癌（intraductal carcinoma）生成之乳癌",
+          "is_correct": false
+        },
+        {
+          "text": "原始病灶在乳暈",
+          "is_correct": true
+        },
+        {
+          "text": "乳頭及乳暈皮膚呈濕疹樣（eczematous eruption）或牛皮疹（psoriatic rash）",
+          "is_correct": false
+        },
+        {
+          "text": "需切片檢查以鑑別診斷皮膚病變",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "38",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "primary hyperparathyroidism造成的併發症中，下列何者無關？",
+      "choices": [
+        {
+          "text": "osteoporosis, osteopenia",
+          "is_correct": false
+        },
+        {
+          "text": "tetany",
+          "is_correct": true
+        },
+        {
+          "text": "depression, anxiety",
+          "is_correct": false
+        },
+        {
+          "text": "kidney stone",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "45",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列關於甲狀腺手術前的照護，何者錯誤？",
+      "choices": [
+        {
+          "text": "Graves' disease病人，手術前給予Lugol's iodine solution",
+          "is_correct": false
+        },
+        {
+          "text": "hyperthyroidism病人，先給予抗甲狀腺藥物",
+          "is_correct": false
+        },
+        {
+          "text": "常規手術應給予預防性抗生素",
+          "is_correct": true
+        },
+        {
+          "text": "聲音嘶啞的病人，手術前應做laryngoscopy",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "46",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "一位35歲不孕男性病患，精液檢查發現無精蟲，血中FSH、LH及testosterone較低，且病人嗅覺異常，最可能之診斷為：",
+      "choices": [
+        {
+          "text": "hyperprolactinemia",
+          "is_correct": false
+        },
+        {
+          "text": "Kallmann syndrome",
+          "is_correct": true
+        },
+        {
+          "text": "Klinefelter's syndrome",
+          "is_correct": false
+        },
+        {
+          "text": "XYY syndrome",
+          "is_correct": false
+        }
+      ],
+      "session": "108暑期",
+      "no": "71",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "關於胰島素瘤（insulinoma）之敘述，下列何者錯誤？",
+      "choices": [
+        {
+          "text": "是最常見的胰臟內分泌腫瘤",
+          "is_correct": false
+        },
+        {
+          "text": "大多為惡性的胰臟內分泌腫瘤",
+          "is_correct": true
+        },
+        {
+          "text": "診斷insulinoma重要的臨床症狀是Whipple's triad，包括低血糖的症狀、當時測得的血糖濃度偏低，及給予靜脈注射葡萄糖液可以減輕低血糖的症狀",
+          "is_correct": false
+        },
+        {
+          "text": "定位insulinoma的影像學工具包括有腹部電腦斷層及磁振造影",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "28",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "對於急性胰臟炎（acute pancreatitis）的可能併發症（complications），下列敘述何者錯誤?",
+      "choices": [
+        {
+          "text": "低血容合併急性腎衰竭（hypovolemia with acute renal failure）",
+          "is_correct": false
+        },
+        {
+          "text": "低血氧合併成人呼吸窘迫症（hypoxemia with adult respiratory distress syndrome）",
+          "is_correct": false
+        },
+        {
+          "text": "高鈣血症合併抽搐（hypercalcemia with seizure）",
+          "is_correct": true
+        },
+        {
+          "text": "血管栓塞合併小腸缺血症（vascular thrombosis with ischemic bowel disease）",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "29",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "分化良好甲狀腺癌的手術選擇中，有關甲狀腺全切除術，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "能減少副甲狀腺功能低下及喉返神經受傷等併發症",
+          "is_correct": true
+        },
+        {
+          "text": "手術後可用甲狀腺球蛋白做為標記追蹤",
+          "is_correct": false
+        },
+        {
+          "text": "可增加手術後碘-131（iodine-131）治療效果",
+          "is_correct": false
+        },
+        {
+          "text": "需終生服用甲狀腺素",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "31",
+      "answer": "A"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "甲狀腺風暴（thyroid storm）不宜給與何種治療？",
+      "choices": [
+        {
+          "text": "beta抑制劑（beta blockers）",
+          "is_correct": false
+        },
+        {
+          "text": "amiodarone",
+          "is_correct": true
+        },
+        {
+          "text": "腎上腺皮質素（corticosteroids）",
+          "is_correct": false
+        },
+        {
+          "text": "propylthiouracil",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "32",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列甲狀腺結節（thyroid nodule）的檢查，應不優先考慮何者？",
+      "choices": [
+        {
+          "text": "超音波及細針穿刺細胞檢查",
+          "is_correct": false
+        },
+        {
+          "text": "胸骨下甲狀腺瘤作CT或 MRI",
+          "is_correct": false
+        },
+        {
+          "text": "正子攝影檢查",
+          "is_correct": true
+        },
+        {
+          "text": "甲狀腺核醫掃描（scanning）用於濾泡瘤且甲狀腺刺激素（TSH）低者",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "33",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "下列何者是乳癌病理組織報告中，做為判斷輔助性化學治療（chemotherapy）的必要因子？①腫瘤大小②淋巴轉移③位置④荷爾蒙接受器陽陰性",
+      "choices": [
+        {
+          "text": "①②③",
+          "is_correct": false
+        },
+        {
+          "text": "①③④",
+          "is_correct": false
+        },
+        {
+          "text": "①②④",
+          "is_correct": true
+        },
+        {
+          "text": "②③④",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "34",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "婦人在乳房摸到一腫塊，下列敘述何者錯誤？",
+      "choices": [
+        {
+          "text": "皮膚凹陷（skin dimpling）較腫瘤硬度對乳癌的陽性預測值高",
+          "is_correct": false
+        },
+        {
+          "text": "若無皮膚凹陷（skin dimpling），即可排除乳癌可能",
+          "is_correct": true
+        },
+        {
+          "text": "若腋下摸到淋巴結則乳癌可能性增高",
+          "is_correct": false
+        },
+        {
+          "text": "皮膚凹陷（skin dimpling）的發生與Cooper’s ligament有關",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "35",
+      "answer": "B"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "腋下淋巴結廓清時，若遭切斷，會造成上臂內側麻木或疼痛的神經為何？",
+      "choices": [
+        {
+          "text": "long thoracic nerve",
+          "is_correct": false
+        },
+        {
+          "text": "thoracodorsal nerve",
+          "is_correct": false
+        },
+        {
+          "text": "intercostobrachial nerve",
+          "is_correct": true
+        },
+        {
+          "text": "medial pectoral nerve",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "36",
+      "answer": "C"
+    },
+    {
+      "subject": "內分泌及乳房外科",
+      "question": "45歲女性，乳房摸到腫塊，下列處置何者較恰當？",
+      "choices": [
+        {
+          "text": "理學檢查若正常，不需其他檢查，安排半年再追蹤",
+          "is_correct": false
+        },
+        {
+          "text": "不需其他檢查，即刻安排手術切除切片",
+          "is_correct": false
+        },
+        {
+          "text": "先安排乳房超音波檢查",
+          "is_correct": true
+        },
+        {
+          "text": "抽血檢驗CA15-3",
+          "is_correct": false
+        }
+      ],
+      "session": "109寒期",
+      "no": "37",
+      "answer": "C"
+    }
+  ]

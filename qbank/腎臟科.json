@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "腎臟科",
     "question": "一位55歲女性病人，過去無腎臟病史，因最近一週尿量漸減且體重增加而住院。身體診察：血壓180/110 mmHg，脈搏72/min，呼吸次數16/min，呼吸音正常，心律規則無雜音，腹部平坦無壓痛，下肢有顯著壓陷性水腫。血液檢查：血紅素10 gm/dL，白血球10500 /μL，白蛋白2.5 g/dL，尿素氮35 mg/dL，肌酸酐3.0 mg/dL；尿液檢查：蛋白質（3+），紅血球20～25顆/高倍視野，並可見到紅血球圓柱體。本病人接受腎臟切片檢查後，最適當治療方式為？",
     "choices": [
-      "廣效性抗生素（broad-spectrum antibiotics）",
-      "免疫抑制劑（immunosuppressive therapy）",
-      "緊急血液透析（emergent hemodialysis）",
-      "補充白蛋白（albumin infusion）"
+      {
+        "text": "廣效性抗生素（broad-spectrum antibiotics）",
+        "is_correct": false
+      },
+      {
+        "text": "免疫抑制劑（immunosuppressive therapy）",
+        "is_correct": true
+      },
+      {
+        "text": "緊急血液透析（emergent hemodialysis）",
+        "is_correct": false
+      },
+      {
+        "text": "補充白蛋白（albumin infusion）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "34",
@@ -16,10 +28,22 @@
     "subject": "腎臟科",
     "question": "下列藥物可能引起急性腎臟損傷，而主要的作用是腎血管的影響，何者例外？",
     "choices": [
-      "非類固醇消炎劑（nonsteroidal anti-inflammatory drugs）",
-      "血管張力素阻斷劑（angiotensin-converting enzyme inhibitors）",
-      "含鉑的抗癌製劑（如cisplatin）",
-      "腎素抑制劑（renin inhibitors）"
+      {
+        "text": "非類固醇消炎劑（nonsteroidal anti-inflammatory drugs）",
+        "is_correct": false
+      },
+      {
+        "text": "血管張力素阻斷劑（angiotensin-converting enzyme inhibitors）",
+        "is_correct": false
+      },
+      {
+        "text": "含鉑的抗癌製劑（如cisplatin）",
+        "is_correct": true
+      },
+      {
+        "text": "腎素抑制劑（renin inhibitors）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "35",
@@ -29,10 +53,22 @@
     "subject": "腎臟科",
     "question": "有關腹膜透析和血液透析的優劣點，下列何者錯誤？",
     "choices": [
-      "血液透析對於超過濾（ultrafiltration）的控制比較正確",
-      "腹膜透析比較容易發生血脂肪升高",
-      "血液透析比較常有白蛋白流失",
-      "腹膜透析比較容易有低血鉀情況"
+      {
+        "text": "血液透析對於超過濾（ultrafiltration）的控制比較正確",
+        "is_correct": false
+      },
+      {
+        "text": "腹膜透析比較容易發生血脂肪升高",
+        "is_correct": false
+      },
+      {
+        "text": "血液透析比較常有白蛋白流失",
+        "is_correct": true
+      },
+      {
+        "text": "腹膜透析比較容易有低血鉀情況",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "36",
@@ -42,10 +78,22 @@
     "subject": "腎臟科",
     "question": "有關angiotensin-converting enzyme inhibitors的腎臟保護作用，下列何者錯誤？",
     "choices": [
-      "可以降低血壓",
-      "可以降低蛋白尿",
-      "可以增加腎絲球過濾速率",
-      "可以降低出球小動脈的壓力"
+      {
+        "text": "可以降低血壓",
+        "is_correct": false
+      },
+      {
+        "text": "可以降低蛋白尿",
+        "is_correct": false
+      },
+      {
+        "text": "可以增加腎絲球過濾速率",
+        "is_correct": true
+      },
+      {
+        "text": "可以降低出球小動脈的壓力",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "37",
@@ -55,10 +103,22 @@
     "subject": "腎臟科",
     "question": "一位52歲男性因反覆發生下肢癱瘓入院，血壓168/98 mmHg，血液檢查發現：鈉146mmol/L，鉀2.0 mmol/L，氯100 mmol/L，酸鹼值7.56，重碳酸根38 mmol/L，腎素（renin）0.1 ng/mL/hr（正常值0.3～3 ng/mL/hr），血清醛固酮（aldosterone）8 ng/dL（正常值2～9ng/dL）；則下列敘述何者錯誤？",
     "choices": [
-      "病患為留鹽激素過多狀態（mineralocorticoid excess state）",
-      "應補充大量鉀離子直到病患肌肉力量恢復",
-      "因血清腎素偏低，可以排除腎素分泌腫瘤（renin-secreting tumor）及續發性高醛固酮症",
-      "因血清醛固酮正常，可以排除原發性高醛固酮症"
+      {
+        "text": "病患為留鹽激素過多狀態（mineralocorticoid excess state）",
+        "is_correct": false
+      },
+      {
+        "text": "應補充大量鉀離子直到病患肌肉力量恢復",
+        "is_correct": false
+      },
+      {
+        "text": "因血清腎素偏低，可以排除腎素分泌腫瘤（renin-secreting tumor）及續發性高醛固酮症",
+        "is_correct": false
+      },
+      {
+        "text": "因血清醛固酮正常，可以排除原發性高醛固酮症",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "38",
@@ -68,10 +128,22 @@
     "subject": "腎臟科",
     "question": "一位40歲病人原來腎功能正常，現其血肌酸酐（creatinine）上升至2.1 mg/dL，下列何種狀況最可判斷此病人傾向腎因性急性腎衰竭，而不是腎前性（prerenal）急性腎衰竭？",
     "choices": [
-      "尿中出現透明圓柱體（hyaline casts）",
-      "血中尿素氮（BUN）48 mg/dL",
-      "尿鈉（Na）濃度為8 mmol/L",
-      "尿鈉排泄分率（fractional excretion of sodium, FeNa）為2%"
+      {
+        "text": "尿中出現透明圓柱體（hyaline casts）",
+        "is_correct": false
+      },
+      {
+        "text": "血中尿素氮（BUN）48 mg/dL",
+        "is_correct": false
+      },
+      {
+        "text": "尿鈉（Na）濃度為8 mmol/L",
+        "is_correct": false
+      },
+      {
+        "text": "尿鈉排泄分率（fractional excretion of sodium, FeNa）為2%",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "6",
@@ -81,10 +153,22 @@
     "subject": "腎臟科",
     "question": "下列有關糖尿病腎病變之敘述，何者錯誤？",
     "choices": [
-      "蛋白尿或微蛋白尿不會出現於新診斷第二型糖尿病病人",
-      "病理上的變化如腎絲球基底膜變厚及腎小球內基質（mesangium）擴張是常見的",
-      "使用腎素－血管張力素系統（renin-angiotensin system）阻斷劑",
-      "國內目前每年進入透析的新病人其原發病因以糖尿病腎病變占第一位"
+      {
+        "text": "蛋白尿或微蛋白尿不會出現於新診斷第二型糖尿病病人",
+        "is_correct": true
+      },
+      {
+        "text": "病理上的變化如腎絲球基底膜變厚及腎小球內基質（mesangium）擴張是常見的",
+        "is_correct": false
+      },
+      {
+        "text": "使用腎素－血管張力素系統（renin-angiotensin system）阻斷劑",
+        "is_correct": false
+      },
+      {
+        "text": "國內目前每年進入透析的新病人其原發病因以糖尿病腎病變占第一位",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "7",
@@ -94,10 +178,22 @@
     "subject": "腎臟科",
     "question": "下列有關低血鈉症（hyponatremia）的描述，何者正確？",
     "choices": [
-      "如果血漿滲透壓（osmolality）偏低，應考慮是否有高血糖",
-      "心臟衰竭可能造成細胞外體液（extracellular fluid）增加及低血鈉",
-      "低血鈉及細胞外體液減少的病人，若尿液鈉離子濃度低於10 mmol/L，代表有Na+ wasting nephropathy",
-      "抗利尿激素不適當分泌（SIADH）的病人通常血漿滲透壓正常，但細胞外體液減少"
+      {
+        "text": "如果血漿滲透壓（osmolality）偏低，應考慮是否有高血糖",
+        "is_correct": false
+      },
+      {
+        "text": "心臟衰竭可能造成細胞外體液（extracellular fluid）增加及低血鈉",
+        "is_correct": true
+      },
+      {
+        "text": "低血鈉及細胞外體液減少的病人，若尿液鈉離子濃度低於10 mmol/L，代表有Na+ wasting nephropathy",
+        "is_correct": false
+      },
+      {
+        "text": "抗利尿激素不適當分泌（SIADH）的病人通常血漿滲透壓正常，但細胞外體液減少",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "18",
@@ -107,10 +203,22 @@
     "subject": "腎臟科",
     "question": "腎絲球過濾率可藉由自主控制（autoregulation）在血壓變化時，仍能保持穩定之腎絲球過濾率，下列有關腎絲球過濾率自主控制之敘述，何者正確？",
     "choices": [
-      "出球小動脈（efferent arteriole）之自主控制來自肌源性（myogenic）反射",
-      "腎小管腎絲球回饋（tubuloglomerular feedback），會影響出球小動脈（efferent arteriole）之收縮與舒張",
-      "腎小球旁器（juxtaglomerular apparatus）釋出腎素（renin），引發入球小動脈（afferent arteriole）之收縮",
-      "抑制腎小管產生腺苷（adenosine），可造成入球小動脈（afferent arteriole）之擴張"
+      {
+        "text": "出球小動脈（efferent arteriole）之自主控制來自肌源性（myogenic）反射",
+        "is_correct": false
+      },
+      {
+        "text": "腎小管腎絲球回饋（tubuloglomerular feedback），會影響出球小動脈（efferent arteriole）之收縮與舒張",
+        "is_correct": false
+      },
+      {
+        "text": "腎小球旁器（juxtaglomerular apparatus）釋出腎素（renin），引發入球小動脈（afferent arteriole）之收縮",
+        "is_correct": true
+      },
+      {
+        "text": "抑制腎小管產生腺苷（adenosine），可造成入球小動脈（afferent arteriole）之擴張",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "32",
@@ -120,10 +228,22 @@
     "subject": "腎臟科",
     "question": "最容易造成移植後糖尿病之免疫抑制劑為：",
     "choices": [
-      "cyclosporine",
-      "tacrolimus",
-      "mycophenolate mofetil",
-      "sirolimus"
+      {
+        "text": "cyclosporine",
+        "is_correct": false
+      },
+      {
+        "text": "tacrolimus",
+        "is_correct": true
+      },
+      {
+        "text": "mycophenolate mofetil",
+        "is_correct": false
+      },
+      {
+        "text": "sirolimus",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "33",
@@ -133,10 +253,22 @@
     "subject": "腎臟科",
     "question": "下列何種引起低血鈉的情況，最適合以注射0.9%生理食鹽水來治療？",
     "choices": [
-      "高血糖（hyperglycemia）",
-      "甲狀腺機能低下（hypothyroidism）",
-      "皮質醛酮素缺乏（aldosterone deficiency）",
-      "SIADH（syndrome of inappropriate ADH secretion）"
+      {
+        "text": "高血糖（hyperglycemia）",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺機能低下（hypothyroidism）",
+        "is_correct": false
+      },
+      {
+        "text": "皮質醛酮素缺乏（aldosterone deficiency）",
+        "is_correct": true
+      },
+      {
+        "text": "SIADH（syndrome of inappropriate ADH secretion）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "34",
@@ -146,10 +278,22 @@
     "subject": "腎臟科",
     "question": "下列那一個病例不符合所列之動脈血氣體分析和血清電解質的檢查結果〔pH 7.49，PaO2 90 mmHg，PaCO2 43 mmHg，HCO3- 28；Na+ 139，K+ 3.0，Cl- 89（電解質的單位是mmol/L）〕？",
     "choices": [
-      "甲：40歲女病人，最近半年發現高血壓；病人有時會下肢無力，血漿皮質醛固酮濃度為38 ng/dL（正常為10～25）",
-      "乙：37歲女病人，患有Sjogren's syndrome，腎臟超音波發現兩側腎臟的腎盂有鈣化跡象",
-      "丙：30歲男病人因急性胰臟炎住院，給予鼻胃管引流，每天約引流出3000 mL",
-      "丁：22歲女病人長期服用thiazide diuretics減肥"
+      {
+        "text": "甲：40歲女病人，最近半年發現高血壓；病人有時會下肢無力，血漿皮質醛固酮濃度為38 ng/dL（正常為10～25）",
+        "is_correct": false
+      },
+      {
+        "text": "乙：37歲女病人，患有Sjogren's syndrome，腎臟超音波發現兩側腎臟的腎盂有鈣化跡象",
+        "is_correct": true
+      },
+      {
+        "text": "丙：30歲男病人因急性胰臟炎住院，給予鼻胃管引流，每天約引流出3000 mL",
+        "is_correct": false
+      },
+      {
+        "text": "丁：22歲女病人長期服用thiazide diuretics減肥",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "64",
@@ -159,10 +303,22 @@
     "subject": "腎臟科",
     "question": "承上題，檢查該病人尿液，發現氯離子濃度為10 mmol/L。何者最為符合此結果？",
     "choices": [
-      "甲病人",
-      "乙病人",
-      "丙病人",
-      "丁病人"
+      {
+        "text": "甲病人",
+        "is_correct": false
+      },
+      {
+        "text": "乙病人",
+        "is_correct": false
+      },
+      {
+        "text": "丙病人",
+        "is_correct": true
+      },
+      {
+        "text": "丁病人",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "65",
@@ -172,10 +328,22 @@
     "subject": "腎臟科",
     "question": "56歲的男性，腎病症候群病史，最近2天嘔吐因此沒有吃利尿劑。身體診察有中度的全身水腫，動脈血氣體pH 7.48，PaCO247 mmHg，HCO3- 34 mEq/L，血液osmolality 255 mOsmol/kg H2O，BUN 30 mg/dL，肌酸酐1.5 mg/dL，Na 120 mmol/L。尿液Na+ 30 mmol/L，尿液Cl- 8 mmol/L。下列敘述何者錯誤？",
     "choices": [
-      "病人的細胞外液量增加",
-      "病人的細胞內液量增加",
-      "病人的有效血液容量增加",
-      "病人的有效血液容量減少"
+      {
+        "text": "病人的細胞外液量增加",
+        "is_correct": false
+      },
+      {
+        "text": "病人的細胞內液量增加",
+        "is_correct": false
+      },
+      {
+        "text": "病人的有效血液容量增加",
+        "is_correct": true
+      },
+      {
+        "text": "病人的有效血液容量減少",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "6",
@@ -185,10 +353,22 @@
     "subject": "腎臟科",
     "question": "26歲女性病人，最近一週有多喝和多尿。體重50公斤，血液osmolality 290 mOsmol/kg H2O，Na 140 mmol/L，K 3.8mmol/L。尿液osmolality 200 mOsmol/kg H2O，限水試驗2小時之體重47公斤，尿液osmolality 290 mOsmol/kg H2O，給予ADH（DDAVP）後2小時內最高的尿液osmolality 320 mOsmol/kg H2O。下列敘述何者最正確？",
     "choices": [
-      "最可能的診斷是原發性多飲症（primary polydipsia）",
-      "治療使用限水",
-      "治療使用thiazides",
-      "最可能的診斷是中樞型尿崩症（central diabetes insipidus）"
+      {
+        "text": "最可能的診斷是原發性多飲症（primary polydipsia）",
+        "is_correct": false
+      },
+      {
+        "text": "治療使用限水",
+        "is_correct": false
+      },
+      {
+        "text": "治療使用thiazides",
+        "is_correct": true
+      },
+      {
+        "text": "最可能的診斷是中樞型尿崩症（central diabetes insipidus）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "7",
@@ -198,10 +378,22 @@
     "subject": "腎臟科",
     "question": "治療慢性腎病（chronic kidney disease）合併之高血壓時，首選藥物為：",
     "choices": [
-      "利尿劑（diuretics）",
-      "鈣離子阻斷劑（calcium channel blockers）",
-      "β-阻斷劑（β-blockers）",
-      "血管張力素轉化酶阻斷劑（angiotensin-converting enzyme inhibitors）或血管張力素接受器阻斷劑（angiotensin receptorblockers）"
+      {
+        "text": "利尿劑（diuretics）",
+        "is_correct": false
+      },
+      {
+        "text": "鈣離子阻斷劑（calcium channel blockers）",
+        "is_correct": false
+      },
+      {
+        "text": "β-阻斷劑（β-blockers）",
+        "is_correct": false
+      },
+      {
+        "text": "血管張力素轉化酶阻斷劑（angiotensin-converting enzyme inhibitors）或血管張力素接受器阻斷劑（angiotensin receptorblockers）",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "32",
@@ -211,10 +403,22 @@
     "subject": "腎臟科",
     "question": "一名58歲第5期慢性腎病男性，因胸痛1小時來院求診，身體檢查血壓150/94 mmHg，脈搏每分鐘80次，呼吸每分鐘18 次，心臟聽診有明顯的心包膜摩擦音，下肢微腫，實驗室檢查血鈉135 mmol/L，血鉀5.3 mmol/L，血紅素8.0 g/dL，心電圖呈廣泛性ST-segment上升。下列何項是最根本的治療？",
     "choices": [
-      "給予kayexalate（sodium polystyrene sulfonate）降低血鉀",
-      "透析（dialysis）",
-      "輸血（blood transfusion）",
-      "經皮冠狀動脈介入治療（percutaneous coronary intervention）"
+      {
+        "text": "給予kayexalate（sodium polystyrene sulfonate）降低血鉀",
+        "is_correct": false
+      },
+      {
+        "text": "透析（dialysis）",
+        "is_correct": true
+      },
+      {
+        "text": "輸血（blood transfusion）",
+        "is_correct": false
+      },
+      {
+        "text": "經皮冠狀動脈介入治療（percutaneous coronary intervention）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "33",
@@ -224,10 +428,22 @@
     "subject": "腎臟科",
     "question": "20歲男性，因下肢水腫住院，血清白蛋白是2.3 g/dL，血中尿素氮和血清肌酸酐各為27/1.2 mg/dL，24小時尿液蛋白質流失測得18 g。腎臟切片病理檢查，發現光學顯微鏡下腎絲球的結構正常。下列敘述何者正確？",
     "choices": [
-      "電子顯微鏡下應該看得到電子密集沈積",
-      "通常血清補體是正常的",
-      "如果治療有效，通常不會再發",
-      "通常對類固醇治療的效果不佳，有效果的約只有30%"
+      {
+        "text": "電子顯微鏡下應該看得到電子密集沈積",
+        "is_correct": false
+      },
+      {
+        "text": "通常血清補體是正常的",
+        "is_correct": true
+      },
+      {
+        "text": "如果治療有效，通常不會再發",
+        "is_correct": false
+      },
+      {
+        "text": "通常對類固醇治療的效果不佳，有效果的約只有30%",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "34",
@@ -237,10 +453,22 @@
     "subject": "腎臟科",
     "question": "一位病人血液氣體分析顯示pH 7.51，PaCO2 49 mmHg，HCO3- 38 mmol/L，下列何者正確？",
     "choices": [
-      "代謝性酸中毒（酸血症）",
-      "代謝性鹼中毒",
-      "呼吸性酸中毒",
-      "呼吸性鹼中毒"
+      {
+        "text": "代謝性酸中毒（酸血症）",
+        "is_correct": false
+      },
+      {
+        "text": "代謝性鹼中毒",
+        "is_correct": true
+      },
+      {
+        "text": "呼吸性酸中毒",
+        "is_correct": false
+      },
+      {
+        "text": "呼吸性鹼中毒",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "1",
@@ -250,10 +478,22 @@
     "subject": "腎臟科",
     "question": "一位45歲男性病人有慢性C型肝炎病史，因尿中泡沫多及水腫且體重增加5公斤而來求診，其24小時尿蛋白流失為5公克，血中白蛋白（albumin）為 2.4 g/dL，血中補體（complement）濃度下降，下列敘述何者錯誤？",
     "choices": [
-      "其蛋白尿程度已達腎病症候群之標準",
-      "病人血液中常出現冷凝蛋白（cryoglobulin）",
-      "較易出現腎動脈栓塞",
-      "若做腎臟穿刺，病理診斷最可能是MPGN（membranoproliferative glomerulonephritis）"
+      {
+        "text": "其蛋白尿程度已達腎病症候群之標準",
+        "is_correct": false
+      },
+      {
+        "text": "病人血液中常出現冷凝蛋白（cryoglobulin）",
+        "is_correct": false
+      },
+      {
+        "text": "較易出現腎動脈栓塞",
+        "is_correct": true
+      },
+      {
+        "text": "若做腎臟穿刺，病理診斷最可能是MPGN（membranoproliferative glomerulonephritis）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "9",
@@ -263,10 +503,22 @@
     "subject": "腎臟科",
     "question": "下列何種腎臟替代療法為末期腎病之最佳治療（treatment of choice）？",
     "choices": [
-      "血液透析（hemodialysis）",
-      "腹膜透析（peritoneal dialysis）",
-      "腎臟移植（kidney transplantation）",
-      "血液過濾透析（hemodiafiltration）"
+      {
+        "text": "血液透析（hemodialysis）",
+        "is_correct": false
+      },
+      {
+        "text": "腹膜透析（peritoneal dialysis）",
+        "is_correct": false
+      },
+      {
+        "text": "腎臟移植（kidney transplantation）",
+        "is_correct": true
+      },
+      {
+        "text": "血液過濾透析（hemodiafiltration）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "31",
@@ -276,10 +528,22 @@
     "subject": "腎臟科",
     "question": "一名35歲女性因夜尿（nocturia）就診，身體檢查：血壓150/94 mmHg，脈搏78/min，其它檢查無異常。實驗室檢驗：blood urea nitrogen 15 mg/dL，creatinine 1.0 mg/dL，空腹血糖97 mg/dL，血鈉142 mmol/L，血鉀2.8 mmol/L，血氯90 mmol/L，尿沉渣正常，尿鉀排泄量50 mmol/day，動脈氣體pH 7.45，[HCO3-] 30mmol/L，PaCO2 44 mmHg，則本病人最可能罹患？",
     "choices": [
-      "腎小管酸血症（renal tubular acidosis）",
-      "巴特氏症候群（Bartter’s syndrome）",
-      "絨毛狀腺瘤（villous adenoma）",
-      "原發性皮質醛酮症（primary aldosteronism）"
+      {
+        "text": "腎小管酸血症（renal tubular acidosis）",
+        "is_correct": false
+      },
+      {
+        "text": "巴特氏症候群（Bartter’s syndrome）",
+        "is_correct": false
+      },
+      {
+        "text": "絨毛狀腺瘤（villous adenoma）",
+        "is_correct": false
+      },
+      {
+        "text": "原發性皮質醛酮症（primary aldosteronism）",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "32",
@@ -289,10 +553,22 @@
     "subject": "腎臟科",
     "question": "C型肝炎的病人有高達30%會伴隨有腎臟病變，其中以下列何種變化最為少見？",
     "choices": [
-      "冷凝球蛋白腎小球腎炎（cryoglobulinemic glomerulonephritis）",
-      "膜性腎病變（membranous glomerulonephritis）",
-      "急性腎間質腎炎（acute interstitial nephritis）",
-      "第一型膜增生性腎小球腎炎（type 1 membranoproliferative glomerulonephritis）"
+      {
+        "text": "冷凝球蛋白腎小球腎炎（cryoglobulinemic glomerulonephritis）",
+        "is_correct": false
+      },
+      {
+        "text": "膜性腎病變（membranous glomerulonephritis）",
+        "is_correct": false
+      },
+      {
+        "text": "急性腎間質腎炎（acute interstitial nephritis）",
+        "is_correct": true
+      },
+      {
+        "text": "第一型膜增生性腎小球腎炎（type 1 membranoproliferative glomerulonephritis）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "33",
@@ -302,10 +578,22 @@
     "subject": "腎臟科",
     "question": "40歲女性因為無痛性巨觀性血尿（painless gross hematuria）求診。下列那一項檢查最能夠判別血尿的來源是腎絲球病變引起的？",
     "choices": [
-      "血清肌酸酐濃度",
-      "血清補體C3濃度",
-      "尿液紅血球的形態",
-      "靜脈內泌尿攝影術（intravenous urography）"
+      {
+        "text": "血清肌酸酐濃度",
+        "is_correct": false
+      },
+      {
+        "text": "血清補體C3濃度",
+        "is_correct": false
+      },
+      {
+        "text": "尿液紅血球的形態",
+        "is_correct": true
+      },
+      {
+        "text": "靜脈內泌尿攝影術（intravenous urography）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "34",
@@ -315,10 +603,22 @@
     "subject": "腎臟科",
     "question": "一位50歲病人罹患慢性腎絲球腎炎20年，現出現尿毒症狀，且血中肌酸酐為11.0 mg/dL，BUN 120 mg/dL，病人選擇血液透析，下列敘述何者錯誤？",
     "choices": [
-      "長期血液透析，單次透析其尿素氮（BUN）減少的比率達到60%是足夠的",
-      "大多數臺灣病人接受每週3次，每次4小時的治療",
-      "所用透析液一般用重碳酸鹽來矯正尿毒病人的酸中毒（酸血症）",
-      "肌肉痙攣（muscle cramps）是透析時常見的併發症"
+      {
+        "text": "長期血液透析，單次透析其尿素氮（BUN）減少的比率達到60%是足夠的",
+        "is_correct": true
+      },
+      {
+        "text": "大多數臺灣病人接受每週3次，每次4小時的治療",
+        "is_correct": false
+      },
+      {
+        "text": "所用透析液一般用重碳酸鹽來矯正尿毒病人的酸中毒（酸血症）",
+        "is_correct": false
+      },
+      {
+        "text": "肌肉痙攣（muscle cramps）是透析時常見的併發症",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "8",
@@ -328,10 +628,22 @@
     "subject": "腎臟科",
     "question": "一位55歲病人因腫瘤而安排須注射顯影劑（contrast medium）的電腦斷層攝影（CT scan），下列敘述何者錯誤？",
     "choices": [
-      "顯影劑腎病變產生的原因包括腎小管阻塞或腎血行動力學改變",
-      "顯影劑腎病變很少出現尿液fractional excretion of sodium（FeNa）＜1%",
-      "糖尿病是產生顯影劑腎病變的危險因子之一",
-      "高危險病人一定要做含顯影劑之檢查時，可先適度補充液體（hydration）"
+      {
+        "text": "顯影劑腎病變產生的原因包括腎小管阻塞或腎血行動力學改變",
+        "is_correct": false
+      },
+      {
+        "text": "顯影劑腎病變很少出現尿液fractional excretion of sodium（FeNa）＜1%",
+        "is_correct": true
+      },
+      {
+        "text": "糖尿病是產生顯影劑腎病變的危險因子之一",
+        "is_correct": false
+      },
+      {
+        "text": "高危險病人一定要做含顯影劑之檢查時，可先適度補充液體（hydration）",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "9",
@@ -341,10 +653,22 @@
     "subject": "腎臟科",
     "question": "30歲的婦女，產前7天的血壓正常，血液肌酸酐 0.6 mg/dL。產後當天有出血、高血壓、少尿、水腫。理學檢查皮膚沒有紅斑或紫斑，血液Hb 8.0 g/dL，血小板70,000/mm3，血液抹片有fragmented RBCs，haptoglobin下降，BUN 100 mg/dL，肌酸酐3.6 mg/dL，尿液osmolality 400 mOsmol/kg H2O，尿液Na+ 10mmol/L，尿液紅血球20～30/HPF，尿液蛋白質trace。最可能的診斷是：",
     "choices": [
-      "急性腎小管壞死（acute tubular necrosis）",
-      "溶血性尿毒症候群（hemolytic uremic syndrome）",
-      "Goodpasture氏症候群",
-      "冷凝球蛋白血症（cryoglobulinemia）"
+      {
+        "text": "急性腎小管壞死（acute tubular necrosis）",
+        "is_correct": false
+      },
+      {
+        "text": "溶血性尿毒症候群（hemolytic uremic syndrome）",
+        "is_correct": true
+      },
+      {
+        "text": "Goodpasture氏症候群",
+        "is_correct": false
+      },
+      {
+        "text": "冷凝球蛋白血症（cryoglobulinemia）",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "10",
@@ -354,10 +678,22 @@
     "subject": "腎臟科",
     "question": "下列何種檢查結果代表病人可能有腎前性氮血症（prerenal azotemia）？",
     "choices": [
-      "blood urea nitrogen /plasma creatinine（BUN/PCr）ratio< 10:1",
-      "urine sodium（UNa）>40 meq/L",
-      "urine osmolality <350 mOsmol/kg H2O",
-      "urine creatinine/plasma creatinine（UCr/PCr）>40"
+      {
+        "text": "blood urea nitrogen /plasma creatinine（BUN/PCr）ratio< 10:1",
+        "is_correct": false
+      },
+      {
+        "text": "urine sodium（UNa）>40 meq/L",
+        "is_correct": false
+      },
+      {
+        "text": "urine osmolality <350 mOsmol/kg H2O",
+        "is_correct": false
+      },
+      {
+        "text": "urine creatinine/plasma creatinine（UCr/PCr）>40",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "18",
@@ -367,10 +703,22 @@
     "subject": "腎臟科",
     "question": "一位47歲男性最近一個月胃口不佳、比較累且有噁心感。血液生化檢查：BUN 35 mg/dL，creatinine 1.6mg/dL，Na+ 145 mmol/L，K+ 3.2 mmol/L，Cl- 92 mmol/L，free Ca 3.00 mmol/L。在詢問病史時，下列何者對於鑑別診斷上較無幫助？",
     "choices": [
-      "有無使用vitamin D",
-      "有無嚼檳榔（含石灰佐料）習慣",
-      "是否長期使用制酸劑",
-      "有無使用環狀利尿劑"
+      {
+        "text": "有無使用vitamin D",
+        "is_correct": false
+      },
+      {
+        "text": "有無嚼檳榔（含石灰佐料）習慣",
+        "is_correct": false
+      },
+      {
+        "text": "是否長期使用制酸劑",
+        "is_correct": false
+      },
+      {
+        "text": "有無使用環狀利尿劑",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "35",
@@ -380,10 +728,22 @@
     "subject": "腎臟科",
     "question": "一位20歲男性，有嚴重多尿的現象。於禁水4小時後，小便滲透壓（osmolality）沒有明顯上升，注射desmopressin（DDAVP）後，小便滲透壓亦沒有明顯上升，最可能的診斷為何？",
     "choices": [
-      "正常",
-      "精神性多尿症",
-      "中樞性尿崩症（central diabetes insipidus）",
-      "腎性尿崩症（nephrogenic diabetes insipidus）"
+      {
+        "text": "正常",
+        "is_correct": false
+      },
+      {
+        "text": "精神性多尿症",
+        "is_correct": false
+      },
+      {
+        "text": "中樞性尿崩症（central diabetes insipidus）",
+        "is_correct": false
+      },
+      {
+        "text": "腎性尿崩症（nephrogenic diabetes insipidus）",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "36",
@@ -393,10 +753,22 @@
     "subject": "腎臟科",
     "question": "一位 45 歲男性末期腎病患者選擇腹膜透析（peritoneal dialysis），下列敘述何者錯誤？",
     "choices": [
-      "每兩天執行一次腹膜透析",
-      "腹膜透析單次注入腹腔2 公升透析液是可以的",
-      "腹膜透析脫水靠滲透壓（osmolality），最常用來提供滲透壓的物質是高濃度葡萄糖",
-      "肌酸酐廓清率每週70 L 是足夠的"
+      {
+        "text": "每兩天執行一次腹膜透析",
+        "is_correct": true
+      },
+      {
+        "text": "腹膜透析單次注入腹腔2 公升透析液是可以的",
+        "is_correct": false
+      },
+      {
+        "text": "腹膜透析脫水靠滲透壓（osmolality），最常用來提供滲透壓的物質是高濃度葡萄糖",
+        "is_correct": false
+      },
+      {
+        "text": "肌酸酐廓清率每週70 L 是足夠的",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "6",
@@ -406,10 +778,22 @@
     "subject": "腎臟科",
     "question": "一位 62 歲女性病人，罹患糖尿病十年，最近一個月以angiotensin-converting enzyme inhibitor 控制高血壓於130/80 mmHg，兩週前血液肌酸酐1.0 mg/dL，最近2 週血壓升至170/100 mmHg，少尿、水腫、端坐呼吸、食慾不振、嘔吐。現在的血液BUN 60 mg/dL，肌酸酐3.5 mg/dL，尿液蛋白質4+。\n下列敘述何者最正確？",
     "choices": [
-      "立即停用angiotensin-converting enzyme inhibitor",
-      "立即做腎臟切片檢查",
-      "立即做renal arteriography 檢查",
-      "立即以脈衝式類固醇（pulse methylprednisolone）治療"
+      {
+        "text": "立即停用angiotensin-converting enzyme inhibitor",
+        "is_correct": true
+      },
+      {
+        "text": "立即做腎臟切片檢查",
+        "is_correct": false
+      },
+      {
+        "text": "立即做renal arteriography 檢查",
+        "is_correct": false
+      },
+      {
+        "text": "立即以脈衝式類固醇（pulse methylprednisolone）治療",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "7",
@@ -419,10 +803,22 @@
     "subject": "腎臟科",
     "question": "下列何者不是高陰離子間隙代謝性酸中毒（high-anion-gap metabolic acidosis）的原因？",
     "choices": [
-      "lactic acidosis",
-      "ketoacidosis",
-      "diarrhea",
-      "salicylate intoxication"
+      {
+        "text": "lactic acidosis",
+        "is_correct": false
+      },
+      {
+        "text": "ketoacidosis",
+        "is_correct": false
+      },
+      {
+        "text": "diarrhea",
+        "is_correct": true
+      },
+      {
+        "text": "salicylate intoxication",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "19",
@@ -432,10 +828,22 @@
     "subject": "腎臟科",
     "question": "一位何杰金氏淋巴瘤（Hodgkin’s lymphoma）男性病人，發現有大量蛋白尿（5.8 gm/day/1.73 m2 body surface），血中膽固醇328 mg/dL，血中白蛋白1.5 gm/dL，準備接受腎臟切片檢查，他最有可能之腎臟病理變化為：",
     "choices": [
-      "膜性腎絲球腎炎",
-      "局部腎絲球硬化症",
-      "微小變化腎病",
-      "IgA 腎病"
+      {
+        "text": "膜性腎絲球腎炎",
+        "is_correct": false
+      },
+      {
+        "text": "局部腎絲球硬化症",
+        "is_correct": false
+      },
+      {
+        "text": "微小變化腎病",
+        "is_correct": true
+      },
+      {
+        "text": "IgA 腎病",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "36",
@@ -445,10 +853,22 @@
     "subject": "腎臟科",
     "question": "一位 50 歲女性最近一個月胃口不佳、比較累、且有噁心，晚上小便次數增加，血壓為175/100 mmHg。血液生化檢查：BUN 40 mg/dL，creatinine 2.3 mg/dL，Na+ 142 mmol/L，K+ 3.5 mmol/L，Cl- 91 mmol/L，free Ca 3.0 mmol/L。在詢問病史時，下列何者對於鑑別診斷上較無幫助？",
     "choices": [
-      "有無服用thiazide 類利尿劑",
-      "有無尿道結石病史",
-      "有無使用維生素D",
-      "有無使用類固醇"
+      {
+        "text": "有無服用thiazide 類利尿劑",
+        "is_correct": false
+      },
+      {
+        "text": "有無尿道結石病史",
+        "is_correct": false
+      },
+      {
+        "text": "有無使用維生素D",
+        "is_correct": false
+      },
+      {
+        "text": "有無使用類固醇",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "39",
@@ -458,10 +878,22 @@
     "subject": "腎臟科",
     "question": "有關慢性腎臟病人貧血的敘述何者正確？",
     "choices": [
-      "貧血的原因主要是紅血球壽命縮短",
-      "如果病人是腎小管間質腎炎，通常比腎絲球病變的病人較早出現貧血",
-      "這些病人的貧血大多數是低色素小球型貧血（hypochromic microcytic anemia）",
-      "矯正時，這些病人的血比容（hematocrit）應控制在36-38%"
+      {
+        "text": "貧血的原因主要是紅血球壽命縮短",
+        "is_correct": false
+      },
+      {
+        "text": "如果病人是腎小管間質腎炎，通常比腎絲球病變的病人較早出現貧血",
+        "is_correct": true
+      },
+      {
+        "text": "這些病人的貧血大多數是低色素小球型貧血（hypochromic microcytic anemia）",
+        "is_correct": false
+      },
+      {
+        "text": "矯正時，這些病人的血比容（hematocrit）應控制在36-38%",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "40",
@@ -471,10 +903,22 @@
     "subject": "腎臟科",
     "question": "下列為陣發性夜間血色素尿（paroxysmal nocturnal hemoglobinuria）的特徵，何者錯誤？",
     "choices": [
-      "PIG-A gene mutation",
-      "hemolysis due to deficiency of CD16 and CD66 on RBC",
-      "complication of thrombosis",
-      "iron deficiency"
+      {
+        "text": "PIG-A gene mutation",
+        "is_correct": false
+      },
+      {
+        "text": "hemolysis due to deficiency of CD16 and CD66 on RBC",
+        "is_correct": true
+      },
+      {
+        "text": "complication of thrombosis",
+        "is_correct": false
+      },
+      {
+        "text": "iron deficiency",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "50",
@@ -484,10 +928,22 @@
     "subject": "腎臟科",
     "question": "Mitomycin C 和下列何種症候群有關？",
     "choices": [
-      "hand-foot syndrome",
-      "hemolytic uremic syndrome",
-      "hyperviscosity syndrome",
-      "capillary leak syndrome"
+      {
+        "text": "hand-foot syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "hemolytic uremic syndrome",
+        "is_correct": true
+      },
+      {
+        "text": "hyperviscosity syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "capillary leak syndrome",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "53",
@@ -497,10 +953,22 @@
     "subject": "腎臟科",
     "question": "下列有關老人尿失禁的描述，何者正確？",
     "choices": [
-      "80歲以上女性最常見的尿失禁種類是「混合型」尿失禁",
-      "使用利尿劑類的降血壓藥不會增加尿失禁的機會",
-      "使用安眠鎮靜藥不會增加尿失禁的機會",
-      "第一線尿失禁的治療是使用藥物治療"
+      {
+        "text": "80歲以上女性最常見的尿失禁種類是「混合型」尿失禁",
+        "is_correct": true
+      },
+      {
+        "text": "使用利尿劑類的降血壓藥不會增加尿失禁的機會",
+        "is_correct": false
+      },
+      {
+        "text": "使用安眠鎮靜藥不會增加尿失禁的機會",
+        "is_correct": false
+      },
+      {
+        "text": "第一線尿失禁的治療是使用藥物治療",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "1",
@@ -510,10 +978,22 @@
     "subject": "腎臟科",
     "question": "75歲男性病人，抽菸10年以上，使用calcium channel blocker 治療高血壓10年，胸痛接受顯影劑注射冠狀動脈攝影，檢查前血液肌酸酐1.0 mg/dL，檢查結果發現嚴重冠狀動脈硬化，3天後的血液肌酸酐1.1 mg/dL，7天後發生加速型的高血壓（accelerated hypertension）及少尿而住院。住院當天的理學檢查，高血壓視網膜病變、心臟擴大、下肢脈搏正常，但有皮膚網狀青斑（livedo reticularis），血液嗜伊紅性白血球增加、補體下降、肌酸酐3.0 mg/dL，尿液紅血球6～10/HPF，蛋白質1+。最可能的診斷是：",
     "choices": [
-      "顯影劑腎病變（contrast nephropathy）",
-      "腎臟粥狀樣栓塞（atheroembolic renal disease）",
-      "腎動脈狹窄（renal artery stenosis）",
-      "腎靜脈栓塞（renal vein thrombosis）"
+      {
+        "text": "顯影劑腎病變（contrast nephropathy）",
+        "is_correct": false
+      },
+      {
+        "text": "腎臟粥狀樣栓塞（atheroembolic renal disease）",
+        "is_correct": true
+      },
+      {
+        "text": "腎動脈狹窄（renal artery stenosis）",
+        "is_correct": false
+      },
+      {
+        "text": "腎靜脈栓塞（renal vein thrombosis）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "6",
@@ -523,10 +1003,22 @@
     "subject": "腎臟科",
     "question": "68歲女性病人，高血壓及糖尿病10年，兩年前血液肌酸酐2.0 mg/dL，五週前血液肌酸酐5mg/dL。最近1週高血壓更嚴重，出現瞻妄、少尿、水腫、呼吸困難、嘔吐。血液肌酸酐9.6mg/dL，Na+ 120 mmol/L，K+ 5.5 mmol/L，尿液蛋白質4+。腎臟超音波左腎長度9.8 cm，右腎長度9.6 cm。下列處置何者最正確？",
     "choices": [
-      "腎臟切片檢查",
-      "透析治療",
-      "以angiotensin-converting enzyme inhibitor治療",
-      "以脈衝式類固醇（pulse methylprednisolone）治療"
+      {
+        "text": "腎臟切片檢查",
+        "is_correct": false
+      },
+      {
+        "text": "透析治療",
+        "is_correct": true
+      },
+      {
+        "text": "以angiotensin-converting enzyme inhibitor治療",
+        "is_correct": false
+      },
+      {
+        "text": "以脈衝式類固醇（pulse methylprednisolone）治療",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "7",
@@ -536,10 +1028,22 @@
     "subject": "腎臟科",
     "question": "下列何者為腹膜透析患者發生腹膜炎最常見之病因？",
     "choices": [
-      "濾過性病毒",
-      "黴菌",
-      "革蘭氏陰性菌",
-      "革蘭氏陽性菌"
+      {
+        "text": "濾過性病毒",
+        "is_correct": false
+      },
+      {
+        "text": "黴菌",
+        "is_correct": false
+      },
+      {
+        "text": "革蘭氏陰性菌",
+        "is_correct": false
+      },
+      {
+        "text": "革蘭氏陽性菌",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "30",
@@ -549,10 +1053,22 @@
     "subject": "腎臟科",
     "question": "腎衰竭病人常有出血傾向，其中最重要的機轉為：",
     "choices": [
-      "血小板數目減少",
-      "血小板凝集功能不正常",
-      "肝內凝血蛋白質合成減少",
-      "血管完整性異常"
+      {
+        "text": "血小板數目減少",
+        "is_correct": false
+      },
+      {
+        "text": "血小板凝集功能不正常",
+        "is_correct": true
+      },
+      {
+        "text": "肝內凝血蛋白質合成減少",
+        "is_correct": false
+      },
+      {
+        "text": "血管完整性異常",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "31",
@@ -562,10 +1078,22 @@
     "subject": "腎臟科",
     "question": "74病人主訴發燒和右側腰部疼痛，電腦斷層檢查呈現如圖，下列那一項有關右側腎臟的診斷最正確？",
     "choices": [
-      "acute pyelonephritis",
-      "renal cell carcinoma",
-      "angiomyolipoma",
-      "hydronephrosis"
+      {
+        "text": "acute pyelonephritis",
+        "is_correct": true
+      },
+      {
+        "text": "renal cell carcinoma",
+        "is_correct": false
+      },
+      {
+        "text": "angiomyolipoma",
+        "is_correct": false
+      },
+      {
+        "text": "hydronephrosis",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016584/Scanned_File/QUE-016584.png",
     "session": "104暑期",
@@ -576,10 +1104,22 @@
     "subject": "腎臟科",
     "question": "血陰離子隙（blood anion gap）是反應下列何項離子的多寡？",
     "choices": [
-      "未測量之陽離子（unmeasured cations）",
-      "鈉離子+鉀離子（Na++ K+）",
-      "未測量之陰離子（unmeasured anions）",
-      "重碳酸離子+氯離子（HCO3-+ Cl-）"
+      {
+        "text": "未測量之陽離子（unmeasured cations）",
+        "is_correct": false
+      },
+      {
+        "text": "鈉離子+鉀離子（Na++ K+）",
+        "is_correct": false
+      },
+      {
+        "text": "未測量之陰離子（unmeasured anions）",
+        "is_correct": true
+      },
+      {
+        "text": "重碳酸離子+氯離子（HCO3-+ Cl-）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "1",
@@ -589,10 +1129,22 @@
     "subject": "腎臟科",
     "question": "一位30歲女性病人尿液分析發現血尿，下列何項檢查結果支持是腎小球性（glomerular）血尿？",
     "choices": [
-      "尿沉渣看見顆粒性圓柱體",
-      "24小時蛋白尿排泄量> 2.5克",
-      "尿沉渣發現變形性紅血球",
-      "紅血球數目> 50顆/高倍視野"
+      {
+        "text": "尿沉渣看見顆粒性圓柱體",
+        "is_correct": false
+      },
+      {
+        "text": "24小時蛋白尿排泄量> 2.5克",
+        "is_correct": false
+      },
+      {
+        "text": "尿沉渣發現變形性紅血球",
+        "is_correct": true
+      },
+      {
+        "text": "紅血球數目> 50顆/高倍視野",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "2",
@@ -602,10 +1154,22 @@
     "subject": "腎臟科",
     "question": "一位35歲女性，因為最近血壓升高來就診。生化初步檢查都在正常值範圍內，除了血清鉀離子是2.5 mmol/L。下列那一個診斷最不可能考慮？",
     "choices": [
-      "單側腎動脈狹窄（unilateral renal arterial stenosis）",
-      "服用甘草（licorice）",
-      "高登症候群（Gordon’s syndrome）",
-      "原發性皮質醛酮症（primary aldosteronism）"
+      {
+        "text": "單側腎動脈狹窄（unilateral renal arterial stenosis）",
+        "is_correct": false
+      },
+      {
+        "text": "服用甘草（licorice）",
+        "is_correct": false
+      },
+      {
+        "text": "高登症候群（Gordon’s syndrome）",
+        "is_correct": true
+      },
+      {
+        "text": "原發性皮質醛酮症（primary aldosteronism）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "3",
@@ -615,10 +1179,22 @@
     "subject": "腎臟科",
     "question": "65歲男性因嘔吐不止兩天至急診處。病人過去有十二指腸潰瘍。身體診察，脈搏每分124次，血壓85/50mmHg，無貧血或黃疸。血清電解質（mmol/L）：Na+ 132，K+ 2.9，Cl- 85。動脈氣體分析如下：pH：7.49，PaCO2：47mmHg，PaO2：90 mmHg，HCO3-：32 mmol/L。下列有關對此病人的敘述何者最為正確？",
     "choices": [
-      "血清滲透壓應該>310 mOsmol/kg H2O",
-      "尿液的鉀離子應該<10 mmol/L",
-      "尿液的滲透壓應該>500 mOsmol/kg H2O",
-      "尿液氯離子應該>20 mmol/L"
+      {
+        "text": "血清滲透壓應該>310 mOsmol/kg H2O",
+        "is_correct": false
+      },
+      {
+        "text": "尿液的鉀離子應該<10 mmol/L",
+        "is_correct": false
+      },
+      {
+        "text": "尿液的滲透壓應該>500 mOsmol/kg H2O",
+        "is_correct": true
+      },
+      {
+        "text": "尿液氯離子應該>20 mmol/L",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "4",
@@ -628,10 +1204,22 @@
     "subject": "腎臟科",
     "question": "下列情況使用angiotensin-converting enzyme inhibitor（ACEI）比較容易發生急性腎衰竭，但何者例外？",
     "choices": [
-      "雙側腎動脈狹窄",
-      "合併使用鈣離子阻斷劑",
-      "使用大量利尿劑治療鬱血性心衰竭",
-      "合併使用非類固醇消炎劑"
+      {
+        "text": "雙側腎動脈狹窄",
+        "is_correct": false
+      },
+      {
+        "text": "合併使用鈣離子阻斷劑",
+        "is_correct": true
+      },
+      {
+        "text": "使用大量利尿劑治療鬱血性心衰竭",
+        "is_correct": false
+      },
+      {
+        "text": "合併使用非類固醇消炎劑",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "5",
@@ -641,10 +1229,22 @@
     "subject": "腎臟科",
     "question": "下列那一個病例較符合所列之動脈血氣體分析和血清電解質的檢查結果〔pH：7.32，PaO2：110 mmHg，PaCO2：33 mmHg，HCO3-：18；Na+ 138，K+ 3.0，Cl- 109（電解質的單位是mmol/L）〕？",
     "choices": [
-      "19歲女學生為第一型糖尿病，因期末考熬夜兩天，忘記注射胰島素",
-      "39歲女性經理服用作用於遠端腎小管之利尿劑減重",
-      "59歲女性有第五期慢性腎臟病",
-      "69歲女性腹瀉三天"
+      {
+        "text": "19歲女學生為第一型糖尿病，因期末考熬夜兩天，忘記注射胰島素",
+        "is_correct": false
+      },
+      {
+        "text": "39歲女性經理服用作用於遠端腎小管之利尿劑減重",
+        "is_correct": false
+      },
+      {
+        "text": "59歲女性有第五期慢性腎臟病",
+        "is_correct": false
+      },
+      {
+        "text": "69歲女性腹瀉三天",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "6",
@@ -654,10 +1254,22 @@
     "subject": "腎臟科",
     "question": "高血鈣急症的治療原則下列那一項最不適當？",
     "choices": [
-      "立即補充生理食鹽水",
-      "使用thiazide類利尿劑",
-      "惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽（bisphosphonates）",
-      "維生素D造成的高血鈣症可以考慮使用類固醇治療"
+      {
+        "text": "立即補充生理食鹽水",
+        "is_correct": false
+      },
+      {
+        "text": "使用thiazide類利尿劑",
+        "is_correct": true
+      },
+      {
+        "text": "惡性腫瘤引發高血鈣可以考慮給予雙磷酸鹽（bisphosphonates）",
+        "is_correct": false
+      },
+      {
+        "text": "維生素D造成的高血鈣症可以考慮使用類固醇治療",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "10",
@@ -667,10 +1279,22 @@
     "subject": "腎臟科",
     "question": "腎細胞癌（renal cell carcinoma）的細胞型態，最常見的是：",
     "choices": [
-      "嗜酸粒細胞瘤（oncocytomas）",
-      "難染細胞（chromophobe）型",
-      "乳突（papillary）型",
-      "透亮細胞（clear cell）型"
+      {
+        "text": "嗜酸粒細胞瘤（oncocytomas）",
+        "is_correct": false
+      },
+      {
+        "text": "難染細胞（chromophobe）型",
+        "is_correct": false
+      },
+      {
+        "text": "乳突（papillary）型",
+        "is_correct": false
+      },
+      {
+        "text": "透亮細胞（clear cell）型",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "37",
@@ -680,10 +1304,22 @@
     "subject": "腎臟科",
     "question": "一位59歲接受腹膜透析腎病患者，血壓為125/80 mmHg，心跳為76次/min，12導程心電圖發現有peaked Twaves，血鉀值為7.0 mmol/L，無溶血。下列何種處置最不優先？",
     "choices": [
-      "會診腎臟科後，等待做腹膜透析",
-      "可使用葡萄糖（glucose）加胰島素（insulin）治療",
-      "可使用碳酸氫鈉（sodium bicarbonate）治療",
-      "可使用噴霧式支氣管擴張藥物（neubulized albuterol）治療"
+      {
+        "text": "會診腎臟科後，等待做腹膜透析",
+        "is_correct": true
+      },
+      {
+        "text": "可使用葡萄糖（glucose）加胰島素（insulin）治療",
+        "is_correct": false
+      },
+      {
+        "text": "可使用碳酸氫鈉（sodium bicarbonate）治療",
+        "is_correct": false
+      },
+      {
+        "text": "可使用噴霧式支氣管擴張藥物（neubulized albuterol）治療",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "76",
@@ -693,10 +1329,22 @@
     "subject": "腎臟科",
     "question": "72歲男性為慢性腎病病⼈，⾎中肌酸酐（creatinine）6.3 mg/dL，下列何種酸鹼電解質狀態最少發⽣在此病⼈？",
     "choices": [
-      "鈉（Na+）148 mEq/L",
-      "鉀（K+）5.6 mEq/L",
-      "磷（PO43-）5.5 mg/dL",
-      "鈣（Ca++）8.0 mg/dL"
+      {
+        "text": "鈉（Na+）148 mEq/L",
+        "is_correct": true
+      },
+      {
+        "text": "鉀（K+）5.6 mEq/L",
+        "is_correct": false
+      },
+      {
+        "text": "磷（PO43-）5.5 mg/dL",
+        "is_correct": false
+      },
+      {
+        "text": "鈣（Ca++）8.0 mg/dL",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "22",
@@ -706,10 +1354,22 @@
     "subject": "腎臟科",
     "question": "65歲女性病⼈因⻑期糖尿病腎病變，接受規則⾎液透析治療已5年，透析前⾎中磷（PO43-）6.8 mg/dL、鈣（Ca++）10.8 mg/dL、副甲狀腺賀爾蒙（PTH）88 pg/mL。對此病⼈，下列何者為最適當治療？",
     "choices": [
-      "使⽤磷結合劑（phosphate binder）",
-      "使⽤維他命D3（vitamin D3）",
-      "使⽤擬鈣劑（calcimimetic）",
-      "使⽤鈣濃度3.0 mEq/L透析液"
+      {
+        "text": "使⽤磷結合劑（phosphate binder）",
+        "is_correct": true
+      },
+      {
+        "text": "使⽤維他命D3（vitamin D3）",
+        "is_correct": false
+      },
+      {
+        "text": "使⽤擬鈣劑（calcimimetic）",
+        "is_correct": false
+      },
+      {
+        "text": "使⽤鈣濃度3.0 mEq/L透析液",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "23",
@@ -719,10 +1379,22 @@
     "subject": "腎臟科",
     "question": "48歲男性末期腎病病⼈，接受⻑期免疫抑制劑治療，移植前無糖尿病病史，移植3個⽉後⾎中肌酸酐0.8mg/dL，飯前⾎糖210 mg/dL，下列何種藥物最有可能產⽣此種合併症？",
     "choices": [
-      "mycophenolate mofetil",
-      "tacrolimus",
-      "sirolimus",
-      "everolimus"
+      {
+        "text": "mycophenolate mofetil",
+        "is_correct": false
+      },
+      {
+        "text": "tacrolimus",
+        "is_correct": true
+      },
+      {
+        "text": "sirolimus",
+        "is_correct": false
+      },
+      {
+        "text": "everolimus",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "24",
@@ -732,10 +1404,22 @@
     "subject": "腎臟科",
     "question": "針對嘔吐導致急性腎損傷的病⼈，欲區分prerenal或intrinsic病因，下列何項指標最為適合？",
     "choices": [
-      "fractional excretion of sodium",
-      "urine-to-plasma urea ratio",
-      "fractional excretion of chloride",
-      "urine osmolality"
+      {
+        "text": "fractional excretion of sodium",
+        "is_correct": false
+      },
+      {
+        "text": "urine-to-plasma urea ratio",
+        "is_correct": false
+      },
+      {
+        "text": "fractional excretion of chloride",
+        "is_correct": true
+      },
+      {
+        "text": "urine osmolality",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "25",
@@ -745,10 +1429,22 @@
     "subject": "腎臟科",
     "question": "下列何種疾病所造成的急性腎損傷，其⾎液檢驗結果最少發⽣eosinophilia？",
     "choices": [
-      "microscopic polyangiitis",
-      "atheroembolic disease",
-      "NSAID-induced interstitial nephritis",
-      "polyarteritis nodosa"
+      {
+        "text": "microscopic polyangiitis",
+        "is_correct": true
+      },
+      {
+        "text": "atheroembolic disease",
+        "is_correct": false
+      },
+      {
+        "text": "NSAID-induced interstitial nephritis",
+        "is_correct": false
+      },
+      {
+        "text": "polyarteritis nodosa",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "26",
@@ -758,10 +1454,22 @@
     "subject": "腎臟科",
     "question": "依照2012年最新之KDIGO（Kidney Disease：Improving Global Outcomes）準則，下列診斷急性腎損傷（acute kidney injury）之定義何者錯誤？",
     "choices": [
-      "⾎清肌酸酐值於48⼩時內上升幅度⼤於或等於0.3 mg/dL",
-      "⾎清肌酸酐值於5天內上升幅度⼤於或等於25%",
-      "⾎清肌酸酐值於⼀星期內上升幅度⼤於或等於50%",
-      "尿液每⼩時之排出量少於0.5 mL/kg，並持續6⼩時"
+      {
+        "text": "⾎清肌酸酐值於48⼩時內上升幅度⼤於或等於0.3 mg/dL",
+        "is_correct": false
+      },
+      {
+        "text": "⾎清肌酸酐值於5天內上升幅度⼤於或等於25%",
+        "is_correct": true
+      },
+      {
+        "text": "⾎清肌酸酐值於⼀星期內上升幅度⼤於或等於50%",
+        "is_correct": false
+      },
+      {
+        "text": "尿液每⼩時之排出量少於0.5 mL/kg，並持續6⼩時",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "27",
@@ -771,10 +1479,22 @@
     "subject": "腎臟科",
     "question": "⼀位18歲男性⼤學新⽣，⼀星期前入學體檢報告正常。三天前參加新⽣盃籃球比賽後關節酸痛，⾃⾏購買⽌痛藥（diclofenac）服⽤後開始出現⼩便泡沫與腳腫，故⾄⾨診求診。無嘔吐、腹瀉、發燒與頻尿症狀。理學檢查發現：⾎壓160/90 mmHg，呼吸速率每分鐘20下，四肢出現紅疹，雙下肢4+⽔腫。⾎液檢查：尿素氮（BUN）52 mg/dL、肌酸酐：2.0 mg/dL，⽩蛋⽩1.8 g/dL，⽩⾎球7,000/μL，⾎⾊素10.2 g/dL，膽固醇320 mg/dL，三酸⽢油脂（triglyceride）260 mg/dL。尿液檢查：紅⾎球2～3顆/HPF，⽩⾎球3～5顆/HPF，尿液總蛋⽩質與肌酸酐比值為12 g/g Cr。下列何項為最可能的診斷？",
     "choices": [
-      "hemolytic uremic syndrome",
-      "minimal change disease",
-      "rapidly progressive glomerulonephritis",
-      "IgA nephropathy"
+      {
+        "text": "hemolytic uremic syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "minimal change disease",
+        "is_correct": true
+      },
+      {
+        "text": "rapidly progressive glomerulonephritis",
+        "is_correct": false
+      },
+      {
+        "text": "IgA nephropathy",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "28",
@@ -784,10 +1504,22 @@
     "subject": "腎臟科",
     "question": "⾼尿酸⾎症（hyperuricemia）是造成痛風（gout）的最主要原因，下列關於造成⾼尿酸⾎症的敘述何者正確？",
     "choices": [
-      "hypoxanthine phosphoribosyl transferase（HPRT）基因位在X染⾊體上，當此基因突變時會造成⾼尿酸⾎症",
-      "uric acid由肝臟代謝，因此肝臟功能不全時會造成⾼尿酸⾎症",
-      "利尿劑（diuretics）會增加尿酸從尿液排出⽽降低⾎中尿酸",
-      "acute myeloid leukemia（AML）在化學治療時會產⽣⾼尿酸⾎症，因此可⽤benzbromarone來預防⾼尿酸⾎症"
+      {
+        "text": "hypoxanthine phosphoribosyl transferase（HPRT）基因位在X染⾊體上，當此基因突變時會造成⾼尿酸⾎症",
+        "is_correct": true
+      },
+      {
+        "text": "uric acid由肝臟代謝，因此肝臟功能不全時會造成⾼尿酸⾎症",
+        "is_correct": false
+      },
+      {
+        "text": "利尿劑（diuretics）會增加尿酸從尿液排出⽽降低⾎中尿酸",
+        "is_correct": false
+      },
+      {
+        "text": "acute myeloid leukemia（AML）在化學治療時會產⽣⾼尿酸⾎症，因此可⽤benzbromarone來預防⾼尿酸⾎症",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "29",
@@ -797,10 +1529,22 @@
     "subject": "腎臟科",
     "question": "關於calcium pyrophosphate deposition（CPPD）和calcium apatite deposition引起的關節炎之敘述，下列何者錯誤？",
     "choices": [
-      "CPPD引起的急性關節炎與急性痛風性關節炎（acute gouty arthritis）臨床表現很相似",
-      "CPPD引起的急性關節炎常發⽣在年輕男性，因此要利⽤關節液結晶分析來和其他關節炎做鑑別診斷",
-      "calcium apatite deposition引起的關節與關節附近發炎，更容易發⽣在慢性腎臟衰竭合併有hyperphosphatemia的病⼈",
-      "CPPD與calcium apatite deposition結晶引起的關節炎皆可⽤colchicine和glucocorticoid治療"
+      {
+        "text": "CPPD引起的急性關節炎與急性痛風性關節炎（acute gouty arthritis）臨床表現很相似",
+        "is_correct": false
+      },
+      {
+        "text": "CPPD引起的急性關節炎常發⽣在年輕男性，因此要利⽤關節液結晶分析來和其他關節炎做鑑別診斷",
+        "is_correct": true
+      },
+      {
+        "text": "calcium apatite deposition引起的關節與關節附近發炎，更容易發⽣在慢性腎臟衰竭合併有hyperphosphatemia的病⼈",
+        "is_correct": false
+      },
+      {
+        "text": "CPPD與calcium apatite deposition結晶引起的關節炎皆可⽤colchicine和glucocorticoid治療",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "30",
@@ -810,10 +1554,22 @@
     "subject": "腎臟科",
     "question": "⼀位66歲糖尿病合併腎病變病⼈，有胸悶、咳嗽無痰、呼吸急促、意識昏睡，⽣命徵象顯⽰⾎壓 80/40mmHg，⼼跳每分鐘40下，呼吸每分鐘26次，體溫36℃。經抽⾎檢查發現鉀離⼦7.7 mmol/L、⾎糖300mg/dL、動脈⾎：pH=7.20，HCO3- =12 mEq/L，BE= -12 mEq/L。下列何者治療不適當？",
     "choices": [
-      "經靜脈給予碳酸氫鈉，可將鉀離⼦由細胞外移入細胞內",
-      "經靜脈給予葡萄糖⽔及胰島素，可將鉀離⼦由細胞外移入細胞內",
-      "經靜脈快速灌注⽣理食鹽⽔1000 mL，治療低⾎壓及稀釋鉀離⼦",
-      "經靜脈給予氯化鈣，以拮抗鉀離⼦對⼼臟細胞膜電位的影響"
+      {
+        "text": "經靜脈給予碳酸氫鈉，可將鉀離⼦由細胞外移入細胞內",
+        "is_correct": false
+      },
+      {
+        "text": "經靜脈給予葡萄糖⽔及胰島素，可將鉀離⼦由細胞外移入細胞內",
+        "is_correct": false
+      },
+      {
+        "text": "經靜脈快速灌注⽣理食鹽⽔1000 mL，治療低⾎壓及稀釋鉀離⼦",
+        "is_correct": true
+      },
+      {
+        "text": "經靜脈給予氯化鈣，以拮抗鉀離⼦對⼼臟細胞膜電位的影響",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "77",
@@ -823,10 +1579,22 @@
     "subject": "腎臟科",
     "question": "下列何種疾病不適合使用arginine vasopressin（AVP）拮抗劑（vaptans）？",
     "choices": [
-      "抗利尿激素不適當分泌症候群（SIADH）",
-      "高體液低鈉血症（hypervolemic hyponatremia）",
-      "小細胞肺癌合併之低鈉血症",
-      "尿崩症（diabetes insipidus）"
+      {
+        "text": "抗利尿激素不適當分泌症候群（SIADH）",
+        "is_correct": false
+      },
+      {
+        "text": "高體液低鈉血症（hypervolemic hyponatremia）",
+        "is_correct": false
+      },
+      {
+        "text": "小細胞肺癌合併之低鈉血症",
+        "is_correct": false
+      },
+      {
+        "text": "尿崩症（diabetes insipidus）",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "21",
@@ -836,10 +1604,22 @@
     "subject": "腎臟科",
     "question": "56歲男性糖尿病人因胸部不適至急診，初步檢查血中creatinine 2.0 mg/dL、K+ 5.8 mEq/L、Na+ 139 mEq/L、Cl- 116 mEq/L、HCO3- 18 mEq/L、osmolality 290 mOsm/kg‧H2O、尿中creatinine 12 mg/dL、K 9.6 mEq/dL、osmolality 580 mOsm/kg‧H2O，病人最可能的診斷是：",
     "choices": [
-      "第二型腎小管酸血症（type 2 renal tubular acidosis）",
-      "metformin引發酸血症（metformin related acidosis）",
-      "低腎素低醛固酮血症（hyporeninemic hypoaldosteronism）",
-      "糖尿病酮酸血症（diabetic ketoacidosis）"
+      {
+        "text": "第二型腎小管酸血症（type 2 renal tubular acidosis）",
+        "is_correct": false
+      },
+      {
+        "text": "metformin引發酸血症（metformin related acidosis）",
+        "is_correct": false
+      },
+      {
+        "text": "低腎素低醛固酮血症（hyporeninemic hypoaldosteronism）",
+        "is_correct": true
+      },
+      {
+        "text": "糖尿病酮酸血症（diabetic ketoacidosis）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "22",
@@ -849,10 +1629,22 @@
     "subject": "腎臟科",
     "question": "一名30歲女性，近2個月血清肌酸酐從1.0升至3.0 mg/dL，其血清anti-neutrophil cytoplasmic抗體呈陰性反應，血清C3降低，C4正常，經腎臟切片檢查確定為新月型腎絲球腎炎，電鏡檢查發現有subepithelial electron-dense沉積，glomerular basement membrane厚度正常，下列診斷何者正確？",
     "choices": [
-      "membranous nephropathy",
-      "membranoproliferative glomerulonephritis, type II",
-      "lupus nephritis",
-      "poststreptococcal glomerulonephritis"
+      {
+        "text": "membranous nephropathy",
+        "is_correct": false
+      },
+      {
+        "text": "membranoproliferative glomerulonephritis, type II",
+        "is_correct": false
+      },
+      {
+        "text": "lupus nephritis",
+        "is_correct": false
+      },
+      {
+        "text": "poststreptococcal glomerulonephritis",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "23",
@@ -862,10 +1654,22 @@
     "subject": "腎臟科",
     "question": "一名40歲男性糖尿病患者，定期接受降血糖（metformin）和血壓藥物（amlodipine）治療，其居家血壓維持138/86 mmHg，最近HbA1c為6.8%，血紅素10.7 g/dL，尿蛋白1.5 g/day，estimated GFR 59 mL/min per 1.73m2，下列治療策略何者正確？",
     "choices": [
-      "輔以低劑量長效型胰島素",
-      "使用紅血球生成素減緩腎功能惡化",
-      "加上血管張力素受器阻斷劑",
-      "進行低蛋白飲食合併胺基酸補充品"
+      {
+        "text": "輔以低劑量長效型胰島素",
+        "is_correct": false
+      },
+      {
+        "text": "使用紅血球生成素減緩腎功能惡化",
+        "is_correct": false
+      },
+      {
+        "text": "加上血管張力素受器阻斷劑",
+        "is_correct": true
+      },
+      {
+        "text": "進行低蛋白飲食合併胺基酸補充品",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "24",
@@ -875,10 +1679,22 @@
     "subject": "腎臟科",
     "question": "下列有關預防顯影劑腎病變的敘述，何者正確？",
     "choices": [
-      "通常血清肌酸酐於注射顯影劑後24～48小時開始上升，有高於1%病人需接受透析治療",
-      "以生理鹽水預防顯影劑腎病變，可於施打顯影劑後開始給與，持續6～24小時",
-      "統合分析顯示N-acetylcysteine預防顯影劑腎病變的效果佳且副作用低，建議臨床上常規使用",
-      "其致病機轉包括腎臟outer medulla缺氧、腎小管細胞自由基傷害及暫時性腎小管阻塞等因素"
+      {
+        "text": "通常血清肌酸酐於注射顯影劑後24～48小時開始上升，有高於1%病人需接受透析治療",
+        "is_correct": false
+      },
+      {
+        "text": "以生理鹽水預防顯影劑腎病變，可於施打顯影劑後開始給與，持續6～24小時",
+        "is_correct": false
+      },
+      {
+        "text": "統合分析顯示N-acetylcysteine預防顯影劑腎病變的效果佳且副作用低，建議臨床上常規使用",
+        "is_correct": false
+      },
+      {
+        "text": "其致病機轉包括腎臟outer medulla缺氧、腎小管細胞自由基傷害及暫時性腎小管阻塞等因素",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "25",
@@ -888,10 +1704,22 @@
     "subject": "腎臟科",
     "question": "有關慢性腎臟病所併發之腎性貧血（renal anemia），下列敘述何者錯誤？",
     "choices": [
-      "腎性貧血之紅血球型態常為正常血球大小（normocytic）與正常色素性（normochromic）",
-      "腎性貧血常出現虛弱、運動耐受力不良（exercise intolerance）、心衰竭與認知功能異常等症狀",
-      "因慢性腎臟病病患常合併血液凝集功能異常，故造成腎性貧血最主要的原因為胃腸道出血",
-      "將腎性貧血病患之血色素值矯正至正常人標準值（≥13 g/dL），無法改善病患之心血管併發症"
+      {
+        "text": "腎性貧血之紅血球型態常為正常血球大小（normocytic）與正常色素性（normochromic）",
+        "is_correct": false
+      },
+      {
+        "text": "腎性貧血常出現虛弱、運動耐受力不良（exercise intolerance）、心衰竭與認知功能異常等症狀",
+        "is_correct": false
+      },
+      {
+        "text": "因慢性腎臟病病患常合併血液凝集功能異常，故造成腎性貧血最主要的原因為胃腸道出血",
+        "is_correct": true
+      },
+      {
+        "text": "將腎性貧血病患之血色素值矯正至正常人標準值（≥13 g/dL），無法改善病患之心血管併發症",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "26",
@@ -901,10 +1729,22 @@
     "subject": "腎臟科",
     "question": "下列有關慢性腎臟病的敘述，何者錯誤？",
     "choices": [
-      "糖尿病乃目前臺灣新發生長期透析病患最常見之原發病因",
-      "慢性腎臟病患合併糖尿病，其血壓值應控制在130/80 mmHg以下",
-      "敗血症為最常造成慢性腎臟病患死亡的原因",
-      "低蛋白飲食有助於改善慢性腎臟病患之尿毒症狀"
+      {
+        "text": "糖尿病乃目前臺灣新發生長期透析病患最常見之原發病因",
+        "is_correct": false
+      },
+      {
+        "text": "慢性腎臟病患合併糖尿病，其血壓值應控制在130/80 mmHg以下",
+        "is_correct": false
+      },
+      {
+        "text": "敗血症為最常造成慢性腎臟病患死亡的原因",
+        "is_correct": true
+      },
+      {
+        "text": "低蛋白飲食有助於改善慢性腎臟病患之尿毒症狀",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "27",
@@ -914,10 +1754,22 @@
     "subject": "腎臟科",
     "question": "低血鈉的鑑別診斷，下列那一項最不適當？",
     "choices": [
-      "甲狀腺功能低下可能造成等容積型低血鈉症（euvolemic hyponatremia）",
-      "低容積（hypovolemia）會使血液中的加壓素（vasopressin）增加",
-      "心衰竭造成的高容積型低血鈉症（hypervolemic hyponatremia）其尿液中的鈉濃度通常大於 20 mM",
-      "燒傷可能造成尿液中鈉濃度低於 20 mM的低容積型低血鈉"
+      {
+        "text": "甲狀腺功能低下可能造成等容積型低血鈉症（euvolemic hyponatremia）",
+        "is_correct": false
+      },
+      {
+        "text": "低容積（hypovolemia）會使血液中的加壓素（vasopressin）增加",
+        "is_correct": false
+      },
+      {
+        "text": "心衰竭造成的高容積型低血鈉症（hypervolemic hyponatremia）其尿液中的鈉濃度通常大於 20 mM",
+        "is_correct": true
+      },
+      {
+        "text": "燒傷可能造成尿液中鈉濃度低於 20 mM的低容積型低血鈉",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "4",
@@ -927,10 +1779,22 @@
     "subject": "腎臟科",
     "question": "40歲男性有高血壓、慢性腎病，有時精神倦怠，血中肌酸酐（creatinine）6.5 mg/dL、血色素11.6 g/dL、鐵素（ferritin）105 ng/mL、維生素B12 150 pg/mL、葉酸（folate）1.2 ng/mL。對此病人，使用下列何者治療最不適當？",
     "choices": [
-      "紅血球生長素",
-      "鐵劑",
-      "維生素B12",
-      "葉酸"
+      {
+        "text": "紅血球生長素",
+        "is_correct": true
+      },
+      {
+        "text": "鐵劑",
+        "is_correct": false
+      },
+      {
+        "text": "維生素B12",
+        "is_correct": false
+      },
+      {
+        "text": "葉酸",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "22",
@@ -940,10 +1804,22 @@
     "subject": "腎臟科",
     "question": "52歲女性，全身倦怠、食慾不振，血中肌酸酐（creatinine）11.2 mg/dL，決定接受腎臟替代療法，目前下列何種治療有最差之5年存活率？",
     "choices": [
-      "HLA相符腎臟移植",
-      "HLA不相符腎臟移植",
-      "ABO血型不相符腎臟移植",
-      "血液透析"
+      {
+        "text": "HLA相符腎臟移植",
+        "is_correct": false
+      },
+      {
+        "text": "HLA不相符腎臟移植",
+        "is_correct": false
+      },
+      {
+        "text": "ABO血型不相符腎臟移植",
+        "is_correct": false
+      },
+      {
+        "text": "血液透析",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "23",
@@ -953,10 +1829,22 @@
     "subject": "腎臟科",
     "question": "45歲女性病人，接受腹膜透析，3天前腹痛，1天前透析液變混濁，今天至急診，透析液中的白血球356/μL，用抗生素治療3天後，透析液培養長出念珠菌（candidiasis）。下列何種處置最為適當？",
     "choices": [
-      "使用口服抗黴菌藥物",
-      "使用靜脈注射抗黴菌藥物",
-      "使用腹腔灌注抗黴菌藥物",
-      "拔除腹膜透析導管"
+      {
+        "text": "使用口服抗黴菌藥物",
+        "is_correct": false
+      },
+      {
+        "text": "使用靜脈注射抗黴菌藥物",
+        "is_correct": false
+      },
+      {
+        "text": "使用腹腔灌注抗黴菌藥物",
+        "is_correct": false
+      },
+      {
+        "text": "拔除腹膜透析導管",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "24",
@@ -966,10 +1854,22 @@
     "subject": "腎臟科",
     "question": "下列有關postobstructive diuresis的敘述，何者錯誤？",
     "choices": [
-      "發生在雙側或單側尿路完全阻塞，經過成功疏通的病人",
-      "尿液為低張含大量鹽分，可能導致高血鈉",
-      "致病機轉為排泄先前滯留體內的尿素，產生滲透壓利尿（osmotic diuresis）",
-      "靜脈輸液治療不宜補充＞每日尿液流失量，以免發生醫源性體液容積增加"
+      {
+        "text": "發生在雙側或單側尿路完全阻塞，經過成功疏通的病人",
+        "is_correct": true
+      },
+      {
+        "text": "尿液為低張含大量鹽分，可能導致高血鈉",
+        "is_correct": false
+      },
+      {
+        "text": "致病機轉為排泄先前滯留體內的尿素，產生滲透壓利尿（osmotic diuresis）",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈輸液治療不宜補充＞每日尿液流失量，以免發生醫源性體液容積增加",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "25",
@@ -979,10 +1879,22 @@
     "subject": "腎臟科",
     "question": "一位28歲女性，這兩年來有頭暈及容易疲倦的症狀，且越來越嚴重而住院治療。入院前八個月，因症狀持續加重，於某醫學中心發現血色素9 g/dL，血球容積92.5 fL，白血球及血小板數目正常，當時肌酸酐為1.3mg/dL。住院後血壓140/90 mmHg，脈搏76/分鐘，心臟無雜音，下肢輕微水腫，實驗室檢查發現肌酸酐增至2.4 mg/dL，血色素8.5 g/dL，血清儲鐵蛋白（ferritin）591 ng/mL，鐵172 μg/dL，鐵結合總容量為190 μg/dL，\f大便潛血反應為陰性，尿液檢查無異常，下列何者為此病人腎功能惡化最可能之病變？",
     "choices": [
-      "rapidly progressive glomerulonephritis",
-      "thrombotic microaniopathy",
-      "chronic tubulointerstitial disorders",
-      "hypertensive nephrosclerosis"
+      {
+        "text": "rapidly progressive glomerulonephritis",
+        "is_correct": false
+      },
+      {
+        "text": "thrombotic microaniopathy",
+        "is_correct": false
+      },
+      {
+        "text": "chronic tubulointerstitial disorders",
+        "is_correct": true
+      },
+      {
+        "text": "hypertensive nephrosclerosis",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "26",
@@ -992,10 +1904,22 @@
     "subject": "腎臟科",
     "question": "有關慢性腎臟病的治療，下列何者正確？",
     "choices": [
-      "若患者合併高血壓，其降血壓藥物首選為乙型阻斷劑（β-blocker）",
-      "若患者合併退化關節炎，可使用非類固醇類抗發炎藥物（NSAID）來止痛",
-      "患有重度蛋白尿之糖尿病慢性腎臟病患，最好合併使用血管張力素轉化酶抑制劑（ACEi）和血管張力素II型受體拮抗劑（ARB）來治療",
-      "患有蛋白尿之第4期慢性腎臟病患者，應採用低蛋白飲食療法"
+      {
+        "text": "若患者合併高血壓，其降血壓藥物首選為乙型阻斷劑（β-blocker）",
+        "is_correct": false
+      },
+      {
+        "text": "若患者合併退化關節炎，可使用非類固醇類抗發炎藥物（NSAID）來止痛",
+        "is_correct": false
+      },
+      {
+        "text": "患有重度蛋白尿之糖尿病慢性腎臟病患，最好合併使用血管張力素轉化酶抑制劑（ACEi）和血管張力素II型受體拮抗劑（ARB）來治療",
+        "is_correct": false
+      },
+      {
+        "text": "患有蛋白尿之第4期慢性腎臟病患者，應採用低蛋白飲食療法",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "27",
@@ -1005,10 +1929,22 @@
     "subject": "腎臟科",
     "question": "有關慢性腎臟病-礦物質骨病變（chronic kidney disease-mineral bone disorder）的鈣磷異常，下列敘述何者錯誤？",
     "choices": [
-      "腎絲球過濾率下降會使尿磷排出減少，進而促進副甲狀腺素（PTH）和纖維母細胞生長因子23（fibroblastgrowth factor 23, FGF-23）生成",
-      "纖維母細胞生長因子23（FGF-23）增加，會抑制活性維他命D3生成，促進低血鈣",
-      "纖維母細胞生長因子23（FGF-23）會刺激副甲狀腺素生成",
-      "血清纖維母細胞生長因子23（FGF-23）值過高，與慢性腎臟病病患的死亡率有正相關"
+      {
+        "text": "腎絲球過濾率下降會使尿磷排出減少，進而促進副甲狀腺素（PTH）和纖維母細胞生長因子23（fibroblastgrowth factor 23, FGF-23）生成",
+        "is_correct": false
+      },
+      {
+        "text": "纖維母細胞生長因子23（FGF-23）增加，會抑制活性維他命D3生成，促進低血鈣",
+        "is_correct": false
+      },
+      {
+        "text": "纖維母細胞生長因子23（FGF-23）會刺激副甲狀腺素生成",
+        "is_correct": true
+      },
+      {
+        "text": "血清纖維母細胞生長因子23（FGF-23）值過高，與慢性腎臟病病患的死亡率有正相關",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "28",
@@ -1018,10 +1954,22 @@
     "subject": "腎臟科",
     "question": "一位74歲男性有高血壓病史，因喘、下肢水腫住院，住院檢查發現左心室功能正常，也無心律不整，給予利尿劑與抗高血壓藥物治療，數日後卻出現反覆不省人事，無脈搏、無血壓，需電擊治療，心電圖監測紀錄如下所示，最可能合併何種電解質異常？",
     "choices": [
-      "低血鈉症（hyponatremia）",
-      "高血鉀症（hyperkalemia）",
-      "高血鈣症（hypercalcemia）",
-      "低血鉀症（hypokalemia）"
+      {
+        "text": "低血鈉症（hyponatremia）",
+        "is_correct": false
+      },
+      {
+        "text": "高血鉀症（hyperkalemia）",
+        "is_correct": false
+      },
+      {
+        "text": "高血鈣症（hypercalcemia）",
+        "is_correct": false
+      },
+      {
+        "text": "低血鉀症（hypokalemia）",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031412/Scanned_File/QUE-031412.png",
     "session": "109寒期",
@@ -1032,10 +1980,22 @@
     "subject": "腎臟科",
     "question": "承上題，當給予1～2 g硫化鎂（magnesium sulfate）滴注後仍出現反覆不省人事與上述心電圖時，下列處置何者最適當？",
     "choices": [
-      "amiodarone 150 mg滴注IVF",
-      "lidocaine 50 mg靜注IV",
-      "isoproterenol滴注IVF加速心跳至100～120次/分",
-      "暫時性節律器心跳維持70次/分"
+      {
+        "text": "amiodarone 150 mg滴注IVF",
+        "is_correct": false
+      },
+      {
+        "text": "lidocaine 50 mg靜注IV",
+        "is_correct": false
+      },
+      {
+        "text": "isoproterenol滴注IVF加速心跳至100～120次/分",
+        "is_correct": true
+      },
+      {
+        "text": "暫時性節律器心跳維持70次/分",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "63",

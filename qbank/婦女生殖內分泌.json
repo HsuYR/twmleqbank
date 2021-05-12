@@ -1,0 +1,1473 @@
+[{
+    "subject": "婦女生殖內分泌",
+    "question": "不孕症婦女接受試管嬰兒治療，打human chorionic gonadotropin（hCG）誘導排卵後，多久進行取卵最適當？",
+    "choices": [{
+        "text": "12至14小時",
+        "is_correct": false
+    }, {
+        "text": "24至26小時",
+        "is_correct": false
+    }, {
+        "text": "34至36小時",
+        "is_correct": true
+    }, {
+        "text": "50至56小時",
+        "is_correct": false
+    }],
+    "session": "105寒期",
+    "no": "35",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於卵巢過度刺激症候群（ovarian hyperstimulation syndrome）之敘述，下列何者正確？",
+    "choices": [{
+        "text": "注射human chorionic gonadotropin時，血液中的動情素濃度愈高者，愈不會發生卵巢過度刺激症候群",
+        "is_correct": false
+    }, {
+        "text": "為降低卵巢過度刺激症候群的發生，可考慮將胚胎冷凍",
+        "is_correct": true
+    }, {
+        "text": "卵巢過度刺激症候群會有腹脹、呼吸困難、腹水等症狀，不會有生命危險",
+        "is_correct": false
+    }, {
+        "text": "多囊性卵巢婦女較不會產生卵巢過度刺激症候群",
+        "is_correct": false
+    }],
+    "session": "105寒期",
+    "no": "36",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "50歲婦女，6年前因子宮肌瘤切除子宮，主訴心悸、熱潮紅、失眠，血液中FSH濃度50mIU/mL，最適當的藥物治療為：",
+    "choices": [{
+        "text": "雌激素",
+        "is_correct": true
+    }, {
+        "text": "黃體素",
+        "is_correct": false
+    }, {
+        "text": "雌激素合併黃體素",
+        "is_correct": false
+    }, {
+        "text": "雄性素",
+        "is_correct": false
+    }],
+    "session": "105寒期",
+    "no": "37",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "胎盤是內分泌器官，能合成不同的類固醇激素，但胎盤缺乏何種酶，在合成動情素或黃體素時，其前置物（precusors）必經由胎兒或母親提供？",
+    "choices": [{
+        "text": "P450 aromatase",
+        "is_correct": false
+    }, {
+        "text": "3-β-OH dehydrogenase",
+        "is_correct": false
+    }, {
+        "text": "P450c 17（17-hydroxylation & 17～20 desmolase）",
+        "is_correct": true
+    }, {
+        "text": "21α-hydroxylase",
+        "is_correct": false
+    }],
+    "session": "105寒期",
+    "no": "39",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "想要受孕，下列何者是推算同房時間最好的方法？",
+    "choices": [{
+        "text": "基礎體溫表溫度改變的時間",
+        "is_correct": false
+    }, {
+        "text": "尿液測 LH（luteinizing hormone）",
+        "is_correct": true
+    }, {
+        "text": "血清中progesterone濃度",
+        "is_correct": false
+    }, {
+        "text": "子宮頸分泌物變多，變稀時",
+        "is_correct": false
+    }],
+    "session": "105寒期",
+    "no": "40",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "34歲婦女，不孕症5年，經檢查發現雙側輸卵管水腫（hydrosalpinx），卵巢功能正常，先生精液檢查正常，下一步應建議她做何治療？",
+    "choices": [{
+        "text": "人工授精",
+        "is_correct": false
+    }, {
+        "text": "打排卵針增加懷孕機會",
+        "is_correct": false
+    }, {
+        "text": "吃排卵藥增加懷孕機會",
+        "is_correct": false
+    }, {
+        "text": "腹腔鏡輸卵管整型、造口或切除手術",
+        "is_correct": true
+    }],
+    "session": "105暑期",
+    "no": "35",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "停經後，婦女體內何種荷爾蒙不再合成及分泌？",
+    "choices": [{
+        "text": "雌激素（estrogen）",
+        "is_correct": false
+    }, {
+        "text": "雄性素（androgen）",
+        "is_correct": false
+    }, {
+        "text": "黃體素（progesterone）",
+        "is_correct": true
+    }, {
+        "text": "黃體化激素（LH）",
+        "is_correct": false
+    }],
+    "session": "105暑期",
+    "no": "36",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "58歲婦女，停經2年，無婦科開刀病史，無熱潮紅，心悸症狀，但會有陰部乾澀，性交疼痛的困擾，其最適當的治療為：",
+    "choices": [{
+        "text": "口服大豆異黃酮",
+        "is_correct": false
+    }, {
+        "text": "口服雌激素與黃體素",
+        "is_correct": false
+    }, {
+        "text": "口服雌激素",
+        "is_correct": false
+    }, {
+        "text": "陰部雌激素局部使用",
+        "is_correct": true
+    }],
+    "session": "105暑期",
+    "no": "37",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "25歲女性，3天前胚胎植入，因呼吸不適至急診求診，超音波下可見雙側卵巢皆大於8公分，大量腹水，病患主訴尿量減少。下\f列敘述何者最不正確？",
+    "choices": [{
+        "text": "應趕快給予利尿劑",
+        "is_correct": true
+    }, {
+        "text": "在輸液選擇方面，saline優於lactated Ringer's solution",
+        "is_correct": false
+    }, {
+        "text": "臥床可降低卵巢扭轉的風險",
+        "is_correct": false
+    }, {
+        "text": "若病患成功懷孕，症狀可能加重",
+        "is_correct": false
+    }],
+    "session": "105暑期",
+    "no": "38",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "24歲女性，主訴半年無月經，雙側乳房有白色分泌物，病患主訴無性經驗。下列檢查何者最不適當？",
+    "choices": [{
+        "text": "TSH（thyroid stimulating hormone）",
+        "is_correct": false
+    }, {
+        "text": "prolactin",
+        "is_correct": false
+    }, {
+        "text": "詳細的藥物史",
+        "is_correct": false
+    }, {
+        "text": "FSH（follicle stimulating hormone）",
+        "is_correct": true
+    }],
+    "session": "105暑期",
+    "no": "39",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "先天性腎上腺增生症（congenital adrenal hyperplasia, CAH）的遺傳模式為：",
+    "choices": [{
+        "text": "體染色體顯性遺傳",
+        "is_correct": false
+    }, {
+        "text": "體染色體隱性遺傳",
+        "is_correct": true
+    }, {
+        "text": "性聯遺傳",
+        "is_correct": false
+    }, {
+        "text": "性染色體異常",
+        "is_correct": false
+    }],
+    "session": "105暑期",
+    "no": "40",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "34歲女性，身高152公分，體重96公斤，未曾有過性經驗，因陰道出血半年前來求診，據她敘述出血量時多時少，曾看過幾家醫院和診所，並接受荷爾蒙治療，未見效。初經11歲，頭幾年月經規則且正常，往後體重逐漸增加，月經不規則，常數月來一次，每次經量多，經期長。經檢查血壓90/60 mmHg，脈搏90下/min，體溫37℃，臉色蒼白，Hb 5.5 g/dL，腹部超音波顯示子宮稍大，子宮內膜增厚不規則約3.2 cm，雙側附屬物未看到，欲內診（骨盆腔檢查）時，發現處女膜完整，此時下列處置何者為佳？",
+    "choices": [{
+        "text": "給予高劑量雌激素（estrogen）以達止血效果",
+        "is_correct": false
+    }, {
+        "text": "給予高劑量黃體素（progesterone）以達止血效果",
+        "is_correct": false
+    }, {
+        "text": "建議接受子宮內膜切片",
+        "is_correct": true
+    }, {
+        "text": "給予GnRH agonist以達止血效果",
+        "is_correct": false
+    }],
+    "session": "105暑期",
+    "no": "53",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "承上題，下列何者是較不可能之診斷？",
+    "choices": [{
+        "text": "子宮內膜增生（endometrial hyperplasia）",
+        "is_correct": false
+    }, {
+        "text": "子宮內膜異位症（endometriosis）",
+        "is_correct": true
+    }, {
+        "text": "子宮內膜癌（endometrial cancer）",
+        "is_correct": false
+    }, {
+        "text": "子宮黏膜下肌瘤（submucous myoma）或息肉（polyp）",
+        "is_correct": false
+    }],
+    "session": "105暑期",
+    "no": "54",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "52歲女性，身高160公分，體重58公斤，主訴失眠、熱潮紅及焦慮，骨質密度掃描呈現骨質稀少（osteopenia），最近的一次月經為兩年前，之前沒有手術史或是內科病史。給與此病患荷爾蒙治療最適合的理由為下列何者？",
+    "choices": [{
+        "text": "降低阿茲海默症之風險",
+        "is_correct": false
+    }, {
+        "text": "降低靜脈栓塞疾病之風險",
+        "is_correct": false
+    }, {
+        "text": "降低骨質疏鬆之風險",
+        "is_correct": true
+    }, {
+        "text": "降低子宮內膜癌之風險",
+        "is_correct": false
+    }],
+    "session": "106寒期",
+    "no": "30",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於卵巢濾泡雙細胞雙性腺刺激素系統（two-cell，two-gonadotropin system）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "濾泡中顆粒細胞（granulosa cells）的細胞膜上有FSH受體（receptor）",
+        "is_correct": false
+    }, {
+        "text": "顆粒細胞中的芳香環轉化酶（aromatase）活性是受FSH的刺激才活化",
+        "is_correct": false
+    }, {
+        "text": "卵巢濾泡在排卵之後，黃體化的顆粒細胞之細胞膜上會同時出現FSH受體與LH受體",
+        "is_correct": true
+    }, {
+        "text": "卵巢濾泡周圍的卵囊膜細胞（theca cells）只有LH受體",
+        "is_correct": false
+    }],
+    "session": "106寒期",
+    "no": "46",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者不是由α-subunit與β-subunit組合而成的激素？",
+    "choices": [{
+        "text": "GnRH（gonadotropin releasing hormone）",
+        "is_correct": true
+    }, {
+        "text": "TSH（thyroid stimulating hormone）",
+        "is_correct": false
+    }, {
+        "text": "FSH（follicle stimulating hormone）",
+        "is_correct": false
+    }, {
+        "text": "LH（luteinizing hormone）",
+        "is_correct": false
+    }],
+    "session": "106寒期",
+    "no": "47",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於激素（hormone）的激動劑（agonist）與抑制劑（antagonist）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "激動劑（agonist）與抑制劑（antagonist）都須先與受體結合，才能啟動後續之作用",
+        "is_correct": false
+    }, {
+        "text": "抑制劑（antagonist）與受體結合後，會阻斷受體訊息的傳遞",
+        "is_correct": false
+    }, {
+        "text": "Clomiphene是雌激素的抑制劑（antagonist），會抑制子宮內膜的生長",
+        "is_correct": false
+    }, {
+        "text": "Tamoxifen是雌激素的抑制劑（antagonist），會抑制子宮內膜的生長",
+        "is_correct": true
+    }],
+    "session": "106寒期",
+    "no": "48",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "35歲女性，因為月經1年沒來前來求診，1年半前自然產下第三胎，產後未哺餵母乳，至今也仍無月經來潮。進一步問診後，得知生產時因大量出血合併休克曾接受緊急輸血。下列何項檢驗項目最無法幫助確診？",
+    "choices": [{
+        "text": "LH",
+        "is_correct": false
+    }, {
+        "text": "FSH",
+        "is_correct": false
+    }, {
+        "text": "Prolactin",
+        "is_correct": false
+    }, {
+        "text": "CBC",
+        "is_correct": true
+    }],
+    "session": "106寒期",
+    "no": "49",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關排卵藥clomiphene citrate敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "主要可以治療促性腺激素低下型低性腺功能症（hypogonadotropic hypogonadism WHO group I）患者的無排卵現象",
+        "is_correct": true
+    }, {
+        "text": "選擇性雌激素接受器調節劑，可以影響雌激素負回饋反應，刺激濾泡發育",
+        "is_correct": false
+    }, {
+        "text": "治療的副作用可能包括子宮頸黏液分泌減少、子宮內膜生長受損以及多胞胎妊娠",
+        "is_correct": false
+    }, {
+        "text": "某些病患治療後仍然無法排卵時，可以結合胰島素增敏劑metformin，增加排卵的機會",
+        "is_correct": false
+    }],
+    "session": "106寒期",
+    "no": "50",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者非為透納氏症候群Turner syndrome之特徵？",
+    "choices": [{
+        "text": "身材短小",
+        "is_correct": false
+    }, {
+        "text": "無月經",
+        "is_correct": false
+    }, {
+        "text": "不孕症",
+        "is_correct": false
+    }, {
+        "text": "青春痘增生",
+        "is_correct": true
+    }],
+    "session": "106寒期",
+    "no": "51",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者並非口服避孕藥（oral contraceptive pills）之絕對禁忌症？",
+    "choices": [{
+        "text": "原因尚不明之陰道出血",
+        "is_correct": false
+    }, {
+        "text": "長期每天抽2包菸的40歲女性",
+        "is_correct": false
+    }, {
+        "text": "過去健檢時肝指數曾經稍高，後續門診追蹤皆正常，也無肝臟疾病",
+        "is_correct": true
+    }, {
+        "text": "過去曾有肺栓塞",
+        "is_correct": false
+    }],
+    "session": "106寒期",
+    "no": "52",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列那一種方法無法確定是否排卵？",
+    "choices": [{
+        "text": "基礎體溫",
+        "is_correct": false
+    }, {
+        "text": "血液黃體素",
+        "is_correct": false
+    }, {
+        "text": "超音波",
+        "is_correct": false
+    }, {
+        "text": "血液雌激素",
+        "is_correct": true
+    }],
+    "session": "106暑期",
+    "no": "34",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "21歲女性，月經來之後兩週，突然下腹疼痛，下列何者為最有可能的原因？",
+    "choices": [{
+        "text": "子宮內膜異位",
+        "is_correct": false
+    }, {
+        "text": "子宮外孕",
+        "is_correct": false
+    }, {
+        "text": "盲腸炎",
+        "is_correct": false
+    }, {
+        "text": "排卵",
+        "is_correct": true
+    }],
+    "session": "106暑期",
+    "no": "45",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於腦下垂體泌乳激素腺瘤（pituitary prolactin adenoma）在懷孕期間的追蹤之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "腺瘤在懷孕期間，可以檢查血中泌乳激素值來追蹤",
+        "is_correct": true
+    }, {
+        "text": "可利用視野檢查來評估",
+        "is_correct": true
+    }, {
+        "text": "可利用MRI影像檢查來評估",
+        "is_correct": true
+    }, {
+        "text": "在懷孕期間若有頭痛與視覺障礙等症狀，須進一步小心評估",
+        "is_correct": true
+    }],
+    "session": "106暑期",
+    "no": "49",
+    "answer": "A,B,C,D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於人類絨毛膜性腺刺激素（human chorionic gonadotropin, hCG）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "作用於黃體細胞的LH受體上",
+        "is_correct": false
+    }, {
+        "text": "由已經著床之胚胎的滋養層細胞（trophoblasts）所製造與分泌",
+        "is_correct": false
+    }, {
+        "text": "在體內代謝的半衰期比LH短",
+        "is_correct": true
+    }, {
+        "text": "黃體救援（luteal rescue）最主要的激素",
+        "is_correct": false
+    }],
+    "session": "106暑期",
+    "no": "50",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "35歲習慣性流產女性 G3P0SA3，因為不孕症合併月經異常至門診求診，月經週期第3天賀爾蒙指數濾泡刺激激素（FSH）5.4 IU/L，黃體化激素（LH）3.0 IU/L，甲狀腺刺激激素（TSH）5.87 mIU/L以及泌乳激素（PRL）15 ng/mL，其他檢查包括抗甲狀腺抗體陽性以及甲狀腺素free T4正常。下列何者是首先建議的治療方法？",
+    "choices": [{
+        "text": "人工授精（IUI）",
+        "is_correct": false
+    }, {
+        "text": "試管嬰兒（IVF）合併植入前胚胎鑑定",
+        "is_correct": false
+    }, {
+        "text": "甲狀腺素levothyroxine治療",
+        "is_correct": true
+    }, {
+        "text": "Bromocriptine減少泌乳激素合成",
+        "is_correct": false
+    }],
+    "session": "106暑期",
+    "no": "52",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者最不可能是卵巢過度刺激症候群（ovarian hyperstimulation syndrome）的危險因子？",
+    "choices": [{
+        "text": "年輕病患",
+        "is_correct": false
+    }, {
+        "text": "BMI小於18.5",
+        "is_correct": false
+    }, {
+        "text": "Antral follicle count小於4",
+        "is_correct": true
+    }, {
+        "text": "當次週期成功懷孕",
+        "is_correct": false
+    }],
+    "session": "106暑期",
+    "no": "53",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "若一位女性的生理月經週期是28天，著床窗期（implantation window）最有可能是在月經來潮後的第幾天？",
+    "choices": [{
+        "text": "12～15天",
+        "is_correct": false
+    }, {
+        "text": "16～19天",
+        "is_correct": false
+    }, {
+        "text": "20～24天",
+        "is_correct": true
+    }, {
+        "text": "25～27天",
+        "is_correct": false
+    }],
+    "session": "106暑期",
+    "no": "54",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者為最常見造成異卵雙胞（dizygotic twins）的原因？",
+    "choices": [{
+        "text": "高齡產婦（advanced maternal age）",
+        "is_correct": false
+    }, {
+        "text": "人工生殖技術（assisted reproductive technology）",
+        "is_correct": true
+    }, {
+        "text": "多產次的婦女（high parity）",
+        "is_correct": false
+    }, {
+        "text": "種族（racial predisposition）",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "28",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於骨質密度之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "約於35～40歲時達到最強最硬，之後逐漸流失",
+        "is_correct": true
+    }, {
+        "text": "停經後2～3年，流失最快最多",
+        "is_correct": false
+    }, {
+        "text": "70歲以上，骨質流失速率女性比男性快",
+        "is_correct": true
+    }, {
+        "text": "抗地心引力之運動，可以增加骨質密度",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "45",
+    "answer": "A,C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於泌乳激素（prolactin）血中濃度與臨床症狀關係之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "血中濃度為2～30 ng/mL時，若無其他機能異常者會正常排卵",
+        "is_correct": false
+    }, {
+        "text": "隨著血中濃度逐漸升高，可能造成不排卵、無月經及黃體機能不足",
+        "is_correct": false
+    }, {
+        "text": "泌乳激素（prolactin）的血中濃度會有晝夜節律變化，在晚上10時至凌晨2時達到最低點",
+        "is_correct": true
+    }, {
+        "text": "血中濃度為100 ng/mL以上時，臨床上會出現無月經",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "46",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "施行人工輔助生殖技術（ART）時，發生黃體功能不足（Luteal phase defect）的原因不包含：",
+    "choices": [{
+        "text": "排卵期間無法產生足夠的促性腺激素和黃體素",
+        "is_correct": false
+    }, {
+        "text": "取卵手術時，破壞卵巢顆粒細胞",
+        "is_correct": false
+    }, {
+        "text": "使用陰道黃體素治療取代肌肉注射",
+        "is_correct": true
+    }, {
+        "text": "使用的藥物抑制內生性黃體生成激素（LH）的生成",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "47",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "30歲G0P0的女性，因為結婚三年皆沒有避孕，和丈夫想進行不孕症諮詢。自從11歲初經之後，月經皆規則28天一次，每次經期持續5天且沒有經痛。抽血檢查及輸卵管攝影（hysterosalpingography）結果皆正常，量測的antral follicle count為10。丈夫的精液分析（semen analysis）結果為：semen volume 3 ml，spermconcentration 11,000,000/ml，total motility 38%，normal forms 6%。建議他們優先接受那一種醫療輔助生殖（assisted reproductive technologies）最為合理？",
+    "choices": [{
+        "text": "試管嬰兒（in vitro fertilization）",
+        "is_correct": false
+    }, {
+        "text": "卵子捐贈",
+        "is_correct": false
+    }, {
+        "text": "人工授精（intrauterine insemination）",
+        "is_correct": true
+    }, {
+        "text": "clomiphene citrate",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "49",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "30歲G3P0A3的女性，因為三次小於10週的習慣性流產，和丈夫一同前來求診。她之前做過唯一一次的檢查是自體抗體：lupus anticoagulant陰性，anti-β2-glycoprotein 1 Ab陰性，anticaridiolipin IgG high positive。這對夫妻想知道習慣性流產的原因。下列何項建議最不適合？",
+    "choices": [{
+        "text": "告知太太有抗磷脂質症候群（antiphospholipid syndrome），應立即開始服用aspirin",
+        "is_correct": true
+    }, {
+        "text": "安排經陰道超音波、子宮輸卵管攝影或子宮腔鏡",
+        "is_correct": false
+    }, {
+        "text": "抽血檢查甲狀腺功能",
+        "is_correct": false
+    }, {
+        "text": "12週後再追蹤一次自體抗體濃度",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "50",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "王小姐，30歲，最近發現聲音變粗，陰蒂變大，且愈來愈嚴重。下列疾病何者最不可能？",
+    "choices": [{
+        "text": "分泌男性素的卵巢腫瘤",
+        "is_correct": false
+    }, {
+        "text": "多囊性卵巢囊腫",
+        "is_correct": true
+    }, {
+        "text": "腎上腺腫瘤",
+        "is_correct": false
+    }, {
+        "text": "庫欣氏症（Cushing syndrome）",
+        "is_correct": false
+    }],
+    "session": "107寒期",
+    "no": "53",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "承上題，電腦斷層顯示如下圖，抽血檢驗睪固酮（testosterone）為250 ng/dL，DHEAS為800 μg/dL，則診斷最有可能為：",
+    "choices": [{
+        "text": "分泌男性素的卵巢腫瘤",
+        "is_correct": false
+    }, {
+        "text": "多囊性卵巢腫瘤",
+        "is_correct": false
+    }, {
+        "text": "腎上腺腫瘤",
+        "is_correct": true
+    }, {
+        "text": "庫欣氏症（Cushing syndrome）",
+        "is_correct": false
+    }],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016164/Scanned_File/QUE-016164.png",
+    "session": "107寒期",
+    "no": "54",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "一位23歲年輕女性，因為青春痘及手腳多毛來求診，發現她的月經也很不規則，每年只有2～3次。抽血檢查發現她的FSH於正常值邊緣，但LH值卻很高，最可能的診斷為何？",
+    "choices": [{
+        "text": "testicular feminization syndrome",
+        "is_correct": false
+    }, {
+        "text": "polycystic ovarian syndrome",
+        "is_correct": true
+    }, {
+        "text": "Sheehan syndrome",
+        "is_correct": false
+    }, {
+        "text": "ovarian theca cell tumor",
+        "is_correct": false
+    }],
+    "session": "104寒期",
+    "no": "42",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "女孩進入青春期，一般最先開始發育的部位為：",
+    "choices": [{
+        "text": "陰毛（pubic hair）",
+        "is_correct": false
+    }, {
+        "text": "乳房（breast）",
+        "is_correct": true
+    }, {
+        "text": "快速生長（height spurt）",
+        "is_correct": true
+    }, {
+        "text": "初經（menarche）",
+        "is_correct": false
+    }],
+    "session": "104寒期",
+    "no": "43",
+    "answer": "B,C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關GnRH促進劑（gonadotropin-releasing hormone agonist），下列敘述何者最正確？",
+    "choices": [{
+        "text": "半衰期比內生性GnRH短",
+        "is_correct": false
+    }, {
+        "text": "作用在腦下垂體",
+        "is_correct": true
+    }, {
+        "text": "無法作用在子宮內膜",
+        "is_correct": false
+    }, {
+        "text": "可皮下、肌肉注射及口服投予",
+        "is_correct": false
+    }],
+    "session": "104寒期",
+    "no": "44",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於基礎體溫（basal body temperature），下列敘述何者正確？",
+    "choices": [{
+        "text": "單相（monophasic）體溫確定為排卵",
+        "is_correct": false
+    }, {
+        "text": "懷孕時，雌激素使體溫維持高溫",
+        "is_correct": false
+    }, {
+        "text": "服用synthetic progestational agent後，基礎體溫會升高",
+        "is_correct": true
+    }, {
+        "text": "根據基礎體溫表，最高受孕機率是在高溫期後2天",
+        "is_correct": false
+    }],
+    "session": "104寒期",
+    "no": "45",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者不是停經後婦女接受荷爾蒙治療的禁忌症（contraindication）？",
+    "choices": [{
+        "text": "未確定診斷之子宮出血",
+        "is_correct": false
+    }, {
+        "text": "肝臟疾病",
+        "is_correct": false
+    }, {
+        "text": "乳癌",
+        "is_correct": false
+    }, {
+        "text": "高血壓",
+        "is_correct": true
+    }],
+    "session": "104寒期",
+    "no": "46",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "一位24歲女性月經不規則來門診求診，懷孕試驗呈陰性反應，荷爾蒙檢查發現甲狀腺、泌乳激素正常，但是黃體激素大於濾泡激素2倍，超音波發現為多囊性卵巢，要如何治療？",
+    "choices": [{
+        "text": "服用避孕藥",
+        "is_correct": true
+    }, {
+        "text": "給予性腺刺激素（gonadotropin）",
+        "is_correct": false
+    }, {
+        "text": "給予皮下注射降血糖藥物",
+        "is_correct": false
+    }, {
+        "text": "做子宮擴刮術（D & C）",
+        "is_correct": false
+    }],
+    "session": "104寒期",
+    "no": "47",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於人工生殖技術（assisted reproductive technology）之敘述，下列何者正確？",
+    "choices": [{
+        "text": "為增加懷孕率，植入的胚胎數越多越好",
+        "is_correct": true
+    }, {
+        "text": "所謂人工生殖技術是指經過取卵過程之相關治療",
+        "is_correct": true
+    }, {
+        "text": "預防FSH surge是人工生殖技術中很重要的一環",
+        "is_correct": true
+    }, {
+        "text": "誘導排卵時，GnRH-antagonist可抑制FSH surge",
+        "is_correct": true
+    }],
+    "session": "104暑期",
+    "no": "36",
+    "answer": "A,B,C,D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "女性生育能力與卵巢功能和年紀息息相關，下列何者正確？",
+    "choices": [{
+        "text": "20幾歲開始下降",
+        "is_correct": false
+    }, {
+        "text": "30幾歲開始下降",
+        "is_correct": true
+    }, {
+        "text": "40幾歲開始下降",
+        "is_correct": false
+    }, {
+        "text": "50幾歲開始下降",
+        "is_correct": false
+    }],
+    "session": "104暑期",
+    "no": "37",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關卵巢過度刺激症（OHSS），下列何者最正確？",
+    "choices": [{
+        "text": "發生機會和取卵數無關",
+        "is_correct": false
+    }, {
+        "text": "早發性OHSS和外生性hCG無關",
+        "is_correct": false
+    }, {
+        "text": "發現寡尿時，趕快給予利尿劑",
+        "is_correct": false
+    }, {
+        "text": "腹水造成壓迫或呼吸困難，需抽掉腹水",
+        "is_correct": true
+    }],
+    "session": "104暑期",
+    "no": "38",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "青春期少女的雌二醇（estradiol），主要源自：",
+    "choices": [{
+        "text": "卵巢",
+        "is_correct": true
+    }, {
+        "text": "脂肪",
+        "is_correct": false
+    }, {
+        "text": "肝臟",
+        "is_correct": false
+    }, {
+        "text": "腎上腺",
+        "is_correct": false
+    }],
+    "session": "104暑期",
+    "no": "39",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "一位34歲女性，G0（gravida），已嘗試懷孕3年都未能成功受孕。她有多年骨盆腔疼痛及嚴重的性交疼痛（dyspareunia）。骨盆腔檢查發現nodular and tender uterosacral ligament，子宮後傾（retroverted）但大小正常，以及右側附屬物腫塊。陰道超音波發現一個6公分的右側卵巢腫瘤。抽血檢查方面，CA 125指數上升。接下來最適當的處置為下列何者﹖",
+    "choices": [{
+        "text": "促性腺激素釋放荷爾蒙類似體（GnRH agonist）",
+        "is_correct": false
+    }, {
+        "text": "診斷性腹腔鏡手術（diagnostic laparoscopy）",
+        "is_correct": false
+    }, {
+        "text": "腹腔鏡卵巢囊腫切除術（laparoscopy with cystectomy）",
+        "is_correct": true
+    }, {
+        "text": "腹腔鏡右側卵巢切除術（laparoscopy and right oophorectomy）",
+        "is_correct": false
+    }],
+    "session": "104暑期",
+    "no": "40",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何項無法由簡單的精液檢查（semen analysis）得知？",
+    "choices": [{
+        "text": "精子活動力（sperm motility）",
+        "is_correct": false
+    }, {
+        "text": "精子濃度（sperm concentration）",
+        "is_correct": false
+    }, {
+        "text": "精子外觀正常比例（sperm morphology）",
+        "is_correct": false
+    }, {
+        "text": "精子穿透力（sperm penetration）",
+        "is_correct": true
+    }],
+    "session": "104暑期",
+    "no": "41",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "子宮內膜會受荷爾蒙之影響而於超音波掃描下有所變化，下圖中那個超音波圖形，其內膜之變化顯示患者目前之生理情況，最接近於排卵日？",
+    "choices": [],
+    "session": "107暑期",
+    "no": "29",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "一對不孕的夫婦，在初診時，第一步該做的是：",
+    "choices": [{
+        "text": "了解夫婦的病史包括：婚姻生活、性生活、月經病史及以前做過的檢查",
+        "is_correct": true
+    }, {
+        "text": "分析夫婦血液中的性荷爾蒙",
+        "is_correct": false
+    }, {
+        "text": "女性不孕的最大原因是輸卵管阻塞，所以安排子宮輸卵管攝影",
+        "is_correct": false
+    }, {
+        "text": "男性不孕的最大原因是精蟲製造過程異常，所以安排精液檢查",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "30",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "25歲女大學生，主訴半年無月經，病患主訴課業壓力大，外觀體毛細，皮膚偏黃，身高162公分，體重35公斤，關於此病患，下列敘述何者錯誤？",
+    "choices": [{
+        "text": "血中FSH及E2可見hypogonadotropic hypogonadism",
+        "is_correct": false
+    }, {
+        "text": "必要時可照會精神科",
+        "is_correct": false
+    }, {
+        "text": "使用clomiphene citrate可恢復月經",
+        "is_correct": true
+    }, {
+        "text": "增重對於月經恢復有幫忙",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "32",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於排卵前LH surge的生理效應之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "可以恢復卵子第一次減數分裂（meiosis I）的進行",
+        "is_correct": false
+    }, {
+        "text": "促進濾泡中顆粒細胞（granulose cells）的黃體化（luteinization）",
+        "is_correct": false
+    }, {
+        "text": "促進濾泡中顆粒細胞（granulose cells）製造及分泌前列腺素（prostaglandins）",
+        "is_correct": false
+    }, {
+        "text": "促進濾泡中顆粒細胞（granulose cells）製造及分泌雄性素（androgens）",
+        "is_correct": true
+    }],
+    "session": "107暑期",
+    "no": "46",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於胎兒性器官的分化之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "要有Y染色體並且有SRY基因，胎兒性器官才會發育成睪丸、輸精管、儲精囊與陰莖",
+        "is_correct": false
+    }, {
+        "text": "Sertoli細胞會製造及分泌AMH（antimullerian hormone）",
+        "is_correct": false
+    }, {
+        "text": "AMH會抑制Wolffian管的分化與生長",
+        "is_correct": true
+    }, {
+        "text": "Leydig細胞會製造及分泌testosterone",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "47",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "高泌乳激素血症（hyperprolactinemia）出現的症狀，下列何者相關性最小？",
+    "choices": [{
+        "text": "乳汁分泌",
+        "is_correct": false
+    }, {
+        "text": "月經異常",
+        "is_correct": false
+    }, {
+        "text": "噁心、嘔吐",
+        "is_correct": true
+    }, {
+        "text": "頭痛與視覺障礙",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "48",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關試管嬰兒療程中，胚胎培養與植入的敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "胚胎培養的初期（pre-compaction），建議培養基需要較多的丙酮酸（pyruvate）來模擬輸卵管的環境",
+        "is_correct": false
+    }, {
+        "text": "胚胎培養的後期（post-compaction），建議培養基需要較多非必需胺基酸（non-essential amino acids）來模擬子宮的環境",
+        "is_correct": true
+    }, {
+        "text": "當患者條件正常時，囊胚期胚胎植入相較於分裂中的胚胎植入有較高的著床率",
+        "is_correct": false
+    }, {
+        "text": "胚胎培養至囊胚期相較於分裂中的胚胎，有較高的機會沒有胚胎可以植入",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "49",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "依順序排列出精子成熟至受精的過程： 1.頂體反應（acrosomal reaction） 2.皮層反應（corticalreaction） 3.獲能（capacitation） 4.射精（ejaculation）",
+    "choices": [{
+        "text": "1234",
+        "is_correct": false
+    }, {
+        "text": "4321",
+        "is_correct": false
+    }, {
+        "text": "4312",
+        "is_correct": true
+    }, {
+        "text": "1243",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "50",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "clomiphene通常對下列那一種排卵異常的不孕症患者，誘發排卵的效果較差？",
+    "choices": [{
+        "text": "厭食症",
+        "is_correct": true
+    }, {
+        "text": "多囊性卵巢症候群",
+        "is_correct": false
+    }, {
+        "text": "泌乳激素過高",
+        "is_correct": false
+    }, {
+        "text": "不明原因不孕症",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "51",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "卵子生成過程中，胚泡崩解（germinal vesicle breakdown, GVBD）現象出現，代表減數分裂的那一個階\f段？",
+    "choices": [{
+        "text": "重新啟動減數分裂 I（meiosis I）",
+        "is_correct": true
+    }, {
+        "text": "完成減數分裂 I（meiosis I）",
+        "is_correct": false
+    }, {
+        "text": "完成減數分裂II（meiosis II）",
+        "is_correct": false
+    }, {
+        "text": "完成受精（fertilization）",
+        "is_correct": false
+    }],
+    "session": "107暑期",
+    "no": "52",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "20歲女性，第⼆性徵發育正常，有性經驗，來⾨診求診，主訴⽉經週期不規則，上次⽉經是兩個⽉前，最先安排什麼檢驗或檢查，可以得到最關鍵的訊息？",
+    "choices": [{
+        "text": "尿液懷孕試驗",
+        "is_correct": true
+    }, {
+        "text": "⾎液荷爾蒙檢查",
+        "is_correct": false
+    }, {
+        "text": "骨盆腔超⾳波檢查",
+        "is_correct": false
+    }, {
+        "text": "⼦宮鏡",
+        "is_correct": false
+    }],
+    "session": "108寒期",
+    "no": "31",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "腦下垂體泌乳激素瘤（prolactinoma）1.8公分併視野缺損，下列敘述何者最正確？",
+    "choices": [{
+        "text": "藥物治療⼀定有效",
+        "is_correct": false
+    }, {
+        "text": "⼿術切除後不會再發",
+        "is_correct": false
+    }, {
+        "text": "術後須定期追蹤",
+        "is_correct": true
+    }, {
+        "text": "⼿術後遺症為diabetes mellitus",
+        "is_correct": false
+    }],
+    "session": "108寒期",
+    "no": "32",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "35歲女性，下列何種情況比較有可能得⼦宮內膜癌？",
+    "choices": [{
+        "text": "使⽤⼝服避孕藥的性⼯作者",
+        "is_correct": false
+    }, {
+        "text": "有多囊性卵巢症及糖尿病的已婚婦女",
+        "is_correct": true
+    }, {
+        "text": "規則⽉經的運動選⼿",
+        "is_correct": false
+    }, {
+        "text": "裝有⼦宮內避孕器的婦女",
+        "is_correct": false
+    }],
+    "session": "108寒期",
+    "no": "33",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者為雙側發⽣機率最⾼的卵巢⽣殖細胞腫瘤？",
+    "choices": [{
+        "text": "Dysgerminoma",
+        "is_correct": true
+    }, {
+        "text": "Choriocarcinoma",
+        "is_correct": false
+    }, {
+        "text": "Yolk sac tumor",
+        "is_correct": false
+    }, {
+        "text": "Embryonal carcinoma",
+        "is_correct": false
+    }],
+    "session": "108寒期",
+    "no": "34",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關抗穆勒⽒賀爾蒙（antimüllerian hormone, AMH）敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "⽤來評估婦女卵⼦庫存量和卵巢刺激反應的檢測⼯具之⼀",
+        "is_correct": false
+    }, {
+        "text": "是由較⼩的卵泡例如竇前卵泡或竇卵泡（preantral and small antral follicles）所分泌",
+        "is_correct": false
+    }, {
+        "text": "AMH的值不受到性腺激素的影響（gonadotropin-independent）",
+        "is_correct": false
+    }, {
+        "text": "AMH值無法⽤來預測卵巢對於FSH刺激的反應",
+        "is_correct": true
+    }],
+    "session": "108寒期",
+    "no": "50",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關評估卵⼦庫存量（ovarian reserve）下降的結果，下列何者正確？",
+    "choices": [{
+        "text": "濾泡刺激素（follicle stimulating hormone, FSH）基礎值下降",
+        "is_correct": false
+    }, {
+        "text": "女性的卵⼦庫存量與年齡無關",
+        "is_correct": false
+    }, {
+        "text": "抗穆勒⽒賀爾蒙（antimüllerian hormone, AMH）下降",
+        "is_correct": true
+    }, {
+        "text": "超⾳波測量竇卵泡計數量（antral follicle count, AFC）上升",
+        "is_correct": false
+    }],
+    "session": "108寒期",
+    "no": "51",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "施⾏⼈⼯輔助⽣殖技術（ART）使⽤促性腺激素藥物刺激後，如何避免卵巢過度刺激症候群（OHSS）的發⽣，下列何者正確？",
+    "choices": [{
+        "text": "使⽤⼈類絨⽑促性腺激素（hCG）取代以黃體⽣成激素（LH）刺激排卵",
+        "is_correct": false
+    }, {
+        "text": "使⽤促性腺激素釋放激素促進劑（agonist）療程時，以促性腺激素釋放激素拮抗劑（antagonist）刺激排卵",
+        "is_correct": false
+    }, {
+        "text": "追蹤測量發現雌激素值過⾼時，不考慮完全停⽌促性腺激素藥物刺激",
+        "is_correct": false
+    }, {
+        "text": "取卵後使⽤Cabergoline可能可以抑制⾎管內⽪⽣⻑因⼦（VEGF）產⽣",
+        "is_correct": true
+    }],
+    "session": "108寒期",
+    "no": "52",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於多毛症（hirsutism）治療之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "使用medroxyprogesterone acetate治療",
+        "is_correct": true
+    }, {
+        "text": "使用flutamide治療",
+        "is_correct": false
+    }, {
+        "text": "使用spironolactone治療",
+        "is_correct": false
+    }, {
+        "text": "使用cyproterone acetate治療",
+        "is_correct": false
+    }],
+    "session": "108暑期",
+    "no": "50",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於高泌乳激素血症（hyperprolactinemia）與泌乳激素腺瘤（prolactin adenoma）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "bromocriptine是短效的dopamine-like藥物，須每日服用",
+        "is_correct": false
+    }, {
+        "text": "cabergoline是長效的dopamine-like藥物，每週服用2次",
+        "is_correct": false
+    }, {
+        "text": "服用bromocriptine與cabergoline，無法有效地縮小腫瘤",
+        "is_correct": true
+    }, {
+        "text": "服用bromocriptine與cabergoline，若泌乳激素（prolactin）的血中濃度降至正常範圍內達2年以上，可考慮停藥追蹤",
+        "is_correct": false
+    }],
+    "session": "108暑期",
+    "no": "51",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "試管嬰兒療程中以controlled ovarian stimulation得以同時使多顆濾泡成熟至排卵前的階段，最主要是因為額外給予下列那一種荷爾蒙？",
+    "choices": [{
+        "text": "Estradiol，因為高雌性素的環境，能持續支持長大中的濾泡",
+        "is_correct": false
+    }, {
+        "text": "FSH，因為高濃度的FSH，能持續支持長大中的濾泡",
+        "is_correct": true
+    }, {
+        "text": "LH，因為LH會增加steroid製造，讓較小的濾泡持續有生成雌性素的原料",
+        "is_correct": false
+    }, {
+        "text": "Estradiol，因為高濃度的雌性素會負回饋抑制下視丘，進而延遲LH surge讓更多濾泡可以生長",
+        "is_correct": false
+    }],
+    "session": "108暑期",
+    "no": "53",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關胚胎植入前基因診斷（preimplantation genetic diagnosis）技術的敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "須要配合試管嬰兒療程施行",
+        "is_correct": false
+    }, {
+        "text": "當結果是正常女性（46, XX）時，最有可能是培養處理時，母親細胞污染所造成",
+        "is_correct": true
+    }, {
+        "text": "可排除染色體異常的胚胎",
+        "is_correct": false
+    }, {
+        "text": "當婦女有習慣性流產的病史，可減少流產的機會",
+        "is_correct": false
+    }],
+    "session": "108暑期",
+    "no": "54",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "15歲就讀國三的女生因為至今仍無初經，由媽媽陪同前來看診。她身高140公分，體重35公斤。理學檢查發現無第二性徵，有明顯的蹼狀頸（webbed neck）。媽媽回憶女兒小時候因為先天性心臟病有接受過手術，也帶來過去做的染色體檢查報告，如圖所示。關於這名患者的狀況，下列敘述何者正確？",
+    "choices": [{
+        "text": "抽血驗FSH/LH/Estradiol的數值應是三者皆低",
+        "is_correct": false
+    }, {
+        "text": "應建議病患立即手術切除性腺，因有癌變的風險",
+        "is_correct": false
+    }, {
+        "text": "此疾病患者全無子宮發育",
+        "is_correct": false
+    }, {
+        "text": "此疾病患者若為鑲嵌染色體型（mosaicism）仍可能有正常月經",
+        "is_correct": true
+    }],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028785/Scanned_File/QUE-028785.png",
+    "session": "108暑期",
+    "no": "55",
+    "answer": "D"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "無精蟲症是男性不孕症原因之一，如精液檢驗發現無精蟲症時，下列何者為最佳做法？",
+    "choices": [{
+        "text": "解釋無精蟲症可能原因之後，休息數星期後再次檢驗精液或抽血檢查",
+        "is_correct": true
+    }, {
+        "text": "安排睪丸切片，用以分析阻塞性或非阻塞性無精蟲症",
+        "is_correct": false
+    }, {
+        "text": "安排單一精蟲注射試管嬰兒",
+        "is_correct": false
+    }, {
+        "text": "告知領養小孩是唯一選擇",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "36",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "有關無月經（amenorrhea）的敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "定義為2個月月經沒來",
+        "is_correct": true
+    }, {
+        "text": "須要先排除懷孕的可能性",
+        "is_correct": false
+    }, {
+        "text": "解剖結構上的異常造成無月經的比例相對較少",
+        "is_correct": false
+    }, {
+        "text": "高泌乳血症（hyperprolactinemia）有可能造成無月經",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "37",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "口服排卵藥clomiphene citrate，對下列何者一定無效？",
+    "choices": [{
+        "text": "Hypothalamic-pituitary dysfunction",
+        "is_correct": false
+    }, {
+        "text": "Hypothalamic-pituitary failure",
+        "is_correct": true
+    }, {
+        "text": "多囊性卵巢症候群",
+        "is_correct": false
+    }, {
+        "text": "子宮內膜異位症",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "38",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於性激素（sex hormones）的類固醇合成（steroidogenesis）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "雌激素（estrogens）、雄性素（androgens）與黃體素（progesterone）都是由膽固醇（cholesterol）轉化而來",
+        "is_correct": false
+    }, {
+        "text": "濾泡周圍的卵囊膜細胞（theca cells）製造雄性素（androgens）是經由FSH的刺激",
+        "is_correct": true
+    }, {
+        "text": "雌激素（estrogens）是由雄性素（androgens）在芳香環轉化酶（aromatase）的作用下轉化而來",
+        "is_correct": false
+    }, {
+        "text": "黃體素（progesterone）是含有21個碳原子的類固醇，雄性素（androgens）是含有19個碳原子的類固醇，而雌激素（estrogens）是含有18個碳原子的分子",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "49",
+    "answer": "B"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "激素（hormones）的激發生理功能，必須先作用於受體（receptor）上，關於激素與受體之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "類固醇激素（steroid hormones）的受體存在於細胞核中",
+        "is_correct": false
+    }, {
+        "text": "蛋白質性激素（peptide hormones）的受體存在於細胞膜上",
+        "is_correct": false
+    }, {
+        "text": "人類絨毛膜性腺刺激素（hCG）的受體存在於細胞核中",
+        "is_correct": true
+    }, {
+        "text": "甲狀腺激素（thyroid hormone）的受體存在於細胞核中",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "50",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "關於GnRH（gonadotropin releasing hormone）之敘述，下列何者錯誤？",
+    "choices": [{
+        "text": "GnRH無法刺激腦下垂體分泌FSH，只能刺激腦下垂體分泌LH",
+        "is_correct": true
+    }, {
+        "text": "GnRH的分泌是脈衝性的方式（pulsatile fashion），也就是每隔一段時間才會分泌一次",
+        "is_correct": false
+    }, {
+        "text": "GnRH是含有10個胺基酸的蛋白質分子",
+        "is_correct": false
+    }, {
+        "text": "GnRH在體內代謝的半衰期很短，只有2～4分鐘",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "51",
+    "answer": "A"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "造成不孕症的原因，下列何者相對上發生不孕症狀的比率較少？",
+    "choices": [{
+        "text": "排卵障礙",
+        "is_correct": false
+    }, {
+        "text": "輸卵管阻塞",
+        "is_correct": false
+    }, {
+        "text": "子宮肌瘤",
+        "is_correct": true
+    }, {
+        "text": "男性因素",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "52",
+    "answer": "C"
+}, {
+    "subject": "婦女生殖內分泌",
+    "question": "下列何者為不需取卵的人工輔助生殖技術？",
+    "choices": [{
+        "text": "人工授精（intrauterine insemination）",
+        "is_correct": true
+    }, {
+        "text": "試管嬰兒（in vitro fertilization）",
+        "is_correct": false
+    }, {
+        "text": "卵細胞質內精蟲注射（intracytoplasmic sperm injection）",
+        "is_correct": false
+    }, {
+        "text": "胚胎著床前基因診斷（preimplantation genetic diagnosis）",
+        "is_correct": false
+    }],
+    "session": "109寒期",
+    "no": "55",
+    "answer": "A"
+}]

@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "心臟內科",
     "question": "胡女士64歲，有糖尿病和瓣膜性心臟病病史，一週前拔牙後便開始高燒合併運動氣促，尿量減少。於急診室量得病人血壓為114/80 mmHg，體溫39℃，脈搏速128/min，呼吸速率26/min，且在病人心尖（apex）可聽到明顯之收縮期雜音，由以上初步病史與身體診察，那一個瓣膜最可能被感染？",
     "choices": [
-      "主動脈瓣",
-      "肺動脈瓣",
-      "二尖瓣",
-      "三尖瓣"
+      {
+        "text": "主動脈瓣",
+        "is_correct": false
+      },
+      {
+        "text": "肺動脈瓣",
+        "is_correct": false
+      },
+      {
+        "text": "二尖瓣",
+        "is_correct": true
+      },
+      {
+        "text": "三尖瓣",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "3",
@@ -16,10 +28,22 @@
     "subject": "心臟內科",
     "question": "65歲男性患者二週前因急性心肌梗塞住院接受冠狀動脈支架置放後出院，今日因為胸痛與輕微發燒（37.8攝氏度）而回診。沒有呼吸窘迫，肺部聽診沒有囉音，心臟沒有出現新的雜音、奔馬音（gallop）或心包摩擦音（friction rub）。初步檢查排除了感染情況，心電圖與出院之前做比較沒有變化。下列那一項治療較恰當？",
     "choices": [
-      "給予類固醇",
-      "給予高劑量aspirin",
-      "給予抗凝血劑（anticoagulant）",
-      "加重狹心症藥品（antianginal drugs）"
+      {
+        "text": "給予類固醇",
+        "is_correct": false
+      },
+      {
+        "text": "給予高劑量aspirin",
+        "is_correct": true
+      },
+      {
+        "text": "給予抗凝血劑（anticoagulant）",
+        "is_correct": false
+      },
+      {
+        "text": "加重狹心症藥品（antianginal drugs）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "4",
@@ -29,10 +53,22 @@
     "subject": "心臟內科",
     "question": "下列何種藥物，非例行使用於治療非ST節段上升急性冠心症（non-ST elevation acutecoronary syndrome）的病患？",
     "choices": [
-      "抗血小板藥物（aspirin，clopidogrel）",
-      "靜脈注射硝酸鹽（nitrate）",
-      "血栓溶解劑（fibrinolytic agent）",
-      "靜脈注射肝素（heparin or low molecular weight heparin）"
+      {
+        "text": "抗血小板藥物（aspirin，clopidogrel）",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈注射硝酸鹽（nitrate）",
+        "is_correct": false
+      },
+      {
+        "text": "血栓溶解劑（fibrinolytic agent）",
+        "is_correct": true
+      },
+      {
+        "text": "靜脈注射肝素（heparin or low molecular weight heparin）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "22",
@@ -42,10 +78,22 @@
     "subject": "心臟內科",
     "question": "對於急性心肌梗塞的患者，考慮給予血栓溶解藥物（fibrinolytic agents，如tPA）時，下列那一項不是絕對禁忌症？",
     "choices": [
-      "年齡超過75歲",
-      "曾有過腦出血病史",
-      "血壓超過180/110毫米汞柱",
-      "最近3個月曾有梗塞性腦中風病史"
+      {
+        "text": "年齡超過75歲",
+        "is_correct": true
+      },
+      {
+        "text": "曾有過腦出血病史",
+        "is_correct": false
+      },
+      {
+        "text": "血壓超過180/110毫米汞柱",
+        "is_correct": false
+      },
+      {
+        "text": "最近3個月曾有梗塞性腦中風病史",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "23",
@@ -55,10 +103,22 @@
     "subject": "心臟內科",
     "question": "僧帽瓣狹窄（mitral valve stenosis）最常見的心律不整為：",
     "choices": [
-      "心房早期收縮（atrial premature contraction）",
-      "心室早期收縮（ventricular premature contraction）",
-      "心房顫動（atrial fibrillation）",
-      "心房撲動（atrial flutter）"
+      {
+        "text": "心房早期收縮（atrial premature contraction）",
+        "is_correct": false
+      },
+      {
+        "text": "心室早期收縮（ventricular premature contraction）",
+        "is_correct": false
+      },
+      {
+        "text": "心房顫動（atrial fibrillation）",
+        "is_correct": true
+      },
+      {
+        "text": "心房撲動（atrial flutter）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "24",
@@ -68,10 +128,22 @@
     "subject": "心臟內科",
     "question": "一位35歲男性，初次被診斷為高血壓，血壓為140/96 mmHg，脈搏為70拍/分，病人並無任何症狀，過去亦無特殊病史，理學檢查除血壓高之外，並無特殊異常發現。下列何者不是初步評估此病人所需安排之檢查？",
     "choices": [
-      "尿液常規檢查",
-      "鉀離子",
-      "甲狀腺刺激素",
-      "空腹血糖"
+      {
+        "text": "尿液常規檢查",
+        "is_correct": false
+      },
+      {
+        "text": "鉀離子",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺刺激素",
+        "is_correct": true
+      },
+      {
+        "text": "空腹血糖",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "67",
@@ -81,10 +153,22 @@
     "subject": "心臟內科",
     "question": "針對突發性心跳停止病人，使用治療性低溫療法，下列何者是最佳適應症（indication）？",
     "choices": [
-      "初始心律為心室顫動（ventricular fibrillation），急救後病人神智恢復",
-      "初始心律為心搏停止（asystole），急救後病人神智恢復",
-      "初始心律為心室顫動（ventricular fibrillation），急救後病人神智昏迷",
-      "初始心律為無脈搏電氣活動（pulseless electrical activity），急救後病人神智昏迷"
+      {
+        "text": "初始心律為心室顫動（ventricular fibrillation），急救後病人神智恢復",
+        "is_correct": false
+      },
+      {
+        "text": "初始心律為心搏停止（asystole），急救後病人神智恢復",
+        "is_correct": false
+      },
+      {
+        "text": "初始心律為心室顫動（ventricular fibrillation），急救後病人神智昏迷",
+        "is_correct": true
+      },
+      {
+        "text": "初始心律為無脈搏電氣活動（pulseless electrical activity），急救後病人神智昏迷",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "76",
@@ -94,10 +178,22 @@
     "subject": "心臟內科",
     "question": "你目睹一位約30歲女性跳河自殺，經救起後發現無意識與呼吸，於是開始幫她做心肺復甦術（cardiopulmonary resuscitation）。依照2010版美國心臟醫學會指引（American HeartAssociation guidelines），做心肺復甦術時胸部按壓與吹氣做幾個循環後需再確認脈搏？",
     "choices": [
-      "5個循環",
-      "10個循環",
-      "隨時可再確認",
-      "待病人有呼吸時"
+      {
+        "text": "5個循環",
+        "is_correct": true
+      },
+      {
+        "text": "10個循環",
+        "is_correct": false
+      },
+      {
+        "text": "隨時可再確認",
+        "is_correct": false
+      },
+      {
+        "text": "待病人有呼吸時",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "78",
@@ -115,10 +211,22 @@
     "subject": "心臟內科",
     "question": "一位64歲有心肌梗塞及鬱血性心臟衰竭的男性病人，平躺休息時沒有症狀，但他表示每天當他以平常的方式洗澡之後，就覺得很累、胸悶及心跳變快，要坐在椅子上休息數分鐘之後才能接著吹乾頭髮。若依紐約心臟學會的心衰竭功能分級（New YorkHeart Association Functional Classification），他目前屬於第幾級？",
     "choices": [
-      "第一級",
-      "第二級",
-      "第三級",
-      "第四級"
+      {
+        "text": "第一級",
+        "is_correct": false
+      },
+      {
+        "text": "第二級",
+        "is_correct": false
+      },
+      {
+        "text": "第三級",
+        "is_correct": true
+      },
+      {
+        "text": "第四級",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "3",
@@ -128,10 +236,22 @@
     "subject": "心臟內科",
     "question": "下列有關懷孕對血行動力學及血壓的影響敘述，何者錯誤？",
     "choices": [
-      "懷孕期間，心輸出量增加約40%",
-      "懷孕期間，週邊血管阻力增加",
-      "懷孕期間，心跳加快",
-      "懷孕期間，血壓測量（連續二次，相隔超過 6 小時）超過140/90 mmHg為不正常"
+      {
+        "text": "懷孕期間，心輸出量增加約40%",
+        "is_correct": false
+      },
+      {
+        "text": "懷孕期間，週邊血管阻力增加",
+        "is_correct": true
+      },
+      {
+        "text": "懷孕期間，心跳加快",
+        "is_correct": false
+      },
+      {
+        "text": "懷孕期間，血壓測量（連續二次，相隔超過 6 小時）超過140/90 mmHg為不正常",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "17",
@@ -141,10 +261,22 @@
     "subject": "心臟內科",
     "question": "下列何者，不是急性心衰竭合併肺水腫的主要用藥？",
     "choices": [
-      "靜脈注射dopamine or dobutamine",
-      "靜脈注射nitroglycerin",
-      "靜脈注射利尿劑",
-      "優先使用乙型交感神經阻斷劑（β-blocker）"
+      {
+        "text": "靜脈注射dopamine or dobutamine",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈注射nitroglycerin",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈注射利尿劑",
+        "is_correct": false
+      },
+      {
+        "text": "優先使用乙型交感神經阻斷劑（β-blocker）",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "19",
@@ -154,10 +286,22 @@
     "subject": "心臟內科",
     "question": "下列有關肥厚性心肌病變（hypertrophic cardiomyopathy）的敘述，何者錯誤？",
     "choices": [
-      "有一半的病人可能有家族史及基因變異",
-      "聽診時常出現第四心音（S4）",
-      "最常見的死因為猝死（sudden cardiac death）",
-      "若病人臨床上出現氣促（dyspnea）及胸痛（chest pain），則以利尿劑（diuretics）及硝酸鹽（nitrate）為首選藥物"
+      {
+        "text": "有一半的病人可能有家族史及基因變異",
+        "is_correct": false
+      },
+      {
+        "text": "聽診時常出現第四心音（S4）",
+        "is_correct": false
+      },
+      {
+        "text": "最常見的死因為猝死（sudden cardiac death）",
+        "is_correct": false
+      },
+      {
+        "text": "若病人臨床上出現氣促（dyspnea）及胸痛（chest pain），則以利尿劑（diuretics）及硝酸鹽（nitrate）為首選藥物",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "20",
@@ -167,10 +311,22 @@
     "subject": "心臟內科",
     "question": "67歲男性本身有糖尿病，目前以口服降血糖藥物控制，前一天晚上11點左右喝了2瓶啤酒後，忽然發生心悸，一直到今日上午7時持續不舒服。因休息無法改善，故到急診求診。病患表示以前無發生過此症狀。生命徵象為：意識清楚，體溫36.5℃，心跳每分鐘140次，血壓150/80毫米汞柱，呼吸每分鐘24次。心電圖如下。下列處置何者最恰當？",
     "choices": [
-      "給予coumadin口服",
-      "立即胸前電擊100J",
-      "給予amiodarone靜脈注射治療",
-      "給予heparin靜脈注射治療"
+      {
+        "text": "給予coumadin口服",
+        "is_correct": false
+      },
+      {
+        "text": "立即胸前電擊100J",
+        "is_correct": false
+      },
+      {
+        "text": "給予amiodarone靜脈注射治療",
+        "is_correct": true
+      },
+      {
+        "text": "給予heparin靜脈注射治療",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014931/Scanned_File/QUE-014931.png",
     "session": "105暑期",
@@ -181,10 +337,22 @@
     "subject": "心臟內科",
     "question": "對於左心室收縮性功能異常的心臟衰竭病人，下列何種治療無法延長病人壽命？",
     "choices": [
-      "血管張力素轉化酶抑制劑（ACE inhibitors）",
-      "乙型交感神經接受器阻斷劑（beta-adrenergic receptor blockers）",
-      "毛地黃（digitalis）",
-      "血管擴張劑組合（combination of vasodilators）"
+      {
+        "text": "血管張力素轉化酶抑制劑（ACE inhibitors）",
+        "is_correct": false
+      },
+      {
+        "text": "乙型交感神經接受器阻斷劑（beta-adrenergic receptor blockers）",
+        "is_correct": false
+      },
+      {
+        "text": "毛地黃（digitalis）",
+        "is_correct": true
+      },
+      {
+        "text": "血管擴張劑組合（combination of vasodilators）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "22",
@@ -194,10 +362,22 @@
     "subject": "心臟內科",
     "question": "下列何者為最常見規則性的陣發性上心室頻脈（paroxysmal regular supraventricular tachycardia）？",
     "choices": [
-      "心房撲動（atrial flutter）",
-      "atrioventricular nodal reentry tachycardia（AVNRT）",
-      "心房顫動（atrial fibrillation）",
-      "多型性心房頻脈（multifocal atrial tachycardia）"
+      {
+        "text": "心房撲動（atrial flutter）",
+        "is_correct": false
+      },
+      {
+        "text": "atrioventricular nodal reentry tachycardia（AVNRT）",
+        "is_correct": true
+      },
+      {
+        "text": "心房顫動（atrial fibrillation）",
+        "is_correct": false
+      },
+      {
+        "text": "多型性心房頻脈（multifocal atrial tachycardia）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "23",
@@ -207,10 +387,22 @@
     "subject": "心臟內科",
     "question": "一位85歲男性，有高血壓病史，因在家中昏倒被家人送到急診室，在急診室所做的心電圖如附圖，下列敘述何者正確？",
     "choices": [
-      "病人心電圖為第三度的房室傳導阻斷（3rd degree AV block）",
-      "病因應考慮高血壓用藥引起",
-      "如果是急性心肌梗塞所導致，大部分發生於前壁急性心肌梗塞病人（anterior wall myocardial infarction）",
-      "應立即置放永久性心臟節律器（permanent pacemaker）"
+      {
+        "text": "病人心電圖為第三度的房室傳導阻斷（3rd degree AV block）",
+        "is_correct": false
+      },
+      {
+        "text": "病因應考慮高血壓用藥引起",
+        "is_correct": true
+      },
+      {
+        "text": "如果是急性心肌梗塞所導致，大部分發生於前壁急性心肌梗塞病人（anterior wall myocardial infarction）",
+        "is_correct": false
+      },
+      {
+        "text": "應立即置放永久性心臟節律器（permanent pacemaker）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014934/Scanned_File/QUE-014934.png",
     "session": "105暑期",
@@ -221,10 +413,22 @@
     "subject": "心臟內科",
     "question": "一位85歲女性病友同時罹患糖尿病、心房纖維顫動（atrial fibrillation）、消化性潰瘍、腰椎退化性關節炎、肺結核、左下肢深部靜脈栓塞（deep vein thrombosis）與黴菌泌尿道感染。使用warfarin後，雖一再增加劑量仍未能達到預期之抗凝血效果。下列何種藥物最可能與此現象相關？",
     "choices": [
-      "amiodarone",
-      "cimetidine",
-      "fluconazole",
-      "rifampin"
+      {
+        "text": "amiodarone",
+        "is_correct": false
+      },
+      {
+        "text": "cimetidine",
+        "is_correct": false
+      },
+      {
+        "text": "fluconazole",
+        "is_correct": false
+      },
+      {
+        "text": "rifampin",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "62",
@@ -234,10 +438,22 @@
     "subject": "心臟內科",
     "question": "承上題，上題答案藥物最可能經由何種機轉影響warfarin之作用？",
     "choices": [
-      "改變胃中酸鹼值進而影響腸道吸收",
-      "影響細胞色素（cytochrome）P450作用",
-      "影響P醣蛋白（P glycoprotein）作用",
-      "改變腎小管藥物排泄速率"
+      {
+        "text": "改變胃中酸鹼值進而影響腸道吸收",
+        "is_correct": false
+      },
+      {
+        "text": "影響細胞色素（cytochrome）P450作用",
+        "is_correct": true
+      },
+      {
+        "text": "影響P醣蛋白（P glycoprotein）作用",
+        "is_correct": false
+      },
+      {
+        "text": "改變腎小管藥物排泄速率",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "63",
@@ -247,10 +463,22 @@
     "subject": "心臟內科",
     "question": "您至隔壁病房協助一位猝死病患的急救，根據2010年心肺復甦術指引，下列何者錯誤？",
     "choices": [
-      "若需檢查脈搏，不超過10秒鐘",
-      "避免中斷胸部按壓，如有需要中斷，不超過10秒鐘",
-      "使用進階呼吸道（advanced airway）裝置人工通氣（ventilation）時，成人每6至8秒吹氣一次，與胸部按壓同步進行",
-      "若需實施去顫電擊，在每次電擊後立即實施胸部按壓"
+      {
+        "text": "若需檢查脈搏，不超過10秒鐘",
+        "is_correct": false
+      },
+      {
+        "text": "避免中斷胸部按壓，如有需要中斷，不超過10秒鐘",
+        "is_correct": false
+      },
+      {
+        "text": "使用進階呼吸道（advanced airway）裝置人工通氣（ventilation）時，成人每6至8秒吹氣一次，與胸部按壓同步進行",
+        "is_correct": true
+      },
+      {
+        "text": "若需實施去顫電擊，在每次電擊後立即實施胸部按壓",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "75",
@@ -260,10 +488,22 @@
     "subject": "心臟內科",
     "question": "52歲男性病人過去並無高血壓或心臟病，近半年來運動時呼吸困難逐漸加重且有下肢水腫。經檢查肝腎功能正常，給予利尿劑治療，頸靜脈仍有顯著擴張。門診胸部X光顯示心臟並未擴大，身體診察無心雜音，肝臟稍腫大，有腹水及雙側下肢水腫。心導管檢查右心房平均壓力是15mmHg（正常＜8 mmHg），右心房壓力曲線呈現明顯的Y下降波。本病人另外可能出現下列那一種徵狀（sign）？",
     "choices": [
-      "血壓上升且脈搏壓變寬",
-      "呼氣時，頸動脈擴張可能更形顯著",
-      "少數病例聽診時會有心包敲擊音（pericardial knock），有些會出現「奇脈」（paradoxical pulse）",
-      "胸部X光片呈現肺鬱血（lung congestion）現象"
+      {
+        "text": "血壓上升且脈搏壓變寬",
+        "is_correct": false
+      },
+      {
+        "text": "呼氣時，頸動脈擴張可能更形顯著",
+        "is_correct": false
+      },
+      {
+        "text": "少數病例聽診時會有心包敲擊音（pericardial knock），有些會出現「奇脈」（paradoxical pulse）",
+        "is_correct": true
+      },
+      {
+        "text": "胸部X光片呈現肺鬱血（lung congestion）現象",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "2",
@@ -273,10 +513,22 @@
     "subject": "心臟內科",
     "question": "32歲女性突然覺得心跳很快，這是本週第二次出現，第一次出現在數分鐘之後自行停止。這次已經持續半個小時，當她到達急診時，血壓120/70毫米汞柱，呼吸每分鐘十四次，氧合濃度百分之九十八（沒有使用氧氣），心電圖出現窄波規則心率，每分鐘一百八十次。此心律不整經給予頸動脈竇按摩及Valsalva maneuver，心跳並沒有下降。接下來給予何種藥物為佳？",
     "choices": [
-      "verapamil 2.5到 5 mg，一分鐘靜脈注射完畢",
-      "digoxin 0.5 mg，靜脈緩慢注射",
-      "adenosine 6 mg，靜脈快速注射",
-      "diltiazem 0.25 mg/kg，一分鐘靜脈注射完畢"
+      {
+        "text": "verapamil 2.5到 5 mg，一分鐘靜脈注射完畢",
+        "is_correct": false
+      },
+      {
+        "text": "digoxin 0.5 mg，靜脈緩慢注射",
+        "is_correct": false
+      },
+      {
+        "text": "adenosine 6 mg，靜脈快速注射",
+        "is_correct": true
+      },
+      {
+        "text": "diltiazem 0.25 mg/kg，一分鐘靜脈注射完畢",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "3",
@@ -286,10 +538,22 @@
     "subject": "心臟內科",
     "question": "有關冠心症心肌缺氧之敘述，下列何者錯誤？",
     "choices": [
-      "心肌缺氧（myocardial ischemia）是因為心臟氧氣的供應，不足以應付新陳代謝的需求",
-      "穩定性心絞痛患者，其胸痛可能持續數小時之久",
-      "不穩定心絞痛患者，其胸痛有可能是在休息狀態下發作",
-      "有些患者心肌缺氧發作時，僅有下巴、脖子、肩膀或手臂不適，而無胸痛"
+      {
+        "text": "心肌缺氧（myocardial ischemia）是因為心臟氧氣的供應，不足以應付新陳代謝的需求",
+        "is_correct": false
+      },
+      {
+        "text": "穩定性心絞痛患者，其胸痛可能持續數小時之久",
+        "is_correct": true
+      },
+      {
+        "text": "不穩定心絞痛患者，其胸痛有可能是在休息狀態下發作",
+        "is_correct": false
+      },
+      {
+        "text": "有些患者心肌缺氧發作時，僅有下巴、脖子、肩膀或手臂不適，而無胸痛",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "17",
@@ -299,10 +563,22 @@
     "subject": "心臟內科",
     "question": "下列有關心雜音（heart murmur）之敘述，何者錯誤？",
     "choices": [
-      "正常健康的人不應該有心雜音",
-      "收縮期雜音在第一心音之時或稍後，而結束於接下來的第二心音或稍前",
-      "當頸動脈搏動（upstroke）時，其心雜音為收縮期雜音；頸動脈下沉時，其心雜音為舒張期雜音",
-      "舒張期雜音發生於第二心音之時或稍後，而結束於接下來的第一心音或稍前"
+      {
+        "text": "正常健康的人不應該有心雜音",
+        "is_correct": true
+      },
+      {
+        "text": "收縮期雜音在第一心音之時或稍後，而結束於接下來的第二心音或稍前",
+        "is_correct": false
+      },
+      {
+        "text": "當頸動脈搏動（upstroke）時，其心雜音為收縮期雜音；頸動脈下沉時，其心雜音為舒張期雜音",
+        "is_correct": false
+      },
+      {
+        "text": "舒張期雜音發生於第二心音之時或稍後，而結束於接下來的第一心音或稍前",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "18",
@@ -312,10 +588,22 @@
     "subject": "心臟內科",
     "question": "下列有關ST節段上升的心肌梗塞（ST-elevation myocardial infarction，STEMI）的敘述，何者錯誤？",
     "choices": [
-      "病態生理學為血管內粥狀硬化斑瑰破裂，產生急性血栓將血管完全阻塞",
-      "心肌肌鈣蛋白（cardiac troponin）升高，通常可持續一週",
-      "通常到院前死亡是因為急性心衰竭",
-      "下壁心肌梗塞（inferior wall myocardial infarction）病患例行要做右前胸壁心電圖"
+      {
+        "text": "病態生理學為血管內粥狀硬化斑瑰破裂，產生急性血栓將血管完全阻塞",
+        "is_correct": false
+      },
+      {
+        "text": "心肌肌鈣蛋白（cardiac troponin）升高，通常可持續一週",
+        "is_correct": false
+      },
+      {
+        "text": "通常到院前死亡是因為急性心衰竭",
+        "is_correct": true
+      },
+      {
+        "text": "下壁心肌梗塞（inferior wall myocardial infarction）病患例行要做右前胸壁心電圖",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "19",
@@ -325,10 +613,22 @@
     "subject": "心臟內科",
     "question": "下列何者不是造成動脈粥狀硬化的主要危險因子？",
     "choices": [
-      "高血壓",
-      "喝酒",
-      "抽菸",
-      "血漿高密度脂蛋白膽固醇（HDL cholesterol）過低（小於40 mg/dL）"
+      {
+        "text": "高血壓",
+        "is_correct": false
+      },
+      {
+        "text": "喝酒",
+        "is_correct": true
+      },
+      {
+        "text": "抽菸",
+        "is_correct": false
+      },
+      {
+        "text": "血漿高密度脂蛋白膽固醇（HDL cholesterol）過低（小於40 mg/dL）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "20",
@@ -338,10 +638,22 @@
     "subject": "心臟內科",
     "question": "一位25歲的女性病人因為最近一週發生胸悶而求診，胸悶的發作與活動無關；身體診察時在胸骨旁左下緣可聽見收縮中期滴答聲（mid-systolic click）以及第二度收縮末期雜音（late systolic murmur），下列何項是確認診斷的最佳診斷工具？",
     "choices": [
-      "標準12-導程心電圖",
-      "胸部X-光片",
-      "電腦斷層檢查",
-      "心臟超音波"
+      {
+        "text": "標準12-導程心電圖",
+        "is_correct": false
+      },
+      {
+        "text": "胸部X-光片",
+        "is_correct": false
+      },
+      {
+        "text": "電腦斷層檢查",
+        "is_correct": false
+      },
+      {
+        "text": "心臟超音波",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "21",
@@ -351,10 +663,22 @@
     "subject": "心臟內科",
     "question": "下列何種藥物不可使用於non-ST elevation myocardial infarction或不穩定心絞痛患者？",
     "choices": [
-      "aspirin",
-      "low-molecular-weight heparin",
-      "unfractionated heparin",
-      "r-tPA（recombinant tissue plasminogen activator）"
+      {
+        "text": "aspirin",
+        "is_correct": false
+      },
+      {
+        "text": "low-molecular-weight heparin",
+        "is_correct": false
+      },
+      {
+        "text": "unfractionated heparin",
+        "is_correct": false
+      },
+      {
+        "text": "r-tPA（recombinant tissue plasminogen activator）",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "22",
@@ -364,10 +688,22 @@
     "subject": "心臟內科",
     "question": "有關單獨二尖瓣狹窄（isolated mitral stenosis）之敘述，何者正確？",
     "choices": [
-      "大多數病患狹窄愈嚴重，第一心音（S1）愈弱",
-      "opening snap如果聽得見，是在心收縮期",
-      "感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同",
-      "臨床症狀除運動時呼吸困難外，有時會出現咳血、肺栓塞或肺炎等"
+      {
+        "text": "大多數病患狹窄愈嚴重，第一心音（S1）愈弱",
+        "is_correct": false
+      },
+      {
+        "text": "opening snap如果聽得見，是在心收縮期",
+        "is_correct": false
+      },
+      {
+        "text": "感染性心內膜炎在單獨二尖瓣狹窄病患的機率與合併二尖瓣閉鎖不全病患相同",
+        "is_correct": false
+      },
+      {
+        "text": "臨床症狀除運動時呼吸困難外，有時會出現咳血、肺栓塞或肺炎等",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "23",
@@ -377,10 +713,22 @@
     "subject": "心臟內科",
     "question": "一位50歲男性主訴胸部不適與行動時氣促，無高血壓病史，血壓130/80 mmHg，心跳規則每分鐘76次，聽診上有第四心音，但並無明顯雜音，胸部X光片無明顯異常，心電圖呈現左心室肥厚合併ST-T波變化，而心臟超音波呈現嚴重左心尖部肥厚與正常左心室收縮功能。下列何種藥物最不適當？",
     "choices": [
-      "digitalis",
-      "beta blockers",
-      "diltiazem",
-      "verapamil"
+      {
+        "text": "digitalis",
+        "is_correct": true
+      },
+      {
+        "text": "beta blockers",
+        "is_correct": false
+      },
+      {
+        "text": "diltiazem",
+        "is_correct": false
+      },
+      {
+        "text": "verapamil",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "24",
@@ -390,10 +738,22 @@
     "subject": "心臟內科",
     "question": "一位76歲獨居老人有心律不整之病史，平常服用毛地黃（Digoxin）控制。本次因頭暈、噁心和胸悶，被鄰居發現並且帶來急診室。經病史詢問後，病人表示因為心情不好就將半個月份的毛地黃都吃下去，到院時意識清楚，體溫正常、呼吸22次/min、心跳42次/min、血壓96/60mmHg，下列何項處置最不恰當？",
     "choices": [
-      "抽血檢測毛地黃濃度（digoxin level）",
-      "給予硝化甘油（nitroglycerin）",
-      "給予經皮心臟節律器（transcutaneous pacemaker, TCP）",
-      "靜脈注射atropine 0.5mg"
+      {
+        "text": "抽血檢測毛地黃濃度（digoxin level）",
+        "is_correct": false
+      },
+      {
+        "text": "給予硝化甘油（nitroglycerin）",
+        "is_correct": true
+      },
+      {
+        "text": "給予經皮心臟節律器（transcutaneous pacemaker, TCP）",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈注射atropine 0.5mg",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "75",
@@ -403,10 +763,22 @@
     "subject": "心臟內科",
     "question": "下列何種無脈搏電活性（pulseless electric activity，PEA）病人，接受碳酸氫鈉（sodium bicarbonate）治療最有效果？",
     "choices": [
-      "二氧化碳過高之呼吸性酸血症病人",
-      "心電圖顯示竇性心律且窄的QRS波型之出血性休克病人",
-      "心電圖呈現每分鐘45下且寬的QRS波形之高血鉀病人",
-      "心跳呼吸停止之代謝性酸血症病人"
+      {
+        "text": "二氧化碳過高之呼吸性酸血症病人",
+        "is_correct": false
+      },
+      {
+        "text": "心電圖顯示竇性心律且窄的QRS波型之出血性休克病人",
+        "is_correct": false
+      },
+      {
+        "text": "心電圖呈現每分鐘45下且寬的QRS波形之高血鉀病人",
+        "is_correct": true
+      },
+      {
+        "text": "心跳呼吸停止之代謝性酸血症病人",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "76",
@@ -416,10 +788,22 @@
     "subject": "心臟內科",
     "question": "一位9歲小孩在游泳池中，被發現溺水漂浮在水中，下列敘述何者錯誤？",
     "choices": [
-      "急救溺水的病人，仍維持叫病人、叫他人打電話119求救，開始心肺復甦術",
-      "應儘早清除此病人呼吸道的水分，儘速實施哈姆立克急救術",
-      "此溺水病人可能產生頸椎受傷的發生率低於千分之一，不需例行性使用頸圈",
-      "當病人在淺水域或脫離水域時，可以施予口對鼻呼吸，暫時取代口對口呼吸"
+      {
+        "text": "急救溺水的病人，仍維持叫病人、叫他人打電話119求救，開始心肺復甦術",
+        "is_correct": false
+      },
+      {
+        "text": "應儘早清除此病人呼吸道的水分，儘速實施哈姆立克急救術",
+        "is_correct": true
+      },
+      {
+        "text": "此溺水病人可能產生頸椎受傷的發生率低於千分之一，不需例行性使用頸圈",
+        "is_correct": false
+      },
+      {
+        "text": "當病人在淺水域或脫離水域時，可以施予口對鼻呼吸，暫時取代口對口呼吸",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "77",
@@ -429,10 +813,22 @@
     "subject": "心臟內科",
     "question": "一位心臟停止的病人被送來急診，急診醫師已插入氣管內管，這時候呼吸通氣速率最恰當為？",
     "choices": [
-      "每4秒給一次呼吸",
-      "每6秒給一次呼吸",
-      "每8秒給一次呼吸",
-      "每10秒給一次呼吸"
+      {
+        "text": "每4秒給一次呼吸",
+        "is_correct": false
+      },
+      {
+        "text": "每6秒給一次呼吸",
+        "is_correct": true
+      },
+      {
+        "text": "每8秒給一次呼吸",
+        "is_correct": false
+      },
+      {
+        "text": "每10秒給一次呼吸",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "78",
@@ -442,10 +838,22 @@
     "subject": "心臟內科",
     "question": "65歲女性，過去僅有糖尿病的病史，第一次被診斷為高血壓，因為收縮壓在190～200 mmHg之間，由門診轉到急診，沒有任何不舒服，過去病人不知道自己有高血壓，下列何者處理欠佳？",
     "choices": [
-      "請病人稍作休息，再量一次血壓",
-      "詢問過去病史及家族病史",
-      "馬上給予舌下短效nifedipine降壓",
-      "注意有無神經學的變化"
+      {
+        "text": "請病人稍作休息，再量一次血壓",
+        "is_correct": false
+      },
+      {
+        "text": "詢問過去病史及家族病史",
+        "is_correct": false
+      },
+      {
+        "text": "馬上給予舌下短效nifedipine降壓",
+        "is_correct": true
+      },
+      {
+        "text": "注意有無神經學的變化",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "3",
@@ -455,10 +863,22 @@
     "subject": "心臟內科",
     "question": "70歲女性，因雙側下肢水腫，氣促，呼吸困難來門診就醫，身體診察發現雙側肺囉音，心音發現S3 gallop，心臟超音波顯示左心室射出分率為55%，輕度二尖瓣及三尖瓣逆流合併舒張功能不良，有關下列敘述何者錯誤？",
     "choices": [
-      "B-type natriuretic peptide（BNP）或者N-terminal pro-BNP可做為評估疾病嚴重度的指標",
-      "飲食的衛教方面應該限鹽",
-      "使用angiotensin-converting enzyme inhibitor已被證明對於此類病患長期的預後有幫助，應即刻開始使用",
-      "使用利尿劑改善症狀並控制好血壓是治療病患的首選做法"
+      {
+        "text": "B-type natriuretic peptide（BNP）或者N-terminal pro-BNP可做為評估疾病嚴重度的指標",
+        "is_correct": false
+      },
+      {
+        "text": "飲食的衛教方面應該限鹽",
+        "is_correct": false
+      },
+      {
+        "text": "使用angiotensin-converting enzyme inhibitor已被證明對於此類病患長期的預後有幫助，應即刻開始使用",
+        "is_correct": true
+      },
+      {
+        "text": "使用利尿劑改善症狀並控制好血壓是治療病患的首選做法",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "4",
@@ -468,10 +888,22 @@
     "subject": "心臟內科",
     "question": "胡先生62歲患有糖尿病、高血壓於心臟科門診追蹤治療，主訴兩小時前開始嚴重上腹悶痛合併冒冷汗及嘔吐，在急診測得之心跳每分鐘約為52下，血壓為80/50 mmHg，頸靜脈鼓張，經診斷為急性心肌梗塞，下列何者心電圖變化最不可能和其診斷相關？",
     "choices": [
-      "ST elevation在lead II, III, aVF",
-      "ST depression在lead V1, V2",
-      "ST elevation在lead V4R",
-      "PR segment depression"
+      {
+        "text": "ST elevation在lead II, III, aVF",
+        "is_correct": false
+      },
+      {
+        "text": "ST depression在lead V1, V2",
+        "is_correct": false
+      },
+      {
+        "text": "ST elevation在lead V4R",
+        "is_correct": false
+      },
+      {
+        "text": "PR segment depression",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "5",
@@ -481,10 +913,22 @@
     "subject": "心臟內科",
     "question": "下列有關風濕性心臟病合併僧帽瓣狹窄的敘述，何者錯誤？",
     "choices": [
-      "正常僧帽瓣的開口大小為 4～6 cm2，若<1 cm^2為重度狹窄",
-      "常合併心房纖維顫動",
-      "常合併次發性肺高壓",
-      "聽診常發現高音舒張期雜音（high pitched early diastolic murmur）"
+      {
+        "text": "正常僧帽瓣的開口大小為 4～6 cm2，若<1 cm^2為重度狹窄",
+        "is_correct": false
+      },
+      {
+        "text": "常合併心房纖維顫動",
+        "is_correct": false
+      },
+      {
+        "text": "常合併次發性肺高壓",
+        "is_correct": false
+      },
+      {
+        "text": "聽診常發現高音舒張期雜音（high pitched early diastolic murmur）",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "20",
@@ -494,10 +938,22 @@
     "subject": "心臟內科",
     "question": "下列有關頸靜脈壓力測量的敘述，何者錯誤？",
     "choices": [
-      "通常以右外頸靜脈（external jugular vein）測量最適當",
-      "“a”波代表右心房收縮波型",
-      "“c”波代表右心室收縮後，三尖瓣關閉",
-      "三尖瓣閉鎖不全會使“v”波變大"
+      {
+        "text": "通常以右外頸靜脈（external jugular vein）測量最適當",
+        "is_correct": true
+      },
+      {
+        "text": "“a”波代表右心房收縮波型",
+        "is_correct": false
+      },
+      {
+        "text": "“c”波代表右心室收縮後，三尖瓣關閉",
+        "is_correct": false
+      },
+      {
+        "text": "三尖瓣閉鎖不全會使“v”波變大",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "21",
@@ -507,10 +963,22 @@
     "subject": "心臟內科",
     "question": "下列有關二尖瓣脫垂的敘述，何者錯誤？",
     "choices": [
-      "常見的病理變化為瓣膜呈現myxomatous change，好發於後葉瓣膜",
-      "好發於Marfan syndrome病患",
-      "好發於15～30歲的男性",
-      "大部分病人臨床無特別症狀，無須特別治療"
+      {
+        "text": "常見的病理變化為瓣膜呈現myxomatous change，好發於後葉瓣膜",
+        "is_correct": false
+      },
+      {
+        "text": "好發於Marfan syndrome病患",
+        "is_correct": false
+      },
+      {
+        "text": "好發於15～30歲的男性",
+        "is_correct": true
+      },
+      {
+        "text": "大部分病人臨床無特別症狀，無須特別治療",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "22",
@@ -520,10 +988,22 @@
     "subject": "心臟內科",
     "question": "一位55歲男性，有糖尿病病史，發生胸悶症狀約5小時來到急診，血壓140/100 mmHg，心跳每分鐘80次，經抽血及心電圖診斷為ST節段上升之心肌梗塞（ST-segment elevation myocardial infarction），有關此患者的治療，下列敘述何者錯誤？",
     "choices": [
-      "鈣離子阻斷劑在急性期可以緩解病患的症狀，特別是短效dihydropyridines類的鈣離子阻斷劑",
-      "如果沒有絕對禁忌症，應給予aspirin 160～325 mg",
-      "如果沒有禁忌症（如低血壓或曾服用phosphodiesterase-5 inhibitor），可以嘗試使用舌下含片nitroglycerin來緩解病患的症狀",
-      "如果沒有禁忌症，可給予靜脈注射或者口服的乙型交感神經阻斷劑（β-blockers）"
+      {
+        "text": "鈣離子阻斷劑在急性期可以緩解病患的症狀，特別是短效dihydropyridines類的鈣離子阻斷劑",
+        "is_correct": true
+      },
+      {
+        "text": "如果沒有絕對禁忌症，應給予aspirin 160～325 mg",
+        "is_correct": false
+      },
+      {
+        "text": "如果沒有禁忌症（如低血壓或曾服用phosphodiesterase-5 inhibitor），可以嘗試使用舌下含片nitroglycerin來緩解病患的症狀",
+        "is_correct": false
+      },
+      {
+        "text": "如果沒有禁忌症，可給予靜脈注射或者口服的乙型交感神經阻斷劑（β-blockers）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "23",
@@ -533,10 +1013,22 @@
     "subject": "心臟內科",
     "question": "有關心臟瓣膜置換或修補手術的死亡率，下列何者錯誤？",
     "choices": [
-      "主動脈瓣膜置換手術死亡率比二尖瓣（僧帽瓣）置換手術高",
-      "瓣膜置換手術加上冠狀動脈繞道手術比單純瓣膜置換手術死亡率高",
-      "多瓣膜置換手術比單一瓣膜置換手術死亡率高",
-      "二尖瓣（僧帽瓣）修補手術死亡率較二尖瓣置換手術死亡率低"
+      {
+        "text": "主動脈瓣膜置換手術死亡率比二尖瓣（僧帽瓣）置換手術高",
+        "is_correct": true
+      },
+      {
+        "text": "瓣膜置換手術加上冠狀動脈繞道手術比單純瓣膜置換手術死亡率高",
+        "is_correct": false
+      },
+      {
+        "text": "多瓣膜置換手術比單一瓣膜置換手術死亡率高",
+        "is_correct": false
+      },
+      {
+        "text": "二尖瓣（僧帽瓣）修補手術死亡率較二尖瓣置換手術死亡率低",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "24",
@@ -546,10 +1038,22 @@
     "subject": "心臟內科",
     "question": "一位向來健康狀況良好之50歲男士登山迷路失聯，入夜後山區溫度驟降，禦寒衣物不足。次日搜救人員找到該男士立即送醫。身體檢查發現：昏迷、心跳每分鐘40次、呼吸每分鐘8次、血壓60/40毫米汞柱、體溫26℃、無明顯外傷、抽痰無明顯咳嗽反應。到院5分鐘後，病友突然發生心室顫動（ventricular fibrillation）。針對此病友之優先處理，下列何者最合宜？",
     "choices": [
-      "置放肺動脈導管或中心靜脈導管以監控體液量",
-      "使用溫熱乳酸林格氏液（lactated Ringer's solution）以補充體液不足",
-      "小心置放氣管內管以保護氣道",
-      "反覆施行去顫術（defibrillation）以矯正心室顫動"
+      {
+        "text": "置放肺動脈導管或中心靜脈導管以監控體液量",
+        "is_correct": false
+      },
+      {
+        "text": "使用溫熱乳酸林格氏液（lactated Ringer's solution）以補充體液不足",
+        "is_correct": false
+      },
+      {
+        "text": "小心置放氣管內管以保護氣道",
+        "is_correct": true
+      },
+      {
+        "text": "反覆施行去顫術（defibrillation）以矯正心室顫動",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "64",
@@ -559,10 +1063,22 @@
     "subject": "心臟內科",
     "question": "承上題，下列何種方式可以最快提高上述男士之體溫？",
     "choices": [
-      "體外循環（cardiopulmonary bypass）",
-      "血液透析",
-      "腹膜透析",
-      "45℃溫水洗胃（gastric lavage）"
+      {
+        "text": "體外循環（cardiopulmonary bypass）",
+        "is_correct": true
+      },
+      {
+        "text": "血液透析",
+        "is_correct": false
+      },
+      {
+        "text": "腹膜透析",
+        "is_correct": false
+      },
+      {
+        "text": "45℃溫水洗胃（gastric lavage）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "65",
@@ -572,10 +1088,22 @@
     "subject": "心臟內科",
     "question": "一位40歲病患突發心悸、臉色蒼白、冒冷汗、意識模糊，血壓70/30 mmHg，其心電圖如下，應做何處置較適當？",
     "choices": [
-      "施予頸動脈竇按摩",
-      "注射atropine",
-      "同步心臟整流（cardioversion）",
-      "注射adenosine"
+      {
+        "text": "施予頸動脈竇按摩",
+        "is_correct": false
+      },
+      {
+        "text": "注射atropine",
+        "is_correct": false
+      },
+      {
+        "text": "同步心臟整流（cardioversion）",
+        "is_correct": true
+      },
+      {
+        "text": "注射adenosine",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015627/Scanned_File/QUE-015627.png",
     "session": "106暑期",
@@ -586,10 +1114,22 @@
     "subject": "心臟內科",
     "question": "36歲有抽菸男性，因胸痛來到急診，胸痛已有八個小時，會傳向雙側上臂，且胸痛會因吸氣而加重，躺下時更嚴重，在坐起時上半身略向前傾會好一些。身體診察血壓140/72毫米汞柱，心跳每分鐘96次，沒用氧氣時血氧飽和度百分之九十八。肺部聽診沒有異常，只在左下胸骨邊緣聽到具三個成份的摩擦聲（threecomponent friction rub）。此時進行心電圖檢查最可能看到：",
     "choices": [
-      "胸前導程反向T波（inverted T wave）",
-      "PR節段在第二、第三和aVF導程上升",
-      "胸前導程（V1 – V6），ST段凸形彎曲（convex curvature）上升",
-      "胸前導程（V2 – V6）與第一導程，aVL導程，ST段凹形彎曲（concave curvature）上升"
+      {
+        "text": "胸前導程反向T波（inverted T wave）",
+        "is_correct": false
+      },
+      {
+        "text": "PR節段在第二、第三和aVF導程上升",
+        "is_correct": false
+      },
+      {
+        "text": "胸前導程（V1 – V6），ST段凸形彎曲（convex curvature）上升",
+        "is_correct": false
+      },
+      {
+        "text": "胸前導程（V2 – V6）與第一導程，aVL導程，ST段凹形彎曲（concave curvature）上升",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "3",
@@ -599,10 +1139,22 @@
     "subject": "心臟內科",
     "question": "有關休克（shock）之敘述，下列何者錯誤？",
     "choices": [
-      "休克的機轉肇因於組織血流灌注不足（inadequate tissue perfusion）",
-      "持續性嚴重腹瀉會造成大量脫水，但不致於造成休克",
-      "嚴重心肌梗塞會造成心因性休克",
-      "心包膜積水如發生心包膜填塞（pericardial tamponade），亦會造成休克"
+      {
+        "text": "休克的機轉肇因於組織血流灌注不足（inadequate tissue perfusion）",
+        "is_correct": false
+      },
+      {
+        "text": "持續性嚴重腹瀉會造成大量脫水，但不致於造成休克",
+        "is_correct": true
+      },
+      {
+        "text": "嚴重心肌梗塞會造成心因性休克",
+        "is_correct": false
+      },
+      {
+        "text": "心包膜積水如發生心包膜填塞（pericardial tamponade），亦會造成休克",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "17",
@@ -612,10 +1164,22 @@
     "subject": "心臟內科",
     "question": "下列有關慢性心衰竭的敘述，何者錯誤？",
     "choices": [
-      "在聽診方面，收縮性左心衰竭病患可聽到第三心音，在舒張性左心衰竭常聽到第四心音",
-      "內頸靜脈的壓力能完全反應左心室的功能",
-      "身體診察（physical examination）可發現最大心尖搏動點（point of maximal impulse）由原本位置（第5肋間及左鎖骨中線）向左及向下偏離",
-      "左心室射出分量（left ventricular ejection fraction）為評估心臟收縮功能的指標"
+      {
+        "text": "在聽診方面，收縮性左心衰竭病患可聽到第三心音，在舒張性左心衰竭常聽到第四心音",
+        "is_correct": false
+      },
+      {
+        "text": "內頸靜脈的壓力能完全反應左心室的功能",
+        "is_correct": true
+      },
+      {
+        "text": "身體診察（physical examination）可發現最大心尖搏動點（point of maximal impulse）由原本位置（第5肋間及左鎖骨中線）向左及向下偏離",
+        "is_correct": false
+      },
+      {
+        "text": "左心室射出分量（left ventricular ejection fraction）為評估心臟收縮功能的指標",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "21",
@@ -625,10 +1189,22 @@
     "subject": "心臟內科",
     "question": "下列有關心音（heart sounds）的敘述，何者錯誤？",
     "choices": [
-      "第一心音為房室瓣關閉（二尖瓣及三尖瓣）",
-      "第二心音為主動脈瓣及肺動脈瓣關閉",
-      "通常在正常吸氣時第二心音會產生生理性分裂（physiological splitting of S2）",
-      "第四心音的產生通常與左心的血流量增加有關，如合併二尖瓣閉鎖不全"
+      {
+        "text": "第一心音為房室瓣關閉（二尖瓣及三尖瓣）",
+        "is_correct": false
+      },
+      {
+        "text": "第二心音為主動脈瓣及肺動脈瓣關閉",
+        "is_correct": false
+      },
+      {
+        "text": "通常在正常吸氣時第二心音會產生生理性分裂（physiological splitting of S2）",
+        "is_correct": false
+      },
+      {
+        "text": "第四心音的產生通常與左心的血流量增加有關，如合併二尖瓣閉鎖不全",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "22",
@@ -638,10 +1214,22 @@
     "subject": "心臟內科",
     "question": "下列有關慢性心房纖維性顫動（permanent atrial fibrillation）的敘述，何者錯誤？",
     "choices": [
-      "為最常見的慢性心律不整",
-      "75歲，女性，糖尿病患，應使用抗凝血劑治療",
-      "25歲，男性，風濕性心臟病合併僧帽瓣狹窄，不必使用抗凝血劑治療",
-      "可考慮只做心律速度的管控（rate control）"
+      {
+        "text": "為最常見的慢性心律不整",
+        "is_correct": false
+      },
+      {
+        "text": "75歲，女性，糖尿病患，應使用抗凝血劑治療",
+        "is_correct": false
+      },
+      {
+        "text": "25歲，男性，風濕性心臟病合併僧帽瓣狹窄，不必使用抗凝血劑治療",
+        "is_correct": true
+      },
+      {
+        "text": "可考慮只做心律速度的管控（rate control）",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "23",
@@ -651,10 +1239,22 @@
     "subject": "心臟內科",
     "question": "決定慢性重度二尖瓣閉鎖不全（severe mitral regurgitation）病人是否應接受手術治療，下列何者為最優先考量因素？",
     "choices": [
-      "左心室收縮功能",
-      "左心室收縮末期直徑",
-      "是否有症狀",
-      "是否適合二尖瓣修補術"
+      {
+        "text": "左心室收縮功能",
+        "is_correct": false
+      },
+      {
+        "text": "左心室收縮末期直徑",
+        "is_correct": false
+      },
+      {
+        "text": "是否有症狀",
+        "is_correct": true
+      },
+      {
+        "text": "是否適合二尖瓣修補術",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "24",
@@ -664,10 +1264,22 @@
     "subject": "心臟內科",
     "question": "一位45歲女教師，主訴半年內逐漸發生運動時氣促，倦怠，胸悶以及昏厥的症狀。身體診察發現頸靜脈壓力上升，可摸到右心室搏動，且在右側聽到S4的心音，胸部X光發現肺動脈膨大，下列敘述何者最適當？",
     "choices": [
-      "應檢測protein C，protein S，antithrombin III等是否異常",
-      "心電圖通常可以發現心軸向左偏轉及左心室肥大",
-      "可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力",
-      "病患肺血管主要的表徵為血管內皮增生，發炎反應增加，以及血管擴張"
+      {
+        "text": "應檢測protein C，protein S，antithrombin III等是否異常",
+        "is_correct": true
+      },
+      {
+        "text": "心電圖通常可以發現心軸向左偏轉及左心室肥大",
+        "is_correct": false
+      },
+      {
+        "text": "可以用心臟超音波測量二尖瓣逆流的流速來估計肺動脈的壓力",
+        "is_correct": false
+      },
+      {
+        "text": "病患肺血管主要的表徵為血管內皮增生，發炎反應增加，以及血管擴張",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "25",
@@ -677,10 +1289,22 @@
     "subject": "心臟內科",
     "question": "休克狀態時，下列那一項生理變化對於組織缺氧惡化的影響最小？",
     "choices": [
-      "動脈平均血壓由70 mmHg降為50 mmHg",
-      "血色素由15 g/dL降為10 g/dL",
-      "動脈氧氣分壓由100 mmHg降為70 mmHg",
-      "動脈血氧飽和度由100%降為70%"
+      {
+        "text": "動脈平均血壓由70 mmHg降為50 mmHg",
+        "is_correct": false
+      },
+      {
+        "text": "血色素由15 g/dL降為10 g/dL",
+        "is_correct": false
+      },
+      {
+        "text": "動脈氧氣分壓由100 mmHg降為70 mmHg",
+        "is_correct": true
+      },
+      {
+        "text": "動脈血氧飽和度由100%降為70%",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "46",
@@ -690,10 +1314,22 @@
     "subject": "心臟內科",
     "question": "49歲王女士有高血壓病史，未接受規則治療，昨天晚上睡覺時突然感到頭痛而痛醒，她說這是她有生以來最厲害的頭痛，痛得幾乎要暈厥，王女士最有可能是什麼病？",
     "choices": [
-      "Temporal arteritis",
-      "Subarachnoid hemorrhage",
-      "Encephalitis",
-      "Meningitis"
+      {
+        "text": "Temporal arteritis",
+        "is_correct": false
+      },
+      {
+        "text": "Subarachnoid hemorrhage",
+        "is_correct": true
+      },
+      {
+        "text": "Encephalitis",
+        "is_correct": false
+      },
+      {
+        "text": "Meningitis",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "77",
@@ -703,10 +1339,22 @@
     "subject": "心臟內科",
     "question": "一位 50 歲李先生，過去有長期抽菸、酗酒、高血壓及糖尿病病史，主訴近幾個月爬到二樓就喘，且有下肢水腫的現象。量得病人血壓為118/82 mmHg，脈搏108/min 且不規則，X 光顯示心臟擴大，由以上初步病史，何者較不可能是李先生心臟擴大的鑑別診斷？",
     "choices": [
-      "擴張性心肌病變（dilated cardiomyopathy）",
-      "酒精性心肌病變（alcoholic cardiomyopathy）",
-      "缺血性心臟病（ischemic heart disease）",
-      "高血壓性心臟病併嚴重主動脈瓣閉鎖不全（severe aortic regurgitation）"
+      {
+        "text": "擴張性心肌病變（dilated cardiomyopathy）",
+        "is_correct": false
+      },
+      {
+        "text": "酒精性心肌病變（alcoholic cardiomyopathy）",
+        "is_correct": false
+      },
+      {
+        "text": "缺血性心臟病（ischemic heart disease）",
+        "is_correct": false
+      },
+      {
+        "text": "高血壓性心臟病併嚴重主動脈瓣閉鎖不全（severe aortic regurgitation）",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "3",
@@ -716,10 +1364,22 @@
     "subject": "心臟內科",
     "question": "下列有關主動脈閉鎖不全身體診察的敍述，何者錯誤？",
     "choices": [
-      "可聽到Austin Flint murmur",
-      "可聽到mid-systolic murmur",
-      "可聽到decrescendo diastolic murmur",
-      "聽診主動脈閉鎖不全的心雜音，請病人左側臥姿（left decubitus position）最清楚"
+      {
+        "text": "可聽到Austin Flint murmur",
+        "is_correct": false
+      },
+      {
+        "text": "可聽到mid-systolic murmur",
+        "is_correct": false
+      },
+      {
+        "text": "可聽到decrescendo diastolic murmur",
+        "is_correct": false
+      },
+      {
+        "text": "聽診主動脈閉鎖不全的心雜音，請病人左側臥姿（left decubitus position）最清楚",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "17",
@@ -729,10 +1389,22 @@
     "subject": "心臟內科",
     "question": "造成二尖瓣狹窄最常見的原因為何？",
     "choices": [
-      "先天性",
-      "嚴重之二尖瓣環鈣化",
-      "自體免疫性疾病（如：SLE、RA）",
-      "風濕熱"
+      {
+        "text": "先天性",
+        "is_correct": false
+      },
+      {
+        "text": "嚴重之二尖瓣環鈣化",
+        "is_correct": false
+      },
+      {
+        "text": "自體免疫性疾病（如：SLE、RA）",
+        "is_correct": false
+      },
+      {
+        "text": "風濕熱",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "23",
@@ -742,10 +1414,22 @@
     "subject": "心臟內科",
     "question": "一位 50 歲男性有慢性腎衰竭病史，主訴近兩日呼吸困難，身體診察發現：心跳每分鐘120 次、血壓80/52 mmHg、頸靜脈怒張、心音微弱、肺部兩側並無呼吸性囉音，心電圖顯示竇性頻脈，深吸氣時摸不到脈搏，請問最有可能的診斷是：",
     "choices": [
-      "心包膜填塞（pericardial tamponade）",
-      "急性冠狀動脈症候群（acute coronary syndrome）",
-      "肺動脈高壓症（pulmonary hypertesion）",
-      "鬱血性心衰竭（congestive heart failure）"
+      {
+        "text": "心包膜填塞（pericardial tamponade）",
+        "is_correct": true
+      },
+      {
+        "text": "急性冠狀動脈症候群（acute coronary syndrome）",
+        "is_correct": false
+      },
+      {
+        "text": "肺動脈高壓症（pulmonary hypertesion）",
+        "is_correct": false
+      },
+      {
+        "text": "鬱血性心衰竭（congestive heart failure）",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "24",
@@ -755,10 +1439,22 @@
     "subject": "心臟內科",
     "question": "一位 64 歲男性，長期吸菸，三年前開始出現運動性呼吸困難，近來氣促加重，兼有胸口悶痛，頭暈，身體診察：頸靜脈怒張，左下胸緣有grade III/VI systolic murmur，P2 加重，合併有下肢水腫，請問最有可能的診斷是：",
     "choices": [
-      "縮窄性心包炎（constrictive pericarditis）",
-      "限制性心肌病變（restrictive cardiomyopathy）",
-      "肺心症（cor pulmonale）",
-      "急性冠狀動脈症候群（acute coronary syndrome）"
+      {
+        "text": "縮窄性心包炎（constrictive pericarditis）",
+        "is_correct": false
+      },
+      {
+        "text": "限制性心肌病變（restrictive cardiomyopathy）",
+        "is_correct": false
+      },
+      {
+        "text": "肺心症（cor pulmonale）",
+        "is_correct": true
+      },
+      {
+        "text": "急性冠狀動脈症候群（acute coronary syndrome）",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "25",
@@ -768,10 +1464,22 @@
     "subject": "心臟內科",
     "question": "一位 48 歲女性主訴胸悶，偶有眩暈並有運動時呼吸困難，身體診察脈搏每分鐘64 次，心臟大小正常，有S4 gallop，在胸骨右緣第二肋間有grade III/VI 收縮期射出型心雜音（systolic ejection murmur），向頸部放散。血行動力學檢查如下（壓力單位，mmHg）：右心房平均壓：6；右心室：43/8；肺動脈：43/18（平均壓28）；肺動脈楔壓：平均壓22；左心室227/33；主動脈139/72（平均壓98），則病人之心臟病診斷為何？",
     "choices": [
-      "僧帽瓣狹窄（mitral stenosis）",
-      "僧帽瓣閉鎖不全（mitral insufficiency or regurgitation）",
-      "主動脈瓣狹窄（aortic stenosis）",
-      "主動脈瓣閉鎖不全（aortic insufficiency or regurgitation）"
+      {
+        "text": "僧帽瓣狹窄（mitral stenosis）",
+        "is_correct": false
+      },
+      {
+        "text": "僧帽瓣閉鎖不全（mitral insufficiency or regurgitation）",
+        "is_correct": false
+      },
+      {
+        "text": "主動脈瓣狹窄（aortic stenosis）",
+        "is_correct": true
+      },
+      {
+        "text": "主動脈瓣閉鎖不全（aortic insufficiency or regurgitation）",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "26",
@@ -781,10 +1489,22 @@
     "subject": "心臟內科",
     "question": "一位 85 歲男性，三個月來發生運動時嚴重呼吸困難，一週前昏厥來門診就醫，聽診發現收縮期射出型心雜音（systolic ejection murmur）並延伸至右頸部，下列敘述何者正確？",
     "choices": [
-      "本病人發生此疾病的原因，最常見的是風濕性心臟病",
-      "心臟超音波測量二尖瓣開口面積，可評估本病人心臟疾病的嚴重程度",
-      "本病人如未積極治療，存活率大約一年半至兩年",
-      "心臟瓣膜氣球擴張術是本病人治療的首選方法"
+      {
+        "text": "本病人發生此疾病的原因，最常見的是風濕性心臟病",
+        "is_correct": false
+      },
+      {
+        "text": "心臟超音波測量二尖瓣開口面積，可評估本病人心臟疾病的嚴重程度",
+        "is_correct": false
+      },
+      {
+        "text": "本病人如未積極治療，存活率大約一年半至兩年",
+        "is_correct": true
+      },
+      {
+        "text": "心臟瓣膜氣球擴張術是本病人治療的首選方法",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "27",
@@ -794,10 +1514,22 @@
     "subject": "心臟內科",
     "question": "左心室的填充速度和心臟的舒張功能有關，左心室的硬度也影響了心室的填充速度而可能引起心臟舒張功能的改變，如下圖的左心室壓力體積圖（pressure-volume curve），實線代表正常的左心室功能，虛線代表舒張功能（diastolic function）出現異常的左心室，下列那一個圖形代表左心室的chamber\ndilation？",
     "choices": [
-      "圖A",
-      "圖B",
-      "圖C",
-      "圖D"
+      {
+        "text": "圖A",
+        "is_correct": false
+      },
+      {
+        "text": "圖B",
+        "is_correct": false
+      },
+      {
+        "text": "圖C",
+        "is_correct": false
+      },
+      {
+        "text": "圖D",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016218/Scanned_File/QUE-016218.png",
     "session": "104寒期",
@@ -808,10 +1540,22 @@
     "subject": "心臟內科",
     "question": "你正為一位成年病患急救，心電圖如下圖。下列敘述何者錯誤？",
     "choices": [
-      "按壓胸部時深度建議大於5 公分",
-      "按壓胸部時速度建議每分鐘大於100 次",
-      "使用進階呼吸道（advanced airway）裝置人工通氣（ventilation）時，成人每6 至8 秒吹氣一次",
-      "若能維持呼氣末之二氧化碳分壓（PETCO2）＜10 mmHg，表示心肺復甦術品質可以接受"
+      {
+        "text": "按壓胸部時深度建議大於5 公分",
+        "is_correct": false
+      },
+      {
+        "text": "按壓胸部時速度建議每分鐘大於100 次",
+        "is_correct": false
+      },
+      {
+        "text": "使用進階呼吸道（advanced airway）裝置人工通氣（ventilation）時，成人每6 至8 秒吹氣一次",
+        "is_correct": false
+      },
+      {
+        "text": "若能維持呼氣末之二氧化碳分壓（PETCO2）＜10 mmHg，表示心肺復甦術品質可以接受",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016265/Scanned_File/QUE-016265.png",
     "session": "104寒期",
@@ -822,10 +1566,22 @@
     "subject": "心臟內科",
     "question": "治療性低溫療法可以改善心跳停止病人預後，目前建議之治療時低溫範圍為何？",
     "choices": [
-      "35-36°C",
-      "32-34°C",
-      "26-28°C",
-      "22-25°C"
+      {
+        "text": "35-36°C",
+        "is_correct": false
+      },
+      {
+        "text": "32-34°C",
+        "is_correct": true
+      },
+      {
+        "text": "26-28°C",
+        "is_correct": false
+      },
+      {
+        "text": "22-25°C",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "76",
@@ -835,10 +1591,22 @@
     "subject": "心臟內科",
     "question": "一位50歲女性有狹心症病史數年，最近因為疲倦無力，食慾減少，身體檢查發現皮膚有白斑（vitiligo）；實驗室檢查free T4 0.5 ng/dL（normal range 0.8～1.8 ng/dL），TSH 25μIU/mL（normal range 0.1～2.0 μIU/mL），early morning cortisol 1.0 μg/dL（normalrange 9.0～15 μg/dL）。其母親有Graves’ disease病史，妹妹有Hashimoto’s thyroiditis病史。最好的治療方式為何？",
     "choices": [
-      "先給予甲狀腺素每天100 μg，再給予可體酮（cortisone）每天25 mg",
-      "先給予可體酮每天25 mg，再給予甲狀腺素每天100 μg",
-      "先給予甲狀腺素每天25 μg，再給予可體酮每天25 mg",
-      "先給予可體酮每天25 mg，再給予甲狀腺素每天25 μg"
+      {
+        "text": "先給予甲狀腺素每天100 μg，再給予可體酮（cortisone）每天25 mg",
+        "is_correct": false
+      },
+      {
+        "text": "先給予可體酮每天25 mg，再給予甲狀腺素每天100 μg",
+        "is_correct": false
+      },
+      {
+        "text": "先給予甲狀腺素每天25 μg，再給予可體酮每天25 mg",
+        "is_correct": false
+      },
+      {
+        "text": "先給予可體酮每天25 mg，再給予甲狀腺素每天25 μg",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "13",
@@ -848,10 +1616,22 @@
     "subject": "心臟內科",
     "question": "一位68歲女性有狹心症病史數年，一年前右側甲狀腺無意間發現一2.5 cm結節，當時心律正常，體重58公斤，free T4 1.6 ng/dL（normal range 0.8～1.8 ng/dL），T3 120 ng/dL\f（normal range 80～180 ng/dL），TSH 0.15μIU/mL（normal range 0.1～2.0 μIU/mL）。甲狀腺I-131掃瞄顯示右側甲狀腺結節為熱結節（hot nodule）左側甲狀腺顯影減低。最近她來追蹤，體重53公斤，心悸會喘，下肢水腫，心電圖顯示心房震顫，驗血發現free T4 2.3ng/dL，T3 220 ng/dL，TSH＜0.2 μIU/mL；甲狀腺右葉結節大小與之前相同。最好的治療方式為何？",
     "choices": [
-      "持續追蹤甲狀腺結節大小",
-      "甲狀腺超音波檢查及甲狀腺功能追蹤",
-      "甲狀腺右葉結節手術切除",
-      "甲狀腺I-131放射治療"
+      {
+        "text": "持續追蹤甲狀腺結節大小",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺超音波檢查及甲狀腺功能追蹤",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺右葉結節手術切除",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺I-131放射治療",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "14",
@@ -861,10 +1641,22 @@
     "subject": "心臟內科",
     "question": "有關正常血管（blood vessel）的敘述，下列何者正確？",
     "choices": [
-      "動脈之外層富含平滑肌細胞",
-      "微血管之外層富含纖維細胞（fibroblasts）",
-      "內皮細胞（endothelium）可調節血管收縮及放鬆",
-      "內皮細胞無法生產一氧化氮（NO）"
+      {
+        "text": "動脈之外層富含平滑肌細胞",
+        "is_correct": false
+      },
+      {
+        "text": "微血管之外層富含纖維細胞（fibroblasts）",
+        "is_correct": false
+      },
+      {
+        "text": "內皮細胞（endothelium）可調節血管收縮及放鬆",
+        "is_correct": true
+      },
+      {
+        "text": "內皮細胞無法生產一氧化氮（NO）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "16",
@@ -874,10 +1666,22 @@
     "subject": "心臟內科",
     "question": "一位65歲的男性病人，三年前有陳舊性心肌梗塞、高血壓、糖尿病、血脂異常及吸菸之習慣，在給予包括beta blocker及ACE inhibitor之降壓及控制血糖及血脂的藥物後，您建議病人每日服用100 mg之aspirin，但病人說他胃酸比較多可能有胃潰瘍，又聽說aspirin會傷胃，有人告訴他dipyridamole可以取代aspirin又可以保護心臟，堅持要使用dipyridamole。下列處置何者最不恰當？",
     "choices": [
-      "基於病患自主的原則，給予dipyridamole",
-      "處方esomeprazole，搭配aspirin使用",
-      "處方clopidogrel使用",
-      "轉介病人給腸胃科醫師看是否須安排胃腸內視鏡檢查"
+      {
+        "text": "基於病患自主的原則，給予dipyridamole",
+        "is_correct": true
+      },
+      {
+        "text": "處方esomeprazole，搭配aspirin使用",
+        "is_correct": false
+      },
+      {
+        "text": "處方clopidogrel使用",
+        "is_correct": false
+      },
+      {
+        "text": "轉介病人給腸胃科醫師看是否須安排胃腸內視鏡檢查",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "18",
@@ -887,10 +1691,22 @@
     "subject": "心臟內科",
     "question": "1977歲女性有糖尿病及二尖瓣閉鎖不全病史，以往並無心律不整病史，某日病人突發心悸及呼吸困難需緊急插管住加護病房治療，心電圖如下所示 ，下列敘述何者不適當？",
     "choices": [
-      "若病人的血行動力學不穩定時，可考慮直接電擊矯正此種心律不整",
-      "若患者血壓穩定，可考慮使用β-blocker或是calcium channel blocker（如 diltiazem）進行ratecontrol",
-      "病人若無contraindication，此心律不整持續12小時以上，應考慮給予抗凝血劑（anticoagulant）以減少發生stroke的風險",
-      "可考慮使用class IC的抗心律不整藥物（antiarrhythmic agent），如：flecainide或是propafenone治療"
+      {
+        "text": "若病人的血行動力學不穩定時，可考慮直接電擊矯正此種心律不整",
+        "is_correct": false
+      },
+      {
+        "text": "若患者血壓穩定，可考慮使用β-blocker或是calcium channel blocker（如 diltiazem）進行ratecontrol",
+        "is_correct": false
+      },
+      {
+        "text": "病人若無contraindication，此心律不整持續12小時以上，應考慮給予抗凝血劑（anticoagulant）以減少發生stroke的風險",
+        "is_correct": false
+      },
+      {
+        "text": "可考慮使用class IC的抗心律不整藥物（antiarrhythmic agent），如：flecainide或是propafenone治療",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016529/Scanned_File/QUE-016529.png",
     "session": "104暑期",
@@ -901,10 +1717,22 @@
     "subject": "心臟內科",
     "question": "一位72歲的男性病人最近開始發生活動時胸痛症狀，他有高血壓和糖尿病，長期接受藥物治療；身體診察可聽見在心尖部位有第二度收縮期雜音，下列何項診斷工具不應列為初步檢查項目？",
     "choices": [
-      "胸部X-光片",
-      "24-小時心電圖（Holter monitoring）",
-      "標準12-導程心電圖",
-      "心臟超音波"
+      {
+        "text": "胸部X-光片",
+        "is_correct": false
+      },
+      {
+        "text": "24-小時心電圖（Holter monitoring）",
+        "is_correct": true
+      },
+      {
+        "text": "標準12-導程心電圖",
+        "is_correct": false
+      },
+      {
+        "text": "心臟超音波",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "20",
@@ -914,10 +1742,22 @@
     "subject": "心臟內科",
     "question": "一位65歲男性，有高血壓病史，一天抽菸一包，在腹部摸到一個無痛而隨脈搏跳動之腫塊，接受腹部斷層掃描血管攝影（CT angiography）發現異常如附圖，有關此患者下列敘述何者正確？",
     "choices": [
-      "發生的比率在女性比較高",
-      "大部分此類腹部腫塊發生的位置，都在腎動脈（renal arteries）之上",
-      "如果腫塊的直徑小於5公分，五年內破裂的機會約為1～2%",
-      "即使在腫塊內發現血栓（mural thrombi），也不會增加周邊動脈栓塞的風險（peripheralembolization）"
+      {
+        "text": "發生的比率在女性比較高",
+        "is_correct": false
+      },
+      {
+        "text": "大部分此類腹部腫塊發生的位置，都在腎動脈（renal arteries）之上",
+        "is_correct": false
+      },
+      {
+        "text": "如果腫塊的直徑小於5公分，五年內破裂的機會約為1～2%",
+        "is_correct": true
+      },
+      {
+        "text": "即使在腫塊內發現血栓（mural thrombi），也不會增加周邊動脈栓塞的風險（peripheralembolization）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016531/Scanned_File/QUE-016531.png",
     "session": "104暑期",
@@ -928,10 +1768,22 @@
     "subject": "心臟內科",
     "question": "22一名55歲男性有糖尿病病史，血壓160/100 mmHg，經尿液常規檢查：protein(+)，血清中的\fcreatinine數值：1.0 mg/dL，其餘生化檢查並無異常的發現，則起始藥物的選擇以下列何者較為適當？",
     "choices": [
-      "利尿劑（diuretics）",
-      "angiotensin-converting enzyme inhibitors / angiotensin receptor blockers",
-      "beta-blockers",
-      "methyldopa"
+      {
+        "text": "利尿劑（diuretics）",
+        "is_correct": false
+      },
+      {
+        "text": "angiotensin-converting enzyme inhibitors / angiotensin receptor blockers",
+        "is_correct": true
+      },
+      {
+        "text": "beta-blockers",
+        "is_correct": false
+      },
+      {
+        "text": "methyldopa",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "22",
@@ -941,10 +1793,22 @@
     "subject": "心臟內科",
     "question": "一位成年病患無意識、無呼吸、無脈搏，心電圖如圖示。下列何者處置最為適合？",
     "choices": [
-      "雙相電擊 120-200 焦耳",
-      "單相電擊 360 焦耳",
-      "Atropine 0.5 mg 靜脈注射，總劑量不超過 0.04 mg/kg",
-      "CPR"
+      {
+        "text": "雙相電擊 120-200 焦耳",
+        "is_correct": false
+      },
+      {
+        "text": "單相電擊 360 焦耳",
+        "is_correct": false
+      },
+      {
+        "text": "Atropine 0.5 mg 靜脈注射，總劑量不超過 0.04 mg/kg",
+        "is_correct": false
+      },
+      {
+        "text": "CPR",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016585/Scanned_File/QUE-016585.png",
     "session": "104暑期",
@@ -955,10 +1819,22 @@
     "subject": "心臟內科",
     "question": "下列何者並非動脈硬化獨立的危險因子？",
     "choices": [
-      "低密度脂蛋白（LDL cholesterol）過高",
-      "吸菸",
-      "肥胖",
-      "糖尿病"
+      {
+        "text": "低密度脂蛋白（LDL cholesterol）過高",
+        "is_correct": true
+      },
+      {
+        "text": "吸菸",
+        "is_correct": true
+      },
+      {
+        "text": "肥胖",
+        "is_correct": true
+      },
+      {
+        "text": "糖尿病",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "13",
@@ -968,10 +1844,22 @@
     "subject": "心臟內科",
     "question": "王先生今年54歲，胸悶及喘的症狀已有一年。他有家族遺傳的高血壓、糖尿病，而且一天抽兩包菸已有30\f年，還曾被診斷為慢性阻塞性肺病（COPD）。下列針對他可能合併冠心病之敘述，何者正確？",
     "choices": [
-      "若他雖仍能正常上班工作及活動，但吃飽後走上坡就會胸悶，則他的Canadian Cardiovascular Society功能分級為III級",
-      "因為考慮壓力性測試（stress testing）的風險，應避免運動心電圖檢查",
-      "多巴胺壓力（dobutamine stress）心臟超音波檢查雖然相當準確，但敏感度（sensitivity）略低於運動心電圖",
-      "電腦斷層檢查冠心病之正確性雖然頗高，但其對預測疾病預後之應用尚不明確"
+      {
+        "text": "若他雖仍能正常上班工作及活動，但吃飽後走上坡就會胸悶，則他的Canadian Cardiovascular Society功能分級為III級",
+        "is_correct": false
+      },
+      {
+        "text": "因為考慮壓力性測試（stress testing）的風險，應避免運動心電圖檢查",
+        "is_correct": false
+      },
+      {
+        "text": "多巴胺壓力（dobutamine stress）心臟超音波檢查雖然相當準確，但敏感度（sensitivity）略低於運動心電圖",
+        "is_correct": false
+      },
+      {
+        "text": "電腦斷層檢查冠心病之正確性雖然頗高，但其對預測疾病預後之應用尚不明確",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "14",
@@ -981,10 +1869,22 @@
     "subject": "心臟內科",
     "question": "對於心電圖心軸偏左（left axis deviation）的可能原因，何者錯誤？",
     "choices": [
-      "左右手導程顛倒（reversal of the left and right arm electrodes）",
-      "可見於正常人（normal variant）",
-      "左心室肥厚（left ventricular hypertrophy）",
-      "下壁心肌梗塞（inferior myocardial infarction）"
+      {
+        "text": "左右手導程顛倒（reversal of the left and right arm electrodes）",
+        "is_correct": true
+      },
+      {
+        "text": "可見於正常人（normal variant）",
+        "is_correct": false
+      },
+      {
+        "text": "左心室肥厚（left ventricular hypertrophy）",
+        "is_correct": false
+      },
+      {
+        "text": "下壁心肌梗塞（inferior myocardial infarction）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "15",
@@ -994,10 +1894,22 @@
     "subject": "心臟內科",
     "question": "一位44歲女性因心悸至門診檢查，心電圖顯示如下圖，其附屬路徑或旁道（accessory pathway）最可能位在何處？",
     "choices": [
-      "右心室側壁（Right free wall）",
-      "左心室側壁（Left lateral ventricle）",
-      "前中膈（Anterior septum）",
-      "後中膈（Posterior septum）"
+      {
+        "text": "右心室側壁（Right free wall）",
+        "is_correct": false
+      },
+      {
+        "text": "左心室側壁（Left lateral ventricle）",
+        "is_correct": false
+      },
+      {
+        "text": "前中膈（Anterior septum）",
+        "is_correct": false
+      },
+      {
+        "text": "後中膈（Posterior septum）",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020366/Scanned_File/QUE-020366.png",
     "session": "107暑期",
@@ -1008,10 +1920,22 @@
     "subject": "心臟內科",
     "question": "在成人最常見的三尖瓣逆流（tricuspid regurgitation）原因為何？",
     "choices": [
-      "肺動脈高壓（pulmonary hypertension）",
-      "類癌（carcinoid）",
-      "愛伯斯坦氏異常（Ebstein’s anomaly）",
-      "心內膜炎（endocarditis）"
+      {
+        "text": "肺動脈高壓（pulmonary hypertension）",
+        "is_correct": true
+      },
+      {
+        "text": "類癌（carcinoid）",
+        "is_correct": false
+      },
+      {
+        "text": "愛伯斯坦氏異常（Ebstein’s anomaly）",
+        "is_correct": false
+      },
+      {
+        "text": "心內膜炎（endocarditis）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "17",
@@ -1021,10 +1945,22 @@
     "subject": "心臟內科",
     "question": "有關主動脈瓣狹窄，下列敘述何者錯誤？",
     "choices": [
-      "當有心衰竭症狀時，建議接受主動脈瓣膜置換",
-      "當出現心衰竭症狀時，預期餘命大約是3年",
-      "鈣化性主動脈瓣狹窄，每年主動脈瓣膜面積大約下降0.1平方公分",
-      "大約有兩成猝死病人是因心律不整死亡"
+      {
+        "text": "當有心衰竭症狀時，建議接受主動脈瓣膜置換",
+        "is_correct": false
+      },
+      {
+        "text": "當出現心衰竭症狀時，預期餘命大約是3年",
+        "is_correct": true
+      },
+      {
+        "text": "鈣化性主動脈瓣狹窄，每年主動脈瓣膜面積大約下降0.1平方公分",
+        "is_correct": false
+      },
+      {
+        "text": "大約有兩成猝死病人是因心律不整死亡",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "18",
@@ -1034,10 +1970,22 @@
     "subject": "心臟內科",
     "question": "一位23歲大學王姓女畢業生規劃去位於菲律賓首都馬尼拉的貿易公司上班，在出發前兩週，因平常有過敏性鼻炎而先自行到住家附近的李姓家醫科診所拿藥。醫師問病史時王女除了提到鼻塞、流鼻水外，還表示偶而會有胸悶的症狀，但並無其他任何不適。而醫師在作身體診查時聽診前胸，發現有grade 1-2的mid-systolicmurmur，於是醫師要王女轉診去附近的區域醫院作進一步檢查。王女到了區域醫院的心臟科門診就診，在問診確定病史和身體診查發現如同轉診單所記載後，其最合適的處置為：",
     "choices": [
-      "直接安排做心臟超音波檢查，再決定如何處置",
-      "直接安排做ECG檢查，如無異常，即可不用再做其他檢查",
-      "直接安排做CXR檢查，如無異常，再做心臟超音波檢查，之後再決定如何處置",
-      "直接安排做ECG和CXR檢查，如無異常，即可不用再做其他檢查"
+      {
+        "text": "直接安排做心臟超音波檢查，再決定如何處置",
+        "is_correct": false
+      },
+      {
+        "text": "直接安排做ECG檢查，如無異常，即可不用再做其他檢查",
+        "is_correct": false
+      },
+      {
+        "text": "直接安排做CXR檢查，如無異常，再做心臟超音波檢查，之後再決定如何處置",
+        "is_correct": false
+      },
+      {
+        "text": "直接安排做ECG和CXR檢查，如無異常，即可不用再做其他檢查",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "19",
@@ -1047,10 +1995,22 @@
     "subject": "心臟內科",
     "question": "有關發紺（cyanosis）的敘述，下列何者錯誤？",
     "choices": [
-      "大的patent ductus arteriosus（PDA）引起的差異性發紺（differential cyanosis），經常是下半身發紺",
-      "周邊血管疾病引起的發紺部位，經常是在動脈血管管腔狹窄處的下游處",
-      "代表的生理意義為血氧含量降低，或是組織的灌注血流量不足",
-      "嚴重心衰竭引起的發紺，常伴有小血管的擴張"
+      {
+        "text": "大的patent ductus arteriosus（PDA）引起的差異性發紺（differential cyanosis），經常是下半身發紺",
+        "is_correct": false
+      },
+      {
+        "text": "周邊血管疾病引起的發紺部位，經常是在動脈血管管腔狹窄處的下游處",
+        "is_correct": false
+      },
+      {
+        "text": "代表的生理意義為血氧含量降低，或是組織的灌注血流量不足",
+        "is_correct": false
+      },
+      {
+        "text": "嚴重心衰竭引起的發紺，常伴有小血管的擴張",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "20",
@@ -1060,10 +2020,22 @@
     "subject": "心臟內科",
     "question": "有關次發性高血壓的敘述，何者正確？",
     "choices": [
-      "腎血管狹窄引起的血壓高是所有次發性高血壓裡面最常見的",
-      "腎動脈發生纖維肌肉發育異常（Fibromuscular dysplasia）或是動脈硬化形成斑塊，引起血管狹窄，造成血壓高",
-      "腎上腺腫瘤製造過多的Aldosterone也是造成次發性高血壓的原因，表現常是：鈉堆積，高血壓，高血鉀，低的血中腎素（Renin）活性",
-      "嗜鉻細胞瘤（Pheochromocytoma）有80%的機會是來自家族遺傳，屬於自體顯性（Autosomaldominant）遺傳"
+      {
+        "text": "腎血管狹窄引起的血壓高是所有次發性高血壓裡面最常見的",
+        "is_correct": false
+      },
+      {
+        "text": "腎動脈發生纖維肌肉發育異常（Fibromuscular dysplasia）或是動脈硬化形成斑塊，引起血管狹窄，造成血壓高",
+        "is_correct": true
+      },
+      {
+        "text": "腎上腺腫瘤製造過多的Aldosterone也是造成次發性高血壓的原因，表現常是：鈉堆積，高血壓，高血鉀，低的血中腎素（Renin）活性",
+        "is_correct": false
+      },
+      {
+        "text": "嗜鉻細胞瘤（Pheochromocytoma）有80%的機會是來自家族遺傳，屬於自體顯性（Autosomaldominant）遺傳",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "21",
@@ -1073,10 +2045,22 @@
     "subject": "心臟內科",
     "question": "某論文摘要如下：長期使用抗血小板藥物比上安慰劑的隨機分配試驗，每日劑量75 mg到 325 mg的aspirin，平均追蹤1.3年。aspirin對於中風合併心肌梗塞或血管性事件有明顯下降（odds ratio (OR) 0.71, 95％confidence interval (CI) 0.51 to 0.97）。服用aspirin者比未服用aspirin者發生中風合併心肌梗塞或血管性事件的敘述，何者正確？",
     "choices": [
-      "絕對風險下降率（absolute risk reduction，ARR）為71％",
-      "相對風險下降率（relative risk reduction，RRR）為71％",
-      "服用aspirin者發生事件與沒發生事件的比值，除以未服用aspirin者發生事件與沒發生事件的比值為0.71",
-      "number needed to treat（NNT）為141"
+      {
+        "text": "絕對風險下降率（absolute risk reduction，ARR）為71％",
+        "is_correct": false
+      },
+      {
+        "text": "相對風險下降率（relative risk reduction，RRR）為71％",
+        "is_correct": false
+      },
+      {
+        "text": "服用aspirin者發生事件與沒發生事件的比值，除以未服用aspirin者發生事件與沒發生事件的比值為0.71",
+        "is_correct": true
+      },
+      {
+        "text": "number needed to treat（NNT）為141",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "67",
@@ -1086,10 +2070,22 @@
     "subject": "心臟內科",
     "question": "一位65歲女性病人，有肥胖、腦中風、高血壓的病史。4週前曾因大腿骨折而接受手術治療，目前在家臥床休養，傷口癒合良好。此病人清晨突然覺得噁心、胸悶，喘不過氣來，家人緊急送醫治療。到院時體溫正常意識清楚，呼吸27次/min，心跳120次/min，血壓88/43 mmHg，血氧飽和度86%。你發現心電圖在Lead V1至V4出現新的T wave inversion及S1-Q3-T3 pattern，該病人最可能之診斷為何？",
     "choices": [
-      "主動脈剝離（aortic dissection）",
-      "急性腦中風（acute stroke）",
-      "肺栓塞（pulmonary embolism）",
-      "大葉性肺炎（lobar pneumonia）"
+      {
+        "text": "主動脈剝離（aortic dissection）",
+        "is_correct": false
+      },
+      {
+        "text": "急性腦中風（acute stroke）",
+        "is_correct": false
+      },
+      {
+        "text": "肺栓塞（pulmonary embolism）",
+        "is_correct": true
+      },
+      {
+        "text": "大葉性肺炎（lobar pneumonia）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "75",
@@ -1099,10 +2095,22 @@
     "subject": "心臟內科",
     "question": "一位56歲女性，由美國紐約返回臺北的飛機途中發生暈厥（syncope），下了飛機後因呼吸不順至急診就診，她以前不曾發生類似狀況，平常亦無特殊疾病，身體檢查發現血壓120/70 mmHg，心跳126次/分，呼吸28次/分，體溫37.2℃，呼吸音及心音皆正常，四肢活動自如，無腫脹現象，在給予40％氧氣五分鐘後，動脈氣體分析為pH=7.48，PaO2 =70mmHg，PaCO2 =28mmHg，O2 saturation=92%，此時應安排下列那一項檢查最適當？",
     "choices": [
-      "心臟超音波檢查",
-      "靜脈杜卜勒超音波檢查",
-      "注射顯影劑的螺旋快速胸部電腦斷層檢查",
-      "主動脈血管攝影"
+      {
+        "text": "心臟超音波檢查",
+        "is_correct": false
+      },
+      {
+        "text": "靜脈杜卜勒超音波檢查",
+        "is_correct": false
+      },
+      {
+        "text": "注射顯影劑的螺旋快速胸部電腦斷層檢查",
+        "is_correct": true
+      },
+      {
+        "text": "主動脈血管攝影",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "77",
@@ -1112,10 +2120,22 @@
     "subject": "心臟內科",
     "question": "⼀位40歲女性，因⾞禍接受頭部電腦斷層攝影檢查，發現腦下垂體部位有空蝶鞍（empty sella）現象。她⽬前⽉經正常，飯前⾎糖90 mg/dL，PR 80/min，BP 130/80 mmHg，free T4 1.2 ng/dL（normal range 0.8～range 8～18 μg/dL）。下列處置何者最恰當？",
     "choices": [
-      "經蝶鞍腦下垂體⼿術（transsphenoid surgery）",
-      "放射治療（radiation therapy）",
-      "藥物（bromocriptine therapy）",
-      "說明病情使病患放⼼（reassurance）"
+      {
+        "text": "經蝶鞍腦下垂體⼿術（transsphenoid surgery）",
+        "is_correct": false
+      },
+      {
+        "text": "放射治療（radiation therapy）",
+        "is_correct": false
+      },
+      {
+        "text": "藥物（bromocriptine therapy）",
+        "is_correct": false
+      },
+      {
+        "text": "說明病情使病患放⼼（reassurance）",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "1",
@@ -1125,10 +2145,22 @@
     "subject": "心臟內科",
     "question": "⼀位35歲的男性，因為意識不清被家⼈送⾄急診就醫，抽⾎檢查發現⾎鈉過⾼（160 mEq/L，參考值135～145 mEq/L）。有關⾼⾎鈉（hypernatremia）的處理，下列描述何者最適當？",
     "choices": [
-      "估算全⾝⽔量（total-body water）：女性是體重的60%，⽽男性是體重的50%",
-      "此病患若體重70公⽄，計算free water缺乏量（free-water deficit）約5000 c.c.",
-      "不易感知的⽔分流失（insensible losses）約5 mL/kg/day",
-      "⾎鈉的矯正儘量不超過10 mM/day，以避免腦部⽔腫（cerebral edema）"
+      {
+        "text": "估算全⾝⽔量（total-body water）：女性是體重的60%，⽽男性是體重的50%",
+        "is_correct": false
+      },
+      {
+        "text": "此病患若體重70公⽄，計算free water缺乏量（free-water deficit）約5000 c.c.",
+        "is_correct": false
+      },
+      {
+        "text": "不易感知的⽔分流失（insensible losses）約5 mL/kg/day",
+        "is_correct": false
+      },
+      {
+        "text": "⾎鈉的矯正儘量不超過10 mM/day，以避免腦部⽔腫（cerebral edema）",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "2",
@@ -1138,10 +2170,22 @@
     "subject": "心臟內科",
     "question": "⼀位35歲男性因慢性腹瀉就醫，此症狀在食⽤麵粉製品後會加劇，少吃會較緩解。⾎液學檢查顯⽰⾎紅素11.5gm/dL，⽩⾎球及⾎⼩板正常，⽽⽣化學檢查顯⽰⾎鈣稍低（2.15 mmol/L，正常2.2～2.5 mmol/L），⾎清肌酸酐（creatinine，0.6 mg/dL）、鈉（139 mEq/L）及鉀（3.8 mEq/L）則在正常範圍，⾎中IgA tissuetransglutaminase antibody為陽性。此病⼈最可能的診斷為何？",
     "choices": [
-      "irritable bowel syndrome",
-      "celiac disease",
-      "eosinophilic gastroenteritis",
-      "Crohn's disease"
+      {
+        "text": "irritable bowel syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "celiac disease",
+        "is_correct": true
+      },
+      {
+        "text": "eosinophilic gastroenteritis",
+        "is_correct": false
+      },
+      {
+        "text": "Crohn's disease",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "3",
@@ -1151,10 +2195,22 @@
     "subject": "心臟內科",
     "question": "下列各項有關瓣膜性⼼臟病的敘述，何者正確？",
     "choices": [
-      "⼆尖瓣狹窄最常⾒的原因是風濕性（rheumatic）慢性發炎造成，常⾒在四、五⼗歲女性，臺灣近年病例數有減少趨勢",
-      "⾺凡⽒症候群（Marfan's syndrome）是主動脈瓣逆流的原因之⼀，聽診時病⼈胸前有舒張期雜⾳，且第⼆⼼⾳（S2）變⼤聲",
-      "主動脈瓣或⼆尖瓣急性逆流達中度以上、且伴有⼼衰竭症狀時，不應使⽤⾎管擴張劑，並應及早開⼑治療",
-      "單純主動脈瓣狹窄或單純⼆尖瓣狹窄病患，⼼導管均顯⽰左⼼室舒張末壓（LVEDP）升⾼"
+      {
+        "text": "⼆尖瓣狹窄最常⾒的原因是風濕性（rheumatic）慢性發炎造成，常⾒在四、五⼗歲女性，臺灣近年病例數有減少趨勢",
+        "is_correct": true
+      },
+      {
+        "text": "⾺凡⽒症候群（Marfan's syndrome）是主動脈瓣逆流的原因之⼀，聽診時病⼈胸前有舒張期雜⾳，且第⼆⼼⾳（S2）變⼤聲",
+        "is_correct": false
+      },
+      {
+        "text": "主動脈瓣或⼆尖瓣急性逆流達中度以上、且伴有⼼衰竭症狀時，不應使⽤⾎管擴張劑，並應及早開⼑治療",
+        "is_correct": false
+      },
+      {
+        "text": "單純主動脈瓣狹窄或單純⼆尖瓣狹窄病患，⼼導管均顯⽰左⼼室舒張末壓（LVEDP）升⾼",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "4",
@@ -1164,10 +2220,22 @@
     "subject": "心臟內科",
     "question": "⼀位23歲男性因⼼悸⾄⾨診檢查，⼼電圖顯⽰如下圖，其附屬路徑或旁道（accessory pathway）最可能位在何處？",
     "choices": [
-      "右⼼室側壁（right free wall）",
-      "左⼼室側壁（left lateral ventricle）",
-      "前中膈（anterior septum）",
-      "後中膈（posterior septum）"
+      {
+        "text": "右⼼室側壁（right free wall）",
+        "is_correct": false
+      },
+      {
+        "text": "左⼼室側壁（left lateral ventricle）",
+        "is_correct": true
+      },
+      {
+        "text": "前中膈（anterior septum）",
+        "is_correct": false
+      },
+      {
+        "text": "後中膈（posterior septum）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023415/Scanned_File/QUE-023415.png",
     "session": "108寒期",
@@ -1178,10 +2246,22 @@
     "subject": "心臟內科",
     "question": "⼀位82歲男性，有⾼⾎壓與慢性腎臟疾病，主訴最近疲倦無⼒，⾎壓152/90 mmHg，呼吸15次/分，⼼跳65次/分，體溫36.5℃，⼼電圖顯⽰如下圖，其最可能為何種電解質異常？",
     "choices": [
-      "⾼⾎鈣症（hypercalcemia）",
-      "低⾎鈣症（hypocalcemia）",
-      "⾼⾎鉀症（hyperkalemia）",
-      "低⾎鉀症（hypokalemia）"
+      {
+        "text": "⾼⾎鈣症（hypercalcemia）",
+        "is_correct": false
+      },
+      {
+        "text": "低⾎鈣症（hypocalcemia）",
+        "is_correct": false
+      },
+      {
+        "text": "⾼⾎鉀症（hyperkalemia）",
+        "is_correct": true
+      },
+      {
+        "text": "低⾎鉀症（hypokalemia）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023416/Scanned_File/QUE-023416.png",
     "session": "108寒期",
@@ -1192,10 +2272,22 @@
     "subject": "心臟內科",
     "question": "⼀位36歲女性無任何過去病史，因連續3⽇胸痛⾄急診求診。胸痛於特定姿勢可較緩解。她否認近⽇有使⽤藥物或創傷史，但⽬前有喉嚨痛等感冒症狀。抽⾎檢查發現D-dimer與⼼肌酶正常，但⽩⾎球與發炎指數（hsCRP）均有輕微升⾼現象。⼼電圖檢查如下圖所⽰。⼼臟超⾳波檢查顯⽰⼼臟收縮功能正常，且無局部室壁活動異常（regional wall motion abnormality），可⾒少量⼼包膜積液。其最可能診斷為何？",
     "choices": [
-      "急性冠⼼病",
-      "⼼肌炎",
-      "⼼包膜炎",
-      "肺栓塞"
+      {
+        "text": "急性冠⼼病",
+        "is_correct": false
+      },
+      {
+        "text": "⼼肌炎",
+        "is_correct": false
+      },
+      {
+        "text": "⼼包膜炎",
+        "is_correct": true
+      },
+      {
+        "text": "肺栓塞",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023417/Scanned_File/QUE-023417.png",
     "session": "108寒期",
@@ -1206,10 +2298,22 @@
     "subject": "心臟內科",
     "question": "⼀位28歲女性因運動性呼吸困難⼤約半年⾄⼼臟科⾨診求診。病患否認有胸悶，端坐呼吸或陣發性夜間呼吸困難情形，⼤約在1週前突發性⼼悸不適狀況。⾝體診察發現有隨呼吸固定第⼆⼼⾳分裂（fixed splitting S2）以及輕微收縮期⼼雜⾳。⼼電圖顯⽰⼼軸右偏（right axis deviation）及V1 rSR’。胸部X光顯⽰右⼼房及肺動脈擴⼤。該病患最可能診斷為何？",
     "choices": [
-      "⼼房中膈缺損（atrial septal defect）",
-      "⼼室中膈缺損（ventricular septal defect）",
-      "主動脈縮窄（coarctation of the aorta）",
-      "法洛⽒四合症（tetralogy of Fallot）"
+      {
+        "text": "⼼房中膈缺損（atrial septal defect）",
+        "is_correct": true
+      },
+      {
+        "text": "⼼室中膈缺損（ventricular septal defect）",
+        "is_correct": false
+      },
+      {
+        "text": "主動脈縮窄（coarctation of the aorta）",
+        "is_correct": false
+      },
+      {
+        "text": "法洛⽒四合症（tetralogy of Fallot）",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "8",
@@ -1219,10 +2323,22 @@
     "subject": "心臟內科",
     "question": "王先⽣接受上下肢⾎壓的檢查，下肢dorsalis pedis artery收縮壓為90 mmHg，上臂測得的⾎壓為150/75mmHg，平均⾎壓為100 mmHg，以下敘述何者正確？",
     "choices": [
-      "ankle-brachial index為0.6",
-      "因下肢少了舒張壓的資料，無法計算ankle-brachial index",
-      "ankle-brachial index為0.9",
-      "因下肢測量部位為dorsalis pedis artery，無法計算ankle-brachial index"
+      {
+        "text": "ankle-brachial index為0.6",
+        "is_correct": true
+      },
+      {
+        "text": "因下肢少了舒張壓的資料，無法計算ankle-brachial index",
+        "is_correct": false
+      },
+      {
+        "text": "ankle-brachial index為0.9",
+        "is_correct": false
+      },
+      {
+        "text": "因下肢測量部位為dorsalis pedis artery，無法計算ankle-brachial index",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "9",
@@ -1232,10 +2348,22 @@
     "subject": "心臟內科",
     "question": "李先⽣因呼吸困難⽽到醫院就診，在診間醫師問完病史後，就作⾝體診察，其中包括了abdominojugularreflex，結果發現原本無異樣的頸靜脈有明顯的⿎漲，⾄少在鎖骨上超過5公分。下列敘述何者最恰當：",
     "choices": [
-      "⼤⾎管動脈端有pressure overload",
-      "有volume overload",
-      "為紐約⼼臟協會的⼼衰竭功能分類（NYHA functional classification）的第四級",
-      "有左側⼼衰竭"
+      {
+        "text": "⼤⾎管動脈端有pressure overload",
+        "is_correct": false
+      },
+      {
+        "text": "有volume overload",
+        "is_correct": true
+      },
+      {
+        "text": "為紐約⼼臟協會的⼼衰竭功能分類（NYHA functional classification）的第四級",
+        "is_correct": false
+      },
+      {
+        "text": "有左側⼼衰竭",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "10",
@@ -1245,10 +2373,22 @@
     "subject": "心臟內科",
     "question": "下列改變⾎⾏動⼒學（hemodynamics）的動作，與⼼臟雜⾳之間的關係何者錯誤？",
     "choices": [
-      "當雙⼿緊握時（hand grip），僧帽瓣閉鎖不全的雜⾳強度會因為⾎流增加⽽增加",
-      "當病患進⾏佛薩⽡⽒壓⼒均衡呼吸法（Valsalva maneuver）時，如果是主動脈狹窄的病患雜⾳⻑度與強度都會減少",
-      "當病患進⾏完佛薩⽡⽒壓⼒均衡呼吸法（Valsalva maneuver）後，⼼臟右側雜⾳恢復到原來強度的速度快於左側的⼼雜⾳",
-      "當從坐姿站立時，若有⼼室出⼝阻塞性⼼肌病變（hypertrophic obstructive cardiomyopathy, HOCM）時，⼼雜⾳聲⾳會因為⾎流減少⽽減弱"
+      {
+        "text": "當雙⼿緊握時（hand grip），僧帽瓣閉鎖不全的雜⾳強度會因為⾎流增加⽽增加",
+        "is_correct": false
+      },
+      {
+        "text": "當病患進⾏佛薩⽡⽒壓⼒均衡呼吸法（Valsalva maneuver）時，如果是主動脈狹窄的病患雜⾳⻑度與強度都會減少",
+        "is_correct": false
+      },
+      {
+        "text": "當病患進⾏完佛薩⽡⽒壓⼒均衡呼吸法（Valsalva maneuver）後，⼼臟右側雜⾳恢復到原來強度的速度快於左側的⼼雜⾳",
+        "is_correct": false
+      },
+      {
+        "text": "當從坐姿站立時，若有⼼室出⼝阻塞性⼼肌病變（hypertrophic obstructive cardiomyopathy, HOCM）時，⼼雜⾳聲⾳會因為⾎流減少⽽減弱",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "11",
@@ -1258,10 +2398,22 @@
     "subject": "心臟內科",
     "question": "有關⼼臟⾎管系統的⾝體檢查與評估，下列何者錯誤？",
     "choices": [
-      "所謂differential cyanosis指的是發紺現象單獨出現在下肢，要考慮有從右到左的⾎液分流（shunting）病態⽣理現象",
-      "當⽪膚看起來有點像青銅⾊的⾊素沉積之際，⼼衰竭的鑑別診斷要考量⾎⾊素沈著病（hemochromatosis）",
-      "⾺凡⽒症（Marfan's syndrome）除了⾝形瘦⻑之外，在牙齦上的表現常常是有較低的牙腭⼸（low-archedpalate）",
-      "所謂的杵狀指（clubbing finger）是暗⽰著病患可能有從右到左的⾎液分流（shunting）病態⽣理現象"
+      {
+        "text": "所謂differential cyanosis指的是發紺現象單獨出現在下肢，要考慮有從右到左的⾎液分流（shunting）病態⽣理現象",
+        "is_correct": false
+      },
+      {
+        "text": "當⽪膚看起來有點像青銅⾊的⾊素沉積之際，⼼衰竭的鑑別診斷要考量⾎⾊素沈著病（hemochromatosis）",
+        "is_correct": false
+      },
+      {
+        "text": "⾺凡⽒症（Marfan's syndrome）除了⾝形瘦⻑之外，在牙齦上的表現常常是有較低的牙腭⼸（low-archedpalate）",
+        "is_correct": true
+      },
+      {
+        "text": "所謂的杵狀指（clubbing finger）是暗⽰著病患可能有從右到左的⾎液分流（shunting）病態⽣理現象",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "12",
@@ -1271,10 +2423,22 @@
     "subject": "心臟內科",
     "question": "⼀位20歲運動員參加⾺拉松比賽約2⼩時後因昏倒與痙攣被救護⾞送醫治療。抵達醫院時，意識呈昏迷，⼼跳每分鐘120次，⾎壓98/52毫米汞柱（mmHg），體溫攝⽒40.8度。驗⾎發現：aspartate aminotransferase（AST）110 U/L、alanine aminotransferase（ALT）123 U/L、肌酸酐（creatinine）2.2 mg/dL、鈉143mmol/L、鉀4.7 mmol/L、鈣2.4 mmol/L、葡萄糖75 mg/dL。病⼈過去健康情況良好，比賽前無不適症狀。比賽當⽇氣溫為攝⽒37度。請依前述情況回答下列3題。此病⼈最可能的診斷為何？",
     "choices": [
-      "熱痙攣（heat cramps）",
-      "熱衰竭（heat exhaustion）",
-      "中暑（heat stroke）",
-      "熱昏厥（heat syncope）"
+      {
+        "text": "熱痙攣（heat cramps）",
+        "is_correct": false
+      },
+      {
+        "text": "熱衰竭（heat exhaustion）",
+        "is_correct": false
+      },
+      {
+        "text": "中暑（heat stroke）",
+        "is_correct": true
+      },
+      {
+        "text": "熱昏厥（heat syncope）",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "61",
@@ -1284,10 +2448,22 @@
     "subject": "心臟內科",
     "question": "上述病⼈的處置，何者最不適宜？",
     "choices": [
-      "使⽤acetaminophen降低體溫",
-      "置入氣管內管",
-      "補充⽣理食鹽⽔",
-      "必要時使⽤lorazepam治療痙攣"
+      {
+        "text": "使⽤acetaminophen降低體溫",
+        "is_correct": true
+      },
+      {
+        "text": "置入氣管內管",
+        "is_correct": false
+      },
+      {
+        "text": "補充⽣理食鹽⽔",
+        "is_correct": false
+      },
+      {
+        "text": "必要時使⽤lorazepam治療痙攣",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "62",
@@ -1297,10 +2473,22 @@
     "subject": "心臟內科",
     "question": "兩天後，上述病⼈抱怨兩腿酸痛、腫脹，並且發現茶⾊尿，但尿量沒有明顯變少。下肢檢查發現肌⾁有壓痛。⾎中肌酸激酶（creatine kinase）42,700 U/L、肌酸酐（creatinine）2.8 mg/dL、鉀5.0 mmol/L、鈣2.07mmol/L；尿液潛⾎反應呈4+，但顯微鏡檢查未看到紅⾎球。下列處置何者最適當？",
     "choices": [
-      "維持每⼩時尿量200～300 mL",
-      "酸化尿液",
-      "每天補充2,500 mL⽣理食鹽⽔",
-      "開始透析治療"
+      {
+        "text": "維持每⼩時尿量200～300 mL",
+        "is_correct": true
+      },
+      {
+        "text": "酸化尿液",
+        "is_correct": false
+      },
+      {
+        "text": "每天補充2,500 mL⽣理食鹽⽔",
+        "is_correct": false
+      },
+      {
+        "text": "開始透析治療",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "63",
@@ -1310,10 +2498,22 @@
     "subject": "心臟內科",
     "question": "有關古柯鹼（Cocaine）所造成的急性冠⼼症時，下列那⼀種藥物是禁忌？",
     "choices": [
-      "Diazepam（benzodiazepine類藥物）",
-      "Morphine（鴉片類藥物）",
-      "Phentolamine（α-腎上腺阻斷劑）",
-      "Propranolol（β-腎上腺阻斷劑）"
+      {
+        "text": "Diazepam（benzodiazepine類藥物）",
+        "is_correct": false
+      },
+      {
+        "text": "Morphine（鴉片類藥物）",
+        "is_correct": false
+      },
+      {
+        "text": "Phentolamine（α-腎上腺阻斷劑）",
+        "is_correct": false
+      },
+      {
+        "text": "Propranolol（β-腎上腺阻斷劑）",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "76",
@@ -1323,10 +2523,22 @@
     "subject": "心臟內科",
     "question": "一位下肢水腫合併腹水的病人，血清中白蛋白（albumin）為3.0 g/dL，腹水中的白蛋白（ascitic albumin）及蛋白質總量（ascitic protein）分別為1.2及2.8 g/dL，下列何項診斷最不可能？",
     "choices": [
-      "hepatic vein thrombosis, early stage",
-      "heart failure",
-      "liver cirrhosis",
-      "hepatic sinusoidal obstruction syndrome"
+      {
+        "text": "hepatic vein thrombosis, early stage",
+        "is_correct": false
+      },
+      {
+        "text": "heart failure",
+        "is_correct": false
+      },
+      {
+        "text": "liver cirrhosis",
+        "is_correct": true
+      },
+      {
+        "text": "hepatic sinusoidal obstruction syndrome",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "1",
@@ -1336,10 +2548,22 @@
     "subject": "心臟內科",
     "question": "下列那一種藥物或狀況最不可能造成呼吸性鹼中毒？",
     "choices": [
-      "水楊酸鹽（salicylates）",
-      "高山",
-      "懷孕",
-      "嗎啡（morphine）"
+      {
+        "text": "水楊酸鹽（salicylates）",
+        "is_correct": false
+      },
+      {
+        "text": "高山",
+        "is_correct": false
+      },
+      {
+        "text": "懷孕",
+        "is_correct": false
+      },
+      {
+        "text": "嗎啡（morphine）",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "2",
@@ -1349,10 +2573,22 @@
     "subject": "心臟內科",
     "question": "有關心導管檢查中各種壓力測量數據的敘述，下列何者正確？",
     "choices": [
-      "正常平均（mean）肺動脈壓力為30～40 mmHg",
-      "緊縮性（constrictive）心外膜炎跟限制性（restrictive）心肌病變不同，其右心室舒張末壓應小於右心室收縮壓之1/3",
-      "肺微血管楔壓（wedge pressure）在二尖瓣狹窄病人，可間接代表左心室舒張末壓",
-      "欲計算得到體循環血管阻力（systemic vascular resistence），需測得心輸出量、平均主動脈壓及平均右心房壓"
+      {
+        "text": "正常平均（mean）肺動脈壓力為30～40 mmHg",
+        "is_correct": false
+      },
+      {
+        "text": "緊縮性（constrictive）心外膜炎跟限制性（restrictive）心肌病變不同，其右心室舒張末壓應小於右心室收縮壓之1/3",
+        "is_correct": false
+      },
+      {
+        "text": "肺微血管楔壓（wedge pressure）在二尖瓣狹窄病人，可間接代表左心室舒張末壓",
+        "is_correct": false
+      },
+      {
+        "text": "欲計算得到體循環血管阻力（systemic vascular resistence），需測得心輸出量、平均主動脈壓及平均右心房壓",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "3",
@@ -1362,10 +2598,22 @@
     "subject": "心臟內科",
     "question": "有關心電圖PR間距（PR interval），最不可能代表下列心跳週期的那一部分？",
     "choices": [
-      "心房去極化（atrial depolarization）",
-      "心房再極化（atrial repolarization）",
-      "房室間細胞延遲（atrioventricular delay）",
-      "心室去極化（ventricular depolarization）"
+      {
+        "text": "心房去極化（atrial depolarization）",
+        "is_correct": false
+      },
+      {
+        "text": "心房再極化（atrial repolarization）",
+        "is_correct": false
+      },
+      {
+        "text": "房室間細胞延遲（atrioventricular delay）",
+        "is_correct": false
+      },
+      {
+        "text": "心室去極化（ventricular depolarization）",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "4",
@@ -1375,10 +2623,22 @@
     "subject": "心臟內科",
     "question": "一位70歲女性患有糖尿病外，無其它病史，半夜突然胸痛、冒汗、想吐，送至急診時血壓137/79 mmHg，脈搏73次/分，呼吸18次/分，心電圖如下所示，緊急心導管檢查發現心肌梗塞，最可能是那一條冠狀動脈血管堵塞？",
     "choices": [
-      "左主幹",
-      "左前降支",
-      "左迴旋支",
-      "右冠狀動脈"
+      {
+        "text": "左主幹",
+        "is_correct": false
+      },
+      {
+        "text": "左前降支",
+        "is_correct": true
+      },
+      {
+        "text": "左迴旋支",
+        "is_correct": false
+      },
+      {
+        "text": "右冠狀動脈",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028495/Scanned_File/QUE-028495.png",
     "session": "108暑期",
@@ -1389,10 +2649,22 @@
     "subject": "心臟內科",
     "question": "以下何項特徵最可以區分心包膜填塞（cardiac tamponade）與限制性心包膜炎（constrictive pericarditis）？",
     "choices": [
-      "奇脈（pulsus paradoxus）",
-      "Kussmaul’s sign",
-      "第三心音（third heart sound）",
-      "頸靜脈壓力波型呈現顯著的X波下降（prominent x descent）"
+      {
+        "text": "奇脈（pulsus paradoxus）",
+        "is_correct": false
+      },
+      {
+        "text": "Kussmaul’s sign",
+        "is_correct": true
+      },
+      {
+        "text": "第三心音（third heart sound）",
+        "is_correct": false
+      },
+      {
+        "text": "頸靜脈壓力波型呈現顯著的X波下降（prominent x descent）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "6",
@@ -1402,10 +2674,22 @@
     "subject": "心臟內科",
     "question": "一位60歲男性最近數月出現漸進性喘及活動後胸悶情形，至心臟內科門診求診。經過一系列檢查後，發現有擴張性心肌症合併心衰竭。以下何者錯誤？",
     "choices": [
-      "可能原因有很多種，包括感染、毒物、代謝性疾病或家族遺傳性",
-      "心臟超音波可見擴張左心室以及心臟收縮功能減弱",
-      "若病患合併有左束枝傳導阻斷（left bundle branch block），給予心臟再同步化節律器（cardiacresynchronization pacing）置放後可改善心臟收縮功能",
-      "藥物治療無法讓心臟收縮功能改善"
+      {
+        "text": "可能原因有很多種，包括感染、毒物、代謝性疾病或家族遺傳性",
+        "is_correct": false
+      },
+      {
+        "text": "心臟超音波可見擴張左心室以及心臟收縮功能減弱",
+        "is_correct": false
+      },
+      {
+        "text": "若病患合併有左束枝傳導阻斷（left bundle branch block），給予心臟再同步化節律器（cardiacresynchronization pacing）置放後可改善心臟收縮功能",
+        "is_correct": false
+      },
+      {
+        "text": "藥物治療無法讓心臟收縮功能改善",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "7",
@@ -1415,10 +2699,22 @@
     "subject": "心臟內科",
     "question": "在測量血壓時，由近心端往周邊的方向逐次測量，下列敘述何者正確？",
     "choices": [
-      "收縮壓上升，舒張壓降低",
-      "收縮壓上升，舒張壓上升",
-      "收縮壓不變，舒張壓降低",
-      "收縮壓上升，舒張壓不變"
+      {
+        "text": "收縮壓上升，舒張壓降低",
+        "is_correct": true
+      },
+      {
+        "text": "收縮壓上升，舒張壓上升",
+        "is_correct": false
+      },
+      {
+        "text": "收縮壓不變，舒張壓降低",
+        "is_correct": false
+      },
+      {
+        "text": "收縮壓上升，舒張壓不變",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "8",
@@ -1428,10 +2724,22 @@
     "subject": "心臟內科",
     "question": "有關pulsus alternans之敘述，下列何者正確？",
     "choices": [
-      "一般而言，皆與心電圖記錄的electrical alternans同時出現",
-      "在嚴重左心衰竭病人身上出現時，代表心臟收縮力每次心跳之間有差異",
-      "常出現在清晨時",
-      "常出現在肺高壓合併右心衰竭的病人"
+      {
+        "text": "一般而言，皆與心電圖記錄的electrical alternans同時出現",
+        "is_correct": false
+      },
+      {
+        "text": "在嚴重左心衰竭病人身上出現時，代表心臟收縮力每次心跳之間有差異",
+        "is_correct": true
+      },
+      {
+        "text": "常出現在清晨時",
+        "is_correct": false
+      },
+      {
+        "text": "常出現在肺高壓合併右心衰竭的病人",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "9",
@@ -1441,10 +2749,22 @@
     "subject": "心臟內科",
     "question": "下列何者不是肥厚型心肌病變的心因性猝死主要預測因子？",
     "choices": [
-      "病患有猝死的家族病史",
-      "病患左心室超音波顯示有異常的肥厚＞30 mm",
-      "年輕病患在運動達到最高量過程時，血壓上升",
-      "病患24小時心電圖顯示有自發性，但出現時間＜30秒的心室頻脈（spontaneous nonsustained ventriculartachycardia）"
+      {
+        "text": "病患有猝死的家族病史",
+        "is_correct": false
+      },
+      {
+        "text": "病患左心室超音波顯示有異常的肥厚＞30 mm",
+        "is_correct": false
+      },
+      {
+        "text": "年輕病患在運動達到最高量過程時，血壓上升",
+        "is_correct": true
+      },
+      {
+        "text": "病患24小時心電圖顯示有自發性，但出現時間＜30秒的心室頻脈（spontaneous nonsustained ventriculartachycardia）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "10",
@@ -1454,10 +2774,22 @@
     "subject": "心臟內科",
     "question": "有關肺栓塞（pulmonary embolism）的藥物治療，下列何者正確？",
     "choices": [
-      "常見的症狀與表徵包括：胸痛，心搏過速，頸靜脈怒張，臨床檢查評估P2會變得較小聲",
-      "這些病患很容易再發，針劑與口服抗凝血劑使用至少3年的療程",
-      "萬一治療過程中，肺部電腦斷層仍然有大量血塊（massive pulmonary embolism），可以考慮靜脈注射溶血劑（thrombolytic therapy），或是使用導管就近注射溶血劑，為求有效，tissue plasminogen activator建議給與100 mg，與周邊給藥的劑量相同",
-      "臨床試驗發現，一些新型口服抗凝血藥物（例如：rivaroxaban，dabigatran，apixaban）效果不亞於warfarin，但出血事件較為減少"
+      {
+        "text": "常見的症狀與表徵包括：胸痛，心搏過速，頸靜脈怒張，臨床檢查評估P2會變得較小聲",
+        "is_correct": false
+      },
+      {
+        "text": "這些病患很容易再發，針劑與口服抗凝血劑使用至少3年的療程",
+        "is_correct": false
+      },
+      {
+        "text": "萬一治療過程中，肺部電腦斷層仍然有大量血塊（massive pulmonary embolism），可以考慮靜脈注射溶血劑（thrombolytic therapy），或是使用導管就近注射溶血劑，為求有效，tissue plasminogen activator建議給與100 mg，與周邊給藥的劑量相同",
+        "is_correct": false
+      },
+      {
+        "text": "臨床試驗發現，一些新型口服抗凝血藥物（例如：rivaroxaban，dabigatran，apixaban）效果不亞於warfarin，但出血事件較為減少",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "11",
@@ -1467,10 +2799,22 @@
     "subject": "心臟內科",
     "question": "某論文經搜尋Cochrane Library、MEDLINE等，取得多個類似研究資料，並合併分析後結果如下：長期使用抗血小板藥物比上安慰劑的隨機分配試驗，有1965位病人，使用每日劑量75 mg 到325 mg 的aspirin，平均追蹤1.3年。結果aspirin對於中風合併心肌梗塞或血管性事件有明顯下降（odds ratio (OR) 0.71, 95％ confidenceinterval (CI) 0.51 to 0.97）。依據實證醫學的原則，下列何者正確？",
     "choices": [
-      "這是一篇預後性的研究（prognostic study）",
-      "此類型的分析，個案對照研究（case control study）優於世代研究（cohort study）",
-      "此篇論文是屬於綜合分析的研究（meta-analysis）",
-      "此篇論文具有足夠的完成追蹤率（follow-up）"
+      {
+        "text": "這是一篇預後性的研究（prognostic study）",
+        "is_correct": false
+      },
+      {
+        "text": "此類型的分析，個案對照研究（case control study）優於世代研究（cohort study）",
+        "is_correct": false
+      },
+      {
+        "text": "此篇論文是屬於綜合分析的研究（meta-analysis）",
+        "is_correct": true
+      },
+      {
+        "text": "此篇論文具有足夠的完成追蹤率（follow-up）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "68",
@@ -1480,10 +2824,22 @@
     "subject": "心臟內科",
     "question": "一位60歲男性病人因在診所發現有心搏過緩合併低血壓被轉診至醫院，若病史顯示病人可能有中毒或藥物過量，下列何者藥物最不可能有上述的症狀？",
     "choices": [
-      "Organophosphates",
-      "Carbamates",
-      "Clonidine",
-      "Antihistamines"
+      {
+        "text": "Organophosphates",
+        "is_correct": false
+      },
+      {
+        "text": "Carbamates",
+        "is_correct": false
+      },
+      {
+        "text": "Clonidine",
+        "is_correct": false
+      },
+      {
+        "text": "Antihistamines",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "76",
@@ -1493,10 +2849,22 @@
     "subject": "心臟內科",
     "question": "65歲男性長期有高血壓，持續用藥控制中，幾天前門診醫師幫他換藥，這幾天就常感覺腹脹，而且有便秘現象，病人最可能用了下列何種藥？",
     "choices": [
-      "Valsartan",
-      "Renitec",
-      "Labetalol",
-      "Amlodipine"
+      {
+        "text": "Valsartan",
+        "is_correct": false
+      },
+      {
+        "text": "Renitec",
+        "is_correct": false
+      },
+      {
+        "text": "Labetalol",
+        "is_correct": false
+      },
+      {
+        "text": "Amlodipine",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "78",
@@ -1506,10 +2874,22 @@
     "subject": "心臟內科",
     "question": "有關懷孕期間內科疾病的處理，下列敘述何者最為適當？",
     "choices": [
-      "子癲前症（preeclampsia）之特色是高血壓與蛋白尿，此類患者在懷孕過程中絕對禁用阿斯匹靈（aspirin），以避免生產時出血",
-      "孕婦於懷孕中、後期出現高血壓，為了減少蛋白尿的發生，在腎功能與鉀離子都正常時，應以選擇性的血管張力素受體阻斷劑（angiotensin receptor blocker），作為第一線高血壓治療用藥",
-      "瓣膜性心臟病患在懷孕過程中，心因性死亡的可能性以二尖瓣狹窄（mitral stenosis）患者為最高",
-      "妊娠糖尿病發生時，為了減少妊娠併發症，應積極以藥物控制孕婦血糖，其中，以DPP-IV抑制劑（dipeptidyl peptidase Ⅳ inhibitor）最被建議為第一線藥物"
+      {
+        "text": "子癲前症（preeclampsia）之特色是高血壓與蛋白尿，此類患者在懷孕過程中絕對禁用阿斯匹靈（aspirin），以避免生產時出血",
+        "is_correct": false
+      },
+      {
+        "text": "孕婦於懷孕中、後期出現高血壓，為了減少蛋白尿的發生，在腎功能與鉀離子都正常時，應以選擇性的血管張力素受體阻斷劑（angiotensin receptor blocker），作為第一線高血壓治療用藥",
+        "is_correct": false
+      },
+      {
+        "text": "瓣膜性心臟病患在懷孕過程中，心因性死亡的可能性以二尖瓣狹窄（mitral stenosis）患者為最高",
+        "is_correct": true
+      },
+      {
+        "text": "妊娠糖尿病發生時，為了減少妊娠併發症，應積極以藥物控制孕婦血糖，其中，以DPP-IV抑制劑（dipeptidyl peptidase Ⅳ inhibitor）最被建議為第一線藥物",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "1",
@@ -1519,10 +2899,22 @@
     "subject": "心臟內科",
     "question": "下列有關主動脈瓣狹窄之敘述，何者錯誤？",
     "choices": [
-      "二瓣性主動脈瓣（bicuspid aortic valve）是一種最常見的先天性瓣膜異常，易導致主動瓣狹窄",
-      "因造成左心室血流輸出阻礙，疾病早期，左心室會擴大以代償輸出量之不足，但此時病人無明顯症狀",
-      "當病程進展到開始出現臨床心臟衰竭症狀時，若無妥善治療，平均病人存活時間僅剩2年以下",
-      "因器材技術進步，經導管主動脈置換術（TAVR），在外科開刀風險較高的病人族群的治療結果已與傳統瓣膜置換手術相近"
+      {
+        "text": "二瓣性主動脈瓣（bicuspid aortic valve）是一種最常見的先天性瓣膜異常，易導致主動瓣狹窄",
+        "is_correct": false
+      },
+      {
+        "text": "因造成左心室血流輸出阻礙，疾病早期，左心室會擴大以代償輸出量之不足，但此時病人無明顯症狀",
+        "is_correct": true
+      },
+      {
+        "text": "當病程進展到開始出現臨床心臟衰竭症狀時，若無妥善治療，平均病人存活時間僅剩2年以下",
+        "is_correct": false
+      },
+      {
+        "text": "因器材技術進步，經導管主動脈置換術（TAVR），在外科開刀風險較高的病人族群的治療結果已與傳統瓣膜置換手術相近",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "6",
@@ -1532,10 +2924,22 @@
     "subject": "心臟內科",
     "question": "下列何種狀況或藥物，最不可能出現心電圖QT延長的現象？",
     "choices": [
-      "蜘蛛網膜下出血（subarachnoid hemorrhage）",
-      "低血鈣症（hypocalcemia）",
-      "甲狀腺亢進（hyperthyroidism）",
-      "amiodarone"
+      {
+        "text": "蜘蛛網膜下出血（subarachnoid hemorrhage）",
+        "is_correct": false
+      },
+      {
+        "text": "低血鈣症（hypocalcemia）",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺亢進（hyperthyroidism）",
+        "is_correct": true
+      },
+      {
+        "text": "amiodarone",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "7",
@@ -1545,10 +2949,22 @@
     "subject": "心臟內科",
     "question": "一位40歲男性因疲倦及喘至門診求診。生命體徵血壓125/80 mmHg，心跳每分鐘85下且規律。室內空氣脈搏血氧飽和度(room air SpO2）98%。身體診察有右心室頂起（right ventricle heave），並於左側第二肋間可觸及收縮期顫抖（systolic thrill），且左側第二肋間可聽到收縮期心雜音。除此之外，也可聽到明顯且隨呼吸變化分裂第二心音（wide split second heart sound）。最可能之診斷為何？",
     "choices": [
-      "心房中隔缺損（atrial septal defect）",
-      "主動脈狹窄（aortic stenosis）",
-      "開放性動脈導管（patent ductus arteriosus）",
-      "肺動脈瓣狹窄（pulmonary stenosis）"
+      {
+        "text": "心房中隔缺損（atrial septal defect）",
+        "is_correct": false
+      },
+      {
+        "text": "主動脈狹窄（aortic stenosis）",
+        "is_correct": false
+      },
+      {
+        "text": "開放性動脈導管（patent ductus arteriosus）",
+        "is_correct": false
+      },
+      {
+        "text": "肺動脈瓣狹窄（pulmonary stenosis）",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "8",
@@ -1558,10 +2974,22 @@
     "subject": "心臟內科",
     "question": "一位55歲男性因胸悶與低血壓至急診求診。大約半小時前，病患在睡夢中突然因胸悶不適而驚醒。除此之外，病患也有頭暈無力與嘔吐數次。生命徵象顯示血壓78/40 mmHg，心跳每分鐘50次，呼吸每分鐘20次。肺部聽診無濕囉音（rales）。心電圖如下圖所示。胸部X光圖無縱隔腔擴大，無肺水腫情形。心臟超音波顯示左心室收縮功能正常，但右心室擴大。以下何者為最佳立即處置？",
     "choices": [
-      "立即置放主動脈氣球幫浦（intra-aortic balloon pump）",
-      "立即給與強心劑dobutamine",
-      "立即給與硝化甘油靜脈注射",
-      "立即給與快速輸液治療normal saline 500 mL"
+      {
+        "text": "立即置放主動脈氣球幫浦（intra-aortic balloon pump）",
+        "is_correct": false
+      },
+      {
+        "text": "立即給與強心劑dobutamine",
+        "is_correct": false
+      },
+      {
+        "text": "立即給與硝化甘油靜脈注射",
+        "is_correct": false
+      },
+      {
+        "text": "立即給與快速輸液治療normal saline 500 mL",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031359/Scanned_File/QUE-031359.png",
     "session": "109寒期",
@@ -1572,10 +3000,22 @@
     "subject": "心臟內科",
     "question": "一位52歲在魚市場送貨的張先生，之前每週一到週六清晨5時載貨到某魚市場工作時，能扛10公斤為一箱的海鮮穿梭於市場約10來趟，勝任愉快。上週日參加喜宴，多喝了一些酒，第二天在同一魚市場進行相同工作時發覺走了5趟就覺得喘，需要休息10分鐘才能再搬貨。他原以為前一晚沒睡好，只要回家休息就可恢復，沒想到接下來3天皆是如此，因此前來醫院就醫。醫師的初步診斷為心衰竭。請問根據紐約心臟協會的功能分類（NYHA functional classification），應屬於：",
     "choices": [
-      "第一級",
-      "第二級",
-      "第三級",
-      "第四級"
+      {
+        "text": "第一級",
+        "is_correct": false
+      },
+      {
+        "text": "第二級",
+        "is_correct": true
+      },
+      {
+        "text": "第三級",
+        "is_correct": false
+      },
+      {
+        "text": "第四級",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "10",
@@ -1585,10 +3025,22 @@
     "subject": "心臟內科",
     "question": "有關心包膜疾病的敘述，下列何者錯誤？",
     "choices": [
-      "心包膜本身是一個雙層袋子，包括有visceral pericardium以及parietal pericardium兩層，之間由15～50毫升的心包膜液來分開",
-      "在急性心包膜發炎時，病患可能會出現有較為低頻（low-pitch）的friction rub的心音，在病患前傾，在呼氣末期時較容易聽到，隨著心包膜水量漸漸增加，有時會有心包膜填塞（cardiac tamponade）的表現，此時friction rub聲音反而會消失",
-      "在心電圖的表現上，早期較常看見廣泛性的ST節上升",
-      "在cardiac tamponade時有一個Beck’s triad：低血壓，心音聲音消失，頸靜脈怒張有明顯的X descent以及消失的Y descent"
+      {
+        "text": "心包膜本身是一個雙層袋子，包括有visceral pericardium以及parietal pericardium兩層，之間由15～50毫升的心包膜液來分開",
+        "is_correct": false
+      },
+      {
+        "text": "在急性心包膜發炎時，病患可能會出現有較為低頻（low-pitch）的friction rub的心音，在病患前傾，在呼氣末期時較容易聽到，隨著心包膜水量漸漸增加，有時會有心包膜填塞（cardiac tamponade）的表現，此時friction rub聲音反而會消失",
+        "is_correct": true
+      },
+      {
+        "text": "在心電圖的表現上，早期較常看見廣泛性的ST節上升",
+        "is_correct": false
+      },
+      {
+        "text": "在cardiac tamponade時有一個Beck’s triad：低血壓，心音聲音消失，頸靜脈怒張有明顯的X descent以及消失的Y descent",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "12",
@@ -1598,10 +3050,22 @@
     "subject": "心臟內科",
     "question": "76歲李先生因胸痛來急診，初步診斷為右心室心肌梗塞（right ventricular infarction），血壓為76/44mmHg，下列何項處置最不恰當？",
     "choices": [
-      "給予氧氣",
-      "給予抗血小板藥物（antiplatelet agents）",
-      "給予血栓溶解藥物（fibrinolytic agents）",
-      "給予硝化甘油（nitroglycerin）"
+      {
+        "text": "給予氧氣",
+        "is_correct": false
+      },
+      {
+        "text": "給予抗血小板藥物（antiplatelet agents）",
+        "is_correct": false
+      },
+      {
+        "text": "給予血栓溶解藥物（fibrinolytic agents）",
+        "is_correct": false
+      },
+      {
+        "text": "給予硝化甘油（nitroglycerin）",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "76",
@@ -1611,10 +3075,22 @@
     "subject": "心臟內科",
     "question": "一位53歲男性，有長期高血壓病史，突發撕裂性胸痛且轉移至背部及腹部，血壓210/110 mmHg。他另外的主訴為右下肢痛，身體檢查發現摸不到右側股動脈脈搏，右下肢蒼白冰冷、腳趾無法活動，此時下列那一項處置較適當？",
     "choices": [
-      "維持收縮壓在150 mmHg以上，以確保適當的末肢循環",
-      "避免使用止痛藥，以免影響病情的觀察及血壓的監控",
-      "使用肝素（heparin），以免動脈阻塞更加厲害",
-      "立即安排電腦斷層檢查"
+      {
+        "text": "維持收縮壓在150 mmHg以上，以確保適當的末肢循環",
+        "is_correct": false
+      },
+      {
+        "text": "避免使用止痛藥，以免影響病情的觀察及血壓的監控",
+        "is_correct": false
+      },
+      {
+        "text": "使用肝素（heparin），以免動脈阻塞更加厲害",
+        "is_correct": false
+      },
+      {
+        "text": "立即安排電腦斷層檢查",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "77",

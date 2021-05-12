@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "血液科",
     "question": "一位36歲女性，過去無特殊不適，亦未服用任何藥物，最近兩天出現左下肢腫脹、疼痛，經血管超音波檢查發現是深層靜脈栓塞。其周邊血檢查顯示血紅素12.1 gm/dL，白血球8750/μL，血小板123000/μL，prothrombin time INR 1.1，partial thromboplastin time55”（control：28”），thrombin time 14.7”（control：5.1”），以下何者是最優先要做的檢查？",
     "choices": [
-      "lupus anticoagulant",
-      "factor VIII",
-      "protein S",
-      "protein C"
+      {
+        "text": "lupus anticoagulant",
+        "is_correct": true
+      },
+      {
+        "text": "factor VIII",
+        "is_correct": false
+      },
+      {
+        "text": "protein S",
+        "is_correct": false
+      },
+      {
+        "text": "protein C",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "12",
@@ -16,10 +28,22 @@
     "subject": "血液科",
     "question": "一位65歲男性主訴倦怠、無力，手腳有刺痛感。身體檢查發現臉色蒼白，有輕微黃疸，舌頭表面平滑，味蕾萎縮；神經學檢查顯示對振動(vibration)的感覺變差。血液檢查顯示血紅素7.2 gm/dL，平均紅血球體積110 fL，網狀紅血球1.1%，白血球2780/μL，分類正常，血小板98000/μL；全膽紅素（bilirubin）2.3 mg/dL，直接型0.5 mg/dL，AST 52 U/L（正常0～37），ALT 38 U/L （正常0～41），LDH 780 IU/L（正常140～271）。這位病人最可能的診斷為？",
     "choices": [
-      "aplastic anemia",
-      "iron deficiency anemia",
-      "pernicious anemia",
-      "hemolytic anemia"
+      {
+        "text": "aplastic anemia",
+        "is_correct": false
+      },
+      {
+        "text": "iron deficiency anemia",
+        "is_correct": false
+      },
+      {
+        "text": "pernicious anemia",
+        "is_correct": true
+      },
+      {
+        "text": "hemolytic anemia",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "13",
@@ -29,10 +53,22 @@
     "subject": "血液科",
     "question": "下列何種病人發生缺鐵性貧血的機會最小？",
     "choices": [
-      "gastrectomy",
-      "menorrhagia",
-      "paroxysmal nocturnal hemogblobinuria",
-      "thalassemia"
+      {
+        "text": "gastrectomy",
+        "is_correct": false
+      },
+      {
+        "text": "menorrhagia",
+        "is_correct": false
+      },
+      {
+        "text": "paroxysmal nocturnal hemogblobinuria",
+        "is_correct": false
+      },
+      {
+        "text": "thalassemia",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "42",
@@ -42,10 +78,22 @@
     "subject": "血液科",
     "question": "以下何者被視為造血幹細胞（hematopoietic stem cell）最重要的特徵？",
     "choices": [
-      "自我更新（self-renewal）",
-      "增殖（proliferation）",
-      "分化（differentiation）",
-      "計畫凋亡（programmed death）"
+      {
+        "text": "自我更新（self-renewal）",
+        "is_correct": true
+      },
+      {
+        "text": "增殖（proliferation）",
+        "is_correct": false
+      },
+      {
+        "text": "分化（differentiation）",
+        "is_correct": true
+      },
+      {
+        "text": "計畫凋亡（programmed death）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "43",
@@ -55,10 +103,22 @@
     "subject": "血液科",
     "question": "一位30歲平常健康良好的男性，主訴2～3週來易倦。理學檢查發現結膜蒼白無黃疸、頸部兩側多個不足一公分大小淋巴結、無肝脾腫大，下肢出現無癢紅色細小斑點；末梢血檢查結果顯示：WBC 1280/μL，N/L/Mo = 5/94/1，Hb 7.5 gm/dL，MCV 86 fL，Platelet 8,000/μL，ALT 42 U/L，T. Bil 0.6 mg/dL，Cr 1.1 mg/dL，Alb 3.7 g/dL。下列何種檢驗最有利於正確診斷？",
     "choices": [
-      "淋巴結切片（biopsy）",
-      "正子造影（positron emission tomography, PET）",
-      "骨髓切片",
-      "血液培養（blood culture）"
+      {
+        "text": "淋巴結切片（biopsy）",
+        "is_correct": false
+      },
+      {
+        "text": "正子造影（positron emission tomography, PET）",
+        "is_correct": false
+      },
+      {
+        "text": "骨髓切片",
+        "is_correct": true
+      },
+      {
+        "text": "血液培養（blood culture）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "44",
@@ -68,10 +128,22 @@
     "subject": "血液科",
     "question": "cyclosporine-A（CsA）是異體造血幹細胞移植（allogeneic hematopoietic stem celltransplantation）用來預防移植物反宿主疾病（graft-versus-host disease）的重要免疫抑制劑，下列何者不是CsA常見的副作用？",
     "choices": [
-      "hypertension",
-      "hyperlipidemia",
-      "hyperglycemia",
-      "nephrotoxicity"
+      {
+        "text": "hypertension",
+        "is_correct": false
+      },
+      {
+        "text": "hyperlipidemia",
+        "is_correct": false
+      },
+      {
+        "text": "hyperglycemia",
+        "is_correct": true
+      },
+      {
+        "text": "nephrotoxicity",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "45",
@@ -81,10 +153,22 @@
     "subject": "血液科",
     "question": "凝血因子X（coagulation factor X）活化為Xa的反應中，下列何因子沒有參與？",
     "choices": [
-      "factor Va",
-      "factor VIIa",
-      "factor VIIIa",
-      "factor IXa"
+      {
+        "text": "factor Va",
+        "is_correct": true
+      },
+      {
+        "text": "factor VIIa",
+        "is_correct": false
+      },
+      {
+        "text": "factor VIIIa",
+        "is_correct": false
+      },
+      {
+        "text": "factor IXa",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "47",
@@ -94,10 +178,22 @@
     "subject": "血液科",
     "question": "一位54歲男性，過去無全身性疾病病史，亦無特殊不適，但其家人注意到他的臉總是紅紅的，身體檢查顯示臉部泛紅，血壓130/86 mmHg，脾臟在左肋緣下1指幅可觸摸到。抽血檢查發現血紅素19.5 gm/dL，血比容60%，白血球12500/μL，neutrophil73%，monocyte 6%，lymphocyte 20%，eosinophil 1%，血小板546000/μL，血清中erythropoietin 3 mIU/μL（正常3.7～31.5），血球細胞有JAK2基因突變。對此病人最適當的治療為何？",
     "choices": [
-      "hydroxyurea",
-      "anagrelide",
-      "radioactive phosphorus 32P",
-      "phlebotomy"
+      {
+        "text": "hydroxyurea",
+        "is_correct": false
+      },
+      {
+        "text": "anagrelide",
+        "is_correct": false
+      },
+      {
+        "text": "radioactive phosphorus 32P",
+        "is_correct": false
+      },
+      {
+        "text": "phlebotomy",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "9",
@@ -107,10 +203,22 @@
     "subject": "血液科",
     "question": "一個35歲男性患者診斷為malignant lymphoma，diffuse large B-cell type，stage IIA，下列有關敘述何者為正確？",
     "choices": [
-      "一般而言，積極化學治療約可達到70%的緩解率（remission rate）",
-      "除非進行造血幹細胞移植，否則無治癒可能",
-      "屬於aggressive malignancy，腫瘤生長速度快，化學藥物治療效果不佳",
-      "應該儘可能只給予radiation therapy就好，避免給予systemic chemotherapy，以免以後發生secondary leukemia"
+      {
+        "text": "一般而言，積極化學治療約可達到70%的緩解率（remission rate）",
+        "is_correct": true
+      },
+      {
+        "text": "除非進行造血幹細胞移植，否則無治癒可能",
+        "is_correct": false
+      },
+      {
+        "text": "屬於aggressive malignancy，腫瘤生長速度快，化學藥物治療效果不佳",
+        "is_correct": false
+      },
+      {
+        "text": "應該儘可能只給予radiation therapy就好，避免給予systemic chemotherapy，以免以後發生secondary leukemia",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "10",
@@ -120,10 +228,22 @@
     "subject": "血液科",
     "question": "下列有關慢性淋巴性白血病（CLL）的敘述，何者錯誤？",
     "choices": [
-      "周邊血淋巴芽細胞數量超過5×109/L",
-      "免疫細胞染色展現白血病細胞上T-細胞抗原CD5和B-細胞抗原CD23均為陽性",
-      "西方國家成人最常見白血病",
-      "常見於老年人"
+      {
+        "text": "周邊血淋巴芽細胞數量超過5×109/L",
+        "is_correct": true
+      },
+      {
+        "text": "免疫細胞染色展現白血病細胞上T-細胞抗原CD5和B-細胞抗原CD23均為陽性",
+        "is_correct": false
+      },
+      {
+        "text": "西方國家成人最常見白血病",
+        "is_correct": false
+      },
+      {
+        "text": "常見於老年人",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "46",
@@ -133,10 +253,22 @@
     "subject": "血液科",
     "question": "有位55歲男性接受一般健檢時被意外發現 hemoglobin 6.0 g/dL（正常值13～17），MCV = 70 fL（正常值77～102），RBC count = 200×10^4/mm^3（正常值400～552×10^4）。仔細詢問病史，他並沒有明顯的活動性氣促（dyspnea on exertion,DOE），但最近確實感到較無力，爬樓梯不能一口氣爬上四樓。他食慾如常，大便習慣並未改變，顏色也與平常差不多。下列各項敘述，何者錯誤？",
     "choices": [
-      "他的貧血病因應該不是thalassemia",
-      "hemoglobin electrophoresis應非需要優先安排檢查之項目",
-      "應予以檢查大便潛血反應（fecal occult blood test, FOBT）",
-      "不需要安排大腸檢查"
+      {
+        "text": "他的貧血病因應該不是thalassemia",
+        "is_correct": false
+      },
+      {
+        "text": "hemoglobin electrophoresis應非需要優先安排檢查之項目",
+        "is_correct": false
+      },
+      {
+        "text": "應予以檢查大便潛血反應（fecal occult blood test, FOBT）",
+        "is_correct": false
+      },
+      {
+        "text": "不需要安排大腸檢查",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "4",
@@ -146,10 +278,22 @@
     "subject": "血液科",
     "question": "一位27歲男性因為牙齦出血不止來到醫院，血液檢查發現血紅素為8.2 gm/dL，白血球1250/μL，其中promyelocyte 18%，segmented neutrophil 2%，monocytes 8%，lymphocytes 72%，血小板21000/μL。骨髓穿刺檢查證明為acute promyelocyticleukemia。下列各選項，何者是治療此病人所必須的？ 1.platelet transfusion 2.chemotherapy 3.all-trans retinoic acid",
     "choices": [
-      "12",
-      "23",
-      "13",
-      "123"
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "123",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "9",
@@ -159,10 +303,22 @@
     "subject": "血液科",
     "question": "一位68歲女性被發現有蛋白尿，抽血檢查顯示血紅素8.7 gm/dL，白血球及血小板正常，白蛋白3.3 gm/dL，球蛋白1.8gm/dL，Cr 1.7 mg/dL，尿中Bence-Jones protein陽性，頭部X-光如圖所示。此病人最可能的診斷為？",
     "choices": [
-      "multiple myleoma",
-      "carcinoma with bone metastasis",
-      "anemia secondary to chronic kidney disease",
-      "Paget’s disease"
+      {
+        "text": "multiple myleoma",
+        "is_correct": true
+      },
+      {
+        "text": "carcinoma with bone metastasis",
+        "is_correct": false
+      },
+      {
+        "text": "anemia secondary to chronic kidney disease",
+        "is_correct": false
+      },
+      {
+        "text": "Paget’s disease",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015240/Scanned_File/QUE-015240.png",
     "session": "106寒期",
@@ -173,10 +329,22 @@
     "subject": "血液科",
     "question": "一位病人在體檢時發現血小板數為65000/μL，紅血球及白血球正常，下列何項檢查對於釐清血小板低下的原因幫忙最小？",
     "choices": [
-      "platelet antibody",
-      "antibody to hepatitis C virus",
-      "antibody to human immunodeficiency virus",
-      "antinuclear antibody"
+      {
+        "text": "platelet antibody",
+        "is_correct": true
+      },
+      {
+        "text": "antibody to hepatitis C virus",
+        "is_correct": false
+      },
+      {
+        "text": "antibody to human immunodeficiency virus",
+        "is_correct": false
+      },
+      {
+        "text": "antinuclear antibody",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "44",
@@ -186,10 +354,22 @@
     "subject": "血液科",
     "question": "一位62歲病人，過去有心臟病史，正在接受治療，最近因出血傾向接受檢查，周邊血中血紅素、白血球及血小板數正常，prothrombin time（PT）INR 3.5，activated partial thromboplastin time 26”（正常對照27”）。下列何者是引起這位病人容易出血的最可能原因？",
     "choices": [
-      "coumadin treatment",
-      "heparin treatment",
-      "liver disease",
-      "von Willebrand disease"
+      {
+        "text": "coumadin treatment",
+        "is_correct": true
+      },
+      {
+        "text": "heparin treatment",
+        "is_correct": false
+      },
+      {
+        "text": "liver disease",
+        "is_correct": false
+      },
+      {
+        "text": "von Willebrand disease",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "11",
@@ -199,10 +379,22 @@
     "subject": "血液科",
     "question": "一30歲男子因流鼻血4週求診。理學檢查顯示左邊submanibular angle有一firm、non-tender and fixed mass，該腫塊沒有局部感染之徵候，在這個階段最適當的檢查為何？",
     "choices": [
-      "淋巴結超音波",
-      "切除生檢（excisional biopsy）",
-      "細針穿刺（fine needle aspiration）",
-      "fiberoscopic檢查和鼻咽部的生檢"
+      {
+        "text": "淋巴結超音波",
+        "is_correct": false
+      },
+      {
+        "text": "切除生檢（excisional biopsy）",
+        "is_correct": false
+      },
+      {
+        "text": "細針穿刺（fine needle aspiration）",
+        "is_correct": false
+      },
+      {
+        "text": "fiberoscopic檢查和鼻咽部的生檢",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "40",
@@ -212,10 +404,22 @@
     "subject": "血液科",
     "question": "一位18歲男性因頸部淋巴結腫大應診，抽血檢查發現血紅素為12.5 gm/dL，白血球3550/μL，其中blast 2%，血小板 135000/μL。胸部X光如圖所示。此病人最可能的診斷為何？",
     "choices": [
-      "precursor B cell lymphoblastic lymphoma/leukemia",
-      "precursor T cell lymphoblastic lymphoma/leukemia",
-      "Burkitt's lymphoma",
-      "adult T cell lymphoma/leukemia"
+      {
+        "text": "precursor B cell lymphoblastic lymphoma/leukemia",
+        "is_correct": false
+      },
+      {
+        "text": "precursor T cell lymphoblastic lymphoma/leukemia",
+        "is_correct": true
+      },
+      {
+        "text": "Burkitt's lymphoma",
+        "is_correct": false
+      },
+      {
+        "text": "adult T cell lymphoma/leukemia",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015591/Scanned_File/QUE-015591.png",
     "session": "106暑期",
@@ -226,10 +430,22 @@
     "subject": "血液科",
     "question": "有關low-molecular-weight heparin（LMWH）特點的敘述，何者錯誤？",
     "choices": [
-      "LMWH的使用劑量一般可依體重決定就好",
-      "一般可以用凝血時間的檢驗做監測，維持約正常值的兩倍左右",
-      "必要時可以監測Factor Xa activity看LMWH的藥量是否恰當",
-      "LMWH主要由腎臟代謝排出"
+      {
+        "text": "LMWH的使用劑量一般可依體重決定就好",
+        "is_correct": true
+      },
+      {
+        "text": "一般可以用凝血時間的檢驗做監測，維持約正常值的兩倍左右",
+        "is_correct": true
+      },
+      {
+        "text": "必要時可以監測Factor Xa activity看LMWH的藥量是否恰當",
+        "is_correct": false
+      },
+      {
+        "text": "LMWH主要由腎臟代謝排出",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "42",
@@ -239,10 +455,22 @@
     "subject": "血液科",
     "question": "有一 32歲男性主訴兩三個月來易倦，腹脹。理學檢查發現體溫正常，結膜蒼白，脾臟在左肋下沿可觸診；血液常規檢查：WBC 120,000/uL，blast/promyelocyte/myelocyte/metamyelocyte/neutrophil/monocyte/eosinophil/ basophil/lymphocyte =1/3/6/10/54/3/15/5/3％，骨髓染色體46XY，t（9；22）in 19/20 metaphases 。目前學界共識第一線治療為何？",
     "choices": [
-      "hydroxyurea",
-      "interferon-alpha",
-      "tyrosine kinase inhibitor",
-      "allogeneic hematopoietic stem cell transplantation"
+      {
+        "text": "hydroxyurea",
+        "is_correct": false
+      },
+      {
+        "text": "interferon-alpha",
+        "is_correct": false
+      },
+      {
+        "text": "tyrosine kinase inhibitor",
+        "is_correct": true
+      },
+      {
+        "text": "allogeneic hematopoietic stem cell transplantation",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "43",
@@ -252,10 +480,22 @@
     "subject": "血液科",
     "question": "下列何種病人得到急性骨髓性白血病的機率不會較一般人高？",
     "choices": [
-      "唐氏症（Down syndrome）",
-      "類風濕性關節炎（rheumatoid arthritis）",
-      "長期接觸苯（benzene）",
-      "過去用過 etoposide（VP-16）"
+      {
+        "text": "唐氏症（Down syndrome）",
+        "is_correct": false
+      },
+      {
+        "text": "類風濕性關節炎（rheumatoid arthritis）",
+        "is_correct": true
+      },
+      {
+        "text": "長期接觸苯（benzene）",
+        "is_correct": false
+      },
+      {
+        "text": "過去用過 etoposide（VP-16）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "44",
@@ -265,10 +505,22 @@
     "subject": "血液科",
     "question": "多發性骨髓瘤病患出現高鈣血症時，下列何種藥物治療不能達到治療目的？",
     "choices": [
-      "bisphosphonate",
-      "fluoride",
-      "corticosteroid",
-      "calcitonin"
+      {
+        "text": "bisphosphonate",
+        "is_correct": false
+      },
+      {
+        "text": "fluoride",
+        "is_correct": true
+      },
+      {
+        "text": "corticosteroid",
+        "is_correct": false
+      },
+      {
+        "text": "calcitonin",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "45",
@@ -278,10 +530,22 @@
     "subject": "血液科",
     "question": "一位42歲女性病患，因右下肢腫痛多日來急診求診，經診斷是深層靜脈栓塞（deep vein thrombosis），下列何者較不可能是此疾病之危險因子？",
     "choices": [
-      "癌症病史",
-      "肥胖",
-      "懷孕",
-      "糖尿病"
+      {
+        "text": "癌症病史",
+        "is_correct": true
+      },
+      {
+        "text": "肥胖",
+        "is_correct": true
+      },
+      {
+        "text": "懷孕",
+        "is_correct": true
+      },
+      {
+        "text": "糖尿病",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "76",
@@ -291,10 +555,22 @@
     "subject": "血液科",
     "question": "一位57歲男性在40歲時曾經做過一次健康檢查，當時血液相是正常的。15年前因胃潰瘍穿孔接受了三分之二的胃切除手術，其他無特殊病史。最近因為容易疲倦，接受血液檢查，發現血紅素為8.7 gm/dL，MCV71fL，白血球3650/μL，分類正常，血小板395000/μL。大便潛血反應為陰性，胃鏡檢查無潰瘍或腫瘤。此病人最可能的診斷為何？",
     "choices": [
-      "thalassemia",
-      "anemia of chronic disorder",
-      "iron deficiency anemia",
-      "vitamin B12 deficiency anemia"
+      {
+        "text": "thalassemia",
+        "is_correct": false
+      },
+      {
+        "text": "anemia of chronic disorder",
+        "is_correct": false
+      },
+      {
+        "text": "iron deficiency anemia",
+        "is_correct": true
+      },
+      {
+        "text": "vitamin B12 deficiency anemia",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "14",
@@ -304,10 +580,22 @@
     "subject": "血液科",
     "question": "下列有關急性前骨髓細胞白血病（acute promyelocytic leukemia）的敘述，何者錯誤？",
     "choices": [
-      "容易發生瀰漫性血管內凝血（DIC）",
-      "帶有染色體異常t（5;7）",
-      "有異常之PML/RARα融合基因",
-      "以反轉式維甲酸tretinoin治療，可以達到完全緩解"
+      {
+        "text": "容易發生瀰漫性血管內凝血（DIC）",
+        "is_correct": false
+      },
+      {
+        "text": "帶有染色體異常t（5;7）",
+        "is_correct": true
+      },
+      {
+        "text": "有異常之PML/RARα融合基因",
+        "is_correct": false
+      },
+      {
+        "text": "以反轉式維甲酸tretinoin治療，可以達到完全緩解",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "41",
@@ -317,10 +605,22 @@
     "subject": "血液科",
     "question": "標靶治療藥物rituximab合併化學治療已被證明可明顯延長下列何種病人的存活期？",
     "choices": [
-      "diffuse large B cell lymphoma",
-      "peripheral T cell lymphoma",
-      "multiple myeloma",
-      "acute lymphoblastic leukemia"
+      {
+        "text": "diffuse large B cell lymphoma",
+        "is_correct": true
+      },
+      {
+        "text": "peripheral T cell lymphoma",
+        "is_correct": false
+      },
+      {
+        "text": "multiple myeloma",
+        "is_correct": false
+      },
+      {
+        "text": "acute lymphoblastic leukemia",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "42",
@@ -330,10 +630,22 @@
     "subject": "血液科",
     "question": "一位30歲臺灣人左手發生深層靜脈血栓 （deep vein thrombosis，DVT），回顧其家族史，他的哥哥在35歲時死於肺栓塞。下列何者最不可能是這位病人DVT發生的原因？",
     "choices": [
-      "protein C deficiency",
-      "protein S deficiency",
-      "antithrombin III deficiency",
-      "factor V Leiden mutation"
+      {
+        "text": "protein C deficiency",
+        "is_correct": false
+      },
+      {
+        "text": "protein S deficiency",
+        "is_correct": false
+      },
+      {
+        "text": "antithrombin III deficiency",
+        "is_correct": false
+      },
+      {
+        "text": "factor V Leiden mutation",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "43",
@@ -343,10 +655,22 @@
     "subject": "血液科",
     "question": "一50歲男性主訴下背痛，X光檢查 顯示L2-L4壓迫性骨折（compression fracture）。 血液生化檢驗結果如下：albumin 3.0 g/dL（3.7～5.3)；total protein 4.2 g/dL（6.4～8.4）；calcium 10.4 mg/dL（8.4～10.6）；creatinine 2.5 mg/dL（0.7～1.5）；IgG 498 mg/dL（751～1560）；IgA 55 mg/dL（82～453）；IgM 27mg/dL（46～304）；骨髓穿刺細胞學檢驗顯示：normocellularity with fair maturation of erythroid and myeloid series，但有15% plasma cells，下列敘述何者錯誤？",
     "choices": [
-      "末稍血液抹片可能沒有rouleaux formation",
-      "末稍血液抹片plasma cells很少見",
-      "尿液dipstick test可偵測到蛋白尿",
-      "小便檢驗應可測出monoclonal light chain"
+      {
+        "text": "末稍血液抹片可能沒有rouleaux formation",
+        "is_correct": false
+      },
+      {
+        "text": "末稍血液抹片plasma cells很少見",
+        "is_correct": false
+      },
+      {
+        "text": "尿液dipstick test可偵測到蛋白尿",
+        "is_correct": true
+      },
+      {
+        "text": "小便檢驗應可測出monoclonal light chain",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "64",
@@ -356,10 +680,22 @@
     "subject": "血液科",
     "question": "承上題，有關於上述病患之治療下列何者錯誤？",
     "choices": [
-      "即使在沒有高血鈣的情況下，bisphosphonate也是一個有效的附加治療（adjunctive therapy）",
-      "melphalan+prednisolone（MP）可當作主要的一線化學治療",
-      "bortezomib之類的所謂新型製劑（novel agents）合併化學治療可提高這類新診斷病患誘導治療的完全緩解率（complete remission rate）",
-      "日後的自體造血幹細胞移植（autologous hematopoietic stem cell transplantation）可以提高長期存活率"
+      {
+        "text": "即使在沒有高血鈣的情況下，bisphosphonate也是一個有效的附加治療（adjunctive therapy）",
+        "is_correct": false
+      },
+      {
+        "text": "melphalan+prednisolone（MP）可當作主要的一線化學治療",
+        "is_correct": true
+      },
+      {
+        "text": "bortezomib之類的所謂新型製劑（novel agents）合併化學治療可提高這類新診斷病患誘導治療的完全緩解率（complete remission rate）",
+        "is_correct": false
+      },
+      {
+        "text": "日後的自體造血幹細胞移植（autologous hematopoietic stem cell transplantation）可以提高長期存活率",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "65",
@@ -369,10 +705,22 @@
     "subject": "血液科",
     "question": "一位 35 歲男性公務員因一個月以來，自覺體力不濟而就醫，無特別過去病史或用藥史。身體診察發現眼結膜蒼白，心跳規則96/min，無雜音；無黃疸或淋巴結/肝脾腫大，兩下肢可見散在性新舊出血點。血液常規檢查發現：WBC 1300/μL, N/L/Mo = 5/92/3 %, Hb 7.6 gm/dL, MCV 92.3 fL, Platelet10000/μL；其他實驗室檢查：HIVAb (-), HBsAb (+), Cr 0.68 mg/dL, ALT/AST: 26/32 U/L, LDH 140 U/L。下列那一項檢查對診斷此病人之血球減少最有幫助？",
     "choices": [
-      "parvovirus B19",
-      "serum G-6-PD",
-      "bone marrow biopsy",
-      "serum ANA"
+      {
+        "text": "parvovirus B19",
+        "is_correct": false
+      },
+      {
+        "text": "serum G-6-PD",
+        "is_correct": false
+      },
+      {
+        "text": "bone marrow biopsy",
+        "is_correct": true
+      },
+      {
+        "text": "serum ANA",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "10",
@@ -382,10 +730,22 @@
     "subject": "血液科",
     "question": "一位 52 歲男性病患因咳嗽一星期就醫，胸部X 光攝影發現右下肺野有一懷疑為腫瘤之病灶；另血液例行檢驗亦發現有貧血現象：Hb 9 gm/dL，MCV 72 fL（Normal：80-100）。下列何種檢驗無助於診斷？",
     "choices": [
-      "serum vitamin B12",
-      "serum ferritin",
-      "serum Hb electrophoresis",
-      "Hb H stain"
+      {
+        "text": "serum vitamin B12",
+        "is_correct": true
+      },
+      {
+        "text": "serum ferritin",
+        "is_correct": false
+      },
+      {
+        "text": "serum Hb electrophoresis",
+        "is_correct": false
+      },
+      {
+        "text": "Hb H stain",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "47",
@@ -395,10 +755,22 @@
     "subject": "血液科",
     "question": "排除病患年齡因素，現今一般共識認為成人異體造血幹細胞移植（allogeneic hematopoietic stem cell transplantation）最不符合優先治療適應症（indication）者為何？",
     "choices": [
-      "嚴重型再生不良性貧血（severe aplastic anemia）",
-      "急性骨髓性白血病第二次緩解期（acute myeloid leukemia in 2nd remission）",
-      "急性淋巴性白血病第一次緩解期（acute lymphoid leukemia in 1st remission）",
-      "新診斷之費城染色體陽性慢性骨髓性白血病慢性期（Ph-positive chronic myeloid leukemia in chronic\nphase）"
+      {
+        "text": "嚴重型再生不良性貧血（severe aplastic anemia）",
+        "is_correct": false
+      },
+      {
+        "text": "急性骨髓性白血病第二次緩解期（acute myeloid leukemia in 2nd remission）",
+        "is_correct": false
+      },
+      {
+        "text": "急性淋巴性白血病第一次緩解期（acute lymphoid leukemia in 1st remission）",
+        "is_correct": false
+      },
+      {
+        "text": "新診斷之費城染色體陽性慢性骨髓性白血病慢性期（Ph-positive chronic myeloid leukemia in chronic\nphase）",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "51",
@@ -408,10 +780,22 @@
     "subject": "血液科",
     "question": "下列有關急性前骨髓細胞白血病的敘述，何者錯誤？",
     "choices": [
-      "大多數病人的白血病細胞內有染色體異常t（15；17）",
-      "大多數病人的白血病細胞內有異常的融合基因AML 1/ETO",
-      "病人常出現瀰漫性血管內凝血（DIC）",
-      "最適當的誘導性治療為tretinoin（all-trans retinoic acid）加anthracycline 化學治療"
+      {
+        "text": "大多數病人的白血病細胞內有染色體異常t（15；17）",
+        "is_correct": false
+      },
+      {
+        "text": "大多數病人的白血病細胞內有異常的融合基因AML 1/ETO",
+        "is_correct": true
+      },
+      {
+        "text": "病人常出現瀰漫性血管內凝血（DIC）",
+        "is_correct": false
+      },
+      {
+        "text": "最適當的誘導性治療為tretinoin（all-trans retinoic acid）加anthracycline 化學治療",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "52",
@@ -421,10 +805,22 @@
     "subject": "血液科",
     "question": "一位32歲男性因發燒無力有一星期之久求診，血液常規顯示白血球計數達96,000/μL, 芽球85％, Hb 7.0 gm/dL, platelet 15,000/μL。骨髓檢查報告為acute lymphoblastic leukemia。費城染色體陽性。經誘導化學治療及tyrosine kinase inhibitor（TKI）達到完全緩解，以下何者會有最高的根治機會？",
     "choices": [
-      "鞏固治療＋維持治療",
-      "鞏固治療＋骨髓摧毀性化學治療併自體造血幹細胞移植",
-      "鞏固治療＋骨髓摧毀性化學治療併人類白血球抗原（HLA）吻合之異體造血幹細胞移植",
-      "鞏固治療＋anti-CD-5, CD-20, CD-22雞尾酒免疫治療"
+      {
+        "text": "鞏固治療＋維持治療",
+        "is_correct": false
+      },
+      {
+        "text": "鞏固治療＋骨髓摧毀性化學治療併自體造血幹細胞移植",
+        "is_correct": false
+      },
+      {
+        "text": "鞏固治療＋骨髓摧毀性化學治療併人類白血球抗原（HLA）吻合之異體造血幹細胞移植",
+        "is_correct": true
+      },
+      {
+        "text": "鞏固治療＋anti-CD-5, CD-20, CD-22雞尾酒免疫治療",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "9",
@@ -434,10 +830,22 @@
     "subject": "血液科",
     "question": "有關何杰金氏淋巴瘤（Hodgkin’s lymphoma），下列何者顯示疾病分期為第三期？",
     "choices": [
-      "頸部淋巴結侵犯與體重減輕",
-      "頸部淋巴結與腹股溝淋巴結侵犯",
-      "脾臟腫大",
-      "骨髓侵犯"
+      {
+        "text": "頸部淋巴結侵犯與體重減輕",
+        "is_correct": false
+      },
+      {
+        "text": "頸部淋巴結與腹股溝淋巴結侵犯",
+        "is_correct": true
+      },
+      {
+        "text": "脾臟腫大",
+        "is_correct": false
+      },
+      {
+        "text": "骨髓侵犯",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "38",
@@ -447,10 +855,22 @@
     "subject": "血液科",
     "question": "一位56歲無特殊病史男性，亦無任何不適，在一次健康檢查時發現血紅素為13.5 gm/dL，白血球11500/μL，血小板875000/μL；理學檢查無特殊異常。下列何項抽血檢驗的結果可確定診斷此病人為原發性血小板增多症（essential thrombocythemia）而非次發性？",
     "choices": [
-      "low thrombopoietin level",
-      "increased LAP score",
-      "JAK2 mutation",
-      "immature myeloid cells"
+      {
+        "text": "low thrombopoietin level",
+        "is_correct": false
+      },
+      {
+        "text": "increased LAP score",
+        "is_correct": false
+      },
+      {
+        "text": "JAK2 mutation",
+        "is_correct": true
+      },
+      {
+        "text": "immature myeloid cells",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "41",
@@ -460,10 +880,22 @@
     "subject": "血液科",
     "question": "一位24歲病人被發現有血紅蛋白H疾病（hemoglobin H disease），下列何種血紅蛋白在此病人特別多？",
     "choices": [
-      "α2γ2",
-      "α2δ2",
-      "β4",
-      "γ4"
+      {
+        "text": "α2γ2",
+        "is_correct": false
+      },
+      {
+        "text": "α2δ2",
+        "is_correct": false
+      },
+      {
+        "text": "β4",
+        "is_correct": true
+      },
+      {
+        "text": "γ4",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "42",
@@ -473,10 +905,22 @@
     "subject": "血液科",
     "question": "一位35歲女性因為月經流量太大應診，抽血檢查發現血紅素為11.2 gm/dL，白血球7550/μL，血小板196500/μL，前凝血酵素時間（PT）INR 1.0，活化之部分凝血激素時間（aPTT）56秒（control:28\"-35\"），下列何種檢查對此病人的診斷不是必要的？",
     "choices": [
-      "factor VIII activity",
-      "factor IX activity",
-      "factor XIII activity",
-      "von Willebrand factor activity"
+      {
+        "text": "factor VIII activity",
+        "is_correct": false
+      },
+      {
+        "text": "factor IX activity",
+        "is_correct": false
+      },
+      {
+        "text": "factor XIII activity",
+        "is_correct": true
+      },
+      {
+        "text": "von Willebrand factor activity",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "43",
@@ -486,10 +930,22 @@
     "subject": "血液科",
     "question": "正常的骨髓微環境（microenvironment）對造血幹細胞移植術之成敗至關重要，下列何者不在此列？",
     "choices": [
-      "endothelial cell",
-      "mesenchymal stem cell",
-      "fibroblast",
-      "adipose cell"
+      {
+        "text": "endothelial cell",
+        "is_correct": true
+      },
+      {
+        "text": "mesenchymal stem cell",
+        "is_correct": true
+      },
+      {
+        "text": "fibroblast",
+        "is_correct": true
+      },
+      {
+        "text": "adipose cell",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "44",
@@ -499,10 +955,22 @@
     "subject": "血液科",
     "question": "除了遺傳性小圓球症（hereditary spherocytosis）外，microspherocyte最常在下列何種疾病的血液抹片中觀察到？",
     "choices": [
-      "輸血後溶血反應",
-      "自體免疫溶血性貧血",
-      "重度燒傷",
-      "敗血症"
+      {
+        "text": "輸血後溶血反應",
+        "is_correct": false
+      },
+      {
+        "text": "自體免疫溶血性貧血",
+        "is_correct": true
+      },
+      {
+        "text": "重度燒傷",
+        "is_correct": false
+      },
+      {
+        "text": "敗血症",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "45",
@@ -512,10 +980,22 @@
     "subject": "血液科",
     "question": "一位68歲女性，因為倦怠無力而來門診求醫。理學檢查除了臉色特別紅潤，脾臟有腫大的現象。此外，並無其他異常。血液數據顯示：白血球12,200/μL，分類segmented neutrophil 79.7%，lymphocyte 12,7%，無不成熟細胞。血紅素20.3 g/dL，Hematocrit 61.5%，MCV（mean cell volume）89.2 fL，MCHC（mean cellhemoglobin concentration）33.8 g/dL，血小板446,000/μL，尿酸7.6 mg/dL（參考區間2.6～7.5）。骨髓檢查結果呈現hypercellularity，而且紅血球系列、白血球系列與巨核細胞（megakaryocyte）均有明顯增生的現象。JAK2 gene有V617F的突變。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "Interferon可以縮小脾臟，降低各種血球數目，也可以減少突變基因JAK2 V617F之allelic burden",
-      "對於紅血球過多所引起之hyperviscosity，第一線的解決方法是phlebotomy",
-      "這種病人的plasma volume也是增加的，因此有些這樣的病人其hematocrit反而不會明顯增加",
-      "這種病人的serum erythropoietin levels通常是升高的"
+      {
+        "text": "Interferon可以縮小脾臟，降低各種血球數目，也可以減少突變基因JAK2 V617F之allelic burden",
+        "is_correct": false
+      },
+      {
+        "text": "對於紅血球過多所引起之hyperviscosity，第一線的解決方法是phlebotomy",
+        "is_correct": false
+      },
+      {
+        "text": "這種病人的plasma volume也是增加的，因此有些這樣的病人其hematocrit反而不會明顯增加",
+        "is_correct": false
+      },
+      {
+        "text": "這種病人的serum erythropoietin levels通常是升高的",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "38",
@@ -525,10 +1005,22 @@
     "subject": "血液科",
     "question": "一位45歲女性，平常健康狀況良好，但是近三個月感到腹脹，食慾不振，疲乏無力。理學檢查呈現臉色與結膜蒼白，另外腹部觸診可以摸到明顯之脾臟與肝臟腫大。實驗室數據顯示，白血球高達260,000/μL，Hemoglobin 7.7 g/dL，血小板650,000/μL，白血球分類顯示blast 10%，promyelocyte 19%，myelocyte9.8%，metamyelocyte 9.5%，band 12.3%，segmented neutrophil 24%，basophil 7%，eosinophil 6.3%，lymphocyte 1.3%。骨髓細胞之染色體檢查顯示t(9;22)(q34;q11)。骨髓中之blasts是2%。其血液抹片如下圖所示。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "現在治療此病的第一線藥物是tyrosine kinase inhibitors，例如imatinib、dasatinib或是nilotinib",
-      "在慢性期，如果病人沒有明顯之臨床症狀，可以先觀察追蹤，不需立即用藥治療",
-      "這類病人之leukocyte alkaline phosphatase（LAP）score常常是降低的",
-      "對這個疾病而言，少有一開始診斷即是急性期"
+      {
+        "text": "現在治療此病的第一線藥物是tyrosine kinase inhibitors，例如imatinib、dasatinib或是nilotinib",
+        "is_correct": false
+      },
+      {
+        "text": "在慢性期，如果病人沒有明顯之臨床症狀，可以先觀察追蹤，不需立即用藥治療",
+        "is_correct": true
+      },
+      {
+        "text": "這類病人之leukocyte alkaline phosphatase（LAP）score常常是降低的",
+        "is_correct": false
+      },
+      {
+        "text": "對這個疾病而言，少有一開始診斷即是急性期",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020389/Scanned_File/QUE-020389.png",
     "session": "107暑期",
@@ -539,10 +1031,22 @@
     "subject": "血液科",
     "question": "38歲女性，主訴在最近6個月運動時有愈來愈嚴重的呼吸困難（exertional dyspnea）。血球檢查數據如下（括弧內是正常參考數值）：RBC 3.91 M/μL（3.78～4.99），HB 7.0 g/dL（10.8～14.9），HCT 26.2%（35.6～45.4），MCV 67.0 fL（80～100），MCH 17.9 pg（26～34），MCHC 26.7 g/dL（31～37），PLT 382 k/μL（150～361），WBC 6.07 k/μL（3.54～9.06）。以下那個檢查對這個病人之診斷較無相關？",
     "choices": [
-      "血清中鐵蛋白（ferritin）",
-      "糞便潛血檢查",
-      "血清中鐵的濃度",
-      "血清中銅的濃度"
+      {
+        "text": "血清中鐵蛋白（ferritin）",
+        "is_correct": false
+      },
+      {
+        "text": "糞便潛血檢查",
+        "is_correct": false
+      },
+      {
+        "text": "血清中鐵的濃度",
+        "is_correct": false
+      },
+      {
+        "text": "血清中銅的濃度",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "40",
@@ -552,10 +1056,22 @@
     "subject": "血液科",
     "question": "某老先生退休後經常感覺身體無力，走路走太久也會喘，他來看醫師，醫師發現他的嘴唇有點發紺，經檢查後告訴他是因為甲基血紅素（Methemoglobin）太高造成的，甲基血紅素達血紅素中最少約多少比率，會開始有發紺的現象？",
     "choices": [
-      "3～5%",
-      "10～15%",
-      "20～25%",
-      "30～35%"
+      {
+        "text": "3～5%",
+        "is_correct": false
+      },
+      {
+        "text": "10～15%",
+        "is_correct": true
+      },
+      {
+        "text": "20～25%",
+        "is_correct": false
+      },
+      {
+        "text": "30～35%",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "78",
@@ -565,10 +1081,22 @@
     "subject": "血液科",
     "question": "⼀位46歲女性因為常常頭暈，爬樓梯時感到很喘⽽來醫院求診。⾝體檢查除臉⾊與結膜蒼⽩之外，並無其他明顯異常。患者⾎壓106/76 mmHg，脈搏每分鐘72次，規則⼼跳，無發燒，亦無體重減輕或是食慾降低的現象。⾎液數據顯⽰⾎紅素7.6 g/dL，⽩⾎球4,030/μL，無異常分類，⾎⼩板418,000/μL，MCV 74.8 fL（參考區間80～100），ferritin 3.84 ng/mL（參考區間28～365），serum iron 10 μg/dL（參考區間51～209），TIBC（total iron binding capacity）459 μg/dL（參考區間268～593）。⾎液抹片如下圖所⽰。有關這位病⼈最可能的疾病之描述，下列何者錯誤？",
     "choices": [
-      "此類病⼈的⾎液中的reticulocyte counts常是降低的",
-      "此類病⼈的骨髓中的sideroblast比例常是降低的",
-      "此類病⼈的紅⾎球中的protoporphyrin 量常是降低的",
-      "此類病⼈的red cell distribution width（RDW）index常是增加的"
+      {
+        "text": "此類病⼈的⾎液中的reticulocyte counts常是降低的",
+        "is_correct": false
+      },
+      {
+        "text": "此類病⼈的骨髓中的sideroblast比例常是降低的",
+        "is_correct": false
+      },
+      {
+        "text": "此類病⼈的紅⾎球中的protoporphyrin 量常是降低的",
+        "is_correct": true
+      },
+      {
+        "text": "此類病⼈的red cell distribution width（RDW）index常是增加的",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023447/Scanned_File/QUE-023447.png",
     "session": "108寒期",
@@ -579,10 +1107,22 @@
     "subject": "血液科",
     "question": "⼀位65歲男性，其⾎液數據顯⽰，⽩⾎球⾼達160,000/μL，⾎紅素12.7 g/dL，⾎⼩板是165,000/μL，⽩⾎球分類顯⽰segmented neutrophil 14%，lymphocyte 80.3%，無不成熟⾎球。其⾎液抹片之細胞顯⽰如下圖。這些淋巴球表達CD19、CD5、dim CD20、CD23、dim kappa light chain restriction。⽽CD10與CD34均陰性。以下關於這位病⼈最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "典型的周邊⾎液抹片常出現basket cells或smudge cells",
-      "⼤多數的病⼈需要接受⾼劑量化學治療與異體造⾎幹細胞移植，以得到⻑期的存活",
-      "有些病⼈會合併有autoimmune thrombocytopenia或autoimmune hemolytic anemia",
-      "此類病⼈⼀開始通常無明顯與此病相關的症狀，⽽是偶然抽⾎檢驗⾎球數據時才發現此病"
+      {
+        "text": "典型的周邊⾎液抹片常出現basket cells或smudge cells",
+        "is_correct": false
+      },
+      {
+        "text": "⼤多數的病⼈需要接受⾼劑量化學治療與異體造⾎幹細胞移植，以得到⻑期的存活",
+        "is_correct": true
+      },
+      {
+        "text": "有些病⼈會合併有autoimmune thrombocytopenia或autoimmune hemolytic anemia",
+        "is_correct": false
+      },
+      {
+        "text": "此類病⼈⼀開始通常無明顯與此病相關的症狀，⽽是偶然抽⾎檢驗⾎球數據時才發現此病",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023448/Scanned_File/QUE-023448.png",
     "session": "108寒期",
@@ -593,10 +1133,22 @@
     "subject": "血液科",
     "question": "⼀位30歲女性，過去健康狀況良好，並無重⼤疾病。她在最近5年的⾝體檢查中多次發現⾎⼩板低下，⾎⼩板數多維持在40,000/μL左右，⽽其他⾎球數⽬與⽩⾎球分類則未發現異常。最近⼀次⾎液檢查的⽩⾎球9,600/μL，⾎紅素12.7 g/dL，⾎⼩板41,000/μL，⽩⾎球分類無異常。病⼈否認有任何藥物的服⽤或是毒物的曝露，也無主觀上的不適。以下關於這位病⼈最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "雖然病⼈沒有明顯的出⾎狀況，但是為了預防出⾎，此病⼈仍然需要給與類固醇以提升⾎⼩板數量⾄100,000/μL以上",
-      "此病⼈不需要立即安排骨髓切片檢查",
-      "⽪下注射romiplostim或是⼝服eltrombopag常可有效的提升此類病⼈之⾎⼩板數量",
-      "此種病⼈之周邊⾎液之⾎球型態與分化，⼀般⽽⾔，是正常的，但是偶⽽有較⼤的platelets"
+      {
+        "text": "雖然病⼈沒有明顯的出⾎狀況，但是為了預防出⾎，此病⼈仍然需要給與類固醇以提升⾎⼩板數量⾄100,000/μL以上",
+        "is_correct": true
+      },
+      {
+        "text": "此病⼈不需要立即安排骨髓切片檢查",
+        "is_correct": false
+      },
+      {
+        "text": "⽪下注射romiplostim或是⼝服eltrombopag常可有效的提升此類病⼈之⾎⼩板數量",
+        "is_correct": false
+      },
+      {
+        "text": "此種病⼈之周邊⾎液之⾎球型態與分化，⼀般⽽⾔，是正常的，但是偶⽽有較⼤的platelets",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "39",
@@ -606,10 +1158,22 @@
     "subject": "血液科",
     "question": "66歲男性，⾃訴以往健康良好。2個⽉前發現有兩側頸部、腋下與腹股溝淋巴結腫⼤，經左側淋巴結切片檢查診斷為angioimmunoblastic T cell lymphoma（AITL），接受全⾝性化學治療，處⽅為標準劑量的CHOP（cyclophosphamide, adriamycin, vincristine和prednisolone）。病⼈於化療2週後返回⾨診，主訴上腹脹、排便困難及⼿指指尖⿇⽊，醫師懷疑可能發⽣ileus。此副作⽤最可能由下列何種藥物引起？",
     "choices": [
-      "cyclophosphamide",
-      "adriamycin",
-      "prednisolone",
-      "vincristine"
+      {
+        "text": "cyclophosphamide",
+        "is_correct": false
+      },
+      {
+        "text": "adriamycin",
+        "is_correct": false
+      },
+      {
+        "text": "prednisolone",
+        "is_correct": false
+      },
+      {
+        "text": "vincristine",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "40",
@@ -619,10 +1183,22 @@
     "subject": "血液科",
     "question": "一位46歲男性，過去無特殊病史，因呼吸急促，腹部腫脹而被送到急診求診。理學檢查呈現結膜蒼白，脾臟腫大並且有腹水。實驗室數據顯示：白血球8450/μL，分類blast 2.9%，myelocyte 1%，metamyelocyte 3.8%，band 6.7%，segmented neutrophil 37.1%，lymphocyte 31.4%。血紅素9.7 g/dL，血小板55,000/μL，尿酸12.1mg/dL（參考區間2.6～7.5），lactate dehydrogenase（LDH）2342 U/L（參考區間140～271）。其骨髓細胞顯示如下圖。染色體有t(2;8)(p12;q24)之變化。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "此病之機轉包含了c-myc之deregulation",
-      "此病之病程相當快速，必須儘早治療",
-      "此病之治療過程必須包含腦脊髓液之檢查與intrathecal chemotherapy",
-      "一般而言，此病之治療效果不佳，以目前之治療，長期存活率小於3成"
+      {
+        "text": "此病之機轉包含了c-myc之deregulation",
+        "is_correct": false
+      },
+      {
+        "text": "此病之病程相當快速，必須儘早治療",
+        "is_correct": false
+      },
+      {
+        "text": "此病之治療過程必須包含腦脊髓液之檢查與intrathecal chemotherapy",
+        "is_correct": false
+      },
+      {
+        "text": "一般而言，此病之治療效果不佳，以目前之治療，長期存活率小於3成",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028527/Scanned_File/QUE-028527.png",
     "session": "108暑期",
@@ -633,10 +1209,22 @@
     "subject": "血液科",
     "question": "維生素B12是造血的重要元素之一，以下對維生素B12的敘述何者錯誤？",
     "choices": [
-      "人體每日所需維生素B12的量相當少（約1～3微克）",
-      "在完全無法經由飲食吸收維生素B12的狀況下，如果沒有另外補充，通常需要3～4年才能消耗完身體中的儲存量",
-      "哺乳中的婦女若有維生素B12缺乏容易造成嬰兒生長發育遲滯",
-      "蔬果類食物含有豐富的維生素B12"
+      {
+        "text": "人體每日所需維生素B12的量相當少（約1～3微克）",
+        "is_correct": false
+      },
+      {
+        "text": "在完全無法經由飲食吸收維生素B12的狀況下，如果沒有另外補充，通常需要3～4年才能消耗完身體中的儲存量",
+        "is_correct": false
+      },
+      {
+        "text": "哺乳中的婦女若有維生素B12缺乏容易造成嬰兒生長發育遲滯",
+        "is_correct": false
+      },
+      {
+        "text": "蔬果類食物含有豐富的維生素B12",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "38",
@@ -646,10 +1234,22 @@
     "subject": "血液科",
     "question": "58歲男性，近半年感到腹部不適，某日就診時發現有兩側頸部、腋下與腹股溝淋巴結腫大。病人體溫38.8℃，血壓90/50mmHg，並有畏寒與疲累的症狀，血球檢查數據如下（括弧內是正常參考數值）：RBC4.12 M/μL（4～5.52），Hb 12.4 g/dL（13.2～17.2），Retic. 1.48%（0.5～2），PLT 261 k/μL（148～339），WBC 9.74 k/μL（3.54～9.06），Blast 0% ，Promyel. 0%，Myelo. 0%，Meta 0%，Band 0%，Seg 5.0%，Eos.3.0%，Baso. 1.0%，Mono. 8.0%，Lym. 83.0%，Aty.Lym. 0.0%，Plasma cell 0.0%，Normobl. 0.0/100 WBC。以下那個敘述錯誤？",
     "choices": [
-      "因為白血球總數正常，只需要症狀治療",
-      "應該要做詳細的身體檢查，以找出可能的感染來源",
-      "應該要接受血液細菌培養",
-      "應該要儘早投與靜脈注射的廣效性抗生素"
+      {
+        "text": "因為白血球總數正常，只需要症狀治療",
+        "is_correct": true
+      },
+      {
+        "text": "應該要做詳細的身體檢查，以找出可能的感染來源",
+        "is_correct": false
+      },
+      {
+        "text": "應該要接受血液細菌培養",
+        "is_correct": false
+      },
+      {
+        "text": "應該要儘早投與靜脈注射的廣效性抗生素",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "39",
@@ -659,10 +1259,22 @@
     "subject": "血液科",
     "question": "下列何種疾病無法用異體造血幹細胞移植（hematopoietic stem cell transplantation）的方式來達到長期緩解？",
     "choices": [
-      "黏多醣症",
-      "嚴重再生不良性貧血",
-      "重度海洋性貧血",
-      "肝細胞癌"
+      {
+        "text": "黏多醣症",
+        "is_correct": false
+      },
+      {
+        "text": "嚴重再生不良性貧血",
+        "is_correct": false
+      },
+      {
+        "text": "重度海洋性貧血",
+        "is_correct": false
+      },
+      {
+        "text": "肝細胞癌",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "40",
@@ -672,10 +1284,22 @@
     "subject": "血液科",
     "question": "一位75歲女性，平常健康狀況良好，但是近三個月感到食慾不振，疲乏無力，下背疼痛。理學檢查呈現臉色與結膜蒼白，無肝脾腫大。實驗室數據顯示：白血球5,310/μL，分類無異常。血紅素7.8 g/dL，血小板171,000/μL。肝功能正常，serum creatinine是3.4 mg/dL。腰部脊椎之影像檢查呈現嚴重塌陷。其骨髓抹片顯示如下圖。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "此疾病好發於老人",
-      "診斷之後，立即給與高劑量的靜脈輸注化學治療是目前標準的治療方法",
-      "即使血液中測量不到monoclonal protein，也不能排除此病",
-      "lenalidomide、steroid與bortezomib是治療此病的有效處方"
+      {
+        "text": "此疾病好發於老人",
+        "is_correct": false
+      },
+      {
+        "text": "診斷之後，立即給與高劑量的靜脈輸注化學治療是目前標準的治療方法",
+        "is_correct": true
+      },
+      {
+        "text": "即使血液中測量不到monoclonal protein，也不能排除此病",
+        "is_correct": false
+      },
+      {
+        "text": "lenalidomide、steroid與bortezomib是治療此病的有效處方",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031387/Scanned_File/QUE-031387.png",
     "session": "109寒期",
@@ -686,10 +1310,22 @@
     "subject": "血液科",
     "question": "一位30歲女性，過去健康狀況良好，並無重大疾病。她在3個月前剖腹產下一個健康男嬰。懷孕及生產過程也很順利。但生產後，她卻發現即使沒有碰撞，也常有皮膚大片瘀青，有時甚至會有皮下血腫。病人否認有任何藥物的服用或是毒物的曝露。血液數據顯示，白血球9,600/μL，血紅素10.7 g/dL，血小板210,000/μL，白血球分類無異常。PT 10.3 sec（INR 0.95），aPTT 98 sec，以normal plasma做mixing test無法完全矯正延長的aPTT。factor VIIIc的活性小於1%，而factor VIII antibody是28.41 BU/mL（參考值＜0.6）。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
     "choices": [
-      "此類病人常常有hemarthrosis",
-      "除了懷孕生產之外，此病亦可能與惡性腫瘤與自體免疫疾病有關連性，但是約有一半的病人找不到明顯的原因",
-      "嚴重出血危及生命時，可以輸注PCC（prothrombin complex concentrate）或是recombinant factor VIIa來止血",
-      "治療有反應者，在停藥之後，還是可能有高達約20%的病人在半年內復發"
+      {
+        "text": "此類病人常常有hemarthrosis",
+        "is_correct": true
+      },
+      {
+        "text": "除了懷孕生產之外，此病亦可能與惡性腫瘤與自體免疫疾病有關連性，但是約有一半的病人找不到明顯的原因",
+        "is_correct": false
+      },
+      {
+        "text": "嚴重出血危及生命時，可以輸注PCC（prothrombin complex concentrate）或是recombinant factor VIIa來止血",
+        "is_correct": false
+      },
+      {
+        "text": "治療有反應者，在停藥之後，還是可能有高達約20%的病人在半年內復發",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "38",
@@ -699,10 +1335,22 @@
     "subject": "血液科",
     "question": "79歲女性，自訴以往健康良好，沒有服用任何藥物或營養品，某天早上起床時發現全身四肢有多處瘀青。隔日就診，身體檢查發現口腔裡有多處潰瘍和血塊。血球檢查數據如下（括弧內是正常參考數值）：RBC 5.02M/μL（3.78～4.99），Hb 11.1 g/dL（10.8～14.9），Hct 34.6 %（35.6～45.4），MCV 68.9 fL（80～100），PLT 5 K/μL（150～361），WBC 10.14 K/μL（3.54～9.06），白血球分類：Seg 58.1%，Eos. 1.0%，Baso.0.4%，Mono. 4.1%，Lym. 36.4%。以下何項敘述錯誤？",
     "choices": [
-      "病人應考慮接受骨髓檢查協助診斷",
-      "病人有可能是假性的血小板低下症，需要用含肝素（heparin）的採血管採集病人的血液之後，再做一次檢查",
-      "病人應該立即輸注血小板濃縮液",
-      "病人應避免劇烈活動"
+      {
+        "text": "病人應考慮接受骨髓檢查協助診斷",
+        "is_correct": false
+      },
+      {
+        "text": "病人有可能是假性的血小板低下症，需要用含肝素（heparin）的採血管採集病人的血液之後，再做一次檢查",
+        "is_correct": true
+      },
+      {
+        "text": "病人應該立即輸注血小板濃縮液",
+        "is_correct": false
+      },
+      {
+        "text": "病人應避免劇烈活動",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "39",
@@ -712,10 +1360,22 @@
     "subject": "血液科",
     "question": "24歲女性，於員工健檢的血球檢查數據如下（括弧內是正常參考數值）：RBC 4.08 M/μL（3.78～4.99），Hb12.0 g/dL（10.8～14.9），Hct 37.2%（35.6～45.4），MCV 91.2 fL（80～100），MCH 29.4 pg（26～34），\fMCHC 32.3 g/dL（31～37），PLT 606 k/μL（150～361），WBC 171.25 k/μL（3.54～9.06），血球分類：Blast 0.5%，Promye l. 5.8%，Myelo. 14.8%，Meta 17.0%，Band 12.0%，Seg 37.9%，Eos. 1.0%，Baso. 3.5%，Mono. 4.0%，Lym. 3.5%。為了確立診斷，下列那一項檢查較不需要？",
     "choices": [
-      "骨髓細胞染色體分析",
-      "周邊血BCR/ABL1基因定性檢定",
-      "白血球LAP score",
-      "周邊血球免疫分型檢查（immunophenotyping）"
+      {
+        "text": "骨髓細胞染色體分析",
+        "is_correct": false
+      },
+      {
+        "text": "周邊血BCR/ABL1基因定性檢定",
+        "is_correct": false
+      },
+      {
+        "text": "白血球LAP score",
+        "is_correct": false
+      },
+      {
+        "text": "周邊血球免疫分型檢查（immunophenotyping）",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "40",

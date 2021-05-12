@@ -1,0 +1,3256 @@
+[
+  {
+    "subject": "皮膚科",
+    "question": "貼膚試驗（patch test） 是下列何種皮膚疾病的標準診斷方法？",
+    "choices": [
+      {
+        "text": "乾癬（psoriasis）",
+        "is_correct": false
+      },
+      {
+        "text": "多形性紅斑（erythema multiforme）",
+        "is_correct": false
+      },
+      {
+        "text": "慢性蕁麻疹（chronic urticaria）",
+        "is_correct": false
+      },
+      {
+        "text": "過敏性接觸性皮膚炎（allergic contact dermatitis）",
+        "is_correct": true
+      }
+    ],
+    "session": "105寒期",
+    "no": "34",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於異位性皮膚炎（atopic dermatitis）的處置，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "外用局部皮質類固醇藥劑",
+        "is_correct": false
+      },
+      {
+        "text": "紫外線光照治療",
+        "is_correct": false
+      },
+      {
+        "text": "使用潤膚劑",
+        "is_correct": false
+      },
+      {
+        "text": "外用維生素D3及其衍生物",
+        "is_correct": true
+      }
+    ],
+    "session": "105寒期",
+    "no": "35",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列關於乾癬（psoriasis）的敘述，何者錯誤？",
+    "choices": [
+      {
+        "text": "好發於兒童",
+        "is_correct": true
+      },
+      {
+        "text": "好發部位為頭部、肘膝和軀幹",
+        "is_correct": false
+      },
+      {
+        "text": "部分病人會合併乾癬性關節炎（psoriatic arthritis）",
+        "is_correct": false
+      },
+      {
+        "text": "病灶特徵為境界鮮明、表面有白色鱗屑之紅色斑塊",
+        "is_correct": false
+      }
+    ],
+    "session": "105寒期",
+    "no": "36",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於成人型脂漏性皮膚炎（seborrheic dermatitis）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "好發於四肢伸側",
+        "is_correct": true
+      },
+      {
+        "text": "病灶表面常伴有鱗屑",
+        "is_correct": false
+      },
+      {
+        "text": "感染人類免疫不全病毒（HIV）的患者，罹患此病之機率及嚴重度增加",
+        "is_correct": false
+      },
+      {
+        "text": "抗黴菌製劑ketoconazole對此病之治療有效",
+        "is_correct": false
+      }
+    ],
+    "session": "105寒期",
+    "no": "37",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "68歲男性，主訴5年前開始，顏面出現如左圖箭頭所示之病變，病理檢查如右圖所示。下列何者為最適當的診斷？",
+    "choices": [
+      {
+        "text": "日光性角化症（actinic keratosis）",
+        "is_correct": true
+      },
+      {
+        "text": "盤狀紅斑性狼瘡（discoid lupus erythematosus）",
+        "is_correct": false
+      },
+      {
+        "text": "脂漏性角化症（seborrheic keratosis）",
+        "is_correct": false
+      },
+      {
+        "text": "基底細胞癌（basal cell carcinoma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014708/Scanned_File/QUE-014708.png",
+    "session": "105寒期",
+    "no": "38",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列色素性病變何者常於中年後發生？",
+    "choices": [
+      {
+        "text": "nevus of Ota（nevus fuscocaeruleus ophthalmomaxillaris）",
+        "is_correct": false
+      },
+      {
+        "text": "ephelides（freckle）",
+        "is_correct": false
+      },
+      {
+        "text": "mongolian spot",
+        "is_correct": false
+      },
+      {
+        "text": "nevus of Hori（bilateral nevus of Ota-like macules）",
+        "is_correct": true
+      }
+    ],
+    "session": "105寒期",
+    "no": "39",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "30歲男性左前臂之皮膚病灶如圖，據患者描述此病灶約2至3歲即出現，最適宜之診斷為何？",
+    "choices": [
+      {
+        "text": "雀斑（freckles）",
+        "is_correct": false
+      },
+      {
+        "text": "肝斑（melasma）",
+        "is_correct": false
+      },
+      {
+        "text": "斑痣（nevus spilus）",
+        "is_correct": true
+      },
+      {
+        "text": "咖啡牛奶斑（cafe-au-lait spot）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014710/Scanned_File/QUE-014710.png",
+    "session": "105寒期",
+    "no": "40",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "4126歲的女性，約從十歲起，身上便開始出現搔癢的角化丘疹如圖（一），數目時多時少，夏天工作流汗時會變得較嚴重。指甲板上出現紅白相間的長帶，及游離端有V字型的凹缺如圖（二）所示，下列有關此疾病之敘述何者正確？\f圖（一） 圖（二）",
+    "choices": [
+      {
+        "text": "臨床病灶易發生於脂漏性區域（seborrheic area）",
+        "is_correct": true
+      },
+      {
+        "text": "屬體染色體隱性遺傳",
+        "is_correct": false
+      },
+      {
+        "text": "口服類固醇是最好的治療方式",
+        "is_correct": false
+      },
+      {
+        "text": "突變基因為ATP2C2 gene，其功能為調節細胞鈣離子濃度",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014711/Scanned_File/QUE-014711.png",
+    "session": "105寒期",
+    "no": "41",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲女性，患有異位性皮膚炎，最近一週在臉上出現如圖之病變，下列敘述何者正確？",
+    "choices": [
+      {
+        "text": "異位性皮膚炎之惡化",
+        "is_correct": false
+      },
+      {
+        "text": "念珠菌感染",
+        "is_correct": false
+      },
+      {
+        "text": "單純疱疹病毒感染",
+        "is_correct": true
+      },
+      {
+        "text": "皮癬菌感染",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014712/Scanned_File/QUE-014712.png",
+    "session": "105寒期",
+    "no": "42",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，下列何項為正確的處置？",
+    "choices": [
+      {
+        "text": "外用類固醇藥膏",
+        "is_correct": false
+      },
+      {
+        "text": "口服fluconazole",
+        "is_correct": false
+      },
+      {
+        "text": "口服valacyclovir",
+        "is_correct": true
+      },
+      {
+        "text": "外用抗生素藥膏",
+        "is_correct": false
+      }
+    ],
+    "session": "105寒期",
+    "no": "43",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲女性，近一個月在小腿出現疼痛的紅紫色結節（如圖）；一年前開始反覆出現口腔潰瘍，曾因為葡萄膜炎（uveitis）在眼科就診，最可能之診斷為何？",
+    "choices": [
+      {
+        "text": "疤痕性類天疱瘡（cicatricial pemphigoid）",
+        "is_correct": false
+      },
+      {
+        "text": "多形性紅斑（erythema multiforme）",
+        "is_correct": false
+      },
+      {
+        "text": "尋常性天疱瘡（pemphigus vulgaris）",
+        "is_correct": false
+      },
+      {
+        "text": "貝..特氏病（Behcet’s disease）",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014714/Scanned_File/QUE-014714.png",
+    "session": "105寒期",
+    "no": "44",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，下列敘述，何者錯誤？",
+    "choices": [
+      {
+        "text": "全世界各國都有，以美國發生率最高",
+        "is_correct": true
+      },
+      {
+        "text": "pathergy test陽性",
+        "is_correct": false
+      },
+      {
+        "text": "少數病人會合併中樞神經系統併發症",
+        "is_correct": false
+      },
+      {
+        "text": "亞洲人與可能與HLA-B5及HLA-B51有關",
+        "is_correct": false
+      }
+    ],
+    "session": "105寒期",
+    "no": "45",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲女性，使用染髮劑後引起如圖所示之反應，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "染髮劑引起過敏反應最常見的成分為para-phenylenediamine",
+        "is_correct": false
+      },
+      {
+        "text": "染髮劑引起的皮膚炎屬於第四型過敏反應",
+        "is_correct": false
+      },
+      {
+        "text": "染髮劑引起的皮膚炎屬於第二型過敏反應",
+        "is_correct": true
+      },
+      {
+        "text": "貼膚試驗有助於確認過敏成分",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015024/Scanned_File/QUE-015024.png",
+    "session": "105暑期",
+    "no": "34",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "5歲男孩，腳底出現如圖所示之症狀，下列何者為最適合的診斷？",
+    "choices": [
+      {
+        "text": "tinea pedis",
+        "is_correct": false
+      },
+      {
+        "text": "juvenile plantar dermatosis",
+        "is_correct": true
+      },
+      {
+        "text": "ichthyosis",
+        "is_correct": false
+      },
+      {
+        "text": "asteatotic eczema",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015025/Scanned_File/QUE-015025.png",
+    "session": "105暑期",
+    "no": "35",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "43歲男性，在頭部、肘部、膝部、四肢及軀幹出現如圖之皮膚病變，反覆有10年之久。KOH鏡檢沒發現黴菌，而病理組織檢查如圖。患者除了皮膚之外，最容易侵犯何種器官？",
+    "choices": [
+      {
+        "text": "腎臟",
+        "is_correct": false
+      },
+      {
+        "text": "心臟",
+        "is_correct": false
+      },
+      {
+        "text": "關節",
+        "is_correct": true
+      },
+      {
+        "text": "肌肉",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015026/Scanned_File/QUE-015026.png",
+    "session": "105暑期",
+    "no": "36",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於玫瑰糠疹（pityriasis rosea）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "病灶存在時間常小於一週",
+        "is_correct": true
+      },
+      {
+        "text": "常可見先驅病灶（herald patch）",
+        "is_correct": false
+      },
+      {
+        "text": "典型表徵呈現聖誕樹樣分布（Christmas tree pattern）",
+        "is_correct": false
+      },
+      {
+        "text": "鑑別診斷包括二期梅毒（secondary syphilis）",
+        "is_correct": false
+      }
+    ],
+    "session": "105暑期",
+    "no": "37",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "台中市38歲男性，2週前太魯閣旅遊，回家後出現發燒、頭痛、全身倦怠感，及皮膚紅疹（如圖A）。理學檢查發現在右肘窩病灶（如圖B），最可能的診斷為何？",
+    "choices": [
+      {
+        "text": "鉤端螺旋體（leptospirosis）",
+        "is_correct": false
+      },
+      {
+        "text": "二期梅毒（secondary syphilis）",
+        "is_correct": false
+      },
+      {
+        "text": "麻疹（measles）",
+        "is_correct": false
+      },
+      {
+        "text": "恙蟲病（scrub typhus）",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015028/Scanned_File/QUE-015028.png",
+    "session": "105暑期",
+    "no": "38",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "36歲男性，主訴最近一星期，雙手掌及足底出現如圖所示之皮膚病變。那一項實驗室檢查對疾病確診最有幫忙？",
+    "choices": [
+      {
+        "text": "細菌培養（bacteria culture）",
+        "is_correct": false
+      },
+      {
+        "text": "KOH鏡檢（KOH examination）",
+        "is_correct": false
+      },
+      {
+        "text": "貼膚試驗（patch test）",
+        "is_correct": false
+      },
+      {
+        "text": "VDRL及TPHA",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015029/Scanned_File/QUE-015029.png",
+    "session": "105暑期",
+    "no": "39",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "45歲女性糖尿病患，3天前於右側額部出現叢集樣水疱（grouped vesicles）合併紅斑，同側鼻尖亦出現數個水疱，下列何者為最需要之檢查？",
+    "choices": [
+      {
+        "text": "皮膚劃紋反應（dermatographism）",
+        "is_correct": false
+      },
+      {
+        "text": "KOH鏡檢",
+        "is_correct": false
+      },
+      {
+        "text": "眼科檢查",
+        "is_correct": true
+      },
+      {
+        "text": "伍氏燈檢查（Wood's light examination）",
+        "is_correct": false
+      }
+    ],
+    "session": "105暑期",
+    "no": "40",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "70歲女性，左側耳後有如左圖之腫瘤，數年之久，病理組織切片結果如右圖；下列何者為最適當的診斷？",
+    "choices": [
+      {
+        "text": "鱗狀細胞癌（squamous cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "基底細胞癌（basal cell carcinoma ）",
+        "is_correct": true
+      },
+      {
+        "text": "惡性黑色素細胞癌（malignant melanoma）",
+        "is_correct": false
+      },
+      {
+        "text": "脂漏性角化症（seborrheic keratosis）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015031/Scanned_File/QUE-015031.png",
+    "session": "105暑期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於硬皮症（morphea）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "硬皮症之皮膚病灶和全身性硬化症（systemic sclerosis）的皮膚病灶可明顯區分",
+        "is_correct": false
+      },
+      {
+        "text": "極少見影響內臟器官，預後良好",
+        "is_correct": false
+      },
+      {
+        "text": "常有雷諾氏現象（Raynaud phenomenon）",
+        "is_correct": true
+      },
+      {
+        "text": "線形硬皮症（linear morphea）好犯於兒童之四肢",
+        "is_correct": false
+      }
+    ],
+    "session": "105暑期",
+    "no": "42",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "68歲男性，長期使用多種藥物，最近發現在鼻、頰及耳部有藍灰色色素沉著，下列何種藥物，可能與其皮膚症狀相關？",
+    "choices": [
+      {
+        "text": "amiodarone",
+        "is_correct": true
+      },
+      {
+        "text": "aspirin",
+        "is_correct": false
+      },
+      {
+        "text": "omeprazole",
+        "is_correct": false
+      },
+      {
+        "text": "magnesium oxide",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015033/Scanned_File/QUE-015033.png",
+    "session": "105暑期",
+    "no": "43",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲男性，智力輕度發展遲緩，因為癲癇送到急診，理學檢查發現腰部有一個小脫色斑，以及臉上的丘疹，如圖所示，最可能的診斷為何？",
+    "choices": [
+      {
+        "text": "結節性硬化症（tuberous sclerosis）",
+        "is_correct": true
+      },
+      {
+        "text": "第一型神經纖維瘤症（neurofibromatosis type I）",
+        "is_correct": false
+      },
+      {
+        "text": "白斑（vitiligo）",
+        "is_correct": false
+      },
+      {
+        "text": "漢生病（leprosy）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015034/Scanned_File/QUE-015034.png",
+    "session": "105暑期",
+    "no": "44",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "惡性黑色棘皮症（malignant acanthosis nigricans）最常合併那種系統的腫瘤？",
+    "choices": [
+      {
+        "text": "呼吸系統",
+        "is_correct": false
+      },
+      {
+        "text": "腸胃系統",
+        "is_correct": true
+      },
+      {
+        "text": "生殖系統",
+        "is_correct": false
+      },
+      {
+        "text": "泌尿系統",
+        "is_correct": false
+      }
+    ],
+    "session": "105暑期",
+    "no": "45",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位30歲男性，和朋友喝酒吃完海鮮後，突然身上出現如圖病灶，發燙與奇癢無比，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "可能是過敏反應，首要評估有無呼吸道的問題",
+        "is_correct": false
+      },
+      {
+        "text": "可給予抗組織胺（antihistamine）注射",
+        "is_correct": false
+      },
+      {
+        "text": "可考慮給予口服類固醇",
+        "is_correct": false
+      },
+      {
+        "text": "H2接受器抑制劑（H2 receptor blocker），如ranitidine是沒有治療效果",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015067/Scanned_File/QUE-015067.png",
+    "session": "105暑期",
+    "no": "77",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "70歲臥床男性，在腹股溝和大腿內側出現如圖A的紅色斑塊，周圍有散在性膿疱，KOH鏡檢如圖B，診斷為何？\f圖A圖B",
+    "choices": [
+      {
+        "text": "股癬（tinea cruris）",
+        "is_correct": false
+      },
+      {
+        "text": "皮膚念珠菌感染（cutaneous candidiasis）",
+        "is_correct": true
+      },
+      {
+        "text": "陰部單純性疱疹（herpes simplex genitalis）",
+        "is_correct": false
+      },
+      {
+        "text": "汗斑（pityriasis versicolor）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015346/Scanned_File/QUE-015346.png",
+    "session": "106寒期",
+    "no": "36",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者為最常見的惡性皮膚腫瘤？",
+    "choices": [
+      {
+        "text": "基底細胞癌（basal cell carcinoma）",
+        "is_correct": true
+      },
+      {
+        "text": "鱗狀細胞癌（squamous cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "黑色素細胞瘤（melanoma）",
+        "is_correct": false
+      },
+      {
+        "text": "梅克爾氏細胞癌（Merkel cell carcinoma）",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "37",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "24歲女性，晚上吃完喜酒，數小時後，半夜皮膚開始發癢起疹，如圖所示，且奇癢難耐，清晨即趕至醫院急診，最可能的診斷為何？",
+    "choices": [
+      {
+        "text": "急性蕁麻疹",
+        "is_correct": true
+      },
+      {
+        "text": "多型性紅斑",
+        "is_correct": false
+      },
+      {
+        "text": "蜂窩性組織炎",
+        "is_correct": false
+      },
+      {
+        "text": "體癬",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015348/Scanned_File/QUE-015348.png",
+    "session": "106寒期",
+    "no": "38",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何種基因的突變與ichthyosis vulgaris最有相關？",
+    "choices": [
+      {
+        "text": "profilaggrin",
+        "is_correct": true
+      },
+      {
+        "text": "steroid sulfatase",
+        "is_correct": false
+      },
+      {
+        "text": "transglutaminase",
+        "is_correct": false
+      },
+      {
+        "text": "keratin 1 or 10",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "39",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關脂漏性皮膚炎（Seborrheic dermatitis）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "嬰兒期脂漏性皮膚炎需與異位性皮膚炎鑑別診斷",
+        "is_correct": false
+      },
+      {
+        "text": "致病機轉可能與Malassezia相關",
+        "is_correct": false
+      },
+      {
+        "text": "好發部位為四肢伸側及背部",
+        "is_correct": true
+      },
+      {
+        "text": "HIV感染可能伴隨脂漏性皮膚炎",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "40",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "對於leprosy常見併發症的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "因為神經喪失疼痛知覺，因此常有末端指節關節受傷或是截肢現象",
+        "is_correct": false
+      },
+      {
+        "text": "因為副交感神經受損，因此常有掌蹠多汗現象",
+        "is_correct": true
+      },
+      {
+        "text": "可發生keratitis，甚至會失明",
+        "is_correct": false
+      },
+      {
+        "text": "鼻樑塌陷",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於蟹足腫（keloid）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "穿耳洞也有可能會產生蟹足腫",
+        "is_correct": false
+      },
+      {
+        "text": "若手術部位在關節或前胸處，產生蟹足腫的機率，比顏面或腹部來的高",
+        "is_correct": false
+      },
+      {
+        "text": "蟹足腫常會合併癢感或痛感",
+        "is_correct": false
+      },
+      {
+        "text": "液態氮冷凍不能用於治療蟹足腫",
+        "is_correct": true
+      }
+    ],
+    "session": "106寒期",
+    "no": "42",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "23歲男性，口服某種藥物兩週後，引起毒性表皮溶解症（toxic epidermal necrolysis），下列何者藥物較無相關？",
+    "choices": [
+      {
+        "text": "carbamazepine",
+        "is_correct": false
+      },
+      {
+        "text": "allopurinol",
+        "is_correct": false
+      },
+      {
+        "text": "acetaminophen",
+        "is_correct": true
+      },
+      {
+        "text": "phenytoin",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "43",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "對於先天性母斑（congenital nevus）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "太田氏母斑（nevus of Ota）多為單側，好發於三叉神經第一或第二分支處",
+        "is_correct": false
+      },
+      {
+        "text": "蒙古斑（Mongolian spot）隨著年紀增長會逐漸淡化或消失",
+        "is_correct": false
+      },
+      {
+        "text": "皮脂腺母斑（nevus sebaceous）常伴隨皮膚增厚及多毛的現象",
+        "is_correct": true
+      },
+      {
+        "text": "先天性黑色素細胞痣（congenital melanocytic nevus）通常範圍越大者其轉變成惡性腫瘤機率就越高",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "44",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關肝斑（melasma, chloasma）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "懷孕時期肝斑出現的機率較高",
+        "is_correct": false
+      },
+      {
+        "text": "患者應儘量減少紫外線曝曬",
+        "is_correct": false
+      },
+      {
+        "text": "雷射治療效果佳，且不易復發",
+        "is_correct": true
+      },
+      {
+        "text": "肝斑跟肝功能異常無關",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "45",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位45歲男性，至金門旅遊回來，幾天後出現發燒，頭痛與咳嗽的情形，並於大腿出現如圖的皮膚病灶，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "高度懷疑是Scrub Typhus，又可稱為Tsutsugamushi disease",
+        "is_correct": true
+      },
+      {
+        "text": "是必須通報的法定傳染病",
+        "is_correct": true
+      },
+      {
+        "text": "皮膚病灶稱為焦痂（Eschar），是大多數病患者皆會出現的特徵",
+        "is_correct": true
+      },
+      {
+        "text": "是經由恙蟲媒介",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015387/Scanned_File/QUE-015387.png",
+    "session": "106寒期",
+    "no": "77",
+    "answer": "A,B,C,D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，下列何者為首選藥物？",
+    "choices": [
+      {
+        "text": "Doxycycline",
+        "is_correct": true
+      },
+      {
+        "text": "Augmentin",
+        "is_correct": false
+      },
+      {
+        "text": "2nd generation Cephalosporin",
+        "is_correct": false
+      },
+      {
+        "text": "支持性療法（Supportive care），沒有特效藥",
+        "is_correct": false
+      }
+    ],
+    "session": "106寒期",
+    "no": "78",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "35歲男性，主訴從頸部到膝蓋散布脫屑的紅疹，如圖所示，理學檢查手掌腳掌皮膚正常，最可能的診斷為：",
+    "choices": [
+      {
+        "text": "玫瑰糠疹（pityriasis rosea）",
+        "is_correct": true
+      },
+      {
+        "text": "玫瑰疹（roseola）",
+        "is_correct": false
+      },
+      {
+        "text": "麻疹（measles）",
+        "is_correct": false
+      },
+      {
+        "text": "多形性紅斑（erythema multiforme）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015664/Scanned_File/QUE-015664.png",
+    "session": "106暑期",
+    "no": "34",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "28歲男性，於手掌腳掌出現無症狀的脫屑性皮疹，如圖所示，最可能的診斷為：",
+    "choices": [
+      {
+        "text": "梅毒",
+        "is_correct": true
+      },
+      {
+        "text": "單純性疱疹",
+        "is_correct": false
+      },
+      {
+        "text": "疥瘡",
+        "is_correct": false
+      },
+      {
+        "text": "淋病",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015665/Scanned_File/QUE-015665.png",
+    "session": "106暑期",
+    "no": "35",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "18歲男性，於前胸逐漸出現如圖所示之皮膚病變，合併輕度疼痛及癢感；下列何者是最不適當之治療方法？",
+    "choices": [
+      {
+        "text": "局部注射皮質類固醇",
+        "is_correct": false
+      },
+      {
+        "text": "手術切除",
+        "is_correct": true
+      },
+      {
+        "text": "染料雷射治療",
+        "is_correct": false
+      },
+      {
+        "text": "局部貼敷矽膠",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015666/Scanned_File/QUE-015666.png",
+    "session": "106暑期",
+    "no": "36",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於基底細胞癌的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "最常見的皮膚癌",
+        "is_correct": false
+      },
+      {
+        "text": "具有局部侵犯性",
+        "is_correct": false
+      },
+      {
+        "text": "容易轉移",
+        "is_correct": true
+      },
+      {
+        "text": "與日光曝曬有關",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "37",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關口周炎（perioral dermatitis）之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "好發於女性",
+        "is_correct": false
+      },
+      {
+        "text": "應使用外用類固醇治療",
+        "is_correct": true
+      },
+      {
+        "text": "有時需要做細菌培養來排除金黃色葡萄球菌（S. aureus）感染的可能",
+        "is_correct": false
+      },
+      {
+        "text": "若給與口服doxycycline治療，應提醒病人防曬以免光致敏（photosensitization）",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "38",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於嬰兒異位性皮膚炎的敘述，下列何者正確？",
+    "choices": [
+      {
+        "text": "分布範圍主要為臉部、頭皮以及四肢的伸側（extensor side）",
+        "is_correct": true
+      },
+      {
+        "text": "若患者合併thrombocytopenia以及免疫功能異常，需懷疑是hyper-IgE syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "臨床上不須與脂漏性皮膚炎做鑑別診斷",
+        "is_correct": false
+      },
+      {
+        "text": "為避免局部類固醇造成的副作用，FDA建議首選外用藥物為0.03% tacrolimus或1% pimecrolimus",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "39",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於Leprosy的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "致病菌為絕對胞內寄生的Mycobacterium leprae",
+        "is_correct": false
+      },
+      {
+        "text": "Mycobacterium leprae是唯一侵犯周邊神經的細菌",
+        "is_correct": true
+      },
+      {
+        "text": "Tuberculoid leprosy（TT）臨床上表現常見為單一病灶，同時伴隨有局部神經麻痺現象，但有時仍會因免疫力下降轉變成borderline tuberculoid leprosy（BT）",
+        "is_correct": true
+      },
+      {
+        "text": "Jopling's type I reaction特別常見於borderline lepromatous leprosy，Jopling's type II reaction多數發生在lepromatous leprosy",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "40",
+    "answer": "B,C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關判斷是否為皮膚黑色素細胞癌（cutaneous melanoma）的ABCD口訣敘述，下列何者正確？",
+    "choices": [
+      {
+        "text": "A：不對稱（asymmetry）：病灶左右上下不對稱",
+        "is_correct": true
+      },
+      {
+        "text": "B：邊緣（border）：規則的邊緣",
+        "is_correct": false
+      },
+      {
+        "text": "C：顏色（color）：病灶色澤均勻",
+        "is_correct": false
+      },
+      {
+        "text": "D：直徑（diameter）：小於6 mm時要特別考慮是黑色素細胞癌",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "41",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "對於硬皮病（morphea）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "沿著Blaschko's line表現的linear morphea常出現在小兒患者",
+        "is_correct": false
+      },
+      {
+        "text": "circumscribed morphea患者身上並不會出現指端硬化現象，也不會有食道硬化等內臟器官影響",
+        "is_correct": false
+      },
+      {
+        "text": "generalized morphea患者血中ANA可能呈現陽性，但與患者預後關聯性仍未明",
+        "is_correct": false
+      },
+      {
+        "text": "generalized morphea多數病人會轉變為systemic sclerosis，出現指節腫大，吞嚥困難，以及續發性雷諾氏症候群",
+        "is_correct": true
+      }
+    ],
+    "session": "106暑期",
+    "no": "42",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "66歲男性出現如圖所示病灶，最可能診斷，與最重要的臨床特徵為何？",
+    "choices": [
+      {
+        "text": "紅斑性狼瘡（lupus erythematosus）；狼瘡性脂肪炎（lupus panniculitis）",
+        "is_correct": false
+      },
+      {
+        "text": "全身性硬皮症（systemic sclerosis）；手指硬化（sclerodactyly）、手指潰瘍（digital ulcerations）",
+        "is_correct": true
+      },
+      {
+        "text": "類風濕性關節炎（rheumatoid arthritis）；類風濕性結節（rheumatoid nodules）",
+        "is_correct": false
+      },
+      {
+        "text": "皮肌炎（dermatomyositis）；Gottron氏徵候（Gottron sign）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015673/Scanned_File/QUE-015673.png",
+    "session": "106暑期",
+    "no": "43",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲女性，在前胸出現如圖所示之病變，下列何種檢查無助於其診斷？",
+    "choices": [
+      {
+        "text": "伍氏燈可幫助脫色斑的顯現",
+        "is_correct": false
+      },
+      {
+        "text": "KOH鏡檢排除變色糠疹",
+        "is_correct": false
+      },
+      {
+        "text": "皮膚切片DOPA染色陽性細胞減少",
+        "is_correct": false
+      },
+      {
+        "text": "直接免疫螢光檢查出現lupus band",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015674/Scanned_File/QUE-015674.png",
+    "session": "106暑期",
+    "no": "44",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，該患者可接受下列治療獲得改善，下列何者例外？",
+    "choices": [
+      {
+        "text": "topical glucocorticoid",
+        "is_correct": false
+      },
+      {
+        "text": "narrowband UVB（311 nm）",
+        "is_correct": false
+      },
+      {
+        "text": "Nd-YAG laser（532 nm）",
+        "is_correct": true
+      },
+      {
+        "text": "excimer light（308 nm）",
+        "is_correct": false
+      }
+    ],
+    "session": "106暑期",
+    "no": "45",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於扁平苔癬 （lichen planus）敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "偏紫色的扁平丘疹或斑塊",
+        "is_correct": false
+      },
+      {
+        "text": "多無臨床症狀",
+        "is_correct": true
+      },
+      {
+        "text": "病灶常呈多角型",
+        "is_correct": false
+      },
+      {
+        "text": "可以外用類固醇治療",
+        "is_correct": false
+      }
+    ],
+    "session": "107寒期",
+    "no": "34",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於皮膚與軟組織感染skin and soft tissue infections（SSTIs）之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "impetigo與necrotizing fascitis之致病菌可能是Staphylococcus aureus",
+        "is_correct": false
+      },
+      {
+        "text": "methicillin-resistant S. aureus（MRSA）在SSTI的盛行率逐漸增加",
+        "is_correct": false
+      },
+      {
+        "text": "MRSA在異位性皮膚炎患者形成菌落的機會高於正常人",
+        "is_correct": false
+      },
+      {
+        "text": "MRSA引起的皮膚與軟組織感染，多發生在醫療機構工作人員或住院病患，很少發生於一般社區正常人",
+        "is_correct": true
+      }
+    ],
+    "session": "107寒期",
+    "no": "35",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "40歲男性，在右大腳趾出現如圖所示之表徵，有一年之久，最適切之診斷為：",
+    "choices": [
+      {
+        "text": "subungual hematoma",
+        "is_correct": false
+      },
+      {
+        "text": "subungual melanoma",
+        "is_correct": true
+      },
+      {
+        "text": "subungual pigmented nevus",
+        "is_correct": false
+      },
+      {
+        "text": "friction induced melanonychia",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015986/Scanned_File/QUE-015986.png",
+    "session": "107寒期",
+    "no": "36",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者與癩皮病（pellagra）無關？",
+    "choices": [
+      {
+        "text": "缺乏維生素B6（pyridoxine）",
+        "is_correct": false
+      },
+      {
+        "text": "缺乏維生素C（ascorbic acid）",
+        "is_correct": true
+      },
+      {
+        "text": "缺乏維生素B3（niacin）",
+        "is_correct": false
+      },
+      {
+        "text": "長期使用isoniazid的病人",
+        "is_correct": false
+      }
+    ],
+    "session": "107寒期",
+    "no": "37",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "59歲女性，染髮後2天出現搔癢性皮疹如圖所示；過去染髮後也曾有數次類似經驗。最可能的診斷與原因為何？",
+    "choices": [
+      {
+        "text": "刺激性接觸性皮膚炎；因為受到洗髮精中的介面活性劑（surfactant）刺激",
+        "is_correct": false
+      },
+      {
+        "text": "過敏性接觸性皮膚炎；因為對於洗髮精中的介面活性劑（surfactant）過敏",
+        "is_correct": false
+      },
+      {
+        "text": "刺激性接觸性皮膚炎；因為受到染髮劑中的對苯二胺（para-phenylenediamine）刺激",
+        "is_correct": false
+      },
+      {
+        "text": "過敏性接觸性皮膚炎；因為對於染髮劑中的對苯二胺（para-phenylenediamine）過敏",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015988/Scanned_File/QUE-015988.png",
+    "session": "107寒期",
+    "no": "38",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "52歲女性，年輕時愛穿高跟鞋，於半年前發現右足掌前側，出現一疼痛角化結節如圖所示，最可能的診斷為何？",
+    "choices": [
+      {
+        "text": "胼胝（callus）",
+        "is_correct": false
+      },
+      {
+        "text": "雞眼（corn）",
+        "is_correct": false
+      },
+      {
+        "text": "蹠病毒疣（plantar wart）",
+        "is_correct": true
+      },
+      {
+        "text": "化生骨贅（exostosis）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015989/Scanned_File/QUE-015989.png",
+    "session": "107寒期",
+    "no": "39",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關皮膚黑色素細胞癌 （cutaneous melanoma）的敘述，下列何者正確？",
+    "choices": [
+      {
+        "text": "在歐美白種人最常見的亞型是結節型黑色素細胞癌（nodular melanoma）",
+        "is_correct": false
+      },
+      {
+        "text": "肢端黑痣型黑色素細胞癌（acral lentiginous melanoma）不會發生在指甲處",
+        "is_correct": false
+      },
+      {
+        "text": "惡性黑痣型黑色素細胞癌（lentigo maligna melanoma）常見於40歲以下的青壯年人",
+        "is_correct": false
+      },
+      {
+        "text": "表淺擴散型黑色素細胞癌（superficial spreading melanoma）好發於男性的上背和女性的下肢",
+        "is_correct": true
+      }
+    ],
+    "session": "107寒期",
+    "no": "40",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "80歲男性出現如圖所示病灶，下列何者是最可能的診斷？",
+    "choices": [
+      {
+        "text": "鱗狀細胞癌（Squamous cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "黑色素細胞癌（Melanoma）",
+        "is_correct": false
+      },
+      {
+        "text": "基底細胞癌（Basal cell carcinoma）",
+        "is_correct": true
+      },
+      {
+        "text": "皮脂腺細胞癌（Sebaceous carcinoma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015991/Scanned_File/QUE-015991.png",
+    "session": "107寒期",
+    "no": "41",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關天疱瘡（pemphigus）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "Pemphigus患者常在冬季或因工作壓力大，服用藥物或是病毒感染等等因素惡化",
+        "is_correct": false
+      },
+      {
+        "text": "含有sulfhydryl groups (-S-H) 藥物會與角質細胞的cystein結合，改變角質細胞鍵結強度，形成天疱瘡",
+        "is_correct": false
+      },
+      {
+        "text": "Thiols類藥物可誘發抗desmoglein 1 和抗desmoglein 3抗體, 形成天疱瘡",
+        "is_correct": false
+      },
+      {
+        "text": "Drug-induced pemphigus患者的預後與一般pemphigus無異",
+        "is_correct": true
+      }
+    ],
+    "session": "107寒期",
+    "no": "42",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "23歲男性，因癲癇服用carbamazepine，經兩周後，全身皮膚黏膜產生大面積水泡及破皮，經皮膚科醫師診斷為毒性表皮溶解症（toxic epidermal necrolysis），此病人的HLA-B基因型，最可能為下列何者？",
+    "choices": [
+      {
+        "text": "HLA-B*1502",
+        "is_correct": true
+      },
+      {
+        "text": "HLA-B*1301",
+        "is_correct": false
+      },
+      {
+        "text": "HLA-B*5802",
+        "is_correct": false
+      },
+      {
+        "text": "HLA-B*5801",
+        "is_correct": false
+      }
+    ],
+    "session": "107寒期",
+    "no": "43",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於伍氏燈（Wood's lamp）的臨床使用，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "光源為紫外光，波長範圍屬於UVA",
+        "is_correct": false
+      },
+      {
+        "text": "表皮色素病灶如雀斑，照射伍氏燈呈色會變淡",
+        "is_correct": true
+      },
+      {
+        "text": "伍氏燈觀察下，真皮層色素病灶較不會有反差變化",
+        "is_correct": false
+      },
+      {
+        "text": "伍氏燈觀察下，黑色素細胞缺乏的病灶，反差會加大",
+        "is_correct": false
+      }
+    ],
+    "session": "107寒期",
+    "no": "44",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "15歲病人，從幼兒時期便開始出現如圖所示之全身脫屑，最可能之診斷為何？",
+    "choices": [
+      {
+        "text": "乾癬（psoriasis）",
+        "is_correct": false
+      },
+      {
+        "text": "體癬（tinea corporis）",
+        "is_correct": false
+      },
+      {
+        "text": "魚鱗癬（ichthyosis）",
+        "is_correct": true
+      },
+      {
+        "text": "水疱性表皮鬆解症（epidermolysis bullosa）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015995/Scanned_File/QUE-015995.png",
+    "session": "107寒期",
+    "no": "45",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 25 歲男性，嘴唇出現如圖一之症狀，病理切片如圖二，請問該患者最適合的診斷為：",
+    "choices": [
+      {
+        "text": "leukoplakia",
+        "is_correct": false
+      },
+      {
+        "text": "lichen planus",
+        "is_correct": true
+      },
+      {
+        "text": "candidiasis",
+        "is_correct": false
+      },
+      {
+        "text": "psoriasis",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016304/Scanned_File/QUE-016304.png",
+    "session": "104寒期",
+    "no": "34",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 38 歲男性，反覆於兩側手掌及足底出現如下圖會癢之皮膚病變；顯微鏡檢查未發現黴菌，細菌培養為無菌，病理檢查顯示為濕疹性發炎；患者最可能的診斷是什麼？",
+    "choices": [
+      {
+        "text": "足癬",
+        "is_correct": false
+      },
+      {
+        "text": "汗疱疹",
+        "is_correct": true
+      },
+      {
+        "text": "掌蹠膿疱症",
+        "is_correct": false
+      },
+      {
+        "text": "二期梅毒",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016305/Scanned_File/QUE-016305.png",
+    "session": "104寒期",
+    "no": "35",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者不是乾癬（psoriasis）常用的治療方法？",
+    "choices": [
+      {
+        "text": "外用維生素D3及其衍生物",
+        "is_correct": false
+      },
+      {
+        "text": "外用皮質類固醇藥劑",
+        "is_correct": false
+      },
+      {
+        "text": "紫外線光照治療",
+        "is_correct": false
+      },
+      {
+        "text": "口服皮質類固醇藥劑",
+        "is_correct": true
+      }
+    ],
+    "session": "104寒期",
+    "no": "36",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 2 歲女孩，近2 個月於左上肩出現如下圖之皮膚病變，可擠出硬質性白色內容物，患者最可能的診斷是什麼？",
+    "choices": [
+      {
+        "text": "扁平疣（flat warts）",
+        "is_correct": false
+      },
+      {
+        "text": "粟丘疹（milium）",
+        "is_correct": false
+      },
+      {
+        "text": "傳染性軟疣（molluscum contagiosum）",
+        "is_correct": true
+      },
+      {
+        "text": "汗管瘤（syringoma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016307/Scanned_File/QUE-016307.png",
+    "session": "104寒期",
+    "no": "37",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 20 歲的男性病人主訴近幾年一到夏天身上都會出現紅色與棕色皮疹。理學檢查發現，患者的前胸與背部有許多粉紅色的圓形扁平脫屑皮疹，有些甚至融合在一起。KOH 鏡檢結果如下圖，則此病人最可能罹患何種疾病？",
+    "choices": [
+      {
+        "text": "玫瑰糠疹（pityriasis rosea）",
+        "is_correct": false
+      },
+      {
+        "text": "白色糠疹（pityriasis alba）",
+        "is_correct": false
+      },
+      {
+        "text": "變色糠疹（pityriasis versicolor）",
+        "is_correct": true
+      },
+      {
+        "text": "白斑（vitiligo）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016308/Scanned_File/QUE-016308.png",
+    "session": "104寒期",
+    "no": "38",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 70 歲男性，從2 天前左小腿出現疼痛的皮膚病變如下圖，病灶摸起來較熱，且有壓痛感。患者左側腹股溝淋巴結也會腫痛。最可能的診斷為：",
+    "choices": [
+      {
+        "text": "缺脂性濕疹（asteatotic eczema）",
+        "is_correct": false
+      },
+      {
+        "text": "蜂窩性組織炎（cellulitis）",
+        "is_correct": true
+      },
+      {
+        "text": "萊姆病（Lyme disease）",
+        "is_correct": false
+      },
+      {
+        "text": "帶狀疱疹（herpes zoster）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016309/Scanned_File/QUE-016309.png",
+    "session": "104寒期",
+    "no": "39",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 70 歲老翁主訴會陰部奇癢無比，顯微鏡下檢查發現如下圖，這是何種感染？",
+    "choices": [
+      {
+        "text": "陰蝨",
+        "is_correct": false
+      },
+      {
+        "text": "體蝨",
+        "is_correct": false
+      },
+      {
+        "text": "疥瘡",
+        "is_correct": true
+      },
+      {
+        "text": "塵蟎",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016310/Scanned_File/QUE-016310.png",
+    "session": "104寒期",
+    "no": "40",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 81 歲男性病患，右臉頰有一黑色潰瘍的腫瘤如圖A，已2 年之久，皮膚病理檢查發現腫瘤由表皮向下延伸如圖B，請問診斷為何？",
+    "choices": [
+      {
+        "text": "惡性黑色素細胞瘤（malignant melanoma）",
+        "is_correct": false
+      },
+      {
+        "text": "日光性角化症（actinic keratosis）",
+        "is_correct": false
+      },
+      {
+        "text": "鱗狀細胞癌（squamous cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "基底細胞癌（basal cell carcinoma）",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016311/Scanned_File/QUE-016311.png",
+    "session": "104寒期",
+    "no": "41",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位年輕女性全身長滿如下圖的病灶，眼科醫師也發現虹膜結節（Lisch nodules），下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "這是一種性聯遺傳性疾病",
+        "is_correct": true
+      },
+      {
+        "text": "常伴隨骨骼的異常",
+        "is_correct": false
+      },
+      {
+        "text": "可能會合併有中樞神經的腫瘤發生",
+        "is_correct": false
+      },
+      {
+        "text": "此病根據臨床表現就可以診斷，不一定要切片檢查",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016312/Scanned_File/QUE-016312.png",
+    "session": "104寒期",
+    "no": "42",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 50 歲女性，在頸部與腋下出現皮膚粗糙與色素增加如下圖，下列何者與其成因無關？",
+    "choices": [
+      {
+        "text": "insulin-resistant diabetes mellitus",
+        "is_correct": false
+      },
+      {
+        "text": "obesity",
+        "is_correct": false
+      },
+      {
+        "text": "nicotinic acid high dose ingestion",
+        "is_correct": false
+      },
+      {
+        "text": "anemia",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016313/Scanned_File/QUE-016313.png",
+    "session": "104寒期",
+    "no": "43",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列敘述何者不是Darier disease 的特色？",
+    "choices": [
+      {
+        "text": "好發於seborrheic area，如頭皮、臉、上身等處",
+        "is_correct": false
+      },
+      {
+        "text": "是一種autosomal dominant 的遺傳",
+        "is_correct": false
+      },
+      {
+        "text": "病灶呈棕色斑塊或丘疹",
+        "is_correct": false
+      },
+      {
+        "text": "和內分泌異常（如糖尿病）有關",
+        "is_correct": true
+      }
+    ],
+    "session": "104寒期",
+    "no": "44",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位 20 歲女性，在網路上購買了一瓶有去角質功能的乳液，宣稱每日塗抹於臉部，可達到美白與讓皮膚光滑的效果，下列對角質層的敘述，何者錯誤？",
+    "choices": [
+      {
+        "text": "角質層位於皮膚的最外層，正常皮膚有自然脫落的機制",
+        "is_correct": false
+      },
+      {
+        "text": "角質層的細胞沒有細胞核",
+        "is_correct": false
+      },
+      {
+        "text": "角質層已不具功能，清除角質可美化皮膚",
+        "is_correct": true
+      },
+      {
+        "text": "角質層細胞間隙含保溼的成分",
+        "is_correct": false
+      }
+    ],
+    "session": "104寒期",
+    "no": "45",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列有關脂漏性皮膚炎 (seborrheic dermatitis) 之敘述，何者最不適當？",
+    "choices": [
+      {
+        "text": "臨床上常呈現油膩樣或脫屑性的紅斑",
+        "is_correct": false
+      },
+      {
+        "text": "不會發生於嬰兒（infant）",
+        "is_correct": true
+      },
+      {
+        "text": "和皮屑芽胞菌（Malassezia furfur）有關",
+        "is_correct": false
+      },
+      {
+        "text": "常位於皮脂腺（sebaceous gland）發達處",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "34",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "3533歲男性，主訴1年來右手掌出現如圖之皮膚病變。下列何者為門診最優先之檢查？",
+    "choices": [
+      {
+        "text": "細菌培養（bacteria culture）",
+        "is_correct": false
+      },
+      {
+        "text": "KOH鏡檢（KOH examination）",
+        "is_correct": true
+      },
+      {
+        "text": "貼膚試驗（patch test）",
+        "is_correct": false
+      },
+      {
+        "text": "皮膚切片（skin biopsy）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016625/Scanned_File/QUE-016625.png",
+    "session": "104暑期",
+    "no": "35",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "65歲男性，主訴為右上臉頰及眼皮出現成群疼痛的水疱，下列那一種檢查可幫助診斷？",
+    "choices": [
+      {
+        "text": "Tzanck抹片檢查（Tzanck smear）",
+        "is_correct": true
+      },
+      {
+        "text": "伍氏燈（Wood's light）檢查",
+        "is_correct": false
+      },
+      {
+        "text": "貼膚試驗（patch test）",
+        "is_correct": false
+      },
+      {
+        "text": "KOH鏡檢",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "36",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "63歲女性，於顏面及胸前有如圖之皮膚病變，且數目隨年紀而逐漸增多，下列何者是最可能的診斷？",
+    "choices": [
+      {
+        "text": "後天性色素細胞性母斑（acquired melanocytic nevus）",
+        "is_correct": false
+      },
+      {
+        "text": "基底細胞癌（basal cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "日光性角化症（actinic keratosis）",
+        "is_correct": false
+      },
+      {
+        "text": "脂漏性角化症（seborrheic keratosis）",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016627/Scanned_File/QUE-016627.png",
+    "session": "104暑期",
+    "no": "37",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者不是前癌病變（precancerous disorders）？",
+    "choices": [
+      {
+        "text": "actinic keratosis",
+        "is_correct": false
+      },
+      {
+        "text": "Bowen’s disease",
+        "is_correct": false
+      },
+      {
+        "text": "erythroplasia of Queyrat",
+        "is_correct": false
+      },
+      {
+        "text": "seborrheic keratosis",
+        "is_correct": true
+      }
+    ],
+    "session": "104暑期",
+    "no": "38",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "3970歲男性，兩年前在臉部皮膚逐漸出現如圖一之病變，病理切片如圖二，該病變的最適診斷為：\f圖一 圖二",
+    "choices": [
+      {
+        "text": "intradermal nevus",
+        "is_correct": false
+      },
+      {
+        "text": "seborrheic keratosis",
+        "is_correct": false
+      },
+      {
+        "text": "actinic keratosis",
+        "is_correct": false
+      },
+      {
+        "text": "basal cell carcinoma",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016629/Scanned_File/QUE-016629.png",
+    "session": "104暑期",
+    "no": "39",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "Generalized brown hyperpigmentation是下列那一種內分泌疾病的皮膚表徵？",
+    "choices": [
+      {
+        "text": "Cushing’s syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "Addison’s disease",
+        "is_correct": true
+      },
+      {
+        "text": "Graves’ disease",
+        "is_correct": false
+      },
+      {
+        "text": "glucagonoma syndrome",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "40",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "50歲男性，患有高血壓與尋常性乾癬，下列那一類抗高血壓藥物會惡化乾癬，宜避免處方？",
+    "choices": [
+      {
+        "text": "diuretics",
+        "is_correct": false
+      },
+      {
+        "text": "β-blocker",
+        "is_correct": true
+      },
+      {
+        "text": "calcium channel blocker",
+        "is_correct": false
+      },
+      {
+        "text": "α-blocker",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "38歲男性，最近因罹患痛風接受藥物治療，兩週後在頭臉、軀幹、四肢快速出現皮疹（如圖A與圖B），口腔糜..、眼結膜紅腫、會陰部糜..、身體發燒，最可能之診斷為何？(圖A)\f(圖B)",
+    "choices": [
+      {
+        "text": "多形性紅斑（erythema multiforme）",
+        "is_correct": false
+      },
+      {
+        "text": "落葉性天疱瘡（pemphigus foliaceus）",
+        "is_correct": false
+      },
+      {
+        "text": "毒性表皮壞死鬆解症（toxic epidermal necrolysis）",
+        "is_correct": true
+      },
+      {
+        "text": "表皮崩解性水疱症（epidermolysis bullosa）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016632/Scanned_File/QUE-016632.png",
+    "session": "104暑期",
+    "no": "42",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，下列何種皮膚檢查會呈陽性？",
+    "choices": [
+      {
+        "text": "Auspitz sign",
+        "is_correct": false
+      },
+      {
+        "text": "Darier sign",
+        "is_correct": false
+      },
+      {
+        "text": "Nikolsky sign",
+        "is_correct": true
+      },
+      {
+        "text": "Koebner phenomenon",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "43",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "40歲男性，約一週前於雙下肢出現多發性隆起性紫斑（palpable purpura），同時伴有灼熱及疼痛感，下列何種檢查有助於診斷？",
+    "choices": [
+      {
+        "text": "diascopy",
+        "is_correct": true
+      },
+      {
+        "text": "Nikolsky sign",
+        "is_correct": false
+      },
+      {
+        "text": "Tzanck smear",
+        "is_correct": false
+      },
+      {
+        "text": "Darier’s sign",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016634/Scanned_File/QUE-016634.png",
+    "session": "104暑期",
+    "no": "44",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，下列敘述何者正確？",
+    "choices": [
+      {
+        "text": "診斷為hypersensitivity vasculitis",
+        "is_correct": true
+      },
+      {
+        "text": "皮膚病理切片檢查無助於診斷",
+        "is_correct": false
+      },
+      {
+        "text": "不會侵犯腎臟",
+        "is_correct": false
+      },
+      {
+        "text": "致病機轉可能與第四型免疫反應（type IV hypersensitivity reaction）有關",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "45",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "某32歲女子，離開勒戒所不久，又施打來路不明的海洛因，因純度提高導致中毒出現意識不清，送至醫院後處置之原則，下列何者正確？",
+    "choices": [
+      {
+        "text": "因個案體溫會下降，所以保溫是海洛因中毒最重要的救護措施",
+        "is_correct": false
+      },
+      {
+        "text": "以靜脈注射methadone為主要藥物治療",
+        "is_correct": false
+      },
+      {
+        "text": "若瞳孔放大與呼吸速率增加，顯示中毒程度正逐漸改善",
+        "is_correct": true
+      },
+      {
+        "text": "因鴉片類拮抗劑（opioid antagonist）多為長效，所以通常給予單次劑量即可",
+        "is_correct": false
+      }
+    ],
+    "session": "104暑期",
+    "no": "71",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者是濕疹（eczema），在病理下通常不會出現的特徵？",
+    "choices": [
+      {
+        "text": "表皮層出現海綿狀病變（spongiosis）",
+        "is_correct": false
+      },
+      {
+        "text": "真皮層血管周圍出現淋巴球和嗜伊紅性球",
+        "is_correct": false
+      },
+      {
+        "text": "表皮下出現水疱（subepidermal vesicle）",
+        "is_correct": true
+      },
+      {
+        "text": "表皮層出現不規則的棘狀增生變化（irregular acanthosis）",
+        "is_correct": false
+      }
+    ],
+    "session": "107暑期",
+    "no": "34",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "19歲女性，因為腳扭傷而貼敷酸痛藥布，兩天後，出現如圖所示會癢之皮膚病變，下列何種檢查最有助於診斷？",
+    "choices": [
+      {
+        "text": "KOH鏡檢（KOH examination）",
+        "is_correct": false
+      },
+      {
+        "text": "貼膚試驗（patch test）",
+        "is_correct": true
+      },
+      {
+        "text": "針刺試驗（prick test）",
+        "is_correct": false
+      },
+      {
+        "text": "Tzanck抹片檢查（Tzanck test）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020465/Scanned_File/QUE-020465.png",
+    "session": "107暑期",
+    "no": "35",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關太田母斑（nevus of Ota）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "好發於臉上三叉神經第三分支部位",
+        "is_correct": true
+      },
+      {
+        "text": "可伴隨同側之眼鞏膜黑藍色斑",
+        "is_correct": false
+      },
+      {
+        "text": "通常是單側病變",
+        "is_correct": false
+      },
+      {
+        "text": "好發於東方女性",
+        "is_correct": false
+      }
+    ],
+    "session": "107暑期",
+    "no": "36",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於鋅缺乏（zinc deficiency）引起的皮膚疾病的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "可為先天性或後天性原因造成鋅缺乏",
+        "is_correct": false
+      },
+      {
+        "text": "病人在眼睛、口唇及肛門周圍可見急性濕疹樣皮膚病變",
+        "is_correct": false
+      },
+      {
+        "text": "病徵以皮疹表現為主，通常不會有掉髮、腹瀉和昏睡等症狀",
+        "is_correct": true
+      },
+      {
+        "text": "血液中鋅和alkaline phosphatase的濃度有助於確診",
+        "is_correct": false
+      }
+    ],
+    "session": "107暑期",
+    "no": "37",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲女性於六週前，發現前臂出現一微癢紅色斑塊，自行使用藥膏，但皮疹逐漸擴大如圖所示，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "應該使用伍氏燈（Wood's lamp）檢查，若沒有螢光反應，則可以排除體癬的診斷",
+        "is_correct": true
+      },
+      {
+        "text": "應詢問是否有養寵物",
+        "is_correct": false
+      },
+      {
+        "text": "應進行KOH鏡檢",
+        "is_correct": false
+      },
+      {
+        "text": "若皮疹合併有搔抓之小潰瘍，亦要小心是否合併繼發性細菌感染",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020468/Scanned_File/QUE-020468.png",
+    "session": "107暑期",
+    "no": "38",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "Sjogren's syndrome常見的皮膚病變，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "cutaneous vasculitis",
+        "is_correct": false
+      },
+      {
+        "text": "acquired ichthyosis",
+        "is_correct": true
+      },
+      {
+        "text": "Raynaud phenomenon",
+        "is_correct": false
+      },
+      {
+        "text": "erythema multiforme",
+        "is_correct": false
+      }
+    ],
+    "session": "107暑期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "曾接受腹部手術後的病人，因腸胃不適，常長期局部熱敷減輕症狀，皮膚出現如圖所示的色素沉著，下列敘述何者正確？",
+    "choices": [
+      {
+        "text": "因為紫外線所引起之黑色素細胞增生",
+        "is_correct": false
+      },
+      {
+        "text": "因為患部燙傷起水疱後發炎所留下",
+        "is_correct": false
+      },
+      {
+        "text": "患部皮膚可併發皮膚鱗狀上皮細胞癌",
+        "is_correct": true
+      },
+      {
+        "text": "繼續局部熱敷可促進色素消散",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020472/Scanned_File/QUE-020472.png",
+    "session": "107暑期",
+    "no": "42",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者為皮膚角質層主要的脂質成分，且缺少時，與異位性皮膚炎的發生有關？",
+    "choices": [
+      {
+        "text": "cholesterol",
+        "is_correct": false
+      },
+      {
+        "text": "ceramide",
+        "is_correct": true
+      },
+      {
+        "text": "free fatty acid",
+        "is_correct": false
+      },
+      {
+        "text": "triglyceride",
+        "is_correct": false
+      }
+    ],
+    "session": "107暑期",
+    "no": "43",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關脂漏性⽪膚炎（seborrheic dermatitis）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "好發在頭⽪、眉⽑、⿐⼦兩側、⽿朵後⾯",
+        "is_correct": false
+      },
+      {
+        "text": "常發於嬰兒和成⼈",
+        "is_correct": false
+      },
+      {
+        "text": "外⽤抗黴菌藥物不能有效治療脂漏性⽪膚炎",
+        "is_correct": true
+      },
+      {
+        "text": "若是病程頑固且臨床表現不尋常，需留意HIV感染",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "34",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於類天疱瘡（bullous pemphigoid）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "常發⽣於年輕⼈",
+        "is_correct": true
+      },
+      {
+        "text": "初期可以搔癢、蕁⿇疹樣的病灶表現",
+        "is_correct": false
+      },
+      {
+        "text": "病灶的病理組織檢查常⾒嗜伊紅球（eosinophil）浸潤",
+        "is_correct": false
+      },
+      {
+        "text": "治療藥物以⼝服⽪質類固醇和免疫抑制劑為主",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "35",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "60歲男性，近⼗年來在背上、四肢⻑出（如圖A）的發癢⽪疹，⽪膚切片做congo red staining（如圖B），在偏光顯微鏡（polarizing microscope）下觀察（如圖C）。最可能診斷為：",
+    "choices": [
+      {
+        "text": "點滴狀乾癬（guttate psoriasis）",
+        "is_correct": false
+      },
+      {
+        "text": "結節性癢疹（prurigo nodularis）",
+        "is_correct": false
+      },
+      {
+        "text": "扁平苔癬（lichen planus）",
+        "is_correct": false
+      },
+      {
+        "text": "類澱粉性苔癬（lichen amyloidsis）",
+        "is_correct": true
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023526/Scanned_File/QUE-023526.png",
+    "session": "108寒期",
+    "no": "36",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "貼膚試驗（patch testing）是診斷接觸性⽪膚炎（contact dermatitis）的重要⼯具，主要⽬的是：",
+    "choices": [
+      {
+        "text": "可作為各類接觸性⽪膚炎的確診",
+        "is_correct": false
+      },
+      {
+        "text": "找出接觸性過敏原",
+        "is_correct": true
+      },
+      {
+        "text": "判斷接觸性⽪膚炎的嚴重度",
+        "is_correct": false
+      },
+      {
+        "text": "確認發病時間是否超過48⼩時",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "37",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "6歲男孩，從2歲起即反覆出現如圖所⽰之劇癢⽪膚病變；⽗⺟親都常有⿐塞、打噴嚏的症狀，診斷為何？",
+    "choices": [
+      {
+        "text": "脂漏性⽪膚炎",
+        "is_correct": false
+      },
+      {
+        "text": "接觸性⽪膚炎",
+        "is_correct": false
+      },
+      {
+        "text": "異位性⽪膚炎",
+        "is_correct": true
+      },
+      {
+        "text": "鬱⾎性⽪膚炎",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023528/Scanned_File/QUE-023528.png",
+    "session": "108寒期",
+    "no": "38",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者疾病Nikolsky sign是陰性反應？",
+    "choices": [
+      {
+        "text": "staphylococcal scalded skin syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "pemphigus vulgaris",
+        "is_correct": false
+      },
+      {
+        "text": "Stevens-Johnson syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "bullous pemphigoid",
+        "is_correct": true
+      }
+    ],
+    "session": "108寒期",
+    "no": "39",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關Toxic shock syndrome的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "臨床上表現包括⼤⾯積⽪膚紅腫疼痛或是膿皰、以及⽪膚廣泛性脫屑現象",
+        "is_correct": false
+      },
+      {
+        "text": "初期會出現⽪膚疼痛現象，⼤部分是因為術後傷⼝感染或是腹腔感染引起",
+        "is_correct": false
+      },
+      {
+        "text": "病患會出現發燒、喉嚨痛、肌⾁痠痛、嘔吐或是腹瀉，嚴重時會造成低⾎壓以及多重器官衰竭",
+        "is_correct": false
+      },
+      {
+        "text": "主要致病機轉為Pseudomonas 製造的exfoliative toxin所引起",
+        "is_correct": true
+      }
+    ],
+    "session": "108寒期",
+    "no": "40",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "青年型⽪肌炎（juvenile dermatomyositis）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "可以amyopathic dermatomyositis表現",
+        "is_correct": false
+      },
+      {
+        "text": "易合併⽪膚鈣化症（calcinosis cutis）",
+        "is_correct": false
+      },
+      {
+        "text": "易併發⽪膚⾎管病變（vasculopathy）",
+        "is_correct": false
+      },
+      {
+        "text": "易併發⿐咽癌",
+        "is_correct": true
+      }
+    ],
+    "session": "108寒期",
+    "no": "41",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於⽪膚⿊⾊素過度沉著（hypermelanosis）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "⿊⾊素細胞增加或⿊⾊素顆粒製造變多，皆會引起⽪膚⿊⾊素過度沉著",
+        "is_correct": false
+      },
+      {
+        "text": "汗斑（pityriasis versicolor）只會造成膚⾊變深，不會變淺",
+        "is_correct": true
+      },
+      {
+        "text": "轉移性⿊⾊素癌可能造成全⾝⽪膚⿊⾊素過度沉著（universal melanosis）",
+        "is_correct": false
+      },
+      {
+        "text": "基因、賀爾蒙、紫外線等因素都可能會造成⽪膚⿊⾊素過度沉著",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "42",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於⿊⾊素沉著的治療，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "若增加的⿊⾊素顆粒在表⽪層，使⽤對苯⼆酚（hydroquinone）藥膏可有效淡化",
+        "is_correct": false
+      },
+      {
+        "text": "若增加的⿊⾊素顆粒在真⽪層，使⽤脈衝光（intense pulsed light, IPL）比釹雅各（Nd:YAG）雷射效果更好",
+        "is_correct": true
+      },
+      {
+        "text": "若施打雷射的劑量太強或施打太頻繁，容易造成醫源性⾊素脫失",
+        "is_correct": false
+      },
+      {
+        "text": "外⽤A酸（retinoic acid）藥膏對於雀斑（freckles）有淡化效果",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "43",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "75歲男性，2年來逐漸在⾜部出現紫⾊斑塊（如圖A），⽪膚病理檢查發現有篩板狀⾎管的增⽣（如圖B），最可能的診斷為何？",
+    "choices": [
+      {
+        "text": "⾎管⾁瘤（angiosarcoma）",
+        "is_correct": false
+      },
+      {
+        "text": "卡波⻄⽒⾁瘤（Kaposi’s sarcoma）",
+        "is_correct": true
+      },
+      {
+        "text": "⾎管⾓化瘤（angiokeratoma）",
+        "is_correct": false
+      },
+      {
+        "text": "竇狀⾎管瘤（sinusoid hemangioma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023534/Scanned_File/QUE-023534.png",
+    "session": "108寒期",
+    "no": "44",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，可能與下列何種病毒相關？",
+    "choices": [
+      {
+        "text": "human herpesvirus type 8（HHV-8）",
+        "is_correct": true
+      },
+      {
+        "text": "human herpes simplex virus type 2（HSV-2）",
+        "is_correct": false
+      },
+      {
+        "text": "human papilloma virus（HPV）",
+        "is_correct": false
+      },
+      {
+        "text": "Epstein-Barr virus（EBV）",
+        "is_correct": false
+      }
+    ],
+    "session": "108寒期",
+    "no": "45",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "45歲男性，兩年來在足背逐步形成搔癢的皮疹，如圖所示，最適合的診斷為何？",
+    "choices": [
+      {
+        "text": "急性濕疹（acute eczema）",
+        "is_correct": false
+      },
+      {
+        "text": "慢性濕疹（chronic eczema）",
+        "is_correct": true
+      },
+      {
+        "text": "尋常性乾癬（psoriasis vulgaris）",
+        "is_correct": false
+      },
+      {
+        "text": "類澱粉症苔癬（lichen amyloidosis）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028604/Scanned_File/QUE-028604.png",
+    "session": "108暑期",
+    "no": "34",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關外用pimecrolimus及tacrolimus的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "可以用來治療異位性皮膚炎（atopic dermatitis）",
+        "is_correct": false
+      },
+      {
+        "text": "容易引起皮膚萎縮的副作用",
+        "is_correct": true
+      },
+      {
+        "text": "是一種calcineurin inhibitor",
+        "is_correct": false
+      },
+      {
+        "text": "會抑制T cell的活化",
+        "is_correct": false
+      }
+    ],
+    "session": "108暑期",
+    "no": "35",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "40歲男性，從小就發現軀幹皮膚出現多發性色素斑及腫瘤，如圖所示，最可能的診斷為：",
+    "choices": [
+      {
+        "text": "tuberous sclerosis",
+        "is_correct": false
+      },
+      {
+        "text": "neurofibromatosis",
+        "is_correct": true
+      },
+      {
+        "text": "neurocutaneous melanosis",
+        "is_correct": false
+      },
+      {
+        "text": "xeroderma pigmentosum",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028606/Scanned_File/QUE-028606.png",
+    "session": "108暑期",
+    "no": "36",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於異位性皮膚炎的敘述，下列何者正確？",
+    "choices": [
+      {
+        "text": "血清E型免疫球蛋白（IgE）偏低",
+        "is_correct": false
+      },
+      {
+        "text": "常出現紅色皮膚劃紋症（red dermatographism）",
+        "is_correct": false
+      },
+      {
+        "text": "手掌與腳掌掌紋變少（hypolinearity of palms and soles）",
+        "is_correct": false
+      },
+      {
+        "text": "可合併尋常性魚鱗癬（ichthyosis vulgaris）",
+        "is_correct": true
+      }
+    ],
+    "session": "108暑期",
+    "no": "37",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關二期梅毒（secondary syphilis）的臨床表現，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "不規則禿髮（moth-eaten hair loss）",
+        "is_correct": false
+      },
+      {
+        "text": "軀幹皮膚出現多發性紅色斑塊（roseola syphilitica）",
+        "is_correct": false
+      },
+      {
+        "text": "扁平濕疣（condylomata lata）",
+        "is_correct": false
+      },
+      {
+        "text": "結節性梅毒腫（nodular gumma）",
+        "is_correct": true
+      }
+    ],
+    "session": "108暑期",
+    "no": "38",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "20歲男性，近兩個月出現關節腫脹，間歇性發燒至39°C伴隨肌肉痠痛情形。發燒後軀幹出現鮭魚色的皮疹，全身檢查後沒有明顯的感染源，抽血檢查發現ANA(-)，rheumatoid factor (-)，ferritin > 10000 ng/ml，Anti-U1RNP (-)。最有可能為下列何種疾病？",
+    "choices": [
+      {
+        "text": "全身性紅斑性狼瘡（systemic lupus erythematosus）",
+        "is_correct": false
+      },
+      {
+        "text": "風濕性關節炎（rheumatoid arthritis）",
+        "is_correct": false
+      },
+      {
+        "text": "成人史迪爾氏病（adult onset Still's disease）",
+        "is_correct": true
+      },
+      {
+        "text": "混合性結締組織症（mixed connective tissue disease）",
+        "is_correct": false
+      }
+    ],
+    "session": "108暑期",
+    "no": "39",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者是亞急性皮膚紅斑性狼瘡 （subacute cutaneous lupus erythematosus；SCLE）常見的皮膚表現形式？",
+    "choices": [
+      {
+        "text": "malar rash 與 papulosquamous lesions",
+        "is_correct": false
+      },
+      {
+        "text": "papulosquamous 與 annular lesions",
+        "is_correct": true
+      },
+      {
+        "text": "malar rash 與 discoid rash",
+        "is_correct": false
+      },
+      {
+        "text": "discoid rash 與 annular lesions",
+        "is_correct": false
+      }
+    ],
+    "session": "108暑期",
+    "no": "40",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "乾癬（psoriasis）是一種常見的慢性皮膚病，下列敘述何者正確？",
+    "choices": [
+      {
+        "text": "第一型乾癬往往好發於40歲以前，與HLA遺傳形態有關，而且治療效果往往較差",
+        "is_correct": false
+      },
+      {
+        "text": "乾癬患者有10~25%會併發有乾癬性關節炎",
+        "is_correct": true
+      },
+      {
+        "text": "乾癬病灶處表皮細胞分泌的抗菌蛋白β-defensin 2或cathelicidin（LL37）減少，因此皮表細菌感染機會增加，容易誘發乾癬發作",
+        "is_correct": false
+      },
+      {
+        "text": "HIV族群中乾癬的盛行率高於一般民眾，且嚴重性較高",
+        "is_correct": false
+      }
+    ],
+    "session": "108暑期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "穿耳洞後在耳垂出現逐漸長大之皮膚病灶如圖所示，下列何者為最可能的診斷？",
+    "choices": [
+      {
+        "text": "化膿性肉芽腫（pyogenic granuloma）",
+        "is_correct": false
+      },
+      {
+        "text": "蟹足腫（keloid）",
+        "is_correct": true
+      },
+      {
+        "text": "上皮囊腫（epidermal inclusion cyst）",
+        "is_correct": false
+      },
+      {
+        "text": "皮膚纖維瘤（dermatofibroma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028612/Scanned_File/QUE-028612.png",
+    "session": "108暑期",
+    "no": "42",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "承上題，對此皮膚病灶的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "手術切除是治療最佳選擇",
+        "is_correct": true
+      },
+      {
+        "text": "膚色越深的人種越好發",
+        "is_correct": false
+      },
+      {
+        "text": "好發於皮膚張力較大處",
+        "is_correct": false
+      },
+      {
+        "text": "放射治療是治療方法之一",
+        "is_correct": false
+      }
+    ],
+    "session": "108暑期",
+    "no": "43",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "56歲男性，於冬季寒流來臨時，雙側小腿出現如圖所示會癢之皮膚病變。下列何種處置最不適當？",
+    "choices": [
+      {
+        "text": "鼓勵患者多洗澡",
+        "is_correct": true
+      },
+      {
+        "text": "塗抹類固醇",
+        "is_correct": false
+      },
+      {
+        "text": "提高室內濕度",
+        "is_correct": false
+      },
+      {
+        "text": "使用潤膚劑",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031464/Scanned_File/QUE-031464.png",
+    "session": "109寒期",
+    "no": "34",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "80歲老先生住在安養院，皮膚有一些丘疹，經皮膚科醫師診斷確定為疥瘡，下列敘述何者正確？",
+    "choices": [
+      {
+        "text": "有一無疥瘡病史的朋友，在探望老先生後第二天開始覺得全身發癢，其得到疥瘡機會很高",
+        "is_correct": false
+      },
+      {
+        "text": "頭部是疥蟲好犯的部位",
+        "is_correct": false
+      },
+      {
+        "text": "當疥蟲離開人體後，數個小時內就死亡",
+        "is_correct": false
+      },
+      {
+        "text": "鏡檢下，若只看到蟲卵或排泄物而不見蟲體，也可以確定是疥瘡感染",
+        "is_correct": true
+      }
+    ],
+    "session": "109寒期",
+    "no": "35",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "有關白色糠疹（pityriasis alba）的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "出現白色脫屑斑",
+        "is_correct": false
+      },
+      {
+        "text": "常見於臉上",
+        "is_correct": false
+      },
+      {
+        "text": "好發於小孩",
+        "is_correct": false
+      },
+      {
+        "text": "患者即使成年後，多數病變仍不易痊癒",
+        "is_correct": true
+      }
+    ],
+    "session": "109寒期",
+    "no": "36",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於乾癬（psoriasis）的敘述，下列何者正確？",
+    "choices": [
+      {
+        "text": "白種人罹患乾癬的比例比華人低",
+        "is_correct": false
+      },
+      {
+        "text": "Koebner phenomenon只見於這個疾病",
+        "is_correct": false
+      },
+      {
+        "text": "部分患者會有家族史",
+        "is_correct": true
+      },
+      {
+        "text": "不會造成指甲及關節病變",
+        "is_correct": false
+      }
+    ],
+    "session": "109寒期",
+    "no": "37",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於異位性皮膚炎（atopic dermatitis）致病機轉的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "FLG基因突變使filaggrin的製造減少",
+        "is_correct": false
+      },
+      {
+        "text": "可觀察到皮膚生理功能（包括經皮水分散失及含水量）異常",
+        "is_correct": false
+      },
+      {
+        "text": "病人的皮膚免疫系統缺陷，因此易合併細菌感染",
+        "is_correct": false
+      },
+      {
+        "text": "慢性期的病理機轉主要以 Th2細胞的活化為主要之角色，Th1細胞角色較少",
+        "is_correct": true
+      }
+    ],
+    "session": "109寒期",
+    "no": "38",
+    "answer": "D"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "關於Sturge-Weber syndrome之敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "顏面三叉神經支配區皮膚有酒色斑（port-wine stain）",
+        "is_correct": false
+      },
+      {
+        "text": "酒色斑是惡性的血管瘤",
+        "is_correct": true
+      },
+      {
+        "text": "病患可能併發癲癇",
+        "is_correct": false
+      },
+      {
+        "text": "可能出現青光眼",
+        "is_correct": false
+      }
+    ],
+    "session": "109寒期",
+    "no": "39",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "皮膚病灶的臨床及病理的發現如圖所示，胸部X片發現有雙側肺門淋巴結腫大，下列何者為最可能的皮膚疾病？",
+    "choices": [
+      {
+        "text": "類肉芽腫 （sarcoidosis）",
+        "is_correct": true
+      },
+      {
+        "text": "結核病（tuberculosis）",
+        "is_correct": false
+      },
+      {
+        "text": "皮膚T細胞淋巴癌（cutaneous T cell lymphoma）",
+        "is_correct": false
+      },
+      {
+        "text": "卡波希氏肉瘤（Kaposi's sarcoma）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031470/Scanned_File/QUE-031470.png",
+    "session": "109寒期",
+    "no": "40",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何種自體抗體為Sjogren's syndrome 特異性標示抗體？",
+    "choices": [
+      {
+        "text": "抗SSB/La抗體",
+        "is_correct": true
+      },
+      {
+        "text": "抗U1-RNP抗體",
+        "is_correct": false
+      },
+      {
+        "text": "抗Jo-1抗體",
+        "is_correct": false
+      },
+      {
+        "text": "抗Scl-70抗體",
+        "is_correct": false
+      }
+    ],
+    "session": "109寒期",
+    "no": "41",
+    "answer": "A"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "下列何者為慢性紅斑性狼瘡（chronic cutaneous lupus erythematosus）的特徵？",
+    "choices": [
+      {
+        "text": "最常見的臨床表現狼瘡性脂肪炎（lupus panniculitis）",
+        "is_correct": false
+      },
+      {
+        "text": "凍瘡型紅斑性狼瘡（chilblain lupus erythematosus）好發於冬季低溫季節，常發生在軀幹部位",
+        "is_correct": false
+      },
+      {
+        "text": "典型的圓盤型紅斑性狼瘡（classic discoid lupus erythematosus）病人大約只有5%最後會演變成全身型紅斑性狼瘡（systemic lupus erythematosus）",
+        "is_correct": true
+      },
+      {
+        "text": "肥厚型紅斑性狼瘡（hypertrophic discoid lupus erythematosus）是因為真皮有黏液素（mucin）沉積，才造成肥厚外觀",
+        "is_correct": false
+      }
+    ],
+    "session": "109寒期",
+    "no": "42",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "24歲女性在臉部、頸部出現脫色病灶，如圖所示，關於此病的敘述，下列何者錯誤？",
+    "choices": [
+      {
+        "text": "此病症可能出現Koebner phenomenon",
+        "is_correct": false
+      },
+      {
+        "text": "此病症可能造成病人社會適應困難",
+        "is_correct": false
+      },
+      {
+        "text": "病灶內的黑色素細胞雖存在，但無法有效製造黑色素顆粒",
+        "is_correct": true
+      },
+      {
+        "text": "波長308 nm之準分子光治療（excimer phototherapy）有效",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031473/Scanned_File/QUE-031473.png",
+    "session": "109寒期",
+    "no": "43",
+    "answer": "C"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位8歲兒童被熱水燙傷手臂，紅腫起水泡，非常疼痛，他最有可能為第幾度灼傷？",
+    "choices": [
+      {
+        "text": "一度",
+        "is_correct": false
+      },
+      {
+        "text": "二度",
+        "is_correct": true
+      },
+      {
+        "text": "三度",
+        "is_correct": false
+      },
+      {
+        "text": "四度",
+        "is_correct": false
+      }
+    ],
+    "session": "109寒期",
+    "no": "76",
+    "answer": "B"
+  },
+  {
+    "subject": "皮膚科",
+    "question": "一位75歲男性，沒有糖尿病，但雙下肢皆有靜脈曲張（varicose vein），下肢水腫的情形有多年，至急診主訴雙下肢癢和紅腫，並有傷口癒合不良的情形，如圖，下列敘述何者錯誤？",
+    "choices": [
+      {
+        "text": "懷疑是stasis dermatitis",
+        "is_correct": false
+      },
+      {
+        "text": "這是周邊動脈阻塞疾病（peripheral arterial occlusion disease, PAOD）的臨床徵候",
+        "is_correct": true
+      },
+      {
+        "text": "若合併感染，則需使用抗生素",
+        "is_correct": false
+      },
+      {
+        "text": "病患平常需使用彈性襪，並將下肢抬高以減少下肢的靜脈高壓（venous hypertension）",
+        "is_correct": false
+      }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031507/Scanned_File/QUE-031507.png",
+    "session": "109寒期",
+    "no": "77",
+    "answer": "B"
+  }
+]

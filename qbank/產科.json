@@ -1,0 +1,3398 @@
+[
+    {
+        "subject": "產科",
+        "question": "胎兒腹水的嚴重程度與下列何者呈現正相關？",
+        "choices": [
+        {
+            "text": "胎兒貧血的嚴重程度（degree and severity of anemia）",
+            "is_correct": true
+        },
+        {
+            "text": "胎兒的心輸出量（cardiac output）",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒的低蛋白血症（hypoproteinemia）",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒的門脈高壓症（portal hypertension）",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "25",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "正常懷孕36週內之性生活是：",
+        "choices": [
+        {
+            "text": "妊娠第一個月禁慾",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠最後八週不要有任何性行為",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠中期後不要有任何性行為",
+            "is_correct": false
+        },
+        {
+            "text": "沒有特殊限制",
+            "is_correct": true
+        }
+        ],
+        "session": "105寒期",
+        "no": "26",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "一位初產婦妊娠35週，發現血中泌乳激素為180 ng/mL，下列那項措施最適當？",
+        "choices": [
+        {
+            "text": "甲狀腺釋放激素（TRH）試驗",
+            "is_correct": false
+        },
+        {
+            "text": "胸部X光檢查",
+            "is_correct": false
+        },
+        {
+            "text": "血中雌激素檢查",
+            "is_correct": false
+        },
+        {
+            "text": "臨床上觀察追蹤",
+            "is_correct": true
+        }
+        ],
+        "session": "105寒期",
+        "no": "27",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "於第二或是第三孕期的胎兒觀察到有囊狀水瘤（cystic hygroma）時，應懷疑最可能與下列何種染色體異常有相關性？",
+        "choices": [
+        {
+            "text": "triploidy",
+            "is_correct": false
+        },
+        {
+            "text": "trisomy 18",
+            "is_correct": false
+        },
+        {
+            "text": "trisomy 21",
+            "is_correct": true
+        },
+        {
+            "text": "monosomy",
+            "is_correct": true
+        }
+        ],
+        "session": "105寒期",
+        "no": "28",
+        "answer": "C,D"
+    },
+    {
+        "subject": "產科",
+        "question": "一位34歲，懷孕36週婦女，因陰道大量出血前來求診，血壓90/60 mmHg，脈搏120/min，體溫37℃，超音波顯示胎盤位於子宮頸位置。請依此回答下列3題：下列處置何者為佳？",
+        "choices": [
+        {
+            "text": "給予安胎藥",
+            "is_correct": false
+        },
+        {
+            "text": "催生終止妊娠",
+            "is_correct": false
+        },
+        {
+            "text": "指診檢查子宮張開及病變程度",
+            "is_correct": false
+        },
+        {
+            "text": "剖腹生產",
+            "is_correct": true
+        }
+        ],
+        "session": "105寒期",
+        "no": "47",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "病人最可能之診斷為何？",
+        "choices": [
+        {
+            "text": "胎盤早期剝離",
+            "is_correct": false
+        },
+        {
+            "text": "前置胎盤",
+            "is_correct": true
+        },
+        {
+            "text": "子宮破裂",
+            "is_correct": false
+        },
+        {
+            "text": "早產徵兆",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "48",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "此時胎兒監測器（fetal monitor）呈現子宮收縮情況，下列何者為最常見？",
+        "choices": [
+        {
+            "text": "子宮持續收縮（tetanus contraction）",
+            "is_correct": false
+        },
+        {
+            "text": "子宮規則收縮",
+            "is_correct": true
+        },
+        {
+            "text": "子宮無收縮",
+            "is_correct": false
+        },
+        {
+            "text": "子宮偶發性收縮",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "49",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "小穎目前懷孕26週，沒有任何疾病家族史或重大疾病，體重90公斤，身高150公分，例行產檢時發現50克糖水測試（oral glucose challenge test）為151 mg/dL，經醫師建議下又做了一次三小時的100克糖水耐性測試（oral glucose tolerance test），結果分別是空腹105mg/dL、1小時195 mg/dL、2小時170 mg/dL、3小時145 mg/dL。依此回答下列3題：下列敘述何者錯誤？",
+        "choices": [
+        {
+            "text": "根據第5次世界工作坊會議（fifth international workshop conference）的標準，小穎已符合妊娠糖尿病的診斷",
+            "is_correct": false
+        },
+        {
+            "text": "兩種測試（50g GCT and 100g OGTT）皆不需要空腹就可以執行",
+            "is_correct": true
+        },
+        {
+            "text": "妊娠糖尿病的產婦在生產後20年有超過一半的女性可能發展成糖尿病（overt DM ）",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠糖尿病或母親體重過胖的胎兒死產率（unexplained stillbirth rate）都較一般孕婦為高",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "50",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "小穎在醫師建議下適當安排運動及接受營養師的飲食衛教，下列敘述何者正確？",
+        "choices": [
+        {
+            "text": "根據2002美國婦產科醫學會（ACOG）建議，飯前血糖應控制在110 mg/dL以下，飯後兩小時140 mg/dL以下為佳",
+            "is_correct": false
+        },
+        {
+            "text": "根據2000美國糖尿病醫學會（ADA）建議，因小穎BMI超過30，每日建議攝取熱量為體重（kg）乘以40大卡再減掉30到33%",
+            "is_correct": false
+        },
+        {
+            "text": "根據小穎的理想體重計算，每日飲食應給予1740大卡",
+            "is_correct": true
+        },
+        {
+            "text": "小穎每日飲食應給予2500大卡",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "51",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "小穎雖然接受飲食衛教，但因為她實在難以抵擋食物當前的誘惑，所以平時空腹血糖都維持在110 mg/dL，糖化血色素（HbA1C）是7.3%，下列的事實何者錯誤？",
+        "choices": [
+        {
+            "text": "根據1999美國糖尿病醫學會（ADA）統計，空腹血糖過高會提高預產期前兩個月的胎兒死亡率（fetal death rate）",
+            "is_correct": false
+        },
+        {
+            "text": "生產時胎兒過大（macrosomia）及肩難產（shoulder dystocia）機會都會增加",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒出生後會因為媽媽本身胰島素過高（hyperinsulinemia）而造成血糖過低（hypoglycemia）的情形",
+            "is_correct": true
+        },
+        {
+            "text": "小穎下胎發生妊娠糖尿病的機會比起一般孕婦高30～50%",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "52",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "32歲孕婦，G5P4，妊娠41週，待產中接受胎兒監視器檢查，結果如下圖：其判讀為何？",
+        "choices": [
+        {
+            "text": "early deceleration",
+            "is_correct": false
+        },
+        {
+            "text": "late deceleration",
+            "is_correct": false
+        },
+        {
+            "text": "variable decelerations",
+            "is_correct": true
+        },
+        {
+            "text": "sinusoid pattern",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014883/Scanned_File/QUE-014883.png",
+        "session": "105寒期",
+        "no": "53",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，下列四者中最可能之臨床意義為何？",
+        "choices": [
+        {
+            "text": "cord compression",
+            "is_correct": true
+        },
+        {
+            "text": "head compression",
+            "is_correct": false
+        },
+        {
+            "text": "utero-placental insufficiency",
+            "is_correct": false
+        },
+        {
+            "text": "respiration",
+            "is_correct": false
+        }
+        ],
+        "session": "105寒期",
+        "no": "54",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "對於接受抗癲癇藥物治療的癲癇婦女患者，可建議在受孕期前後（periconceptional period）補充下列何種維生素，來降低胎兒發育異常（如：唇顎裂、神經管缺損、先天性心臟缺損等）的發生機會？",
+        "choices": [
+        {
+            "text": "維生素B6",
+            "is_correct": false
+        },
+        {
+            "text": "維生素C",
+            "is_correct": false
+        },
+        {
+            "text": "葉酸（folic acid）",
+            "is_correct": true
+        },
+        {
+            "text": "維生素B1",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "25",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "為避免早產兒於出生後發生玻璃腺樣病（hyaline membrane disease），可於產前給予孕婦下列何種藥物？",
+        "choices": [
+        {
+            "text": "aspirin",
+            "is_correct": false
+        },
+        {
+            "text": "glucocorticoids",
+            "is_correct": true
+        },
+        {
+            "text": "magnesium sulfate",
+            "is_correct": false
+        },
+        {
+            "text": "thyrotropin",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "26",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "Atosiban屬於何種機轉的安胎藥物？",
+        "choices": [
+        {
+            "text": "前列腺素抑制劑（prostaglandin inhibitor）",
+            "is_correct": false
+        },
+        {
+            "text": "鈣通道阻斷劑（calcium-channel blocker）",
+            "is_correct": false
+        },
+        {
+            "text": "催產素類似物（oxytocin analog）",
+            "is_correct": true
+        },
+        {
+            "text": "腎上腺素接受器促效藥（β-adrenergic receptor agonist）",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "27",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "胎盤早期剝離（placental abruption）潛在較常見的合併症是下列何者？",
+        "choices": [
+        {
+            "text": "子宮內翻",
+            "is_correct": false
+        },
+        {
+            "text": "凝血障礙",
+            "is_correct": true
+        },
+        {
+            "text": "產褥感染",
+            "is_correct": false
+        },
+        {
+            "text": "子宮乏力",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "28",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "有關肩難產的發生，多與母體或胎兒的客觀條件相關。下列何者為與母親相關的肩難產危險因子（maternal risk factor）？",
+        "choices": [
+        {
+            "text": "nulliparity",
+            "is_correct": false
+        },
+        {
+            "text": "obesity",
+            "is_correct": true
+        },
+        {
+            "text": "advanced maternal age",
+            "is_correct": true
+        },
+        {
+            "text": "chronic hypertension",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "30",
+        "answer": "B,C"
+    },
+    {
+        "subject": "產科",
+        "question": "21歲孕婦，G1P0，妊娠38週，接受杜卜勒超音波檢查，結果如圖所示，其檢查名稱為下列何者？",
+        "choices": [
+        {
+            "text": "臍動脈血流速度波形",
+            "is_correct": true
+        },
+        {
+            "text": "胎兒上行主動脈血流速度波形",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒主動脈彎血流速度波形",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒降主動脈血流速度波形",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015197/Scanned_File/QUE-015197.png",
+        "session": "105暑期",
+        "no": "47",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，S/D ratio為 2.5，檢查結果為何？",
+        "choices": [
+        {
+            "text": "absent end diastolic velocity",
+            "is_correct": false
+        },
+        {
+            "text": "reversed end diastolic velocity",
+            "is_correct": false
+        },
+        {
+            "text": "non-reactive",
+            "is_correct": false
+        },
+        {
+            "text": "normal",
+            "is_correct": true
+        }
+        ],
+        "session": "105暑期",
+        "no": "48",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "37歲孕婦，G1P0，妊娠39週，生產後如圖所示：下列四者中最可能的診斷為何？",
+        "choices": [
+        {
+            "text": "first-degree laceration",
+            "is_correct": false
+        },
+        {
+            "text": "second-degree laceration",
+            "is_correct": false
+        },
+        {
+            "text": "third-degree laceration",
+            "is_correct": false
+        },
+        {
+            "text": "fourth-degree laceration",
+            "is_correct": true
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015199/Scanned_File/QUE-015199.png",
+        "session": "105暑期",
+        "no": "49",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，正在縫合的組織為何？",
+        "choices": [
+        {
+            "text": "vaginal mucosa",
+            "is_correct": false
+        },
+        {
+            "text": "vaginal submucosa",
+            "is_correct": false
+        },
+        {
+            "text": "anal sphincter",
+            "is_correct": false
+        },
+        {
+            "text": "rectal mucosa",
+            "is_correct": true
+        }
+        ],
+        "session": "105暑期",
+        "no": "50",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "40歲孕婦，G3P2，妊娠22週，接受檢查，結果如圖所示，則檢查之胎兒部位名稱為何？",
+        "choices": [
+        {
+            "text": "abdomen",
+            "is_correct": false
+        },
+        {
+            "text": "chest",
+            "is_correct": false
+        },
+        {
+            "text": "head",
+            "is_correct": true
+        },
+        {
+            "text": "neck",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015201/Scanned_File/QUE-015201.png",
+        "session": "105暑期",
+        "no": "51",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，下列四者中最可能的診斷為何？",
+        "choices": [
+        {
+            "text": "cystic adenomatoid malformation of lung",
+            "is_correct": false
+        },
+        {
+            "text": "choroid plexus cyst",
+            "is_correct": true
+        },
+        {
+            "text": "cystic hygroma",
+            "is_correct": false
+        },
+        {
+            "text": "multicystic dysplastic kidney",
+            "is_correct": false
+        }
+        ],
+        "session": "105暑期",
+        "no": "52",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者並非新生兒呼吸窘迫（neonatal respiratory distress syndrome）的危險因子之一？",
+        "choices": [
+        {
+            "text": "新生兒性別為男性（male gender）",
+            "is_correct": false
+        },
+        {
+            "text": "母親於產前有使用類固醇藥物（glucocorticoids）",
+            "is_correct": true
+        },
+        {
+            "text": "早產",
+            "is_correct": false
+        },
+        {
+            "text": "新生兒種族為白人（white race）",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "25",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者為使用真空吸引器（vacuum extraction）的禁忌症？",
+        "choices": [
+        {
+            "text": "胎兒為面產式（face presentation）",
+            "is_correct": true
+        },
+        {
+            "text": "妊娠35週",
+            "is_correct": false
+        },
+        {
+            "text": "羊膜絨毛膜發炎（chorioamnionitis）",
+            "is_correct": false
+        },
+        {
+            "text": "過期妊娠（post-term pregnancy）",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "26",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "30歲孕婦，妊娠42週，欲予引產，根據Bishop score評分其子宮頸成熟度，若子宮頸閉合，Effacement 10%，Station：-3，子宮頸硬度為堅硬（firm），並且子宮頸位於後方。Bishop score為幾分？",
+        "choices": [
+        {
+            "text": "0",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "6",
+            "is_correct": false
+        },
+        {
+            "text": "9",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "27",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "有關misoprostol之敘述，下列何者正確？",
+        "choices": [
+        {
+            "text": "Misoprostol為E2前列腺素（prostaglandin）",
+            "is_correct": false
+        },
+        {
+            "text": "Misoprostol比催產素（oxytocin）更能有效預防產後大出血",
+            "is_correct": false
+        },
+        {
+            "text": "用於預防產後大出血的劑量為單次口服600 μg",
+            "is_correct": true
+        },
+        {
+            "text": "最有效之給予方式為肌肉注射",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "34",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "關於慢性高血壓孕婦併發子癇前症（pre-eclampsia），下列敘述何者錯誤？",
+        "choices": [
+        {
+            "text": "在有慢性高血壓的孕婦中，大約有20%～30%的孕婦會發生子癇前症",
+            "is_correct": false
+        },
+        {
+            "text": "慢性高血壓孕婦併發子癇前症的週數，約有50%發生在37週之前",
+            "is_correct": false
+        },
+        {
+            "text": "有慢性高血壓的孕婦之前血壓能控制在130/85 mmHg左右，若近期血壓使用先前藥物仍然不能控制在140/90 mmHg以下\f時，建議安排生產",
+            "is_correct": true
+        },
+        {
+            "text": "若有慢性高血壓的孕婦在懷孕前沒有腎臟疾病，懷孕後肌酸酐（creatinine）若大於1.1 mg/dL則可診斷為子癇前症",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "35",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "孕婦因大量出血而導致急性呼吸窘迫症候群時，下列處置何者最能增加組織的血氧量？",
+        "choices": [
+        {
+            "text": "輸血",
+            "is_correct": true
+        },
+        {
+            "text": "分娩",
+            "is_correct": false
+        },
+        {
+            "text": "增加動脈氧分壓至200 mmHg",
+            "is_correct": false
+        },
+        {
+            "text": "置入肺動脈導管",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "36",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "如圖所示，為真空吸引輔助陰道生產，最適合放置真空吸引器之胎兒頭部位置。下列敘述何者不是放置於該處之優點？",
+        "choices": [
+        {
+            "text": "提供最大的吸引力道",
+            "is_correct": false
+        },
+        {
+            "text": "幫助頭部伸展（extension）",
+            "is_correct": true
+        },
+        {
+            "text": "讓胎兒頭部的最小徑經過骨盆腔出口",
+            "is_correct": false
+        },
+        {
+            "text": "降低真空吸引器於輔助生產時，與胎兒頭部脫開之機會",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015507/Scanned_File/QUE-015507.png",
+        "session": "106寒期",
+        "no": "37",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "下列那一種狀況與羊水栓塞症（amniotic fluid embolism）的發生最無相關？",
+        "choices": [
+        {
+            "text": "急產（rapid labor）",
+            "is_correct": false
+        },
+        {
+            "text": "羊水胎便染色（meconium-stained amniotic fluid）",
+            "is_correct": false
+        },
+        {
+            "text": "子宮靜脈裂傷（tears into uterine veins）",
+            "is_correct": false
+        },
+        {
+            "text": "早產（preterm delivery）",
+            "is_correct": true
+        }
+        ],
+        "session": "106寒期",
+        "no": "38",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者不是肥胖症（obesity）孕婦容易發生的孕期母胎合併症（complications）？",
+        "choices": [
+        {
+            "text": "妊娠糖尿病（gestational diabetes mellitus）",
+            "is_correct": false
+        },
+        {
+            "text": "子癇前症（preeclampsia）",
+            "is_correct": false
+        },
+        {
+            "text": "過期妊娠（postterm pregnancy）",
+            "is_correct": false
+        },
+        {
+            "text": "早期破水（preterm rupture of membranes）",
+            "is_correct": true
+        }
+        ],
+        "session": "106寒期",
+        "no": "39",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "胎兒娩出後，胎盤無法自行娩出，並出現子宮大出血狀況，應優先採取下列那一項處置方式？",
+        "choices": [
+        {
+            "text": "以紗布填塞子宮及陰道",
+            "is_correct": false
+        },
+        {
+            "text": "等待胎盤自行子宮剝離",
+            "is_correct": false
+        },
+        {
+            "text": "子宮按摩並用人工剝離胎盤",
+            "is_correct": true
+        },
+        {
+            "text": "以胎盤鉗夾取出子宮內胎盤",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "40",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "29歲孕婦，G3P2，妊娠18週，接受超音波檢查，結果如圖所示，圖中箭頭所指之胎兒異常器官名稱與特徵（sign）為何？",
+        "choices": [
+        {
+            "text": "cerebrum，frog sign",
+            "is_correct": false
+        },
+        {
+            "text": "cerebellum，banana sign",
+            "is_correct": true
+        },
+        {
+            "text": "skull，lemon sign",
+            "is_correct": false
+        },
+        {
+            "text": "ventricle，keyhole sign",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015523/Scanned_File/QUE-015523.png",
+        "session": "106寒期",
+        "no": "53",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，檢查結果最可能合併的畸形為下列何者？",
+        "choices": [
+        {
+            "text": "Down syndrome",
+            "is_correct": false
+        },
+        {
+            "text": "Trisomy 13",
+            "is_correct": false
+        },
+        {
+            "text": "Trisomy 18",
+            "is_correct": false
+        },
+        {
+            "text": "Neural tube defect",
+            "is_correct": true
+        }
+        ],
+        "session": "106寒期",
+        "no": "54",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者不是妊娠劇吐症（hyperemesis gravidarum）的典型表現？",
+        "choices": [
+        {
+            "text": "腹痛",
+            "is_correct": true
+        },
+        {
+            "text": "體重減輕",
+            "is_correct": false
+        },
+        {
+            "text": "酮血症（ketonemia）",
+            "is_correct": false
+        },
+        {
+            "text": "低血鉀",
+            "is_correct": false
+        }
+        ],
+        "session": "106寒期",
+        "no": "78",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者為最常造成胎兒子宮內肢體缺損（intrauterine amputation）的原因？",
+        "choices": [
+        {
+            "text": "羊膜帶症候群（amniotic band syndrome）",
+            "is_correct": true
+        },
+        {
+            "text": "臍帶纏繞（cord entanglement）",
+            "is_correct": false
+        },
+        {
+            "text": "產婦創傷病史（maternal trauma）",
+            "is_correct": false
+        },
+        {
+            "text": "血管阻塞（vascular occlusion）",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "25",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "胎兒small for gestational age（SGA）之定義為何？",
+        "choices": [
+        {
+            "text": "體重小於10th percentile",
+            "is_correct": true
+        },
+        {
+            "text": "體重小於20th percentile",
+            "is_correct": false
+        },
+        {
+            "text": "體重小於30th percentile",
+            "is_correct": false
+        },
+        {
+            "text": "體重小於40th percentile",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "27",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者為最常造成胎兒心跳呈現變異型減速（variable decelerations）的原因？",
+        "choices": [
+        {
+            "text": "胎兒缺氧",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒酸血症",
+            "is_correct": false
+        },
+        {
+            "text": "臍帶受壓迫（cord compression）",
+            "is_correct": true
+        },
+        {
+            "text": "胎頭受壓迫（head compression）",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "29",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "27歲女性，G2P1，妊娠40週，胎兒超音波臍動脈血流速度波形縮舒比（systolic-diastolic ratio, S/D ratio），下列何者為正常？",
+        "choices": [
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "6",
+            "is_correct": false
+        },
+        {
+            "text": "8",
+            "is_correct": false
+        },
+        {
+            "text": "10",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "30",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "懷孕20週婦女，到婦產科門診接受產前檢查，胎兒二維（two-dimentional）超音波檢查發現胎兒腹部有腹壁缺損，初步判斷為omphalocele。下列處理何者錯誤？",
+        "choices": [
+        {
+            "text": "建議終止懷孕",
+            "is_correct": true
+        },
+        {
+            "text": "建議使用胎兒三維（three-dimentional）超音波檢查確定診斷",
+            "is_correct": false
+        },
+        {
+            "text": "建議使用MRI確定診斷",
+            "is_correct": false
+        },
+        {
+            "text": "告知胎兒染色體異常機會較高，可接受羊膜腔穿刺檢查",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "31",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "關於X染色體脆折症（fragile X syndrome）的敘述，下列何者錯誤？",
+        "choices": [
+        {
+            "text": "發病原因為FMR1（fragile-X mental retardation）基因發生突變，位於Xq27",
+            "is_correct": false
+        },
+        {
+            "text": "造成突變的原因為基因出現三核甘酸CGG重複（trinucleotide repeat）次數有異常擴增的現象",
+            "is_correct": false
+        },
+        {
+            "text": "CGG重複（trinucleotide repeat）次數達44次即會出現智能障礙等臨床症狀",
+            "is_correct": true
+        },
+        {
+            "text": "2010年美國婦產科醫學會對於有不明原因智能障礙、發育遲緩、自閉症者或有家族史者，以及卵巢早衰（premature ovarian insufficiency）者，建議產前進行母血篩檢",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "38",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "33歲女性，G2P1，前胎因胎位不正接受剖腹產；此次懷孕，於妊娠35週時發現陰道大量出血，接受緊急剖腹產，於術中發現前置胎盤併植入性胎盤，接受子宮全切除術。相較於術前已確診並計畫接受剖腹產併子宮全切除之病患，此產婦手術中發生，下列何種併發症的機會較高？",
+        "choices": [
+        {
+            "text": "膀胱損傷（bladder injury）",
+            "is_correct": true
+        },
+        {
+            "text": "腸損傷（bowel injury）",
+            "is_correct": false
+        },
+        {
+            "text": "靜脈血管栓塞（venous thromboembolism）",
+            "is_correct": false
+        },
+        {
+            "text": "羊水栓塞（amniotic fluid embolism）",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "39",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "有關母體子宮螺旋動脈（spiral artery），因受絨毛膜外滋養層細胞（extravillous trophoblast）侵犯改變，而成功建立子宮胎盤血循環系統，此循環系統第二波建立形成時期為妊娠：",
+        "choices": [
+        {
+            "text": "第6週",
+            "is_correct": false
+        },
+        {
+            "text": "第7～11週",
+            "is_correct": false
+        },
+        {
+            "text": "第12～16週",
+            "is_correct": true
+        },
+        {
+            "text": "第17週後",
+            "is_correct": true
+        }
+        ],
+        "session": "106暑期",
+        "no": "40",
+        "answer": "C,D"
+    },
+    {
+        "subject": "產科",
+        "question": "27歲初產婦，懷孕35週，至產房就診，主訴陰道出血與腹痛，血壓96/58 mmHg，無尿蛋白反應，腹部超音波無特殊發現，因胎心監視器（tococardiography）呈現延遲性胎心減速（late deceleration）現象，緊急施予剖腹生產，手術中發現，子宮表面呈藍色變化（Couvelaire uterus），同時合併子宮收縮不良及產後出血，是何種產科急症？",
+        "choices": [
+        {
+            "text": "胎盤剝離（placental abruption）",
+            "is_correct": true
+        },
+        {
+            "text": "植入性胎盤（placenta accreta）",
+            "is_correct": false
+        },
+        {
+            "text": "子宮破裂（uterine rupture）",
+            "is_correct": false
+        },
+        {
+            "text": "不明原因凝血功能異常（idiopathic coagulation disorder）",
+            "is_correct": false
+        }
+        ],
+        "session": "106暑期",
+        "no": "41",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "28歲G1P0孕婦，妊娠28週時，經診斷為子宮內胎兒生長遲滯（intrauterine fetel growth restriction, IUGR），爾後即於門診接受規律性產前檢查。目前妊娠38週，產前檢查安排之胎心率監測呈現良好反應（reactive），無規律性子宮收縮；超音波檢查羊水指數（amniotic fluid index）3.2 cm，預估胎兒體重1900 公克，陰道內診子宮頸未開，破水測試（nitrazine test）呈現陰性反應。此時的最適當處置為：",
+        "choices": [
+        {
+            "text": "安排產前檢查門診追蹤觀察",
+            "is_correct": false
+        },
+        {
+            "text": "進一步安排臍動脈都卜勒測量檢查（umbilical arterial Doppler velocimetry）",
+            "is_correct": false
+        },
+        {
+            "text": "進一步安排催產素激發試驗（oxytocin challenge test）",
+            "is_correct": false
+        },
+        {
+            "text": "安排住院引產",
+            "is_correct": true
+        }
+        ],
+        "session": "106暑期",
+        "no": "42",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者不是Bishop score的評分項目之一？",
+        "choices": [
+        {
+            "text": "生產次數（parity）",
+            "is_correct": true
+        },
+        {
+            "text": "子宮頸擴張程度（dilatation）",
+            "is_correct": false
+        },
+        {
+            "text": "子宮頸軟化程度（effacement）",
+            "is_correct": false
+        },
+        {
+            "text": "胎頭於骨盆的位置（station）",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "25",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "28歲孕婦，G2P1，妊娠16週，接受超音波檢查如圖所示，下列何者為最可能的診斷？",
+        "choices": [
+        {
+            "text": "anencephaly",
+            "is_correct": false
+        },
+        {
+            "text": "holoprosencephaly",
+            "is_correct": true
+        },
+        {
+            "text": "choroid plexus cyst",
+            "is_correct": false
+        },
+        {
+            "text": "Dandy-Walker malformation",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016136/Scanned_File/QUE-016136.png",
+        "session": "107寒期",
+        "no": "26",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "關於產後發燒的敘述，下列何者錯誤？",
+        "choices": [
+        {
+            "text": "產褥熱定義為產後期測得體溫在38℃以上",
+            "is_correct": false
+        },
+        {
+            "text": "乳腺炎大部分是兩側同時感染",
+            "is_correct": true
+        },
+        {
+            "text": "產後持續性發燒最常見的原因是生殖道感染",
+            "is_correct": false
+        },
+        {
+            "text": "乳腺炎最常見的細菌是Staphylococcus aureus",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "27",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "關於妊娠糖尿病（gestational diabetes）的敘述，下列何者錯誤？",
+        "choices": [
+        {
+            "text": "除了胰島素（insulin）之外，口服降血糖藥物metformin及glyburide在懷孕中也可以使用",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠糖尿病對母親的影響包括較容易高血壓及較高的剖腹產率",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠糖尿病對胎兒的影響包括較容易發生巨嬰及新生兒高血糖",
+            "is_correct": true
+        },
+        {
+            "text": "針對妊娠糖尿病高危險族群（例如肥胖，家族糖尿病史等），應於第一次產檢就進行妊娠糖尿病的篩檢",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "34",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "有關剖腹產孕婦之預防性抗生素之給予，若孕婦對penicillin或cephalosporin嚴重過敏，下列何者為最適合之預防性抗生素？",
+        "choices": [
+        {
+            "text": "clindamycin",
+            "is_correct": false
+        },
+        {
+            "text": "levofloxacin",
+            "is_correct": false
+        },
+        {
+            "text": "clindamycin加上gentamicin",
+            "is_correct": true
+        },
+        {
+            "text": "clindamycin加上metronidazole",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "35",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "28歲G3P1孕婦，第一胎曾經被診斷為妊娠糖尿病（gestational diabetes mellitus, GDM），胎兒出生體重為4,280公克；求診時為妊娠12週，體重50 kg，身高163 cm。此次懷孕對於妊娠血糖評估的最適當處置為：",
+        "choices": [
+        {
+            "text": "等同於妊娠糖尿病，立即採取治療方案",
+            "is_correct": false
+        },
+        {
+            "text": "立即安排妊娠糖尿病篩檢",
+            "is_correct": true
+        },
+        {
+            "text": "安排於妊娠24～28週常規妊娠糖尿病篩檢",
+            "is_correct": false
+        },
+        {
+            "text": "立即安排胎兒的健康評估",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "36",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "妊娠期肝內膽汁淤積症（intrahepatic cholestasis of pregnancy, ICP）導致胎兒不良結局，最主要因素為：",
+        "choices": [
+        {
+            "text": "孕婦血清膽酸 （bile acids）",
+            "is_correct": true
+        },
+        {
+            "text": "孕婦血清直接膽紅素（direct bilirubin）",
+            "is_correct": false
+        },
+        {
+            "text": "孕婦血清膽固醇 （cholesterol）",
+            "is_correct": false
+        },
+        {
+            "text": "孕婦血清穀草轉氨酶（AST）",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "37",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "33歲孕婦，G2P0SA1，妊娠40週，入院待產中接受胎兒監視器檢查，結果如圖所示，其判讀為何？",
+        "choices": [
+        {
+            "text": "early deceleration",
+            "is_correct": false
+        },
+        {
+            "text": "late deceleration",
+            "is_correct": true
+        },
+        {
+            "text": "variable decelerations",
+            "is_correct": false
+        },
+        {
+            "text": "sinusoid pattern",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016161/Scanned_File/QUE-016161.png",
+        "session": "107寒期",
+        "no": "51",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，下列四者中最可能的臨床意義為何？",
+        "choices": [
+        {
+            "text": "Cord compression",
+            "is_correct": false
+        },
+        {
+            "text": "Head compression",
+            "is_correct": false
+        },
+        {
+            "text": "Utero-placental insufficiency",
+            "is_correct": true
+        },
+        {
+            "text": "Respiration",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "52",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "一位新生兒出生後有一巨大的頭皮血腫塊，臨床醫師安排電腦斷層以確定其病因，檢查發現該血腫塊侷限於左側頂骨 （parietal bone）的範圍（如圖），而三個月後再追蹤的電腦斷層也見到吸收後的血腫塊出現鈣化，其最可能診斷是：",
+        "choices": [
+        {
+            "text": "Caput succedaneum",
+            "is_correct": false
+        },
+        {
+            "text": "Subgaleal hematoma",
+            "is_correct": false
+        },
+        {
+            "text": "Cephalohematoma",
+            "is_correct": true
+        },
+        {
+            "text": "Subdural hematoma",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016185/Scanned_File/QUE-016185.png",
+        "session": "107寒期",
+        "no": "75",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "一位30歲女性，懷孕32週，心跳停止（cardiac arrest）接受急救，依據最新美國心臟醫學會(AmericanHeart Association)急救指引，下列敘述何者錯誤？",
+        "choices": [
+        {
+            "text": "插管時，選用比沒懷孕婦女口徑小0.5~1.0 mm的氣管內管",
+            "is_correct": false
+        },
+        {
+            "text": "電擊劑量應減半以免影響胎兒",
+            "is_correct": true
+        },
+        {
+            "text": "急救藥物的使用與一般成人急救相同",
+            "is_correct": false
+        },
+        {
+            "text": "可考慮緊急剖腹產",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "77",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，若急救無效，最好能於心跳停止後多久內實施剖腹產？",
+        "choices": [
+        {
+            "text": "5分鐘",
+            "is_correct": true
+        },
+        {
+            "text": "10分鐘",
+            "is_correct": false
+        },
+        {
+            "text": "15分鐘",
+            "is_correct": false
+        },
+        {
+            "text": "30分鐘",
+            "is_correct": false
+        }
+        ],
+        "session": "107寒期",
+        "no": "78",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "對肥胖孕婦，判斷胎位，何者最實用？",
+        "choices": [
+        {
+            "text": "Leopold檢查技巧",
+            "is_correct": false
+        },
+        {
+            "text": "X光檢查",
+            "is_correct": false
+        },
+        {
+            "text": "超音波檢查",
+            "is_correct": true
+        },
+        {
+            "text": "核磁共振檢查",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "25",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "肩難產的定義，是胎頭娩出後至少幾分鐘以上肩膀仍無法娩出？",
+        "choices": [
+        {
+            "text": "1分鐘",
+            "is_correct": true
+        },
+        {
+            "text": "2分鐘",
+            "is_correct": false
+        },
+        {
+            "text": "3分鐘",
+            "is_correct": false
+        },
+        {
+            "text": "4分鐘",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "26",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "對正常初產婦而言，在無麻醉狀況下第二產程如果超過多少小時即可算過久？",
+        "choices": [
+        {
+            "text": "1小時",
+            "is_correct": false
+        },
+        {
+            "text": "2小時",
+            "is_correct": true
+        },
+        {
+            "text": "3小時",
+            "is_correct": false
+        },
+        {
+            "text": "4小時",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "27",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "一位25歲孕婦，G5P0AA4，妊娠41週，接受OCT（oxytocin challenge test催產素挑釁試驗），結果如下圖，此檢查屬於下列何者？",
+        "choices": [
+        {
+            "text": "nonstress test",
+            "is_correct": false
+        },
+        {
+            "text": "nipple stimulation test",
+            "is_correct": false
+        },
+        {
+            "text": "contraction stress test",
+            "is_correct": true
+        },
+        {
+            "text": "Doppler flow velocity test",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016458/Scanned_File/QUE-016458.png",
+        "session": "104寒期",
+        "no": "28",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，下列四者中最可能的檢查結果為何？",
+        "choices": [
+        {
+            "text": "positive",
+            "is_correct": false
+        },
+        {
+            "text": "negative",
+            "is_correct": true
+        },
+        {
+            "text": "equivocal-suspicious",
+            "is_correct": false
+        },
+        {
+            "text": "unsatisfactory",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "29",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何種母親的狀況（maternal condition），最可能與胎兒羊水過多（hydramnios）有相關性？",
+        "choices": [
+        {
+            "text": "李斯特菌病（Listeriosis）",
+            "is_correct": false
+        },
+        {
+            "text": "鐮刀型血球貧血（sickle-cell anemia）",
+            "is_correct": false
+        },
+        {
+            "text": "糖尿病（diabetes）",
+            "is_correct": true
+        },
+        {
+            "text": "紅斑性狼瘡（systemic lupus erythematosus）",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "30",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "難產（dystocia）的發生，與下列何條件無關？",
+        "choices": [
+        {
+            "text": "powers（uterine contractility and expulsive effort）",
+            "is_correct": false
+        },
+        {
+            "text": "passenger（fetus）",
+            "is_correct": false
+        },
+        {
+            "text": "passage（pelvis）",
+            "is_correct": false
+        },
+        {
+            "text": "Pitocin augmentation",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "31",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "一位31歲孕婦，G3P2，妊娠40週，接受胎兒監視器檢查，結果如下圖。下列四者中最可能的檢查名稱與箭頭所指現象為何？（提示：F.M.為胎動）",
+        "choices": [
+        {
+            "text": "nonstress test ; acceleration",
+            "is_correct": true
+        },
+        {
+            "text": "nipple stimulation test ; early deceleration",
+            "is_correct": false
+        },
+        {
+            "text": "contraction stress test ; late deceleration",
+            "is_correct": false
+        },
+        {
+            "text": "acoustic stimulation test ; early deceleration",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016462/Scanned_File/QUE-016462.png",
+        "session": "104寒期",
+        "no": "32",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，下列四者中最可能的檢查結果為何？",
+        "choices": [
+        {
+            "text": "positive",
+            "is_correct": false
+        },
+        {
+            "text": "negative",
+            "is_correct": false
+        },
+        {
+            "text": "reactive",
+            "is_correct": true
+        },
+        {
+            "text": "nonreactive",
+            "is_correct": false
+        }
+        ],
+        "session": "104寒期",
+        "no": "33",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者為使用beta-adrenergic agonist安胎之可能併發症？",
+        "choices": [
+        {
+            "text": "pulmonary edema",
+            "is_correct": true
+        },
+        {
+            "text": "hypoglycemia",
+            "is_correct": false
+        },
+        {
+            "text": "deep vein thrombosis",
+            "is_correct": false
+        },
+        {
+            "text": "hypertension",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "34",
+        "answer": "A,D"
+    },
+    {
+        "subject": "產科",
+        "question": "一位30歲之初產婦懷孕30週時因下腹痛住院，胎心音監視器顯示胎心跳變異性正常，心跳速度正常，子宮每4～6分鐘收縮一次。最近幾年她曾有多次氣喘發作。結婚之後因多囊性卵巢2年不孕，經藥物治療（metformin），才得以懷孕。住院抽血檢查發現有輕度白血球數目增加，CRP值顯著升高，下列何種處理方式最恰當？",
+        "choices": [
+        {
+            "text": "給予beta-adrenergic agonist",
+            "is_correct": false
+        },
+        {
+            "text": "給予beta-adrenergic agonist及抗生素",
+            "is_correct": false
+        },
+        {
+            "text": "給予atosiban（an oxytocin competitive antagonist）",
+            "is_correct": false
+        },
+        {
+            "text": "給予atosiban（an oxytocin competitive antagonist）及抗生素",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "35",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "一對夫妻，先生32歲，太太30歲。第一胎小孩為男性，生下來1歲以後有發展遲緩現象，基因診斷顯示為fragile X syndrome。此次懷孕在20週時前來就診，下列處理何者最適當？",
+        "choices": [
+        {
+            "text": "建議終止懷孕",
+            "is_correct": false
+        },
+        {
+            "text": "先以超音波或羊水染色體確定胎兒性別，若為男性，再檢驗fragile X syndrome之基因",
+            "is_correct": false
+        },
+        {
+            "text": "告知胎兒神經系統異常機會較常人高，最好接受超音波檢查",
+            "is_correct": false
+        },
+        {
+            "text": "告知胎兒最好接受羊膜腔穿刺，以檢驗fragile X syndrome之基因",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "36",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "有關葡萄胎（hydatidiform mole）的敘述，下列何者錯誤？",
+        "choices": [
+        {
+            "text": "在超音波檢查下，常見子宮腔內呈暴風雪（snow storm）樣影像",
+            "is_correct": false
+        },
+        {
+            "text": "母親年齡較大懷孕是危險因子",
+            "is_correct": false
+        },
+        {
+            "text": "患者有時會有嚴重噁心、嘔吐現象，血液中hCG值很高",
+            "is_correct": false
+        },
+        {
+            "text": "完全性葡萄胎因轉為絨毛膜癌機會很高，治療應以全子宮切除手術為佳",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "52",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "下列關於孕婦外傷的敘述何者錯誤？",
+        "choices": [
+        {
+            "text": "拯救胎兒的第一要件是急救及穩定孕婦的生命徵象",
+            "is_correct": false
+        },
+        {
+            "text": "因為懷孕後血量增加，孕婦可能已有相當多的失血量，卻沒有明顯的休克徵象",
+            "is_correct": false
+        },
+        {
+            "text": "若孕婦呈現休克現象，可左側躺以減少下腔靜脈的壓迫，增加回心血量",
+            "is_correct": false
+        },
+        {
+            "text": "因為胎盤充滿含氧血，即使孕婦已經失血休克，胎兒仍不易立即缺氧",
+            "is_correct": true
+        }
+        ],
+        "session": "104寒期",
+        "no": "78",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "下列何者為最易造成胎盤早期剝離（placental abruption）的原因？",
+        "choices": [
+        {
+            "text": "高血壓（hypertension）",
+            "is_correct": true
+        },
+        {
+            "text": "子宮肌瘤（leiomyoma）",
+            "is_correct": false
+        },
+        {
+            "text": "血栓形成（thrombophilia）",
+            "is_correct": false
+        },
+        {
+            "text": "抽菸（cigarette smoking）",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "25",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "下圖不正常胎盤是屬於何者？",
+        "choices": [
+        {
+            "text": "velamentous insertion",
+            "is_correct": true
+        },
+        {
+            "text": "false nots of cord",
+            "is_correct": false
+        },
+        {
+            "text": "furcate insertion",
+            "is_correct": false
+        },
+        {
+            "text": "marginal insertion",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016776/Scanned_File/QUE-016776.png",
+        "session": "104暑期",
+        "no": "26",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "下列那一種影像診斷技術在妊娠期間最常使用？",
+        "choices": [
+        {
+            "text": "腹部超音波（abdominal ultrasonography）",
+            "is_correct": true
+        },
+        {
+            "text": "電腦斷層掃描（computed tomography）",
+            "is_correct": false
+        },
+        {
+            "text": "內視鏡（endoscopy）",
+            "is_correct": false
+        },
+        {
+            "text": "核磁共振影像（magnetic resonance imaging）",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "27",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "一位39歲的初產婦，目前妊娠39週，懷孕過程中的血壓都介於100～120/60～70 mmHg之間。今天產檢時發現血壓150/100 mmHg，但並無合併頭痛，視覺模糊，噁心，嘔吐或腹痛的情形。這位產婦來到產房之後血壓再測量為160/90 mmHg，血比容（hematocrit）為34.0%，血小板數160,000/μL，肝功能指數GOT：22，GPT：15，尿液檢查並無蛋白尿情形，胎兒監視器並未發現胎兒窘迫的情況。這位產婦最可能符合下列那個診斷？",
+        "choices": [
+        {
+            "text": "子癎前症（preeclampsia）",
+            "is_correct": false
+        },
+        {
+            "text": "慢性高血壓（chronic hypertension）",
+            "is_correct": false
+        },
+        {
+            "text": "慢性高血壓合併子癎前症（chronic hypertension with superimposed）",
+            "is_correct": false
+        },
+        {
+            "text": "妊娠高血壓（gestational hypertension）",
+            "is_correct": true
+        }
+        ],
+        "session": "104暑期",
+        "no": "28",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "胎兒監視器可協助臨床醫師追蹤及觀察胎兒心跳（fetal heart rate pattern）與母親子宮收縮（uterine contraction）的狀況。當臨床上發現胎兒心跳呈現正弦波狀（sinusoidal fetal heartrate）時，最可能與下列何種臨床情況有關係？",
+        "choices": [
+        {
+            "text": "母親有發燒的情形",
+            "is_correct": false
+        },
+        {
+            "text": "母親有貧血的情形",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒有貧血的情形",
+            "is_correct": true
+        },
+        {
+            "text": "胎頭受到壓迫",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "29",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "30歲女性，懷孕20週，因疑似破水被緊急送到產房，生命徵象穩定，沒有發燒。超音波檢查發現胎兒心跳約每分鐘120下，胎位為頭位，但羊水指數（AFI: amnionic fluid index）為0，內診時，發現子宮頸已擴張為3公分，且已明顯變薄，並持續有羊水流出，但沒有出血的情形。最可能的診斷為：",
+        "choices": [
+        {
+            "text": "前置胎盤",
+            "is_correct": false
+        },
+        {
+            "text": "胎盤早期剝離",
+            "is_correct": false
+        },
+        {
+            "text": "子宮頸閉鎖不全",
+            "is_correct": true
+        },
+        {
+            "text": "絨毛膜羊膜炎（chorioamnionitis）",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "48",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，若以後再次懷孕時，應如何避免再次發生同樣情形？",
+        "choices": [
+        {
+            "text": "在還沒懷孕前，先接受子宮頸環紮手術",
+            "is_correct": false
+        },
+        {
+            "text": "於懷孕12～16週時，接受子宮頸環紮手術",
+            "is_correct": true
+        },
+        {
+            "text": "無須任何處置，因為上述情形為偶發事件，不會再發生",
+            "is_correct": false
+        },
+        {
+            "text": "懷孕時，多臥床休息即可，不須任何安胎治療",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "49",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "41歲孕婦，G4P2AA1，接受檢查，結果如下圖，正在測量的名稱（雙十字之間）為何？",
+        "choices": [
+        {
+            "text": "BPD（biparietal diameter）",
+            "is_correct": false
+        },
+        {
+            "text": "CRL（crown-rump length）",
+            "is_correct": false
+        },
+        {
+            "text": "FL（femur length）",
+            "is_correct": false
+        },
+        {
+            "text": "NT（nuchal translucency）",
+            "is_correct": true
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016800/Scanned_File/QUE-016800.png",
+        "session": "104暑期",
+        "no": "50",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，最常施行上述檢查的妊娠週數為何？",
+        "choices": [
+        {
+            "text": "11～14週",
+            "is_correct": true
+        },
+        {
+            "text": "26～28週",
+            "is_correct": false
+        },
+        {
+            "text": "31～13週",
+            "is_correct": false
+        },
+        {
+            "text": "36～38週",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "51",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "美莉37歲，結婚4年都沒有避孕，2年前自然流產過一次，就沒有再懷孕過。美莉與先生一直很想生個小孩，於是來到婦產科求診，先生的精液檢查，數量和活動力都正常，但美莉的月經一直不是很規則，於是醫師先給她clomiphene來誘導排卵，從經期的第5天開始吃，每天一顆（50 mg）連續5天，結果美莉這次順利懷孕了，她10週回來做產檢時的超音波顯示如下圖。請依此回答下列3題：下列敘述何者正確？",
+        "choices": [
+        {
+            "text": "此張超音波顯示為同卵雙胞胎，胚胎在受精後第1至第3天間分裂",
+            "is_correct": false
+        },
+        {
+            "text": "使用clomiphene誘導排卵會使排卵增加，因此異卵雙胞胎的發生率會上升，但同卵雙胞胎的機率不受影響",
+            "is_correct": false
+        },
+        {
+            "text": "37歲婦女懷雙胞胎的機率會比20歲年輕女性來的高",
+            "is_correct": true
+        },
+        {
+            "text": "單絨毛膜雙羊膜雙胞胎（monochorionic-diamnionic twins）的早產風險會比雙絨毛膜雙羊膜雙胞胎（dichorionic-diamnionic twins）低",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016802/Scanned_File/QUE-016802.png",
+        "session": "104暑期",
+        "no": "52",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "美莉產檢時超音波發現，此雙胞胎有兩個羊膜腔，但共用一個胎盤，會有發生雙胞胎間輸血症候群（twin-to-twin transfusion syndrome）的風險，關於雙胞胎間輸血症候群（TTTS），下列敘述何者錯誤？",
+        "choices": [
+        {
+            "text": "TTTS發生原因目前認為和共用胎盤，且兩個胎兒間的血管相通（vascular anastomosis）造成血流不平衡有關",
+            "is_correct": false
+        },
+        {
+            "text": "recipient的血液容積增加，會造成羊水過多，嚴重時會有心臟衰竭的現象",
+            "is_correct": false
+        },
+        {
+            "text": "donor的血液供給recipient，造成donor的血液容積下降，胎兒腎臟灌流（renalperfusion）下降，所以尿量變少，會使羊水過少（oligohydramnios），嚴重時超音波下donor膀胱會看不到，且常被推擠至一角落（stuck twin）",
+            "is_correct": false
+        },
+        {
+            "text": "美莉的兩個雙胞胎間如果體重差異超過30%，就可診斷為TTTS",
+            "is_correct": true
+        }
+        ],
+        "session": "104暑期",
+        "no": "53",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "美莉20週產檢時，發現twin A預估體重532 g且羊水過多，twin B 417 g且 沒有羊水，twin B的臍動脈杜普勒波形測量已有舒張期逆流情形（reverse end-diastolic flow），美莉和先生希望能積極救兩個胎兒，目前文獻對於早期嚴重性TTTS，下列那一種治療較佳？",
+        "choices": [
+        {
+            "text": "利用胎兒鏡做雷射治療（laser ablation of vascular anastomoses）",
+            "is_correct": true
+        },
+        {
+            "text": "將羊水過多的放水（amnioreduction of the recipient）",
+            "is_correct": false
+        },
+        {
+            "text": "將兩個胎兒間的羊膜打通（septostomy）",
+            "is_correct": false
+        },
+        {
+            "text": "灌水到沒有羊水的胎兒內（amnio infusion of the donor）",
+            "is_correct": false
+        }
+        ],
+        "session": "104暑期",
+        "no": "54",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "肩難產最容易發生的問題是：",
+        "choices": [
+        {
+            "text": "膈神經受傷",
+            "is_correct": false
+        },
+        {
+            "text": "臂神經叢受傷",
+            "is_correct": true
+        },
+        {
+            "text": "鎖骨骨折",
+            "is_correct": false
+        },
+        {
+            "text": "肱骨骨折",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "25",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "如果子宮頸位置向前（anterior），其硬度中等（medium），薄度（effacement）40～50%，開口3～4公分，胎頭位於-1，其Bishop score是多少？",
+        "choices": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "6",
+            "is_correct": false
+        },
+        {
+            "text": "8",
+            "is_correct": true
+        },
+        {
+            "text": "10",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "26",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "35歲孕婦經轉診至門診，G2P0AA1，無家族病史，目前妊娠22週。該孕婦於產前超音波檢查時，結果如圖所示，該異常特徵（sign）為何？",
+        "choices": [
+        {
+            "text": "double bubble sign",
+            "is_correct": false
+        },
+        {
+            "text": "banana sign",
+            "is_correct": true
+        },
+        {
+            "text": "keyhole sign",
+            "is_correct": false
+        },
+        {
+            "text": "lemon sign",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020627/Scanned_File/QUE-020627.png",
+        "session": "107暑期",
+        "no": "37",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "40歲孕婦，G5P2AA2，再婚後意外懷孕。本次懷孕尚未接受過任何產檢，無家族病史，過去兩胎皆正常。目前妊娠22週，至門診接受超音波檢查，由於該孕婦此胎並未接受羊膜穿刺及頸部透明帶母血唐氏症篩檢，對於生出唐氏症寶寶相當焦慮。下列何者不是唐氏症產前超音波之特色指標（sonographic markers）？",
+        "choices": [
+        {
+            "text": "echogenic bowel",
+            "is_correct": false
+        },
+        {
+            "text": "nuchal skinfold thickening",
+            "is_correct": false
+        },
+        {
+            "text": "short humerus",
+            "is_correct": false
+        },
+        {
+            "text": "short tibia",
+            "is_correct": true
+        }
+        ],
+        "session": "107暑期",
+        "no": "38",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "根據2013年美國婦產科醫學會（ACOG）的建議，將胎心音監測準則依嚴重程度分為三級，下列何者不是第\f三級胎心音（category III）異常？",
+        "choices": [
+        {
+            "text": "早發性心搏減速（early variable deceleration）及心搏間變異消失（absent baseline fetal heart ratevariability）",
+            "is_correct": true
+        },
+        {
+            "text": "反覆的變異性心搏減速（recurrent variable deceleration）及心搏間變異消失（absent baseline fetal heartrate variability）",
+            "is_correct": false
+        },
+        {
+            "text": "反覆的遲發性心搏減速（recurrent late deceleration）及心搏間變異消失（absent baseline fetal heart ratevariability）",
+            "is_correct": false
+        },
+        {
+            "text": "正弦曲線胎心率（sinusoidal fetal heart rate）",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "39",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "造成產後出血的原因，下列何者最常見？",
+        "choices": [
+        {
+            "text": "子宮收縮不佳（atony）",
+            "is_correct": true
+        },
+        {
+            "text": "羊水栓塞（amniotic fluid embolism）",
+            "is_correct": false
+        },
+        {
+            "text": "胎盤滯留（retained placenta）",
+            "is_correct": false
+        },
+        {
+            "text": "生殖道撕裂傷（injury to birth canal）",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "40",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "胎心無壓力試驗（non-stress test）20分鐘檢查結果，有二次胎心加速大於基線胎心搏（baseline）15 bpm（beat per minute）以上，且持續15秒以上，可以判讀為：",
+        "choices": [
+        {
+            "text": "正常反應（reactive）",
+            "is_correct": true
+        },
+        {
+            "text": "不正常反應（nonreactive）",
+            "is_correct": false
+        },
+        {
+            "text": "爭議性（equivocal）",
+            "is_correct": false
+        },
+        {
+            "text": "無法判讀（unsatisfactory）",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "41",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "34歲G2P1孕婦，妊娠25週被診斷為子癇前症（preeclampsia），現妊娠31週主訴近3天來常感呼吸急促（shortness of breath），且無法平躺，經基層診所轉診至醫院急診。理學檢查血壓 158/96 mmHg，體重較2週前增加4 kg，尿蛋白4+。此時的最優先處置為：",
+        "choices": [
+        {
+            "text": "胸部聽診及胸部X光（chest X-ray）檢查",
+            "is_correct": true
+        },
+        {
+            "text": "給予安胎治療",
+            "is_correct": false
+        },
+        {
+            "text": "給予利尿劑治療",
+            "is_correct": false
+        },
+        {
+            "text": "安排剖腹生產",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "42",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "有關流產敘述，下列何者錯誤？",
+        "choices": [
+        {
+            "text": "先兆性流產（threatened abortion），通常最終導致流產",
+            "is_correct": true
+        },
+        {
+            "text": "子宮頸口已開，懷孕組織還未掉出來，稱無可避免的流產（inevitable abortion）",
+            "is_correct": false
+        },
+        {
+            "text": "已有部分懷孕組織排出，稱不完全流產（incomplete abortion）",
+            "is_correct": false
+        },
+        {
+            "text": "若不完全流產病患有發燒現象，應給予抗生素",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "43",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "37歲孕婦，G1P0，妊娠36週，血壓180/110 mmHg，接受下列超音波檢查，如圖所示。則該檢查是：",
+        "choices": [
+        {
+            "text": "臍動脈血流速度波形",
+            "is_correct": true
+        },
+        {
+            "text": "臍靜脈血流速度波形",
+            "is_correct": false
+        },
+        {
+            "text": "胎心音加壓性試驗",
+            "is_correct": false
+        },
+        {
+            "text": "胎動檢查",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-020643/Scanned_File/QUE-020643.png",
+        "session": "107暑期",
+        "no": "53",
+        "answer": "A"
+    },
+    {
+        "subject": "產科",
+        "question": "承上題，正確的判讀為下列何者？",
+        "choices": [
+        {
+            "text": "胎兒腦波反應",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒睡眠反應",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒正常",
+            "is_correct": false
+        },
+        {
+            "text": "胎兒窘迫",
+            "is_correct": true
+        }
+        ],
+        "session": "107暑期",
+        "no": "54",
+        "answer": "D"
+    },
+    {
+        "subject": "產科",
+        "question": "一位25歲懷孕22週婦女，被家人發現意識改變，送至急診時，已無呼吸、無脈搏，下列敘述及處置，何者錯誤？",
+        "choices": [
+        {
+            "text": "懷孕婦女急救時，必須予以左側躺（右側墊高），以減少子宮對下腔靜脈（inferior vena cava）的壓迫",
+            "is_correct": true
+        },
+        {
+            "text": "由於懷孕的子宮會將橫膈往上推，所以心臟按摩壓胸位置在胸骨中央偏上方處",
+            "is_correct": true
+        },
+        {
+            "text": "如使用電擊器去顫（Defibrillation），位置與劑量和一般成人急救是一樣的",
+            "is_correct": false
+        },
+        {
+            "text": "緊急剖腹產，對於22週的胎兒有存活的機會，同時也可以提升母親救活的機會",
+            "is_correct": false
+        }
+        ],
+        "session": "107暑期",
+        "no": "78",
+        "answer": "A,B"
+    },
+    {
+        "subject": "產科",
+        "question": "下列那個妊娠週數，最易觀察到胎兒有濃稠胎糞（meconium）排出的情況？",
+        "choices": [
+        {
+            "text": "⼩於24週",
+            "is_correct": false
+        },
+        {
+            "text": "⼤於42週",
+            "is_correct": true
+        },
+        {
+            "text": "⼩於37週",
+            "is_correct": false
+        },
+        {
+            "text": "介於38～41週之間",
+            "is_correct": false
+        }
+        ],
+        "session": "108寒期",
+        "no": "25",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "26歲孕婦，G5P3A1，妊娠32週，接受超⾳波檢查，結果如圖所⽰，下列何者為最可能的診斷？",
+        "choices": [
+        {
+            "text": "anencephaly",
+            "is_correct": false
+        },
+        {
+            "text": "Down syndrome",
+            "is_correct": false
+        },
+        {
+            "text": "cleft lip",
+            "is_correct": true
+        },
+        {
+            "text": "duodenal atresia",
+            "is_correct": false
+        }
+        ],
+        "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023676/Scanned_File/QUE-023676.png",
+        "session": "108寒期",
+        "no": "26",
+        "answer": "C"
+    },
+    {
+        "subject": "產科",
+        "question": "孕婦在妊娠第⼀期腹痛⾄⾨診，經檢查後發現⼦宮頸已經開了3公分，此時最可能的診斷是：",
+        "choices": [
+        {
+            "text": "不完全流產（incomplete abortion）",
+            "is_correct": false
+        },
+        {
+            "text": "無法避免的流產（inevitable abortion）",
+            "is_correct": true
+        },
+        {
+            "text": "過期流產（missed abortion）",
+            "is_correct": false
+        },
+        {
+            "text": "敗⾎性流產（septic abortion）",
+            "is_correct": false
+        }
+        ],
+        "session": "108寒期",
+        "no": "27",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "關於懷孕時期的敘述，下列何者正確？",
+        "choices": [
+        {
+            "text": "⾎⾊素（hemoglobin）上升",
+            "is_correct": false
+        },
+        {
+            "text": "到⾜⽉時總⾎量上升40%",
+            "is_correct": true
+        },
+        {
+            "text": "紅⾎球體積（red cell volume）⼀直到懷孕20週後才開始上升",
+            "is_correct": false
+        },
+        {
+            "text": "⾎比容積上升是由於紅⾎球體積上升多過於⾎漿體積⽽造成",
+            "is_correct": false
+        }
+        ],
+        "session": "108寒期",
+        "no": "35",
+        "answer": "B"
+    },
+    {
+        "subject": "產科",
+        "question": "有關孕婦併有主動脈狹窄（aortic stenosis）的敘述，下列何者錯誤？",
+        "choices": [
+            {
+            "text": "懷孕時因為⼼⾎管的前負荷（preload）下降，孕婦症狀會變嚴重",
+            "is_correct": false
+            },
+            {
+            "text": "對於沒有症狀的孕婦，不需要做任何治療",
+            "is_correct": false
+            },
+            {
+            "text": "對於有症狀的孕婦，建議以氣球擴張術（balloon valvotomy）治療",
+            "is_correct": true
+            },
+            {
+            "text": "若是嘗試陰道⽣產時，待產時建議注意輸液量不能過少，⽣產時建議使⽤產鉗或真空吸幫助⽣產",
+            "is_correct": false
+            }
+        ],
+        "session": "108寒期",
+        "no": "37",
+        "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "第⼀孕期唐⽒症及其他非整倍體（aneuploidy）染⾊體異常，最常⽤的篩檢策略為超⾳波檢查及⺟⾎⾎清分析，下列檢查何者不屬之？",
+    "choices": [
+        {
+        "text": "頸部透明帶厚度（nuchal translucency）檢測",
+        "is_correct": false
+        },
+        {
+        "text": "⺟⾎胎兒甲型蛋⽩（maternal serum AFP）",
+        "is_correct": true
+        },
+        {
+        "text": "⼈類絨⽑膜性腺激素（human chorionic gonadotropin）",
+        "is_correct": false
+        },
+        {
+        "text": "懷孕相關蛋⽩A（pegnancy-associated protein A）",
+        "is_correct": false
+        }
+    ],
+    "session": "108寒期",
+    "no": "38",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "29歲孕婦，妊娠11週，B型肝炎帶原者篩檢結果為HBsAg（+），HBeAg（+）；妊娠24週B型肝炎病毒（HBV）DNA檢驗結果為108 copies/mL。孕婦於妊娠28週開始⼝服抗HBV藥物Tenofovir治療⾄妊娠38週，經陰道⾃然分娩出3,480公克女嬰。為預防嬰兒感染B型肝炎的最適當處置為：",
+    "choices": [
+        {
+        "text": "新⽣兒出⽣後立即給與B型肝炎免疫球蛋⽩治療，同時安排B型肝炎疫苗預防接種",
+        "is_correct": true
+        },
+        {
+        "text": "新⽣兒出⽣後立即給與B型肝炎免疫球蛋⽩治療，不必安排B型肝炎疫苗預防接種",
+        "is_correct": false
+        },
+        {
+        "text": "新⽣兒出⽣後不必給與B型肝炎免疫球蛋⽩治療，只需安排B型肝炎疫苗預防接種",
+        "is_correct": false
+        },
+        {
+        "text": "新⽣兒出⽣後不必給與B型肝炎免疫球蛋⽩治療，也不必安排B型肝炎疫苗預防接種",
+        "is_correct": false
+        }
+    ],
+    "session": "108寒期",
+    "no": "39",
+    "answer": "A"
+    },
+    {
+    "subject": "產科",
+    "question": "下列那⼀種狀況發⽣胎盤早期剝離（plancental abruption ）的風險最⾼？",
+    "choices": [
+        {
+        "text": "前⼀胎發⽣胎盤早期剝離",
+        "is_correct": true
+        },
+        {
+        "text": "合併⼦癇前症（preeclampsia ）",
+        "is_correct": false
+        },
+        {
+        "text": "絨⽑膜⽺膜炎（chorioamnionitis ）",
+        "is_correct": false
+        },
+        {
+        "text": "胎膜早破（premature rupture of membranes ）",
+        "is_correct": false
+        }
+    ],
+    "session": "108寒期",
+    "no": "40",
+    "answer": "A"
+    },
+    {
+    "subject": "產科",
+    "question": "曉晴23歲，從⼩體⼒就比較差，爬樓梯很容易喘，也比較容易⽣病感冒，不過不影響⽇常⽣活。1個⽉前⾃⼰驗出有懷孕，最近1個⽉，常感到頭暈、噁⼼、嘔吐，有時還會感到胸悶及⼼悸，所以⾄婦產科產檢。曉晴⾝⾼158公分，體重42公⽄，⾎壓112/76 mmHg，⼼跳速率每分鐘92下，超⾳波檢查看到⼦宮內有⼀個正常胚囊，可看到⼀個胚胎頭臀⻑（CRL）為2.1公分。關於曉晴的情況，下列何者錯誤？",
+    "choices": [
+        {
+        "text": "依據胚胎頭臀⻑2.1公分來判斷，曉晴⽬前懷孕（胚胎）週數約9週",
+        "is_correct": true
+        },
+        {
+        "text": "⼀般正常懷孕時，在懷孕前8週，⼼⾎管系統就會開始產⽣明顯的變化，⼼輸出量（cardiac output）會上升，周邊⾎管阻⼒（systemic vascular resistance）會下降，⼼跳（heart rate）會加快",
+        "is_correct": true
+        },
+        {
+        "text": "正常懷孕從受孕到產後的這段期間，側躺休息時的⼼輸出量最⼤的時期在妊娠週數第28⾄32週間",
+        "is_correct": true
+        },
+        {
+        "text": "⼀般妊娠20週後，孕婦側躺時，⼼輸出量及⼼臟打出的容積量（stroke volume）比坐著時⾼，但每分鐘⼼跳數則比坐著時低。此外，懷孕時左側躺的收縮壓、舒張壓均較仰臥時低",
+        "is_correct": true
+        }
+    ],
+    "session": "108寒期",
+    "no": "53",
+    "answer": "A,B,C,D"
+    },
+    {
+    "subject": "產科",
+    "question": "承上題，產科醫師發現她懷孕前，如果樓梯爬3層就會喘，不過⼀般⽣活作息並不會造成困擾。但懷孕後，這些情況變的更厲害，有時⾛路久⼀點就會喘，需要停下來休息。檢查曉晴的眼結膜（conjunctiva）是粉紅⾊的，沒有貧⾎的跡象，聽診發現有⼼雜⾳，產科醫師懷疑有⼼臟⽅⾯的問題，於是安排⼼臟超⾳波，發現曉晴有⼀個⼼室中膈缺損約1.6平⽅公分。下列給曉晴的諮詢，何者錯誤？",
+    "choices": [
+        {
+        "text": "根據紐約⼼臟協會（NYHA）對⼼臟功能的定義，曉晴懷孕前是屬於第⼆級（functional class II），但懷孕後已惡化為第三級（functional class III）",
+        "is_correct": false
+        },
+        {
+        "text": "⼼室中膈缺損是⼀種先天性⼼臟病，這種是結構的異常並不會遺傳給胎兒",
+        "is_correct": true
+        },
+        {
+        "text": "⼤的⼼室中膈缺損可能會進展為左⼼室衰竭及肺動脈⾼壓，當肺動脈阻⼒（pulmonary vascularresistance）⼤於系統性⾎管阻⼒（systemic vascular resistance），會造成右側到左側的分流（right toleft shunt），即Eisenmenger症候群，此時⺟親的死亡率會⾼達30～50%",
+        "is_correct": false
+        },
+        {
+        "text": "沒有修補的⼼室中膈缺損會有感染性⼼內膜炎（infective endocariditis）的風險，在懷疑有菌⾎症時，建議給預防性抗⽣素",
+        "is_correct": false
+        }
+    ],
+    "session": "108寒期",
+    "no": "54",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "有關假產痛（false labor pain）和真產痛（true labor pain）的敘述，下列何者為錯誤？",
+    "choices": [
+        {
+        "text": "假產痛通常先由上腹開始疼痛再逐漸痛到下腹，真產痛則通常由下腹開始疼痛",
+        "is_correct": true
+        },
+        {
+        "text": "假產痛的疼痛頻率通常不規則，真產痛則通常是規則的疼痛",
+        "is_correct": false
+        },
+        {
+        "text": "假產痛⼦宮頸沒擴張，真產痛⼦宮頸則會逐漸擴張",
+        "is_correct": false
+        },
+        {
+        "text": "假產痛通常會持續數天，真產痛預期⼀天內⼩孩會⽣下來",
+        "is_correct": false
+        }
+    ],
+    "session": "108寒期",
+    "no": "78",
+    "answer": "A"
+    },
+    {
+    "subject": "產科",
+    "question": "與一般均衡飲食的孕婦相較，全素（strict vegetarians）的妊娠婦女，最可能缺乏下列何種維生素？",
+    "choices": [
+        {
+        "text": "維生素A",
+        "is_correct": false
+        },
+        {
+        "text": "維生素B12",
+        "is_correct": true
+        },
+        {
+        "text": "維生素C",
+        "is_correct": false
+        },
+        {
+        "text": "維生素K",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "28",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "以真空吸引娩出胎兒，較適合的壓力大約是多少kg/cm2？",
+    "choices": [
+        {
+        "text": "0.2 kg/cm2",
+        "is_correct": false
+        },
+        {
+        "text": "0.6 kg/cm2",
+        "is_correct": true
+        },
+        {
+        "text": "1.0 kg/cm2",
+        "is_correct": false
+        },
+        {
+        "text": "2.0 kg/cm2",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "29",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "Trisomy 13（Patau syndrome）不會合併下列何種異常？",
+    "choices": [
+        {
+        "text": "唇顎裂（cleft lip/palate）",
+        "is_correct": false
+        },
+        {
+        "text": "臍膨出（omphalocele）",
+        "is_correct": false
+        },
+        {
+        "text": "大頭畸形（macrocephaly）",
+        "is_correct": true
+        },
+        {
+        "text": "橈骨發育不良（radial bone aplasia）",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "30",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "母乳缺乏下列何種維他命？",
+    "choices": [
+        {
+        "text": "Vit.A",
+        "is_correct": false
+        },
+        {
+        "text": "Vit.D",
+        "is_correct": false
+        },
+        {
+        "text": "Vit.E",
+        "is_correct": false
+        },
+        {
+        "text": "Vit.K",
+        "is_correct": true
+        }
+    ],
+    "session": "108暑期",
+    "no": "31",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "45歲孕婦，G5P4，妊娠週數不明，接受產科超音波檢查，正在測量標的的名稱（雙十字之間）為何？",
+    "choices": [
+        {
+        "text": "BPD（biparietal diameter）",
+        "is_correct": false
+        },
+        {
+        "text": "AC（abdominal circumference）",
+        "is_correct": false
+        },
+        {
+        "text": "FL（femur length）",
+        "is_correct": true
+        },
+        {
+        "text": "NT（nuchal translucency）",
+        "is_correct": false
+        }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028762/Scanned_File/QUE-028762.png",
+    "session": "108暑期",
+    "no": "32",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "30歲女性，已有連續4次懷孕都在第一孕期就自然流產，醫師建議做夫妻的染色體檢查，結果夫妻中一方有異常，最有可能的異常是：",
+    "choices": [
+        {
+        "text": "trisomy 18",
+        "is_correct": false
+        },
+        {
+        "text": "balanced translocation",
+        "is_correct": true
+        },
+        {
+        "text": "Turner syndrome",
+        "is_correct": false
+        },
+        {
+        "text": "Klinefelter syndrome",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "35",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "20歲懷孕38週婦女，G1P0，因胎位不正接受剖腹產手術，手術中意外發現左側有一約10公分左右的卵巢腫瘤，右側卵巢外觀正常，術中無腹水，於是行剖腹產後接著行卵巢囊腫摘除術（ovarian cystectomy），術中不慎發生囊腫破裂。術中冰凍切片病理報告為yolk sac tumor。接下來處置以何者為佳？",
+    "choices": [
+        {
+        "text": "作完月子後再視當時情況而定",
+        "is_correct": false
+        },
+        {
+        "text": "不宜餵奶並行骨盆腔放射線治療",
+        "is_correct": false
+        },
+        {
+        "text": "保留另一側卵巢及子宮以保留生育能力，並在術後行化學治療",
+        "is_correct": true
+        },
+        {
+        "text": "由於生殖細胞癌預後差，應即刻切除子宮及雙側卵巢輸卵管",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "37",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "30歲女性，月經周期規則，根據她最後一次月經來計算，目前懷孕10週，關於胎兒生長發育的敘述，下列何者最不符合？",
+    "choices": [
+        {
+        "text": "手肘可彎曲",
+        "is_correct": false
+        },
+        {
+        "text": "頭臀徑（crown-rump length）7公分",
+        "is_correct": true
+        },
+        {
+        "text": "橫膈膜已形成",
+        "is_correct": false
+        },
+        {
+        "text": "心臟結構已形成",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "40",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "如圖所示之生產方式，為何種肩難產輔助方法？",
+    "choices": [
+        {
+        "text": "Rubin maneuver",
+        "is_correct": false
+        },
+        {
+        "text": "McRoberts maneuver",
+        "is_correct": true
+        },
+        {
+        "text": "Fundal pressure",
+        "is_correct": false
+        },
+        {
+        "text": "Woods corkscrew maneuver",
+        "is_correct": false
+        }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028771/Scanned_File/QUE-028771.png",
+    "session": "108暑期",
+    "no": "41",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "產婦生產會陰部裂傷（perineal laceration）共分四度，第四度裂傷最為嚴重。第四度裂傷代表深度到達下列何種解剖位置？",
+    "choices": [
+        {
+        "text": "陰道黏膜層（vaginal mucosa）",
+        "is_correct": false
+        },
+        {
+        "text": "外層肛門括約肌（external anal sphincter）",
+        "is_correct": false
+        },
+        {
+        "text": "內層肛門括約肌（internal anal sphincter）",
+        "is_correct": false
+        },
+        {
+        "text": "直腸黏膜層（rectal mucosa）",
+        "is_correct": true
+        }
+    ],
+    "session": "108暑期",
+    "no": "42",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "36歲G2P1孕婦，接受規律產前檢查，並無妊娠相關合併症，主訴已超過預產期2天，自覺胎動頻次稍為減少至門診求診。安排胎心搏監測呈現良好反應（reactive），無規律性子宮收縮；超音波檢查最大羊水池垂直深度（maximum vertical pocket depth） 3.6 cm，預估胎兒體重3,600公克，陰道內診子宮頸未開，破水測試呈現陰性反應。此時的最適當處置為：",
+    "choices": [
+        {
+        "text": "安排產前檢查門診追蹤觀察",
+        "is_correct": true
+        },
+        {
+        "text": "安排住院引產",
+        "is_correct": false
+        },
+        {
+        "text": "安排剖腹生產",
+        "is_correct": false
+        },
+        {
+        "text": "給予抗生素治療",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "43",
+    "answer": "A"
+    },
+    {
+    "subject": "產科",
+    "question": "不建議孕婦於懷孕期間，接受下列那一項預防性疫苗接種？",
+    "choices": [
+        {
+        "text": "流行性感冒（influenza）",
+        "is_correct": false
+        },
+        {
+        "text": "狂犬病（rabies）",
+        "is_correct": false
+        },
+        {
+        "text": "水痘（varicella）",
+        "is_correct": true
+        },
+        {
+        "text": "破傷風 （tetanus）",
+        "is_correct": false
+        }
+    ],
+    "session": "108暑期",
+    "no": "44",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "一位35歲懷孕28週婦女，因血壓過高至急診就診，經評估後懷疑是子癲前症（pre-eclampsia）。下列何者不是此病之臨床表現？",
+    "choices": [
+        {
+        "text": "高血壓（hypertension）",
+        "is_correct": false
+        },
+        {
+        "text": "蛋白尿（proteinuria）",
+        "is_correct": false
+        },
+        {
+        "text": "寡尿（oliguria）",
+        "is_correct": false
+        },
+        {
+        "text": "癲癇（seizure）",
+        "is_correct": true
+        }
+    ],
+    "session": "108暑期",
+    "no": "77",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "有關子癲前症（preeclampsia），下列敘述何者錯誤？",
+    "choices": [
+        {
+        "text": "過去血壓正常的婦女，懷孕20週後收縮壓高於140 mmHg或舒張壓高於90 mmHg且合併有蛋白尿，即可診斷為preeclampsia",
+        "is_correct": false
+        },
+        {
+        "text": "preeclampsia會增加腦出血（cerebral hemorrhage）、肺水腫（pulmonary edema）及凝血功能異常（coagulopathy）的危險。當收縮壓高於160 mmHg時就應積極控制血壓預防腦出血",
+        "is_correct": false
+        },
+        {
+        "text": "magnesium sulfate常用於預防seizure的發生，在插管全身麻醉使用非去極化肌肉鬆弛劑（如：rocuronium）應減少其劑量",
+        "is_correct": false
+        },
+        {
+        "text": "生產後可以照一般常規使用methylergonovine來促進子宮收縮",
+        "is_correct": true
+        }
+    ],
+    "session": "109寒期",
+    "no": "7",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "經由病史詢問得知某女性患者曾懷孕過兩次，但這兩次懷孕都因為自然流產而終止妊娠。下列何者最適合用於描繪她的情況？",
+    "choices": [
+        {
+        "text": "Multipara",
+        "is_correct": false
+        },
+        {
+        "text": "Nulligravida",
+        "is_correct": false
+        },
+        {
+        "text": "Nullipara",
+        "is_correct": true
+        },
+        {
+        "text": "Primipara",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "28",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "羊水的酸鹼值（pH）最常介於那個酸鹼值（pH）區段？",
+    "choices": [
+        {
+        "text": "4.5～5.5",
+        "is_correct": false
+        },
+        {
+        "text": "5.6～6.5",
+        "is_correct": false
+        },
+        {
+        "text": "7.0～7.5",
+        "is_correct": true
+        },
+        {
+        "text": "8.0～8.5",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "29",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "下列那一種方式不是處理肩難產的方法？",
+    "choices": [
+        {
+        "text": "Woods corkscrew maneuver",
+        "is_correct": false
+        },
+        {
+        "text": "Fundal pressure",
+        "is_correct": true
+        },
+        {
+        "text": "McRoberts maneuver",
+        "is_correct": false
+        },
+        {
+        "text": "Delivery of the posterior shoulder",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "30",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "產後噴乳反射（milk ejection）是因何者引起？",
+    "choices": [
+        {
+        "text": "泌乳素（prolactin）",
+        "is_correct": false
+        },
+        {
+        "text": "催產素（oxytocin）",
+        "is_correct": true
+        },
+        {
+        "text": "前列腺素（prostaglandin）",
+        "is_correct": false
+        },
+        {
+        "text": "多巴胺（dopamine）",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "31",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "35歲孕婦，G2P1，妊娠42週，催生前接受NST檢查（nonstress test），結果如圖所示：\f其判讀為何？（提示：FM為胎動）",
+    "choices": [
+        {
+        "text": "Early deceleration",
+        "is_correct": false
+        },
+        {
+        "text": "Late deceleration",
+        "is_correct": false
+        },
+        {
+        "text": "Reactive",
+        "is_correct": false
+        },
+        {
+        "text": "Nonreactive",
+        "is_correct": true
+        }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031622/Scanned_File/QUE-031622.png",
+    "session": "109寒期",
+    "no": "32",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "30歲女性，G1P0，妊娠36週，胎兒呼吸次數於30分鐘超音波監視下有五次，每次持續30秒以上，依胎兒生物生理計分法（biophysical profile），於胎兒呼吸分項下得分為何？",
+    "choices": [
+        {
+        "text": "0",
+        "is_correct": false
+        },
+        {
+        "text": "1",
+        "is_correct": false
+        },
+        {
+        "text": "2",
+        "is_correct": true
+        },
+        {
+        "text": "3",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "33",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "28歲孕婦，G1P0，無家族病史，目前懷孕12週，經與婦產科醫師諮詢後，決定接受第一孕期母血唐氏症篩檢（first-trimester maternal serum Down screen），因而接受抽血檢驗及超音波檢查。下列何者不是第一孕期母血唐氏症篩檢所包含之項目？",
+    "choices": [
+        {
+        "text": "Human chorionic gonadotropin（hCG）or free β-hCG（free β-subunit hCG）",
+        "is_correct": false
+        },
+        {
+        "text": "Nuchal translucency（NT）",
+        "is_correct": false
+        },
+        {
+        "text": "Unconjugated estriol（uE3）",
+        "is_correct": true
+        },
+        {
+        "text": "Pregnancy-associated plasma protein-A（PAPP-A）",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "40",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "妊娠28週的雙胞胎，常規超音波檢查發現，雙胞胎A預估體重1,200公克，雙胞胎B預估體重750公克；雙胞胎A為羊水過多（polyhydramnios），雙胞胎B則為羊水稀少（oligohydramnios）。關於此一雙胞胎妊娠的超音波影像敘述，下列何者正確？",
+    "choices": [
+        {
+        "text": "雙胞胎之捐贈者（donor twin）發生羊水過多的機率高於雙胞胎之受贈者（recipient twin）",
+        "is_correct": false
+        },
+        {
+        "text": "雙胞胎之捐贈者往往會發生溶血性貧血症（hemolytic anemia）",
+        "is_correct": false
+        },
+        {
+        "text": "雙胞胎之捐贈者往往會發生紅血球增多症（polycythemia）",
+        "is_correct": false
+        },
+        {
+        "text": "超音波可觀察出雙胞胎之捐贈者與雙胞胎之受贈者之間的表徵（phenotype）差異",
+        "is_correct": true
+        }
+    ],
+    "session": "109寒期",
+    "no": "41",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "32歲G1P0孕婦，妊娠29週被診斷為子癇前症（preeclampsia），現妊娠35週主訴近3天來常感頭暈前來求診。理學檢查，血壓 172/116 mmHg，體重較兩週前增加3 kg，尿蛋白3+；超音波檢查預估胎兒體重1,900公克，有不規則子宮收縮。此時的最佳處置為：",
+    "choices": [
+        {
+        "text": "積極治療高血壓並安排門診追蹤",
+        "is_correct": false
+        },
+        {
+        "text": "積極進行胎兒健康評估並安排門診追蹤",
+        "is_correct": false
+        },
+        {
+        "text": "同時治療高血壓及進行胎兒健康評估並安排門診追蹤",
+        "is_correct": false
+        },
+        {
+        "text": "建議立即住院接受治療",
+        "is_correct": true
+        }
+    ],
+    "session": "109寒期",
+    "no": "42",
+    "answer": "D"
+    },
+    {
+    "subject": "產科",
+    "question": "有關早期懷孕的敘述，下列何者錯誤？",
+    "choices": [
+        {
+        "text": "骨盆腔發炎是子宮外孕的危險因子",
+        "is_correct": false
+        },
+        {
+        "text": "輸卵管子宮外孕接受methotrexate（MTX）治療的病患，比接受輸卵管造口術（salpingostomy）治療的病患再次外孕的風險尤高",
+        "is_correct": true
+        },
+        {
+        "text": "正常6週內子宮內懷孕，血中hCG 48小時至少要增加66%以上",
+        "is_correct": false
+        },
+        {
+        "text": "當血中hCG超過2,000 mIU/mL，隔48小時增加不到50%，胚胎存活的機會低",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "44",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "24歲孕婦，G3P0，妊娠38週，接受胎兒杜卜勒超音波檢查，結果如圖所示，檢查名稱為何？",
+    "choices": [
+        {
+        "text": "臍動脈血流速度波形",
+        "is_correct": true
+        },
+        {
+        "text": "臍靜脈血流速度波形",
+        "is_correct": false
+        },
+        {
+        "text": "胎兒中大腦動脈血流速度波形",
+        "is_correct": false
+        },
+        {
+        "text": "胎兒下行主動脈血流速度波形",
+        "is_correct": false
+        }
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031646/Scanned_File/QUE-031646.png",
+    "session": "109寒期",
+    "no": "56",
+    "answer": "A"
+    },
+    {
+    "subject": "產科",
+    "question": "承上題，最可能的檢查結果為下列何者？",
+    "choices": [
+        {
+        "text": "Absence of end-diastolic velocity",
+        "is_correct": false
+        },
+        {
+        "text": "Reversed end-diastolic velocity",
+        "is_correct": true
+        },
+        {
+        "text": "Positive",
+        "is_correct": false
+        },
+        {
+        "text": "Negative",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "57",
+    "answer": "B"
+    },
+    {
+    "subject": "產科",
+    "question": "婦女懷孕時補充攝取以下那一種維生素，已被証實可有效降低生下的小孩罹患神經管缺損（neural tubedefects）之機率？",
+    "choices": [
+        {
+        "text": "維生素 B1（thiamine）",
+        "is_correct": false
+        },
+        {
+        "text": "維生素 B6（pyridoxine）",
+        "is_correct": false
+        },
+        {
+        "text": "維生素 B9（folic acid）",
+        "is_correct": true
+        },
+        {
+        "text": "維生素 B12（cobalamin）",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "67",
+    "answer": "C"
+    },
+    {
+    "subject": "產科",
+    "question": "下列何者非子癲前症（pre-eclampsia）典型的臨床徵候？",
+    "choices": [
+        {
+        "text": "妊娠高血壓",
+        "is_correct": false
+        },
+        {
+        "text": "蛋白尿",
+        "is_correct": false
+        },
+        {
+        "text": "血糖上升",
+        "is_correct": true
+        },
+        {
+        "text": "下肢水腫",
+        "is_correct": false
+        }
+    ],
+    "session": "109寒期",
+    "no": "77",
+    "answer": "C"
+    }
+]

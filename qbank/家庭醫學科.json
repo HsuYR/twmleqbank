@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "家庭醫學科",
     "question": "85歲的陳婆婆最近3個月內跌倒了3次，還好都沒有明顯的受傷，今天來到門診做跌倒評估，醫師發現她有使用安眠藥的習慣，白內障導致她視力不佳，下肢肌力也不足，下列各項醫療建議，何者最不合適？",
     "choices": [
-      "藥物調整，減少安眠藥使用，教導正確的睡眠衛生習慣",
-      "尋求眼科醫師幫忙，考慮開刀治療白內障",
-      "利用運動與復健增加下肢肌力",
-      "服用維生素B增加下肢肌力"
+      {
+        "text": "藥物調整，減少安眠藥使用，教導正確的睡眠衛生習慣",
+        "is_correct": false
+      },
+      {
+        "text": "尋求眼科醫師幫忙，考慮開刀治療白內障",
+        "is_correct": false
+      },
+      {
+        "text": "利用運動與復健增加下肢肌力",
+        "is_correct": false
+      },
+      {
+        "text": "服用維生素B增加下肢肌力",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "2",
@@ -16,10 +28,22 @@
     "subject": "家庭醫學科",
     "question": "門診來了一位52歲男性進行體檢，身高167公分，體重87公斤，平日沒有不適。身體診察發現血壓132/84毫米汞柱，心跳每分鐘72次，身體質量指數（BMI）31 kg/m^2，其他身體檢查正常。在目前的血壓值所處的範圍，考慮前面的敘述，下列那一種生活型態修正對於降低血壓數值的效果最明顯？",
     "choices": [
-      "每天慢走十分鐘，每週四次",
-      "每天作息正常",
-      "減重大約九公斤",
-      "每日限鹽小於六公克"
+      {
+        "text": "每天慢走十分鐘，每週四次",
+        "is_correct": false
+      },
+      {
+        "text": "每天作息正常",
+        "is_correct": false
+      },
+      {
+        "text": "減重大約九公斤",
+        "is_correct": true
+      },
+      {
+        "text": "每日限鹽小於六公克",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "5",
@@ -29,10 +53,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關評估營養狀態之敘述，何者錯誤？",
     "choices": [
-      "blood urea nitrogen（BUN）若低於8 mg/dL，代表蛋白質的攝取可能不足",
-      "serum creatinine若低於0.6 mg/dL，代表因長期能量攝取不足而肌肉耗損（musclewasting）",
-      "prothrombin time延長，表示可能有維生素 K 缺乏",
-      "serum total iron binding capacity（TIBC）> 500 μg/dL代表蛋白質攝取不足，可能有惡性營養不良（kwashiorkor）"
+      {
+        "text": "blood urea nitrogen（BUN）若低於8 mg/dL，代表蛋白質的攝取可能不足",
+        "is_correct": false
+      },
+      {
+        "text": "serum creatinine若低於0.6 mg/dL，代表因長期能量攝取不足而肌肉耗損（musclewasting）",
+        "is_correct": false
+      },
+      {
+        "text": "prothrombin time延長，表示可能有維生素 K 缺乏",
+        "is_correct": false
+      },
+      {
+        "text": "serum total iron binding capacity（TIBC）> 500 μg/dL代表蛋白質攝取不足，可能有惡性營養不良（kwashiorkor）",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "17",
@@ -42,10 +78,22 @@
     "subject": "家庭醫學科",
     "question": "一位因中風長期臥床之病友，平日由看護自製流質飲食經鼻胃管餵食。一個月前更換看護後，家人發現病友尾骶骨（sacrum）附近長出一個直徑3公分之壓瘡（pressure sore）。一個月來雖然每日早晚擦藥治療、勤於翻身，傷口反而擴大為直徑8公分。此病友最不可能缺乏下列何種營養素？",
     "choices": [
-      "維生素A",
-      "維生素C",
-      "鋅",
-      "蛋白質"
+      {
+        "text": "維生素A",
+        "is_correct": true
+      },
+      {
+        "text": "維生素C",
+        "is_correct": false
+      },
+      {
+        "text": "鋅",
+        "is_correct": false
+      },
+      {
+        "text": "蛋白質",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "18",
@@ -55,10 +103,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關吸煙之敘述，何者錯誤？",
     "choices": [
-      "吸煙者相較於未吸煙者，罹患胰臟癌與膀胱癌之風險較高",
-      "吸煙會減緩theophylline、propranolol、oxazepam等藥之代謝速率，吸煙者使用此等藥物宜減量",
-      "吸二手煙之小孩相較於未吸煙者，易發生中耳積水（effusion）與氣喘",
-      "吸煙者相較於未吸煙者，使用口服避孕藥更容易發生缺血性中風與心肌梗塞之不良反應"
+      {
+        "text": "吸煙者相較於未吸煙者，罹患胰臟癌與膀胱癌之風險較高",
+        "is_correct": false
+      },
+      {
+        "text": "吸煙會減緩theophylline、propranolol、oxazepam等藥之代謝速率，吸煙者使用此等藥物宜減量",
+        "is_correct": true
+      },
+      {
+        "text": "吸二手煙之小孩相較於未吸煙者，易發生中耳積水（effusion）與氣喘",
+        "is_correct": false
+      },
+      {
+        "text": "吸煙者相較於未吸煙者，使用口服避孕藥更容易發生缺血性中風與心肌梗塞之不良反應",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "19",
@@ -68,10 +128,22 @@
     "subject": "家庭醫學科",
     "question": "有一位急性中風病友四肢完全癱瘓，肌力為0分，也無法說話，但雙眼可依指令睜眼或閉眼。為此病友評估昏迷指數（Glasgow coma scale）時，運動反應（motor response）之得分為幾分？",
     "choices": [
-      "0",
-      "1",
-      "5",
-      "6"
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "20",
@@ -81,10 +153,22 @@
     "subject": "家庭醫學科",
     "question": "林醫師是H鎮的衛生所主任，他依據Sidney Kark社區導向之基層醫療（community-orientedprimary care）作H鎮的青少年吸菸防治工作；調查發現H鎮的青少年吸菸由國中時開始。經過與鎮民代表商議後，選擇某國中為試辦對象；林醫師下一步的工作為何？",
     "choices": [
-      "界定社區的範圍",
-      "利用流行病學方法找尋健康問題",
-      "擬定解決健康問題之方案",
-      "邀請社區參與評估"
+      {
+        "text": "界定社區的範圍",
+        "is_correct": false
+      },
+      {
+        "text": "利用流行病學方法找尋健康問題",
+        "is_correct": false
+      },
+      {
+        "text": "擬定解決健康問題之方案",
+        "is_correct": true
+      },
+      {
+        "text": "邀請社區參與評估",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "71",
@@ -94,10 +178,22 @@
     "subject": "家庭醫學科",
     "question": "一位55歲男性患有肺癌及全身骨轉移，已使用高量嗎啡，病人仍感受無法忍受的不適，要求醫師讓他睡著就好了，下列那一項是不當的敘述？",
     "choices": [
-      "使用更高量的嗎啡止痛",
-      "給予足量的鎮靜劑協助病人入睡",
-      "給予鎮靜劑或止痛劑可能會影響病人的呼吸",
-      "若給予藥物後病人可能會死亡，等於是給病人安樂死，故不宜再給藥"
+      {
+        "text": "使用更高量的嗎啡止痛",
+        "is_correct": false
+      },
+      {
+        "text": "給予足量的鎮靜劑協助病人入睡",
+        "is_correct": false
+      },
+      {
+        "text": "給予鎮靜劑或止痛劑可能會影響病人的呼吸",
+        "is_correct": false
+      },
+      {
+        "text": "若給予藥物後病人可能會死亡，等於是給病人安樂死，故不宜再給藥",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "72",
@@ -107,10 +203,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者不是安寧緩和醫療中常用的鎮靜或止痛藥物？",
     "choices": [
-      "Morphine",
-      "Demerol（pethidine, meperidine）",
-      "Dormicum（midazolam）",
-      "Valium（diazepam）"
+      {
+        "text": "Morphine",
+        "is_correct": false
+      },
+      {
+        "text": "Demerol（pethidine, meperidine）",
+        "is_correct": true
+      },
+      {
+        "text": "Dormicum（midazolam）",
+        "is_correct": false
+      },
+      {
+        "text": "Valium（diazepam）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "73",
@@ -120,10 +228,22 @@
     "subject": "家庭醫學科",
     "question": "依據2005年Starfield等人的研究報告，美國地區每10,000人口多增加一位家庭醫師，對死亡人數的影響為何？",
     "choices": [
-      "每100,000人口增加700人死亡",
-      "每100,000人口增加70人死亡",
-      "每100,000人口減少70人死亡",
-      "每100,000人口減少700人死亡"
+      {
+        "text": "每100,000人口增加700人死亡",
+        "is_correct": false
+      },
+      {
+        "text": "每100,000人口增加70人死亡",
+        "is_correct": false
+      },
+      {
+        "text": "每100,000人口減少70人死亡",
+        "is_correct": true
+      },
+      {
+        "text": "每100,000人口減少700人死亡",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "66",
@@ -133,10 +253,22 @@
     "subject": "家庭醫學科",
     "question": "78歲男性因腦中風無法行動，住在長期照護機構，最近被發現其左後腳跟有一約1 cm之紅斑及瘀傷。下列有關處理此一壓瘡（pressure ulcer）之敘述何者最適當？",
     "choices": [
-      "進行全層皮膚移植（full-thickness skin graft）",
-      "進行擴創（debridement）並以優碘清洗",
-      "以泡沫軟墊保護腳跟，避免進一步傷害",
-      "將左腳抬高30度"
+      {
+        "text": "進行全層皮膚移植（full-thickness skin graft）",
+        "is_correct": false
+      },
+      {
+        "text": "進行擴創（debridement）並以優碘清洗",
+        "is_correct": false
+      },
+      {
+        "text": "以泡沫軟墊保護腳跟，避免進一步傷害",
+        "is_correct": true
+      },
+      {
+        "text": "將左腳抬高30度",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "67",
@@ -146,10 +278,22 @@
     "subject": "家庭醫學科",
     "question": "55歲有糖尿病的徐女士於2週前接受乳房攝影檢查，今天回診除看糖尿病外，並且要看乳房攝影檢查的報告，報告上寫著BIRADS category 0（0級），接下來給她何種建議?",
     "choices": [
-      "建議她趕快去看乳房外科並幫忙預約乳房外科門診，以免疾病拖太久",
-      "告訴她第4級及以上才是比較有惡性病變的可能，暫時觀察等明年再檢查就可以",
-      "告訴她0級表示沒有腫瘤，可兩年再檢查一次即可",
-      "告訴她0級表示不能排除有異狀，將為她安排乳房超音波檢查來協助進一步診斷"
+      {
+        "text": "建議她趕快去看乳房外科並幫忙預約乳房外科門診，以免疾病拖太久",
+        "is_correct": false
+      },
+      {
+        "text": "告訴她第4級及以上才是比較有惡性病變的可能，暫時觀察等明年再檢查就可以",
+        "is_correct": false
+      },
+      {
+        "text": "告訴她0級表示沒有腫瘤，可兩年再檢查一次即可",
+        "is_correct": false
+      },
+      {
+        "text": "告訴她0級表示不能排除有異狀，將為她安排乳房超音波檢查來協助進一步診斷",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "68",
@@ -159,10 +303,22 @@
     "subject": "家庭醫學科",
     "question": "為了早期發現糖尿病腎臟病變，下列何者為最適合的篩檢項目？",
     "choices": [
-      "肌胺酸酐",
-      "尿素氮",
-      "微蛋白尿",
-      "尿液常規檢查"
+      {
+        "text": "肌胺酸酐",
+        "is_correct": false
+      },
+      {
+        "text": "尿素氮",
+        "is_correct": false
+      },
+      {
+        "text": "微蛋白尿",
+        "is_correct": true
+      },
+      {
+        "text": "尿液常規檢查",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "69",
@@ -172,10 +328,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者不屬於Berlin與Fowkes所發展出來的LEARN模式？",
     "choices": [
-      "傾聽（listen）",
-      "解釋（explain）",
-      "支持（advocacy）",
-      "建議（recommend）"
+      {
+        "text": "傾聽（listen）",
+        "is_correct": false
+      },
+      {
+        "text": "解釋（explain）",
+        "is_correct": false
+      },
+      {
+        "text": "支持（advocacy）",
+        "is_correct": true
+      },
+      {
+        "text": "建議（recommend）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "70",
@@ -185,10 +353,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者不包括在1986年渥太華健康促進宣言的健康促進五大行動綱領？",
     "choices": [
-      "健康政策",
-      "健康環境",
-      "社區的參與",
-      "媒體宣導"
+      {
+        "text": "健康政策",
+        "is_correct": false
+      },
+      {
+        "text": "健康環境",
+        "is_correct": false
+      },
+      {
+        "text": "社區的參與",
+        "is_correct": false
+      },
+      {
+        "text": "媒體宣導",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "71",
@@ -198,10 +378,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者藥物不會有引起急性尿滯留（acute urinary retention）的副作用？",
     "choices": [
-      "α-腎上腺素作用劑（α- adrenergic agents）",
-      "抗組織胺（antihistamines）",
-      "治療鼻塞的感冒藥",
-      "膽鹼作用劑（cholinergic agents）"
+      {
+        "text": "α-腎上腺素作用劑（α- adrenergic agents）",
+        "is_correct": false
+      },
+      {
+        "text": "抗組織胺（antihistamines）",
+        "is_correct": false
+      },
+      {
+        "text": "治療鼻塞的感冒藥",
+        "is_correct": false
+      },
+      {
+        "text": "膽鹼作用劑（cholinergic agents）",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "76",
@@ -211,10 +403,22 @@
     "subject": "家庭醫學科",
     "question": "75歲的李女士這幾個月來家人發現她都不太喜歡出門，沒有活力，感覺相當健忘、睡得不好、食慾不佳、體重減少、常有呼吸困難、胸口悶、全身不舒服，家人帶她至門診評估。下列敘述何者錯誤？",
     "choices": [
-      "老年人憂鬱症常伴隨認知功能的症狀，而被認為是「假性失智症」",
-      "甲狀腺機能低下或亢進的病人可能都會伴隨憂鬱的症狀，所以懷疑憂鬱的病人應該測量甲狀腺功能",
-      "藥物治療6～8週後，大約60～70%的病人可以得到控制",
-      "SSRI（selective serotonin reuptake inhibitor）類的抗憂鬱藥品比TCA（tricyclic antidepressant）類的藥品更加有效"
+      {
+        "text": "老年人憂鬱症常伴隨認知功能的症狀，而被認為是「假性失智症」",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺機能低下或亢進的病人可能都會伴隨憂鬱的症狀，所以懷疑憂鬱的病人應該測量甲狀腺功能",
+        "is_correct": false
+      },
+      {
+        "text": "藥物治療6～8週後，大約60～70%的病人可以得到控制",
+        "is_correct": false
+      },
+      {
+        "text": "SSRI（selective serotonin reuptake inhibitor）類的抗憂鬱藥品比TCA（tricyclic antidepressant）類的藥品更加有效",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "1",
@@ -224,10 +428,22 @@
     "subject": "家庭醫學科",
     "question": "下列何種營養素的缺乏是酗酒病人貧血最常見的原因？",
     "choices": [
-      "folic acid",
-      "vitamin B12",
-      "iron",
-      "zinc"
+      {
+        "text": "folic acid",
+        "is_correct": true
+      },
+      {
+        "text": "vitamin B12",
+        "is_correct": false
+      },
+      {
+        "text": "iron",
+        "is_correct": false
+      },
+      {
+        "text": "zinc",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "43",
@@ -237,10 +453,22 @@
     "subject": "家庭醫學科",
     "question": "75歲林先生，平時有失智症及糖尿病，偶而失眠。這幾天突然不講話，且有尿失禁現象，家屬起初不以為意，三日後狀況惡化，帶至急診室，經診斷為肺炎，下列敘述何者正確？",
     "choices": [
-      "林先生沒有老年病症候群",
-      "林先生之表現為失智症惡化造成",
-      "林先生可能有醫源性問題",
-      "林先生一開始之表現為非典型表現"
+      {
+        "text": "林先生沒有老年病症候群",
+        "is_correct": false
+      },
+      {
+        "text": "林先生之表現為失智症惡化造成",
+        "is_correct": false
+      },
+      {
+        "text": "林先生可能有醫源性問題",
+        "is_correct": false
+      },
+      {
+        "text": "林先生一開始之表現為非典型表現",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "66",
@@ -250,10 +478,22 @@
     "subject": "家庭醫學科",
     "question": "63歲張女士，3個月前成人健檢報告顯示總膽固醇264 mg/dL，三酸甘油酯145 mg/dL，高密度脂蛋白膽固醇59 mg/dL，其它正常。張女士不抽菸，無其他疾病史，父親有糖尿病。複查結果低密度脂蛋白膽固醇150 mg/dL，血壓126/72 mmHg，身體質量指數（BMI）30.1 kg/m2，下列敘述何者最適當？",
     "choices": [
-      "張女士屬於心血管疾病中度風險者（moderate risk）",
-      "張女士之低密度脂蛋白膽固醇高於目標值",
-      "此時只須繼續生活方式改善，不須給予statin類藥物治療",
-      "須依Framingham Heart Study公式推估5年內罹患冠心症之風險值，才能決定張女士之膽固醇目標值"
+      {
+        "text": "張女士屬於心血管疾病中度風險者（moderate risk）",
+        "is_correct": false
+      },
+      {
+        "text": "張女士之低密度脂蛋白膽固醇高於目標值",
+        "is_correct": false
+      },
+      {
+        "text": "此時只須繼續生活方式改善，不須給予statin類藥物治療",
+        "is_correct": true
+      },
+      {
+        "text": "須依Framingham Heart Study公式推估5年內罹患冠心症之風險值，才能決定張女士之膽固醇目標值",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "67",
@@ -263,10 +503,22 @@
     "subject": "家庭醫學科",
     "question": "一位60歲女性，因屬骨質疏鬆症之高危險群，接受雙能量X光吸收儀（DEXA）骨質密度篩檢。檢查報告顯示有T值（Tscore）及Z值（Z-score），下列數值何者為骨質疏鬆症的診斷標準？",
     "choices": [
-      "T值≦－1.0",
-      "T值≦－2.5",
-      "Z值≦－1.0",
-      "Z值≦－2.5"
+      {
+        "text": "T值≦－1.0",
+        "is_correct": false
+      },
+      {
+        "text": "T值≦－2.5",
+        "is_correct": true
+      },
+      {
+        "text": "Z值≦－1.0",
+        "is_correct": false
+      },
+      {
+        "text": "Z值≦－2.5",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "68",
@@ -276,10 +528,22 @@
     "subject": "家庭醫學科",
     "question": "一位52歲患有高血壓並服用藥物的男性，計畫到印度鄉下去旅遊七天，若您要給他建議，下列何者不適當？",
     "choices": [
-      "高血壓藥可以不帶，因旅遊時間只有七天",
-      "自備ciprofloxacin以治療旅程中可能發生的旅遊者腹瀉或泌尿道感染",
-      "攜帶一些消炎止痛藥及抗組織胺以備不時之需",
-      "飲食必需煮熟，煮開，剝皮，否則就不要吃"
+      {
+        "text": "高血壓藥可以不帶，因旅遊時間只有七天",
+        "is_correct": true
+      },
+      {
+        "text": "自備ciprofloxacin以治療旅程中可能發生的旅遊者腹瀉或泌尿道感染",
+        "is_correct": false
+      },
+      {
+        "text": "攜帶一些消炎止痛藥及抗組織胺以備不時之需",
+        "is_correct": false
+      },
+      {
+        "text": "飲食必需煮熟，煮開，剝皮，否則就不要吃",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "69",
@@ -289,10 +553,22 @@
     "subject": "家庭醫學科",
     "question": "王小姐是一位憂鬱症患者，長期使用藥物治療。最近由於和男朋友吵架，情緒低落且失眠更為嚴重，數次向朋友表示要燒炭自殺，並買了一包炭回家。下列何者為最適當的處理方式？",
     "choices": [
-      "調整抗憂鬱藥物",
-      "請家人多注意病人的行為",
-      "詳細評估壓力來源",
-      "轉介精神醫療院所住院治療"
+      {
+        "text": "調整抗憂鬱藥物",
+        "is_correct": false
+      },
+      {
+        "text": "請家人多注意病人的行為",
+        "is_correct": false
+      },
+      {
+        "text": "詳細評估壓力來源",
+        "is_correct": false
+      },
+      {
+        "text": "轉介精神醫療院所住院治療",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "70",
@@ -302,10 +578,22 @@
     "subject": "家庭醫學科",
     "question": "依據2011年的發表，美國、加拿大、英國之全科醫師（家庭醫師）占全部醫師的比例分別為31％、48％、68％。依此全科醫師比例來考量，有關這三個國家醫療花費分別占國內生產總值（Gross Domestic Product，GDP）比例的描述，下列何者正\f確？",
     "choices": [
-      "美國最高",
-      "加拿大最高",
-      "英國最高",
-      "三個國家相似"
+      {
+        "text": "美國最高",
+        "is_correct": true
+      },
+      {
+        "text": "加拿大最高",
+        "is_correct": false
+      },
+      {
+        "text": "英國最高",
+        "is_correct": false
+      },
+      {
+        "text": "三個國家相似",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "71",
@@ -315,10 +603,22 @@
     "subject": "家庭醫學科",
     "question": "一位83歲男性，有認知能力退化現象，與女兒同住。被女兒送至急診室，他看起來營養狀況不良，身體可聞到尿味，兩上臂有瘀青現象，左手腕有擦傷。看起來有害怕的眼神，但他否認有任何人傷害他。急診室醫師在診療病人後首先應採取的作為，下列何者最適當？",
     "choices": [
-      "告訴他女兒，病人可能被虐待",
-      "儘快請他女兒將病人帶回家",
-      "聯絡社工來協助處理",
-      "安排尿液檢查"
+      {
+        "text": "告訴他女兒，病人可能被虐待",
+        "is_correct": false
+      },
+      {
+        "text": "儘快請他女兒將病人帶回家",
+        "is_correct": false
+      },
+      {
+        "text": "聯絡社工來協助處理",
+        "is_correct": true
+      },
+      {
+        "text": "安排尿液檢查",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "72",
@@ -328,10 +628,22 @@
     "subject": "家庭醫學科",
     "question": "關於緩和醫療（palliative care），下列敘述何者正確？",
     "choices": [
-      "依據安寧緩和醫療條例，不施行心肺復甦術，應由二位醫師診斷確為末期病人，且應有意願人簽署之意願書",
-      "非類固醇類抗發炎藥（NSAID）控制神經痛之效果良好",
-      "對非類固醇類抗發炎藥無效之疼痛，可給予meperidine（Demerol）",
-      "根據Kubler Ross的理論，對親人死亡之悲傷調適階段，為否認、憤怒、討價還價、憂鬱"
+      {
+        "text": "依據安寧緩和醫療條例，不施行心肺復甦術，應由二位醫師診斷確為末期病人，且應有意願人簽署之意願書",
+        "is_correct": true
+      },
+      {
+        "text": "非類固醇類抗發炎藥（NSAID）控制神經痛之效果良好",
+        "is_correct": false
+      },
+      {
+        "text": "對非類固醇類抗發炎藥無效之疼痛，可給予meperidine（Demerol）",
+        "is_correct": false
+      },
+      {
+        "text": "根據Kubler Ross的理論，對親人死亡之悲傷調適階段，為否認、憤怒、討價還價、憂鬱",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "73",
@@ -341,10 +653,22 @@
     "subject": "家庭醫學科",
     "question": "90歲的林奶奶患有血管性的失智症，近日來日夜顛倒，晚上無法睡覺，常常想要開門出去，外勞有時都拉不住，家人感到非常無助，來到門診尋求幫忙。下列有關失智症的敘述，何者正確？",
     "choices": [
-      "血管性的失智症是最常見的失智症",
-      "血管性的失智症可能來自於多次中風或大腦白質病變",
-      "初期失智症的病人一定會有記憶力喪失",
-      "失智症的病人如果有行為症狀，需要開立抗精神藥物，不需要行為治療"
+      {
+        "text": "血管性的失智症是最常見的失智症",
+        "is_correct": false
+      },
+      {
+        "text": "血管性的失智症可能來自於多次中風或大腦白質病變",
+        "is_correct": true
+      },
+      {
+        "text": "初期失智症的病人一定會有記憶力喪失",
+        "is_correct": false
+      },
+      {
+        "text": "失智症的病人如果有行為症狀，需要開立抗精神藥物，不需要行為治療",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "2",
@@ -354,10 +678,22 @@
     "subject": "家庭醫學科",
     "question": "有關水腫之敘述，何者正確？",
     "choices": [
-      "肝硬化引起水腫常伴隨頸靜脈曲張",
-      "單側下肢水腫常是因為靜脈或淋巴阻塞",
-      "血中蛋白質降低如nephrotic syndrome，不會引起臉或眼皮水腫",
-      "典型心衰竭引起的水腫，大致上和dependent sites無關"
+      {
+        "text": "肝硬化引起水腫常伴隨頸靜脈曲張",
+        "is_correct": false
+      },
+      {
+        "text": "單側下肢水腫常是因為靜脈或淋巴阻塞",
+        "is_correct": true
+      },
+      {
+        "text": "血中蛋白質降低如nephrotic syndrome，不會引起臉或眼皮水腫",
+        "is_correct": false
+      },
+      {
+        "text": "典型心衰竭引起的水腫，大致上和dependent sites無關",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "18",
@@ -367,10 +703,22 @@
     "subject": "家庭醫學科",
     "question": "下列各年齡層，那一個年齡層，生理及社會層面上，個體間差異性最大？",
     "choices": [
-      "孩童",
-      "青少年",
-      "中年",
-      "老年"
+      {
+        "text": "孩童",
+        "is_correct": false
+      },
+      {
+        "text": "青少年",
+        "is_correct": false
+      },
+      {
+        "text": "中年",
+        "is_correct": false
+      },
+      {
+        "text": "老年",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "66",
@@ -380,10 +728,22 @@
     "subject": "家庭醫學科",
     "question": "下列關於肥胖的敘述，何者錯誤？",
     "choices": [
-      "減重是降低血壓的非藥物治療手段之一",
-      "成人肥胖與兒童肥胖無關",
-      "肥胖與血脂異常、第二型糖尿病、癌症有關",
-      "每天減少500至1000大卡，一星期大約可減少0.5～1公斤"
+      {
+        "text": "減重是降低血壓的非藥物治療手段之一",
+        "is_correct": false
+      },
+      {
+        "text": "成人肥胖與兒童肥胖無關",
+        "is_correct": true
+      },
+      {
+        "text": "肥胖與血脂異常、第二型糖尿病、癌症有關",
+        "is_correct": false
+      },
+      {
+        "text": "每天減少500至1000大卡，一星期大約可減少0.5～1公斤",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "67",
@@ -393,10 +753,22 @@
     "subject": "家庭醫學科",
     "question": "一位21歲男大學生因發燒咳嗽五天而就診。無重大疾病史，且不抽菸。症狀一開始是乾咳，逐漸出現稀疏的白色痰。他同時抱怨全身倦怠、頭痛及肌肉酸痛，沒有喉嚨痛、流鼻水等症狀。他有一位室友在五天前有類似的症狀。理學檢查發現體溫39℃，咽喉僅稍為泛紅，肺部可聽到下肺野有一些囉音（rales/crackles），無其它異常。下列那一處置最適當？",
     "choices": [
-      "可能是病毒感染，自己會好轉，不必作任何檢查",
-      "給予ampicillin治療，不必作任何檢查",
-      "安排胸部電腦斷層檢查，以免誤診",
-      "依臨床發現，安排胸部X光檢查"
+      {
+        "text": "可能是病毒感染，自己會好轉，不必作任何檢查",
+        "is_correct": false
+      },
+      {
+        "text": "給予ampicillin治療，不必作任何檢查",
+        "is_correct": false
+      },
+      {
+        "text": "安排胸部電腦斷層檢查，以免誤診",
+        "is_correct": false
+      },
+      {
+        "text": "依臨床發現，安排胸部X光檢查",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "68",
@@ -406,10 +778,22 @@
     "subject": "家庭醫學科",
     "question": "一位28歲女性因氣喘控制不良，長期服用口服類固醇，而產生體重增加及情緒失調，若繼續下去，也可能造成股骨頭缺血性壞死（avascular necrosis）。下列有關病情告知的敘述，何者最正確？",
     "choices": [
-      "擔心告知後，會讓病人害怕而停止服藥造成氣喘惡化，故不應告知",
-      "為避免類固醇副作用的產生，不論氣喘控制與否，建議病人減少用量",
-      "告知病情，由病人自行決定是否繼續服用類固醇",
-      "不說明理由轉介至其它專科醫師處理"
+      {
+        "text": "擔心告知後，會讓病人害怕而停止服藥造成氣喘惡化，故不應告知",
+        "is_correct": false
+      },
+      {
+        "text": "為避免類固醇副作用的產生，不論氣喘控制與否，建議病人減少用量",
+        "is_correct": false
+      },
+      {
+        "text": "告知病情，由病人自行決定是否繼續服用類固醇",
+        "is_correct": true
+      },
+      {
+        "text": "不說明理由轉介至其它專科醫師處理",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "69",
@@ -419,10 +803,22 @@
     "subject": "家庭醫學科",
     "question": "高媽媽帶著剛滿11個月的小孩前來看咳嗽及流鼻水，詢問高媽媽有關高小弟的疫苗接種情況，依據衛生福利部國民健康署的建議，高小弟應已接受下列那些疫苗注射？1.卡介苗 2.B型肝炎 3.白喉破傷風百日咳混合疫苗 4.小兒麻痺口服疫苗 5.水痘疫苗 6.麻疹腮腺炎德國麻疹混合疫苗 7.日本腦炎疫苗 8.破傷風減量白喉混合疫苗？",
     "choices": [
-      "34567",
-      "1234",
-      "13456",
-      "1258"
+      {
+        "text": "34567",
+        "is_correct": true
+      },
+      {
+        "text": "1234",
+        "is_correct": true
+      },
+      {
+        "text": "13456",
+        "is_correct": true
+      },
+      {
+        "text": "1258",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "70",
@@ -432,10 +828,22 @@
     "subject": "家庭醫學科",
     "question": "接受荷爾蒙替代療法（HRT）治療的女性，其冠狀動脈疾病之年發生率為37/10,000，對照組之冠狀動脈疾病年發生率為30/10,000。接受HRT治療發生冠狀動脈疾病的NNH（number needed to harm）為何？",
     "choices": [
-      "1292",
-      "1428",
-      "975",
-      "2104"
+      {
+        "text": "1292",
+        "is_correct": false
+      },
+      {
+        "text": "1428",
+        "is_correct": true
+      },
+      {
+        "text": "975",
+        "is_correct": false
+      },
+      {
+        "text": "2104",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "71",
@@ -445,10 +853,22 @@
     "subject": "家庭醫學科",
     "question": "戒菸門診中有一位40歲男性病人想要在一個月之內採取戒菸行動，是屬於跨越理論模式（transtheoreticalmodel）中之那一期？",
     "choices": [
-      "未考慮階段（precontemplation）",
-      "考慮階段（preparation）",
-      "沈思階段（contemplation）",
-      "行動階段（action）"
+      {
+        "text": "未考慮階段（precontemplation）",
+        "is_correct": false
+      },
+      {
+        "text": "考慮階段（preparation）",
+        "is_correct": true
+      },
+      {
+        "text": "沈思階段（contemplation）",
+        "is_correct": false
+      },
+      {
+        "text": "行動階段（action）",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "72",
@@ -458,10 +878,22 @@
     "subject": "家庭醫學科",
     "question": "承上題，基層醫師介入之方法為：",
     "choices": [
-      "檢討病人戒菸計畫，減少對抽菸之誘惑情感",
-      "加強病人認知戒菸之好處，降低對抽菸好處之看法，使病人最後較趨向於戒菸",
-      "鼓勵病人設定開始戒菸的日期",
-      "討論抽菸對健康之影響"
+      {
+        "text": "檢討病人戒菸計畫，減少對抽菸之誘惑情感",
+        "is_correct": false
+      },
+      {
+        "text": "加強病人認知戒菸之好處，降低對抽菸好處之看法，使病人最後較趨向於戒菸",
+        "is_correct": false
+      },
+      {
+        "text": "鼓勵病人設定開始戒菸的日期",
+        "is_correct": true
+      },
+      {
+        "text": "討論抽菸對健康之影響",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "73",
@@ -471,10 +903,22 @@
     "subject": "家庭醫學科",
     "question": "與年輕人相比，老年人罹患肺炎時的相關症狀，下列敘述何者正確？",
     "choices": [
-      "發燒的比例比年輕人高",
-      "咳嗽有痰的比例比年輕人高",
-      "產生心智功能障礙的比例比年輕人高",
-      "產生胸痛的比例比年輕人高"
+      {
+        "text": "發燒的比例比年輕人高",
+        "is_correct": false
+      },
+      {
+        "text": "咳嗽有痰的比例比年輕人高",
+        "is_correct": false
+      },
+      {
+        "text": "產生心智功能障礙的比例比年輕人高",
+        "is_correct": true
+      },
+      {
+        "text": "產生胸痛的比例比年輕人高",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "1",
@@ -484,10 +928,22 @@
     "subject": "家庭醫學科",
     "question": "一位32歲男性馬拉松選手因為近日常覺得疲倦要求檢查。他五天前剛參加一場比賽，表現並沒有異狀。身體診察沒有異常，實驗室檢查了血色素與甲狀腺促素（TSH），檢查數值都正常。他的太太發現近日他在睡覺時常會打鼾，進行了睡眠檢查沒有發現呼吸中止，但24小時心電圖紀錄，在睡眠當中心跳每分鐘介於42～58次，清醒時心率則是每分鐘66～78次之間。針對該病人的心跳狀況應採取下列何項處置？",
     "choices": [
-      "安排住院接受心臟電氣生理檢查",
-      "不須治療",
-      "轉介安排心率節律器置入",
-      "給予頸動脈竇（carotid sinus）按摩"
+      {
+        "text": "安排住院接受心臟電氣生理檢查",
+        "is_correct": false
+      },
+      {
+        "text": "不須治療",
+        "is_correct": true
+      },
+      {
+        "text": "轉介安排心率節律器置入",
+        "is_correct": false
+      },
+      {
+        "text": "給予頸動脈竇（carotid sinus）按摩",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "2",
@@ -497,10 +953,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關中毒情況與所使用解毒劑之配對，何者錯誤？",
     "choices": [
-      "methanol---folinate",
-      "lead encephalopathy---dimercaprol + edetate calcium disodium",
-      "organophosphorus compounds---physostigmine",
-      "cyanide---sodium thiosulfate"
+      {
+        "text": "methanol---folinate",
+        "is_correct": false
+      },
+      {
+        "text": "lead encephalopathy---dimercaprol + edetate calcium disodium",
+        "is_correct": false
+      },
+      {
+        "text": "organophosphorus compounds---physostigmine",
+        "is_correct": true
+      },
+      {
+        "text": "cyanide---sodium thiosulfate",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "19",
@@ -510,10 +978,22 @@
     "subject": "家庭醫學科",
     "question": "一位66歲男性高血壓病人，有30年抽菸史，年輕時有氣喘病史，最近發現有糖尿病，醫師建議加入「全民健康保險糖尿病共同照護網」。下列糖尿病照護的管理流程，那一項錯誤？",
     "choices": [
-      "每三個月檢查糖化血色素",
-      "每年檢查眼底視網膜病變",
-      "每年周邊動脈硬化檢查",
-      "需要時安排足底神經學檢查"
+      {
+        "text": "每三個月檢查糖化血色素",
+        "is_correct": false
+      },
+      {
+        "text": "每年檢查眼底視網膜病變",
+        "is_correct": false
+      },
+      {
+        "text": "每年周邊動脈硬化檢查",
+        "is_correct": true
+      },
+      {
+        "text": "需要時安排足底神經學檢查",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "66",
@@ -523,10 +1003,22 @@
     "subject": "家庭醫學科",
     "question": "關於周全性老年評估，下列敘述何者錯誤？",
     "choices": [
-      "是在了解虛弱老人之問題，進而提供整體計畫，以作為治療及長期追蹤之參考",
-      "執行流程包括篩檢適合的病人、評估、建議及執行",
-      "可適用於各層級的老人照護",
-      "是以身體疾病的篩檢為主"
+      {
+        "text": "是在了解虛弱老人之問題，進而提供整體計畫，以作為治療及長期追蹤之參考",
+        "is_correct": false
+      },
+      {
+        "text": "執行流程包括篩檢適合的病人、評估、建議及執行",
+        "is_correct": false
+      },
+      {
+        "text": "可適用於各層級的老人照護",
+        "is_correct": false
+      },
+      {
+        "text": "是以身體疾病的篩檢為主",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "68",
@@ -536,10 +1028,22 @@
     "subject": "家庭醫學科",
     "question": "72歲的吳女士過去無子宮頸癌病史，過去連續三年的子宮頸抹片檢查皆為正常，目前已無性行為。最近至衛生所接受成人健檢時，吳女士詢問醫師是否應該繼續接受抹片檢查，以及是否可以接受人類乳突狀病毒疫苗的注射。下列敘述何者正確？",
     "choices": [
-      "子宮頸抹片篩檢屬於公共衛生的初段預防",
-      "吳女士不需再接受子宮頸抹片檢查",
-      "根據美國癌症學會建議，吳女士接受子宮頸抹片檢查的年齡不應有上限",
-      "應建議吳女士接受人類乳突狀病毒疫苗注射"
+      {
+        "text": "子宮頸抹片篩檢屬於公共衛生的初段預防",
+        "is_correct": false
+      },
+      {
+        "text": "吳女士不需再接受子宮頸抹片檢查",
+        "is_correct": true
+      },
+      {
+        "text": "根據美國癌症學會建議，吳女士接受子宮頸抹片檢查的年齡不應有上限",
+        "is_correct": false
+      },
+      {
+        "text": "應建議吳女士接受人類乳突狀病毒疫苗注射",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "69",
@@ -549,10 +1053,22 @@
     "subject": "家庭醫學科",
     "question": "先天性甲狀腺功能低下症的篩檢，對於其檢查工具準確性（accuracy）的考量，下列敘述何者最正確？",
     "choices": [
-      "敏感度的考量比特異度的考量重要",
-      "特異度的考量比敏感度的考量重要",
-      "敏感度與特異度的考量一樣重要",
-      "視篩檢族群的不同，而有所不同"
+      {
+        "text": "敏感度的考量比特異度的考量重要",
+        "is_correct": true
+      },
+      {
+        "text": "特異度的考量比敏感度的考量重要",
+        "is_correct": false
+      },
+      {
+        "text": "敏感度與特異度的考量一樣重要",
+        "is_correct": false
+      },
+      {
+        "text": "視篩檢族群的不同，而有所不同",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "70",
@@ -562,10 +1078,22 @@
     "subject": "家庭醫學科",
     "question": "Berlin與Fowkes所發展的文化差異處理模式（LEARN），包括那五個步驟？",
     "choices": [
-      "傾聽、評估、認知、建議、包容",
-      "傾聽、評估、警覺、建議、包容",
-      "傾聽、解釋、警覺、建議、妥協",
-      "傾聽、解釋、認知、建議、妥協"
+      {
+        "text": "傾聽、評估、認知、建議、包容",
+        "is_correct": false
+      },
+      {
+        "text": "傾聽、評估、警覺、建議、包容",
+        "is_correct": false
+      },
+      {
+        "text": "傾聽、解釋、警覺、建議、妥協",
+        "is_correct": false
+      },
+      {
+        "text": "傾聽、解釋、認知、建議、妥協",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "71",
@@ -575,10 +1103,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者是全民健康保險自1995年開辦以後，臺灣醫療環境所發生的變遷？",
     "choices": [
-      "地區醫院數目減少",
-      "基層診所數目減少",
-      "惡性腫瘤死亡率，超過心臟疾病成為第一大死亡原因",
-      "分級醫療及轉診制度的開始"
+      {
+        "text": "地區醫院數目減少",
+        "is_correct": true
+      },
+      {
+        "text": "基層診所數目減少",
+        "is_correct": false
+      },
+      {
+        "text": "惡性腫瘤死亡率，超過心臟疾病成為第一大死亡原因",
+        "is_correct": false
+      },
+      {
+        "text": "分級醫療及轉診制度的開始",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "72",
@@ -588,10 +1128,22 @@
     "subject": "家庭醫學科",
     "question": "當開立麻醉止痛藥（narcotic analgesic）給癌末病人時，下列何者是最需要同時開立之藥物？",
     "choices": [
-      "預防便祕之藥物",
-      "加強鎮靜（sedation）作用之藥物",
-      "預防頭暈之藥物",
-      "抗憂鬱劑"
+      {
+        "text": "預防便祕之藥物",
+        "is_correct": true
+      },
+      {
+        "text": "加強鎮靜（sedation）作用之藥物",
+        "is_correct": false
+      },
+      {
+        "text": "預防頭暈之藥物",
+        "is_correct": false
+      },
+      {
+        "text": "抗憂鬱劑",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "73",
@@ -601,10 +1153,22 @@
     "subject": "家庭醫學科",
     "question": "老化過程中會發生許多生理變化，在80 歲以上之正常老人，下列何種變化不正確或較罕見？",
     "choices": [
-      "心臟竇房結（sino-atrial node）之節律細胞（pacemaker cells）數量減少可達90%",
-      "腎素（renin）與腎上腺皮質醛固酮（aldosterone）分泌增加",
-      "約有50%可在腸道發現憩室（diverticula）",
-      "動脈血氧分壓約70-75 毫米汞柱"
+      {
+        "text": "心臟竇房結（sino-atrial node）之節律細胞（pacemaker cells）數量減少可達90%",
+        "is_correct": false
+      },
+      {
+        "text": "腎素（renin）與腎上腺皮質醛固酮（aldosterone）分泌增加",
+        "is_correct": true
+      },
+      {
+        "text": "約有50%可在腸道發現憩室（diverticula）",
+        "is_correct": false
+      },
+      {
+        "text": "動脈血氧分壓約70-75 毫米汞柱",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "20",
@@ -614,10 +1178,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者在老年病患最不常見？",
     "choices": [
-      "骨折",
-      "支氣管哮喘（bronchial asthma）",
-      "憂鬱",
-      "尿失禁"
+      {
+        "text": "骨折",
+        "is_correct": false
+      },
+      {
+        "text": "支氣管哮喘（bronchial asthma）",
+        "is_correct": true
+      },
+      {
+        "text": "憂鬱",
+        "is_correct": false
+      },
+      {
+        "text": "尿失禁",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "21",
@@ -627,10 +1203,22 @@
     "subject": "家庭醫學科",
     "question": "超音波最適合用來診斷下列何種肌肉骨骼疾病？",
     "choices": [
-      "metastatic bone lesion",
-      "chronic bone infection",
-      "avascular bone necrosis",
-      "tenosynovitis"
+      {
+        "text": "metastatic bone lesion",
+        "is_correct": false
+      },
+      {
+        "text": "chronic bone infection",
+        "is_correct": false
+      },
+      {
+        "text": "avascular bone necrosis",
+        "is_correct": false
+      },
+      {
+        "text": "tenosynovitis",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "45",
@@ -640,10 +1228,22 @@
     "subject": "家庭醫學科",
     "question": "一位 42 歲女性，有陣發性的高血壓、頭痛和流汗。24 小時尿液測定發現VMA（vanillylmandelic acid）高，但腎上腺的電腦斷層攝影卻看不到腫瘤。則下一步做何種檢查最適宜？",
     "choices": [
-      "131I- metaiodobenzylguanidine（MIBG）核子醫學掃描",
-      "胸部電腦斷層攝影",
-      "胸部核磁共振攝影（MRI）",
-      "99mTc-Sestamibi 核子醫學掃描"
+      {
+        "text": "131I- metaiodobenzylguanidine（MIBG）核子醫學掃描",
+        "is_correct": true
+      },
+      {
+        "text": "胸部電腦斷層攝影",
+        "is_correct": false
+      },
+      {
+        "text": "胸部核磁共振攝影（MRI）",
+        "is_correct": false
+      },
+      {
+        "text": "99mTc-Sestamibi 核子醫學掃描",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "58",
@@ -653,10 +1253,22 @@
     "subject": "家庭醫學科",
     "question": "一位 85 歲王先生，患有高血壓、糖尿病多年。5 年前曾中風，可行走但步履不穩。自己並不清楚目前服用的藥物，常因感冒、頭暈等不舒服症狀至診所就診，會自行停用原本服用之慢性病治療藥物。某天半夜起床小解，因跌倒造成右股骨骨折住院，下列敘述何者正確？",
     "choices": [
-      "此個案年紀大於80 歲，是無法改變的跌倒危險因子",
-      "此個案跌倒單純為步履不穩造成",
-      "此個案多重用藥不會增加跌倒危險性",
-      "此個案不需考慮其他醫源性問題"
+      {
+        "text": "此個案年紀大於80 歲，是無法改變的跌倒危險因子",
+        "is_correct": true
+      },
+      {
+        "text": "此個案跌倒單純為步履不穩造成",
+        "is_correct": false
+      },
+      {
+        "text": "此個案多重用藥不會增加跌倒危險性",
+        "is_correct": false
+      },
+      {
+        "text": "此個案不需考慮其他醫源性問題",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "66",
@@ -666,10 +1278,22 @@
     "subject": "家庭醫學科",
     "question": "依據美國預防服務工作小組（USPSTF）對11～24 歲者之週期性健康介入建議，下列何者不包括在內？",
     "choices": [
-      "現在或過去性生活較活躍之女性，每1～3 年做1 次子宮頸抹片檢查",
-      "11～16 歲追加破傷風／白喉疫苗",
-      "皆需檢查總膽固醇及血糖",
-      "衛教腳踏車、機車安全帽之使用"
+      {
+        "text": "現在或過去性生活較活躍之女性，每1～3 年做1 次子宮頸抹片檢查",
+        "is_correct": false
+      },
+      {
+        "text": "11～16 歲追加破傷風／白喉疫苗",
+        "is_correct": false
+      },
+      {
+        "text": "皆需檢查總膽固醇及血糖",
+        "is_correct": true
+      },
+      {
+        "text": "衛教腳踏車、機車安全帽之使用",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "68",
@@ -679,10 +1303,22 @@
     "subject": "家庭醫學科",
     "question": "周小姐經常感到疲倦、食慾不振、長期失眠、工作能力低落、人生乏味等不適，有數年之久。做過很多檢查都查不出器質性原因，被認為是神經衰弱。雖然大部分日子都感到身體與精神不好，但多年來沒有明顯變化。根據精神疾病診斷與統計手冊第四版（DSM-IV），最可能的診斷是：",
     "choices": [
-      "重度憂鬱症（major depression）",
-      "輕鬱性情感障礙症（dysthymic disorder）",
-      "擬身體障礙症（somatoform disorder）",
-      "焦慮症（anxiety disorder）"
+      {
+        "text": "重度憂鬱症（major depression）",
+        "is_correct": false
+      },
+      {
+        "text": "輕鬱性情感障礙症（dysthymic disorder）",
+        "is_correct": true
+      },
+      {
+        "text": "擬身體障礙症（somatoform disorder）",
+        "is_correct": false
+      },
+      {
+        "text": "焦慮症（anxiety disorder）",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "69",
@@ -692,10 +1328,22 @@
     "subject": "家庭醫學科",
     "question": "一位 75 歲的方先生，患有糖尿病、高膽固醇血症、攝護腺肥大及憂鬱症。下列何種抗憂鬱藥是最佳選擇？",
     "choices": [
-      "imipramine",
-      "clonazepam",
-      "venlafaxine",
-      "trazodone"
+      {
+        "text": "imipramine",
+        "is_correct": false
+      },
+      {
+        "text": "clonazepam",
+        "is_correct": false
+      },
+      {
+        "text": "venlafaxine",
+        "is_correct": true
+      },
+      {
+        "text": "trazodone",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "70",
@@ -705,10 +1353,22 @@
     "subject": "家庭醫學科",
     "question": "一位 80 歲胡女士，未受過正式教育，最近因為容易忘東忘西，被家屬帶至門診評估。醫師做了下列老人心智狀態評估檢查，迷你心智狀態檢查（MMSE）得分18 分（總分30 分）。一分鐘後覆誦「紅色」、「快樂」、「電視」（three-item recall），三項僅答對一項，畫鐘測試（clock drawing test, CDT），Manos 法得分6 分（總分10 分），下列敘述何者正確？",
     "choices": [
-      "根據MMSE 得分判讀，胡女士有失智症",
-      "臨床上還無法判讀有無失智症，需加做腦部電腦斷層檢查",
-      "根據Mini-Cog test（畫鐘測試及three-item recall）判讀，胡女士有失智症",
-      "胡女士容易忘東忘西，臨床上屬於輕度認知功能異常"
+      {
+        "text": "根據MMSE 得分判讀，胡女士有失智症",
+        "is_correct": false
+      },
+      {
+        "text": "臨床上還無法判讀有無失智症，需加做腦部電腦斷層檢查",
+        "is_correct": false
+      },
+      {
+        "text": "根據Mini-Cog test（畫鐘測試及three-item recall）判讀，胡女士有失智症",
+        "is_correct": true
+      },
+      {
+        "text": "胡女士容易忘東忘西，臨床上屬於輕度認知功能異常",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "71",
@@ -718,10 +1378,22 @@
     "subject": "家庭醫學科",
     "question": "下列敘述之急診病患，何者最不需要立即做腦部影像檢查？",
     "choices": [
-      "25 歲病患，滑倒跌坐後撞到頭，Glasgow昏迷指數 15 分，頭痛合併噁心，到院後已恢復，沒有明\n顯神經檢查異常",
-      "35 歲感染人類免疫缺損病毒的病患，新產生的頭痛，合併發燒、噁心、嘔吐，沒有明顯神經檢查\n異常",
-      "45 歲病患，新發生的頭痛，合併局部神經功能異常",
-      "55 歲病患，突發劇烈頭痛合併嚴重嘔吐，沒有明顯神經功能異常"
+      {
+        "text": "25 歲病患，滑倒跌坐後撞到頭，Glasgow昏迷指數 15 分，頭痛合併噁心，到院後已恢復，沒有明\n顯神經檢查異常",
+        "is_correct": true
+      },
+      {
+        "text": "35 歲感染人類免疫缺損病毒的病患，新產生的頭痛，合併發燒、噁心、嘔吐，沒有明顯神經檢查\n異常",
+        "is_correct": false
+      },
+      {
+        "text": "45 歲病患，新發生的頭痛，合併局部神經功能異常",
+        "is_correct": false
+      },
+      {
+        "text": "55 歲病患，突發劇烈頭痛合併嚴重嘔吐，沒有明顯神經功能異常",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "77",
@@ -731,10 +1403,22 @@
     "subject": "家庭醫學科",
     "question": "一位 20 歲原本健康的男性，被朋友發現意識不清，送急診室時血壓90/40 mmHg，兩眼瞳孔直徑1 mm等大，昏迷指數（Glasgow Coma Scale, GCS）為E1V1M4，若要做診斷性治療時，下列何者最不適當？",
     "choices": [
-      "Atropine",
-      "Naloxone",
-      "Flumazenil",
-      "Physostigmine"
+      {
+        "text": "Atropine",
+        "is_correct": false
+      },
+      {
+        "text": "Naloxone",
+        "is_correct": false
+      },
+      {
+        "text": "Flumazenil",
+        "is_correct": false
+      },
+      {
+        "text": "Physostigmine",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "78",
@@ -744,10 +1428,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關周邊性眩暈（peripheral vertigo）及中樞性眩暈（central vertigo）的鑑別診斷之敘述，何者正確？",
     "choices": [
-      "中樞性眩暈的病人其眩暈通常較為溫和，但周邊性眩暈的病人其眩暈通常較強烈",
-      "眼睛直視不轉動（visual fixation）可以抑制中樞性眩暈病人的眼球震顫及眩暈，但無法抑制周邊性眩暈病人的眼球震顫及眩暈",
-      "中樞性眩暈的病人常同時有耳鳴或失聰，而周邊性眩暈的病人很少有耳鳴",
-      "中樞性眩暈的病人不會有垂直眼球震顫（vertical nystagmus），而周邊性眩暈的病人常有垂直眼球震顫"
+      {
+        "text": "中樞性眩暈的病人其眩暈通常較為溫和，但周邊性眩暈的病人其眩暈通常較強烈",
+        "is_correct": true
+      },
+      {
+        "text": "眼睛直視不轉動（visual fixation）可以抑制中樞性眩暈病人的眼球震顫及眩暈，但無法抑制周邊性眩暈病人的眼球震顫及眩暈",
+        "is_correct": false
+      },
+      {
+        "text": "中樞性眩暈的病人常同時有耳鳴或失聰，而周邊性眩暈的病人很少有耳鳴",
+        "is_correct": false
+      },
+      {
+        "text": "中樞性眩暈的病人不會有垂直眼球震顫（vertical nystagmus），而周邊性眩暈的病人常有垂直眼球震顫",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "17",
@@ -757,10 +1453,22 @@
     "subject": "家庭醫學科",
     "question": "下列那一疾病比較不會併發骨質疏鬆症？",
     "choices": [
-      "hyperthyroidism",
-      "Cushing’s syndrome",
-      "hypogonadism",
-      "hyperaldosteronism"
+      {
+        "text": "hyperthyroidism",
+        "is_correct": false
+      },
+      {
+        "text": "Cushing’s syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "hypogonadism",
+        "is_correct": false
+      },
+      {
+        "text": "hyperaldosteronism",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "50",
@@ -770,10 +1478,22 @@
     "subject": "家庭醫學科",
     "question": "58王老太太85歲，過去病史有糖尿病、高血壓、鬱血性心衰竭（congestive heart failure），平日體重76公斤，今日早晨因為喘的情形惡化而到醫院求診。在急診室時心跳每分鐘152次，呼吸每分鐘28次，血壓120/60 mmHg，體重為77.5公斤，心血管的檢查發現心跳快速及節律不規則，聽診雙側肺底都出現囉音（crackles）。病人的胸部X光如圖1所示，心電圖檢查如圖2所示。胸部X光所示最可能的診斷為何？\f(圖１）（圖２）",
     "choices": [
-      "急性肺水腫（acute pulmonary edema）",
-      "氣胸（pneumothorax）",
-      "肋膜膿胸（empyema）",
-      "肺栓塞（pulmonary embolism）"
+      {
+        "text": "急性肺水腫（acute pulmonary edema）",
+        "is_correct": true
+      },
+      {
+        "text": "氣胸（pneumothorax）",
+        "is_correct": false
+      },
+      {
+        "text": "肋膜膿胸（empyema）",
+        "is_correct": false
+      },
+      {
+        "text": "肺栓塞（pulmonary embolism）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016568/Scanned_File/QUE-016568.png",
     "session": "104暑期",
@@ -784,10 +1504,22 @@
     "subject": "家庭醫學科",
     "question": "承上題，心電圖所顯示的診斷為何？",
     "choices": [
-      "房室節迴旋頻脈（AVNRT）",
-      "ST段上升型心肌梗塞（STEMI）",
-      "心房顫動（atrial fibrillation）",
-      "右心室肥大（RVH）"
+      {
+        "text": "房室節迴旋頻脈（AVNRT）",
+        "is_correct": false
+      },
+      {
+        "text": "ST段上升型心肌梗塞（STEMI）",
+        "is_correct": false
+      },
+      {
+        "text": "心房顫動（atrial fibrillation）",
+        "is_correct": true
+      },
+      {
+        "text": "右心室肥大（RVH）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "59",
@@ -797,10 +1529,22 @@
     "subject": "家庭醫學科",
     "question": "一位70歲男性病人，有糖尿病及高血壓病史，目前服用口服降血糖藥物治療，飯前血糖156mg/dL，發生右側中等量肋膜積液約1000 c.c.，有3個月之久，肋膜積液檢查，蛋白為2.5g/dL，LDH：150 U/L；L：N = 60：40，血清蛋白為6.0 g/dL，LDH為350 U/L，BUN：20mg/dL，病人無蛋白尿，肝功能正常，左心室ejection fraction（EF）為45%，則病人肋膜積液之最可原因為：",
     "choices": [
-      "結核性肋膜炎",
-      "左心衰竭",
-      "右心衰竭",
-      "自體免疫性肋膜炎"
+      {
+        "text": "結核性肋膜炎",
+        "is_correct": false
+      },
+      {
+        "text": "左心衰竭",
+        "is_correct": true
+      },
+      {
+        "text": "右心衰竭",
+        "is_correct": false
+      },
+      {
+        "text": "自體免疫性肋膜炎",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "60",
@@ -810,10 +1554,22 @@
     "subject": "家庭醫學科",
     "question": "承上題，上述病人肋膜積液最適宜之治療方式為：",
     "choices": [
-      "反覆抽取",
-      "放胸管引流並給予黏連治療",
-      "給予抗結核藥物治療",
-      "給予利尿劑治療"
+      {
+        "text": "反覆抽取",
+        "is_correct": false
+      },
+      {
+        "text": "放胸管引流並給予黏連治療",
+        "is_correct": false
+      },
+      {
+        "text": "給予抗結核藥物治療",
+        "is_correct": false
+      },
+      {
+        "text": "給予利尿劑治療",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "61",
@@ -823,10 +1579,22 @@
     "subject": "家庭醫學科",
     "question": "43歲女性最近經常身體不適就醫，主要症狀是心跳加快、冒汗、手抖。她覺得好像無法呼吸、快要窒息的感覺，每次發作時間都很短，接受過很多檢查但得不到肯定的答案，心情有點害怕與沮喪。下列何者是最可能之診斷？",
     "choices": [
-      "廣泛性焦慮症（generalized anxiety disorder）",
-      "換氣過度（hyperventilation）",
-      "強迫性官能症（obsessive compulsive disorder）",
-      "恐慌發作（panic attacks）"
+      {
+        "text": "廣泛性焦慮症（generalized anxiety disorder）",
+        "is_correct": false
+      },
+      {
+        "text": "換氣過度（hyperventilation）",
+        "is_correct": false
+      },
+      {
+        "text": "強迫性官能症（obsessive compulsive disorder）",
+        "is_correct": false
+      },
+      {
+        "text": "恐慌發作（panic attacks）",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "66",
@@ -836,10 +1604,22 @@
     "subject": "家庭醫學科",
     "question": "一個家庭由夫婦及其子女所組成，此家庭的結構屬於下列何項？",
     "choices": [
-      "核心家庭",
-      "擴大家庭",
-      "折衷家庭",
-      "聯合家庭"
+      {
+        "text": "核心家庭",
+        "is_correct": true
+      },
+      {
+        "text": "擴大家庭",
+        "is_correct": false
+      },
+      {
+        "text": "折衷家庭",
+        "is_correct": false
+      },
+      {
+        "text": "聯合家庭",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "67",
@@ -849,10 +1629,22 @@
     "subject": "家庭醫學科",
     "question": "一位48歲男性，身高170公分，體重85公斤，空腹血糖136 mg/dl。想減重以維持健康，但對運動沒有興趣。你建議他將每日熱量攝取減少500大卡。如果其它條件不變，持續這種飲食控制，六週後約可減重幾公斤？",
     "choices": [
-      "1公斤",
-      "3公斤",
-      "4.5公斤",
-      "6公斤"
+      {
+        "text": "1公斤",
+        "is_correct": false
+      },
+      {
+        "text": "3公斤",
+        "is_correct": true
+      },
+      {
+        "text": "4.5公斤",
+        "is_correct": false
+      },
+      {
+        "text": "6公斤",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "68",
@@ -862,10 +1654,22 @@
     "subject": "家庭醫學科",
     "question": "有一位9個月大的兒童，由她的祖母帶到健兒門診，接受全民健康保險兒童預防保健服務的第4次檢查，除了檢查身高、體重、頭圍、營養狀態及一般檢查等身體檢查外，這兒童還需要進行那項發展診查？",
     "choices": [
-      "是否可以「手指拿物」",
-      "是否可以「對人微笑」",
-      "是否可以「發ㄅㄚ、ㄇㄚ音」",
-      "是否可以「扶走」"
+      {
+        "text": "是否可以「手指拿物」",
+        "is_correct": true
+      },
+      {
+        "text": "是否可以「對人微笑」",
+        "is_correct": true
+      },
+      {
+        "text": "是否可以「發ㄅㄚ、ㄇㄚ音」",
+        "is_correct": true
+      },
+      {
+        "text": "是否可以「扶走」",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "69",
@@ -875,10 +1679,22 @@
     "subject": "家庭醫學科",
     "question": "李醫師是在一個小鎮執業數十年的醫師，很多居民是由他所接生，幫忙處理居民從小到大的健康問題。李醫師的服務符合基層醫療保健的那一個特性？",
     "choices": [
-      "負責性（accountability）",
-      "持續性（continuity）",
-      "周全性（comprehensiveness）",
-      "協調性（coordination）"
+      {
+        "text": "負責性（accountability）",
+        "is_correct": false
+      },
+      {
+        "text": "持續性（continuity）",
+        "is_correct": true
+      },
+      {
+        "text": "周全性（comprehensiveness）",
+        "is_correct": false
+      },
+      {
+        "text": "協調性（coordination）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "71",
@@ -888,10 +1704,22 @@
     "subject": "家庭醫學科",
     "question": "21歲女性，無過去病史。3天前開始發燒、咳嗽。今天門診就診時仍有發燒，且呼吸較急促、呼吸時胸痛。意識清楚，血壓 100/70 mmHg，脈搏100 bpm，呼吸24 bpm，耳溫38.9℃，左下肺葉扣診濁音（dullness），胸部X光顯示左下肺葉浸潤，診斷為肺炎。在社區門診應給予何種處置最適當？",
     "choices": [
-      "應先進行血液培養才可給予抗生素",
-      "痰液培養務必執行",
-      "可優先選用Azithromycin治療",
-      "可優先選用Moxifloxacin治療"
+      {
+        "text": "應先進行血液培養才可給予抗生素",
+        "is_correct": false
+      },
+      {
+        "text": "痰液培養務必執行",
+        "is_correct": false
+      },
+      {
+        "text": "可優先選用Azithromycin治療",
+        "is_correct": true
+      },
+      {
+        "text": "可優先選用Moxifloxacin治療",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "72",
@@ -901,10 +1729,22 @@
     "subject": "家庭醫學科",
     "question": "一位22歲男性有癲癇之病史，晚上參加朋友的生日派對後，當天即出現冒汗、頭暈、噁心、心悸的現象，因而來急診求診。經過詢問，此症狀是他與朋友一同使用不知名藥物後才出現，病人在急診室候診時顯得相當亢奮、坐立難安。理學檢查：體溫38.2℃、呼吸26次/min、血壓172/92 mmHg，聽心音快且不規則135次/min，雙側瞳孔放大。該病人最有可能使用何種藥物？",
     "choices": [
-      "安非他命（amphetamine）",
-      "海落英（heroin）",
-      "嗎啡（morphine）",
-      "抗膽鹼性的藥物（anticholinergic agents）"
+      {
+        "text": "安非他命（amphetamine）",
+        "is_correct": true
+      },
+      {
+        "text": "海落英（heroin）",
+        "is_correct": false
+      },
+      {
+        "text": "嗎啡（morphine）",
+        "is_correct": false
+      },
+      {
+        "text": "抗膽鹼性的藥物（anticholinergic agents）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "77",
@@ -914,10 +1754,22 @@
     "subject": "家庭醫學科",
     "question": "承上題，下列何項處置最不恰當？",
     "choices": [
-      "靜脈輸液（fluid hydration）",
-      "給予benzodiazepines",
-      "降溫",
-      "給予haloperidol"
+      {
+        "text": "靜脈輸液（fluid hydration）",
+        "is_correct": false
+      },
+      {
+        "text": "給予benzodiazepines",
+        "is_correct": false
+      },
+      {
+        "text": "降溫",
+        "is_correct": false
+      },
+      {
+        "text": "給予haloperidol",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "78",
@@ -927,10 +1779,22 @@
     "subject": "家庭醫學科",
     "question": "有關老年病人的評估，下列敘述何者正確？",
     "choices": [
-      "Mini-Mental State Examination主要用來篩檢憂鬱症（depression）",
-      "Mini-Cog test包括「倒背數字」與「系列減法」兩部分",
-      "Timed up-and-go test用於評估行走與平衡能力",
-      "備餐、沐浴、移位、服藥等能力皆是基本日常生活活動功能（basic activities of daily living）的評估項目"
+      {
+        "text": "Mini-Mental State Examination主要用來篩檢憂鬱症（depression）",
+        "is_correct": false
+      },
+      {
+        "text": "Mini-Cog test包括「倒背數字」與「系列減法」兩部分",
+        "is_correct": false
+      },
+      {
+        "text": "Timed up-and-go test用於評估行走與平衡能力",
+        "is_correct": true
+      },
+      {
+        "text": "備餐、沐浴、移位、服藥等能力皆是基本日常生活活動功能（basic activities of daily living）的評估項目",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "12",
@@ -940,10 +1804,22 @@
     "subject": "家庭醫學科",
     "question": "關於老人照護的原則，下列何者正確？",
     "choices": [
-      "強調疾病之治癒",
-      "以維持功能及維持自我照顧能力為原則",
-      "老年人的照護，僅需治療性的診治",
-      "老年人新出現的疾病，不會造成其功能進一步退化"
+      {
+        "text": "強調疾病之治癒",
+        "is_correct": false
+      },
+      {
+        "text": "以維持功能及維持自我照顧能力為原則",
+        "is_correct": true
+      },
+      {
+        "text": "老年人的照護，僅需治療性的診治",
+        "is_correct": false
+      },
+      {
+        "text": "老年人新出現的疾病，不會造成其功能進一步退化",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "66",
@@ -953,10 +1829,22 @@
     "subject": "家庭醫學科",
     "question": "下列何者不屬於Smilkstein所創立出來的家庭APGAR功能問卷之五個成分？",
     "choices": [
-      "適應度（adaptation）",
-      "合作度（partnership）",
-      "成長度（growth）",
-      "資源度（resource）"
+      {
+        "text": "適應度（adaptation）",
+        "is_correct": false
+      },
+      {
+        "text": "合作度（partnership）",
+        "is_correct": false
+      },
+      {
+        "text": "成長度（growth）",
+        "is_correct": false
+      },
+      {
+        "text": "資源度（resource）",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "68",
@@ -966,10 +1854,22 @@
     "subject": "家庭醫學科",
     "question": "有關疾病或狀況篩檢的原則，下列何者不是原則之一？",
     "choices": [
-      "該疾病或狀況需具有較高的罹病率或死亡率",
-      "該疾病或狀況需有較高的盛行率或較高的發生率",
-      "該疾病或狀況需具有有症狀的期間，才有足夠時間去檢查",
-      "該疾病或狀況必須有廣被接受的治療，且可改善疾病預後"
+      {
+        "text": "該疾病或狀況需具有較高的罹病率或死亡率",
+        "is_correct": false
+      },
+      {
+        "text": "該疾病或狀況需有較高的盛行率或較高的發生率",
+        "is_correct": false
+      },
+      {
+        "text": "該疾病或狀況需具有有症狀的期間，才有足夠時間去檢查",
+        "is_correct": true
+      },
+      {
+        "text": "該疾病或狀況必須有廣被接受的治療，且可改善疾病預後",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "69",
@@ -979,10 +1879,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關青少年行為問題的描述，何者正確？",
     "choices": [
-      "青少年的冒險行為與雄性激素無關",
-      "性行為不屬於青少年的冒險行為",
-      "生理、心理、社會及環境變化的不同步，與冒險行為有關",
-      "物質濫用通常會合併使用興奮劑、大麻及古柯鹼"
+      {
+        "text": "青少年的冒險行為與雄性激素無關",
+        "is_correct": false
+      },
+      {
+        "text": "性行為不屬於青少年的冒險行為",
+        "is_correct": false
+      },
+      {
+        "text": "生理、心理、社會及環境變化的不同步，與冒險行為有關",
+        "is_correct": true
+      },
+      {
+        "text": "物質濫用通常會合併使用興奮劑、大麻及古柯鹼",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "70",
@@ -992,10 +1904,22 @@
     "subject": "家庭醫學科",
     "question": "35歲王小姐，餐廳服務員，主訴雙膝痠痛已三個月。她的身體質量指數（BMI）為32 Kg/m2，最近她了解膝痛與體重有關，覺得現在是該減重的時候了，準備在一個月內採取行動。根據跨越理論模式（transtheoretical model），王小姐是處於行為改變的那一階段？",
     "choices": [
-      "未考慮階段（precontemplation）",
-      "考慮階段（contemplation）",
-      "準備階段（preparation）",
-      "行動階段（action）"
+      {
+        "text": "未考慮階段（precontemplation）",
+        "is_correct": false
+      },
+      {
+        "text": "考慮階段（contemplation）",
+        "is_correct": false
+      },
+      {
+        "text": "準備階段（preparation）",
+        "is_correct": true
+      },
+      {
+        "text": "行動階段（action）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "71",
@@ -1005,10 +1929,22 @@
     "subject": "家庭醫學科",
     "question": "一位85歲女性病人兩年前中風臥床，現身上有鼻胃管及導尿管，兩年中曾有三次因吸入性肺炎住進加護病房，下列有關居家訪視服務的描述，何者最不適當？",
     "choices": [
-      "討論有關末期狀況時所要作的處理",
-      "協助病人更換鼻胃管及導尿管",
-      "評估家屬之照顧能力",
-      "若有發燒馬上送醫院，以免肺炎的惡化"
+      {
+        "text": "討論有關末期狀況時所要作的處理",
+        "is_correct": false
+      },
+      {
+        "text": "協助病人更換鼻胃管及導尿管",
+        "is_correct": false
+      },
+      {
+        "text": "評估家屬之照顧能力",
+        "is_correct": false
+      },
+      {
+        "text": "若有發燒馬上送醫院，以免肺炎的惡化",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "72",
@@ -1018,10 +1954,22 @@
     "subject": "家庭醫學科",
     "question": "馮科⻑45歲，體型微胖，半年多前開始有無故突然的胸痛發作。看了多間醫學中⼼的⼼、肺等專科，做了各種健保及⾃費檢查，都找不出器質性原因。雖然醫師⼀再保證⼼臟病的可能很少，馮先⽣依然擔⼼仍有隱伏的⾝體問題未找出來，繼續不斷尋找各種醫療與檢查。根據精神疾病診斷與統計⼿冊第五版（DSM-V），最可能的診斷是？",
     "choices": [
-      "重度憂鬱症（major depression）",
-      "輕鬱性情感障礙症（dysthymic disorder）",
-      "⾝體症狀障礙症（somatic symptom disorder）",
-      "焦慮症（anxiety disorder）"
+      {
+        "text": "重度憂鬱症（major depression）",
+        "is_correct": false
+      },
+      {
+        "text": "輕鬱性情感障礙症（dysthymic disorder）",
+        "is_correct": false
+      },
+      {
+        "text": "⾝體症狀障礙症（somatic symptom disorder）",
+        "is_correct": true
+      },
+      {
+        "text": "焦慮症（anxiety disorder）",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "70",
@@ -1031,10 +1979,22 @@
     "subject": "家庭醫學科",
     "question": "就實證醫學（evidence-based medicine）的證據層級比較⽽⾔，下列不同的研究型態，何者的層級是最⾼的？",
     "choices": [
-      "世代研究（cohort study）",
-      "專家意⾒（expert opinion）",
-      "統合分析（meta-analysis）",
-      "個案對照研究（case-control study）"
+      {
+        "text": "世代研究（cohort study）",
+        "is_correct": false
+      },
+      {
+        "text": "專家意⾒（expert opinion）",
+        "is_correct": false
+      },
+      {
+        "text": "統合分析（meta-analysis）",
+        "is_correct": true
+      },
+      {
+        "text": "個案對照研究（case-control study）",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "71",
@@ -1044,10 +2004,22 @@
     "subject": "家庭醫學科",
     "question": "有關臺灣的社區醫療體系中，沒有從事基層醫療服務的單位或組織為何？",
     "choices": [
-      "衛⽣所",
-      "社區健康營造中⼼",
-      "社區醫療群",
-      "基層診所"
+      {
+        "text": "衛⽣所",
+        "is_correct": false
+      },
+      {
+        "text": "社區健康營造中⼼",
+        "is_correct": true
+      },
+      {
+        "text": "社區醫療群",
+        "is_correct": false
+      },
+      {
+        "text": "基層診所",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "72",
@@ -1057,10 +2029,22 @@
     "subject": "家庭醫學科",
     "question": "有一位75歲男性病人，解尿時通常需要稍微用力才能解出來，且尿流較細，曾被泌尿科醫師診斷為前列腺肥大（benign prostatic hyperplasia or hypertrophy）。某日他因感冒與嘔吐服用藥物，結果突然發生無法排尿的情況，明明覺得膀胱很脹，但就是解不出來。請依前述情況回答下列3題。下列藥物何者最不可能造成此種情況？",
     "choices": [
-      "codeine（一種opiate，用於止咳）",
-      "diphenhydramine（一種抗組織胺[anti-histamine]）",
-      "metoclopramide（一種胃腸蠕動促進劑[prokinetic]）",
-      "pseudoephedrine（一種甲型腎上腺素受體促效劑[alpha-adrenergic agonist]）"
+      {
+        "text": "codeine（一種opiate，用於止咳）",
+        "is_correct": false
+      },
+      {
+        "text": "diphenhydramine（一種抗組織胺[anti-histamine]）",
+        "is_correct": false
+      },
+      {
+        "text": "metoclopramide（一種胃腸蠕動促進劑[prokinetic]）",
+        "is_correct": true
+      },
+      {
+        "text": "pseudoephedrine（一種甲型腎上腺素受體促效劑[alpha-adrenergic agonist]）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "61",
@@ -1070,10 +2054,22 @@
     "subject": "家庭醫學科",
     "question": "上述病人嘗試去排尿後，立即使用超音波檢查膀胱，發現約有500 mL餘尿。當超音波探頭壓在下腹部時，可發現少量尿液不自主的從尿道口緩慢流出來。此種型態的尿失禁（urinary incontinence）稱為：",
     "choices": [
-      "功能性尿失禁（functional incontinence）",
-      "應力性尿失禁（stress incontinence）",
-      "溢流性尿失禁（overflow incontinence）",
-      "急迫性尿失禁（urge incontinence）"
+      {
+        "text": "功能性尿失禁（functional incontinence）",
+        "is_correct": false
+      },
+      {
+        "text": "應力性尿失禁（stress incontinence）",
+        "is_correct": false
+      },
+      {
+        "text": "溢流性尿失禁（overflow incontinence）",
+        "is_correct": true
+      },
+      {
+        "text": "急迫性尿失禁（urge incontinence）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "62",
@@ -1083,10 +2079,22 @@
     "subject": "家庭醫學科",
     "question": "承上題，對於上述病人的處置，下列何者最可能有助益？",
     "choices": [
-      "使用甲型腎上腺素受體拮抗劑（alpha-adrenergic antagonist）",
-      "採用行為治療（behavioral therapy），如：骨盆腔底肌肉訓練",
-      "使用抗膽鹼劑（anticholinergic）",
-      "使用乙三型腎上腺素受體促效劑（beta 3-adrenergic agonist）"
+      {
+        "text": "使用甲型腎上腺素受體拮抗劑（alpha-adrenergic antagonist）",
+        "is_correct": true
+      },
+      {
+        "text": "採用行為治療（behavioral therapy），如：骨盆腔底肌肉訓練",
+        "is_correct": false
+      },
+      {
+        "text": "使用抗膽鹼劑（anticholinergic）",
+        "is_correct": false
+      },
+      {
+        "text": "使用乙三型腎上腺素受體促效劑（beta 3-adrenergic agonist）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "63",
@@ -1096,10 +2104,22 @@
     "subject": "家庭醫學科",
     "question": "周全性老年評估可以發現老年人之潛在性可治療的健康問題，使老年人獲得較好的健康照顧。下列何種狀況最不適合作周全性老年評估？",
     "choices": [
-      "疾病末期病人或有嚴重失智者",
-      "有多重疾病、服用多種藥物的老年人",
-      "日常生活活動功能不全的老年人，尤其在最近有惡化的情形者",
-      "最近多次住院，且原因未明確者"
+      {
+        "text": "疾病末期病人或有嚴重失智者",
+        "is_correct": true
+      },
+      {
+        "text": "有多重疾病、服用多種藥物的老年人",
+        "is_correct": false
+      },
+      {
+        "text": "日常生活活動功能不全的老年人，尤其在最近有惡化的情形者",
+        "is_correct": false
+      },
+      {
+        "text": "最近多次住院，且原因未明確者",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "66",
@@ -1109,10 +2129,22 @@
     "subject": "家庭醫學科",
     "question": "何太太40歲育有一子，最近經常胸痛、盗汗、顫抖、同時會有呼吸困難，感覺自己快要窒息。症狀在約十分鐘內達到高峰，且發生時間不定，在睡眠時亦曾發生，在醫院做了很多檢查，都找不到器質性原因。最後在林醫師門診吃藥後慢慢獲得改善，林醫師的處方，最可能是那一種藥物？",
     "choices": [
-      "isosorbide mononitrate",
-      "propylthiouracil",
-      "sertraline",
-      "digoxin"
+      {
+        "text": "isosorbide mononitrate",
+        "is_correct": false
+      },
+      {
+        "text": "propylthiouracil",
+        "is_correct": false
+      },
+      {
+        "text": "sertraline",
+        "is_correct": true
+      },
+      {
+        "text": "digoxin",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "70",
@@ -1122,10 +2154,22 @@
     "subject": "家庭醫學科",
     "question": "78歲陳先生由親人陪同就診，主訴最近一週有尿失禁及倦怠無力。病人長期失眠，經常服用安眠藥。最近失眠加重，增加劑量仍未見效，而且血壓也上升。病人又自行購買高血壓藥物服用。身體檢查病人生命徵象穩定，意識清楚，行動正常且無局部神經異常症狀。對該病人的處置方式，下列何者最為適當？",
     "choices": [
-      "安排病人入住護理之家接受照顧",
-      "轉介精神神經專科檢查及調整安眠藥",
-      "作老人周全性評估",
-      "即刻安排病人住院治療"
+      {
+        "text": "安排病人入住護理之家接受照顧",
+        "is_correct": false
+      },
+      {
+        "text": "轉介精神神經專科檢查及調整安眠藥",
+        "is_correct": false
+      },
+      {
+        "text": "作老人周全性評估",
+        "is_correct": true
+      },
+      {
+        "text": "即刻安排病人住院治療",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "71",
@@ -1135,10 +2179,22 @@
     "subject": "家庭醫學科",
     "question": "癌症末期疼痛治療的原則，下列敘述何者錯誤？",
     "choices": [
-      "經口給藥是使用止痛藥的優先考慮途徑",
-      "以「疼痛時才給藥」的處方方式為原則",
-      "適時使用輔助藥物",
-      "使用正確的藥物品項及劑量，與正確的時間間隔，大多數的癌痛，可以得到緩解"
+      {
+        "text": "經口給藥是使用止痛藥的優先考慮途徑",
+        "is_correct": false
+      },
+      {
+        "text": "以「疼痛時才給藥」的處方方式為原則",
+        "is_correct": true
+      },
+      {
+        "text": "適時使用輔助藥物",
+        "is_correct": false
+      },
+      {
+        "text": "使用正確的藥物品項及劑量，與正確的時間間隔，大多數的癌痛，可以得到緩解",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "73",
@@ -1148,10 +2204,22 @@
     "subject": "家庭醫學科",
     "question": "44歲女性有酗酒習慣，某日熬夜喝酒之後突然口語不清，吞嚥困難，因此被送到急診求治；患者未注射對比劑的電腦斷層掃描檢查如圖，最可能的診斷為何？",
     "choices": [
-      "小腦梗塞",
-      "小腦出血",
-      "腦幹梗塞",
-      "腦幹出血"
+      {
+        "text": "小腦梗塞",
+        "is_correct": false
+      },
+      {
+        "text": "小腦出血",
+        "is_correct": false
+      },
+      {
+        "text": "腦幹梗塞",
+        "is_correct": false
+      },
+      {
+        "text": "腦幹出血",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028564/Scanned_File/QUE-028564.png",
     "session": "108暑期",
@@ -1162,10 +2230,22 @@
     "subject": "家庭醫學科",
     "question": "關於路易絲湖急性高山病（Lake Louise Acute Mountain Sickness）評估表內容的症狀及徵候，不包括下列何項？",
     "choices": [
-      "頭痛",
-      "噁心、嘔吐",
-      "腹瀉",
-      "失眠"
+      {
+        "text": "頭痛",
+        "is_correct": false
+      },
+      {
+        "text": "噁心、嘔吐",
+        "is_correct": false
+      },
+      {
+        "text": "腹瀉",
+        "is_correct": true
+      },
+      {
+        "text": "失眠",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "77",
@@ -1175,10 +2255,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關譫妄（delirium）的敘述，何者最適當？",
     "choices": [
-      "老年人住院時譫妄的發生率，平均約為1.0～5.0 %",
-      "失智症（dementia）是譫妄最主要的前置因子（predisposing factor）",
-      "鴉片類藥物（opioids）或是抗膽鹼劑（anti-cholinergics）的使用，可有效幫助患者減少譫妄的發生",
-      "身體約束（physical restraint）及benzodiazepines注射，目前被建議用於譫妄的治療"
+      {
+        "text": "老年人住院時譫妄的發生率，平均約為1.0～5.0 %",
+        "is_correct": false
+      },
+      {
+        "text": "失智症（dementia）是譫妄最主要的前置因子（predisposing factor）",
+        "is_correct": true
+      },
+      {
+        "text": "鴉片類藥物（opioids）或是抗膽鹼劑（anti-cholinergics）的使用，可有效幫助患者減少譫妄的發生",
+        "is_correct": false
+      },
+      {
+        "text": "身體約束（physical restraint）及benzodiazepines注射，目前被建議用於譫妄的治療",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "2",
@@ -1188,10 +2280,22 @@
     "subject": "家庭醫學科",
     "question": "以一群健康的80歲老人與一群健康的20歲年輕人相比，下列何者在老人組最不會下降？",
     "choices": [
-      "運動時可達到的最快心跳速率",
-      "動脈血氧分壓",
-      "腎絲球過濾率（glomerular filtration rate）",
-      "血中胰島素（insulin）濃度"
+      {
+        "text": "運動時可達到的最快心跳速率",
+        "is_correct": false
+      },
+      {
+        "text": "動脈血氧分壓",
+        "is_correct": false
+      },
+      {
+        "text": "腎絲球過濾率（glomerular filtration rate）",
+        "is_correct": false
+      },
+      {
+        "text": "血中胰島素（insulin）濃度",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "5",
@@ -1201,10 +2305,22 @@
     "subject": "家庭醫學科",
     "question": "關於生理心理社會模式（biopsychosocial models）的敘述，下列何者正確？",
     "choices": [
-      "生理層面包含影響生理功能之環境因素",
-      "心理層面包含基因及疾病史",
-      "社會層面包含情感及意志",
-      "社會層面包含人格特質及應對方式（coping style）"
+      {
+        "text": "生理層面包含影響生理功能之環境因素",
+        "is_correct": true
+      },
+      {
+        "text": "心理層面包含基因及疾病史",
+        "is_correct": false
+      },
+      {
+        "text": "社會層面包含情感及意志",
+        "is_correct": false
+      },
+      {
+        "text": "社會層面包含人格特質及應對方式（coping style）",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "66",
@@ -1214,10 +2330,22 @@
     "subject": "家庭醫學科",
     "question": "有關周全性評估老人功能的量表與目的，下列敘述何者錯誤？",
     "choices": [
-      "日常生活活動功能（basic activities of daily living, ADLs）使用巴氏生活量表（Barthel's index）評估個人日常生活的自我照顧能力",
-      "工具性日常生活活動功能（instrumental activities of daily living, IADLs）評估個人於社區獨立生活的能力",
-      "簡式智能評估量表（mini-mental status examination, MMSE）篩檢智商與溝通能力",
-      "老年憂鬱量表（geriatric depression scale, GDS）篩檢及評估憂鬱狀況"
+      {
+        "text": "日常生活活動功能（basic activities of daily living, ADLs）使用巴氏生活量表（Barthel's index）評估個人日常生活的自我照顧能力",
+        "is_correct": false
+      },
+      {
+        "text": "工具性日常生活活動功能（instrumental activities of daily living, IADLs）評估個人於社區獨立生活的能力",
+        "is_correct": false
+      },
+      {
+        "text": "簡式智能評估量表（mini-mental status examination, MMSE）篩檢智商與溝通能力",
+        "is_correct": true
+      },
+      {
+        "text": "老年憂鬱量表（geriatric depression scale, GDS）篩檢及評估憂鬱狀況",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "67",
@@ -1227,10 +2355,22 @@
     "subject": "家庭醫學科",
     "question": "17歲男生因感冒至家庭醫學科診所就醫，依據美國預防醫學工作小組（US Preventive Services Task Force）的建議，下列何者是屬於家庭醫師須透過密集諮詢（intensive counseling）而非經由簡短諮詢（briefcounseling）的項目？",
     "choices": [
-      "避免酗酒（alcohol misuse）",
-      "預防皮膚癌（skin cancer）",
-      "預防菸品使用（tobacco use）",
-      "性接觸傳染病（sexually transmitted infection）"
+      {
+        "text": "避免酗酒（alcohol misuse）",
+        "is_correct": false
+      },
+      {
+        "text": "預防皮膚癌（skin cancer）",
+        "is_correct": false
+      },
+      {
+        "text": "預防菸品使用（tobacco use）",
+        "is_correct": false
+      },
+      {
+        "text": "性接觸傳染病（sexually transmitted infection）",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "68",
@@ -1240,10 +2380,22 @@
     "subject": "家庭醫學科",
     "question": "有關旅行者腹瀉（traveler's diarrhea）的敘述，下列何者最正確？",
     "choices": [
-      "最常造成旅行者腹瀉的病原體是Salmonella",
-      "去東南亞國家旅遊發生腹瀉時，治療首選藥物為ciprofloxacin",
-      "azithromycin是治療的選擇之一，但孕婦不能使用",
-      "bismuth subsalicylate是預防的選擇，但小孩不建議使用"
+      {
+        "text": "最常造成旅行者腹瀉的病原體是Salmonella",
+        "is_correct": false
+      },
+      {
+        "text": "去東南亞國家旅遊發生腹瀉時，治療首選藥物為ciprofloxacin",
+        "is_correct": false
+      },
+      {
+        "text": "azithromycin是治療的選擇之一，但孕婦不能使用",
+        "is_correct": false
+      },
+      {
+        "text": "bismuth subsalicylate是預防的選擇，但小孩不建議使用",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "69",
@@ -1253,10 +2405,22 @@
     "subject": "家庭醫學科",
     "question": "Smilkstein於1978年提出家庭功能評估的APGAR評估量表，其中APGAR各自代表：Adaptation、Partnership、Growth、Affection、Resolve。這個評估量表最主要來自於何種概念模式？",
     "choices": [
-      "Biopsychosocial model",
-      "Systems approach",
-      "Stress and coping model",
-      "Life span perspective"
+      {
+        "text": "Biopsychosocial model",
+        "is_correct": false
+      },
+      {
+        "text": "Systems approach",
+        "is_correct": true
+      },
+      {
+        "text": "Stress and coping model",
+        "is_correct": false
+      },
+      {
+        "text": "Life span perspective",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "70",
@@ -1266,10 +2430,22 @@
     "subject": "家庭醫學科",
     "question": "家庭醫師欲規劃社區登革熱介入措施，依社區導向基層醫療（community-oriented primary care）循環的順序，下列何者正確？",
     "choices": [
-      "確認問題→確認群體→策略規劃→介入實施→評估成效",
-      "確認群體→確認問題→策略規劃→介入實施→評估成效",
-      "確認問題→確認群體→介入實施→策略規劃→評估成效",
-      "確認群體→確認問題→介入實施→策略規劃→評估成效"
+      {
+        "text": "確認問題→確認群體→策略規劃→介入實施→評估成效",
+        "is_correct": false
+      },
+      {
+        "text": "確認群體→確認問題→策略規劃→介入實施→評估成效",
+        "is_correct": true
+      },
+      {
+        "text": "確認問題→確認群體→介入實施→策略規劃→評估成效",
+        "is_correct": false
+      },
+      {
+        "text": "確認群體→確認問題→介入實施→策略規劃→評估成效",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "71",
@@ -1279,10 +2455,22 @@
     "subject": "家庭醫學科",
     "question": "下圖所示為2011年A, B, C三個國家醫療花費占其國內生產毛額（GDP: gross domestic products）的比例，分別是8.5%, 10.4%, 16.2%，呈現一個國家基層醫療醫師人數越多，醫療照護成本越低。下列何種國家組合最符合本圖？",
     "choices": [
-      "A：英國，B：美國，C：加拿大",
-      "A：英國，B：加拿大，C：美國",
-      "A：加拿大，B：英國，C：美國",
-      "A：美國，B：加拿大，C：英國"
+      {
+        "text": "A：英國，B：美國，C：加拿大",
+        "is_correct": false
+      },
+      {
+        "text": "A：英國，B：加拿大，C：美國",
+        "is_correct": true
+      },
+      {
+        "text": "A：加拿大，B：英國，C：美國",
+        "is_correct": false
+      },
+      {
+        "text": "A：美國，B：加拿大，C：英國",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-031422/Scanned_File/QUE-031422.png",
     "session": "109寒期",
@@ -1293,10 +2481,22 @@
     "subject": "家庭醫學科",
     "question": "下列有關瀕死癌末病人因為意識不清，無法再進食時的營養處置，何者最正確？",
     "choices": [
-      "馬上接上全靜脈營養（total parenteral nutrition），以防營養不足",
-      "立即插上鼻胃管，以防營養不足",
-      "與家屬討論給與人工營養水分的利弊得失",
-      "建議病人接受經皮內視鏡胃造口術（percutaneous endoscopic gastrostomy）"
+      {
+        "text": "馬上接上全靜脈營養（total parenteral nutrition），以防營養不足",
+        "is_correct": false
+      },
+      {
+        "text": "立即插上鼻胃管，以防營養不足",
+        "is_correct": false
+      },
+      {
+        "text": "與家屬討論給與人工營養水分的利弊得失",
+        "is_correct": true
+      },
+      {
+        "text": "建議病人接受經皮內視鏡胃造口術（percutaneous endoscopic gastrostomy）",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "73",

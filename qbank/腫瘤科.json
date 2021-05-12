@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "腫瘤科",
     "question": "一位53歲家庭主婦，未曾抽菸，最近被發現有肺癌，且有肋膜侵犯及積水，無法開刀清除乾淨。其腫瘤細胞有epidermal growth factor receptor（EGFR）激活突變（activationmutation）。此時最適當的治療為？",
     "choices": [
-      "gefitinib",
-      "bevacizumab",
-      "sunitinib",
-      "trastuzumab"
+      {
+        "text": "gefitinib",
+        "is_correct": true
+      },
+      {
+        "text": "bevacizumab",
+        "is_correct": false
+      },
+      {
+        "text": "sunitinib",
+        "is_correct": false
+      },
+      {
+        "text": "trastuzumab",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "14",
@@ -16,10 +28,22 @@
     "subject": "腫瘤科",
     "question": "一位65歲女性10年前停經後得到第一期乳癌，只以外科治療。最近發現蝕骨性骨骼病灶，證實為乳癌轉移ER+，HER2-negative，此外無其他臟器轉移，下列何者為最適當的治療？",
     "choices": [
-      "芳香環轉化酶抑制劑+雙磷酸鹽",
-      "多種藥劑化學治療 +雙磷酸鹽",
-      "capecitabine +雙磷酸鹽",
-      "單一藥劑化學治療 +strontium-89"
+      {
+        "text": "芳香環轉化酶抑制劑+雙磷酸鹽",
+        "is_correct": true
+      },
+      {
+        "text": "多種藥劑化學治療 +雙磷酸鹽",
+        "is_correct": false
+      },
+      {
+        "text": "capecitabine +雙磷酸鹽",
+        "is_correct": false
+      },
+      {
+        "text": "單一藥劑化學治療 +strontium-89",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "41",
@@ -29,10 +53,22 @@
     "subject": "腫瘤科",
     "question": "下列何者為抗癌化學藥物cisplatin之副作用？",
     "choices": [
-      "血鈣過高症",
-      "血鎂過低症",
-      "血鈉過低症",
-      "血氯過高症"
+      {
+        "text": "血鈣過高症",
+        "is_correct": false
+      },
+      {
+        "text": "血鎂過低症",
+        "is_correct": true
+      },
+      {
+        "text": "血鈉過低症",
+        "is_correct": true
+      },
+      {
+        "text": "血氯過高症",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "46",
@@ -42,10 +78,22 @@
     "subject": "腫瘤科",
     "question": "下列關於胸腺惡性腫瘤（malignant thymoma）的敘述，何者錯誤？",
     "choices": [
-      "最常見於前縱膈腔，好發於中年者，男女約各半",
-      "約有1/3合併重症肌無力",
-      "有心包膜（pericardium）或肋膜（pleura）侵犯時，治療以手術切除合併化學治療為主",
-      "重症肌無力患者實施胸腺切除手術，會比單獨內科治療有較高的症狀緩解率"
+      {
+        "text": "最常見於前縱膈腔，好發於中年者，男女約各半",
+        "is_correct": false
+      },
+      {
+        "text": "約有1/3合併重症肌無力",
+        "is_correct": false
+      },
+      {
+        "text": "有心包膜（pericardium）或肋膜（pleura）侵犯時，治療以手術切除合併化學治療為主",
+        "is_correct": true
+      },
+      {
+        "text": "重症肌無力患者實施胸腺切除手術，會比單獨內科治療有較高的症狀緩解率",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "52",
@@ -55,10 +103,22 @@
     "subject": "腫瘤科",
     "question": "20歲男子頸部淋巴結腫大有6星期之久，到教學醫院之耳鼻喉科求診，經fiberoscopy檢查顯示頭頸部區域黏膜正常，排除頭頸部惡性腫瘤的診斷。這名患者沒有感染的跡象，理學檢查顯示firm、non-tender及rubber-like，徑長3公分大之淋巴結。下列何\f者為在這個階段最適當的處置？",
     "choices": [
-      "淋巴結超音波（sonography）",
-      "切除性生檢（excisonal biopsy）",
-      "細針穿刺（fine needle aspiration）",
-      "正子掃描（PET scan）"
+      {
+        "text": "淋巴結超音波（sonography）",
+        "is_correct": false
+      },
+      {
+        "text": "切除性生檢（excisonal biopsy）",
+        "is_correct": true
+      },
+      {
+        "text": "細針穿刺（fine needle aspiration）",
+        "is_correct": false
+      },
+      {
+        "text": "正子掃描（PET scan）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "40",
@@ -68,10 +128,22 @@
     "subject": "腫瘤科",
     "question": "一位40歲女性乳癌病人，手術後經過6次化學治療包括5-fluorouracil，methotrexate和cyclophosphamide，此位病人長期最可能發生的副作用為何？",
     "choices": [
-      "心臟毒性",
-      "白血病",
-      "提早停經",
-      "神經毒性"
+      {
+        "text": "心臟毒性",
+        "is_correct": false
+      },
+      {
+        "text": "白血病",
+        "is_correct": false
+      },
+      {
+        "text": "提早停經",
+        "is_correct": true
+      },
+      {
+        "text": "神經毒性",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "41",
@@ -81,10 +153,22 @@
     "subject": "腫瘤科",
     "question": "一位 65 歲男性病人，因貧血就診，大腸鏡發現上升結腸有腫瘤，切片病理報告為腺癌，電腦斷層檢查顯示多處肝轉移，經右半結腸切除，發現腸繫膜淋巴結也有癌細胞侵犯，肝轉移目前無法切除，分期為 T3N2M1 ， 腫瘤基因檢測： K-ras 基因有G12D 突變，術後除化學治療外會建議加何種標靶治療以期待肝轉移變為可切除？",
     "choices": [
-      "EGFR抑制劑",
-      "血管增生抑制劑",
-      "EGFR抑制劑+血管增生抑制劑",
-      "EGFR抑制劑或血管增生抑制劑皆不使用，因二者都沒效"
+      {
+        "text": "EGFR抑制劑",
+        "is_correct": false
+      },
+      {
+        "text": "血管增生抑制劑",
+        "is_correct": true
+      },
+      {
+        "text": "EGFR抑制劑+血管增生抑制劑",
+        "is_correct": false
+      },
+      {
+        "text": "EGFR抑制劑或血管增生抑制劑皆不使用，因二者都沒效",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "42",
@@ -94,10 +178,22 @@
     "subject": "腫瘤科",
     "question": "下列那一種腎細胞癌與von Hippel-Lindau基因的突變或低表現有關？",
     "choices": [
-      "透明細胞腎細胞癌（clear cell renal cell carcinoma）",
-      "類肉瘤腎細胞癌（sarcomatoid renal cell carcinoma）",
-      "難染性腎細胞癌（chromophobe renal cell carcinoma）",
-      "乳突狀腎細胞癌（papillary renal cell carcinoma）"
+      {
+        "text": "透明細胞腎細胞癌（clear cell renal cell carcinoma）",
+        "is_correct": true
+      },
+      {
+        "text": "類肉瘤腎細胞癌（sarcomatoid renal cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "難染性腎細胞癌（chromophobe renal cell carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "乳突狀腎細胞癌（papillary renal cell carcinoma）",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "43",
@@ -107,10 +203,22 @@
     "subject": "腫瘤科",
     "question": "一位淋巴瘤病人接受化學治療CHOP（cyclophosphamide，adriamycin，vincristine及prednisolone）後出現指端麻木感，這個症狀最可能是那種藥的副作用？",
     "choices": [
-      "cyclophosphamide",
-      "adriamycin",
-      "vincristine",
-      "prednisolone"
+      {
+        "text": "cyclophosphamide",
+        "is_correct": false
+      },
+      {
+        "text": "adriamycin",
+        "is_correct": false
+      },
+      {
+        "text": "vincristine",
+        "is_correct": true
+      },
+      {
+        "text": "prednisolone",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "44",
@@ -120,10 +228,22 @@
     "subject": "腫瘤科",
     "question": "一位病人被診斷為多發性骨髓瘤，抽血檢查發現其白蛋白為2.5 gm/dL，β2-microglobulin為5.7 mg/L。依照國際分類系統（international staging system），此病人是屬於第幾期？",
     "choices": [
-      "0",
-      "I",
-      "II",
-      "III"
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "I",
+        "is_correct": false
+      },
+      {
+        "text": "II",
+        "is_correct": false
+      },
+      {
+        "text": "III",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "45",
@@ -133,10 +253,22 @@
     "subject": "腫瘤科",
     "question": "一位54歲女性第四期肺腺癌病患接受標靶藥物gefitinib治療，療效不佳，病況持續惡化。下列原因何者較不可能？",
     "choices": [
-      "病患長期抽煙",
-      "肺癌細胞上皮細胞生長激素受體（epidermal growth factor receptor, EGFR）基因沒有突變",
-      "EGFR基因伴有T790M突變",
-      "肺癌細胞帶有EML4-ALK fusion protein"
+      {
+        "text": "病患長期抽煙",
+        "is_correct": false
+      },
+      {
+        "text": "肺癌細胞上皮細胞生長激素受體（epidermal growth factor receptor, EGFR）基因沒有突變",
+        "is_correct": false
+      },
+      {
+        "text": "EGFR基因伴有T790M突變",
+        "is_correct": false
+      },
+      {
+        "text": "肺癌細胞帶有EML4-ALK fusion protein",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "48",
@@ -146,10 +278,22 @@
     "subject": "腫瘤科",
     "question": "70 歲男性，有慢性腎功能衰竭及甲狀腺濾泡癌。多年前甲狀腺癌曾接受過手術，且接受過放射性碘治療，但現又在肺出現多處轉移。下列何種處置最適宜？",
     "choices": [
-      "停服甲狀腺素四星期後，給予放射性碘治療",
-      "注射基因工程合成的甲促素（TSH），再給予放射性碘",
-      "手術切除肺部轉移病變",
-      "使用標靶治療"
+      {
+        "text": "停服甲狀腺素四星期後，給予放射性碘治療",
+        "is_correct": false
+      },
+      {
+        "text": "注射基因工程合成的甲促素（TSH），再給予放射性碘",
+        "is_correct": true
+      },
+      {
+        "text": "手術切除肺部轉移病變",
+        "is_correct": false
+      },
+      {
+        "text": "使用標靶治療",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "53",
@@ -159,10 +303,22 @@
     "subject": "腫瘤科",
     "question": "一40歲女士因左乳房腫塊求診。體檢發現單一腫塊，堅實，無觸痛感，邊界不規則及模糊，固定不動於皮膚。在這個階段最適當的檢查為何？",
     "choices": [
-      "乳房X光攝影",
-      "切除性生檢（excisional biopsy）",
-      "乳房X光攝影後切除性生檢",
-      "PET掃描"
+      {
+        "text": "乳房X光攝影",
+        "is_correct": false
+      },
+      {
+        "text": "切除性生檢（excisional biopsy）",
+        "is_correct": false
+      },
+      {
+        "text": "乳房X光攝影後切除性生檢",
+        "is_correct": true
+      },
+      {
+        "text": "PET掃描",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "40",
@@ -172,10 +328,22 @@
     "subject": "腫瘤科",
     "question": "一位33歲男性病人，有一約6 cm前縱膈腔腫瘤，經抽血檢查發現血清的CEA濃度正常， AFP增加（80 ng/ml，normal range：<20 ng/mL）， beta HCG增加 （150 mIU/mL，normal range：<1 mIU/mL）；他的腫瘤最有可能是：",
     "choices": [
-      "肝癌（hepatocellular carcinoma）",
-      "精母細胞生殖細胞癌 （seminoma）",
-      "非精母細胞生殖細胞癌 （non-seminomatous germ cell tumor）",
-      "胸腺瘤（thymoma）"
+      {
+        "text": "肝癌（hepatocellular carcinoma）",
+        "is_correct": false
+      },
+      {
+        "text": "精母細胞生殖細胞癌 （seminoma）",
+        "is_correct": false
+      },
+      {
+        "text": "非精母細胞生殖細胞癌 （non-seminomatous germ cell tumor）",
+        "is_correct": true
+      },
+      {
+        "text": "胸腺瘤（thymoma）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "41",
@@ -185,10 +353,22 @@
     "subject": "腫瘤科",
     "question": "一位40歲女性病人由大腸鏡發現在升結腸有一腫瘤，而沒有其他息肉或發炎性大腸病變。病理切片發現是腺癌，分化不好（poorly differentiated adenocarcinoma），她媽媽於48歲死於子宮內膜癌，她爸爸目前健康良好，她43歲的姊姊在2年前診斷為早期結腸癌，追蹤至今無復發。此外，病人無其他兄弟姊妹，經過右半結腸切除，證實是T3 N1 M0腺癌，她擔心2個小孩有結腸癌的風險，想做基因檢測，此病人最有可能是那一種家族性的癌症症候群？",
     "choices": [
-      "BRCA2突變",
-      "遺傳性非息肉性大腸直腸癌（hereditary nonpolyposis colorectal cancer（HNPCC））",
-      "家族性腺瘤性多發性息肉症候群（familial adenomatous polyposis（FAP））",
-      "Li-Fraumeni症候群（Li-Fraumeni syndrome）"
+      {
+        "text": "BRCA2突變",
+        "is_correct": false
+      },
+      {
+        "text": "遺傳性非息肉性大腸直腸癌（hereditary nonpolyposis colorectal cancer（HNPCC））",
+        "is_correct": true
+      },
+      {
+        "text": "家族性腺瘤性多發性息肉症候群（familial adenomatous polyposis（FAP））",
+        "is_correct": false
+      },
+      {
+        "text": "Li-Fraumeni症候群（Li-Fraumeni syndrome）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "42",
@@ -198,10 +378,22 @@
     "subject": "腫瘤科",
     "question": "下列何種抗癌藥物最不會造成白血球減少（neutropenia）？",
     "choices": [
-      "sunitinib",
-      "paclitaxel",
-      "gefitinib",
-      "gemcitabine"
+      {
+        "text": "sunitinib",
+        "is_correct": false
+      },
+      {
+        "text": "paclitaxel",
+        "is_correct": false
+      },
+      {
+        "text": "gefitinib",
+        "is_correct": true
+      },
+      {
+        "text": "gemcitabine",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "45",
@@ -211,10 +403,22 @@
     "subject": "腫瘤科",
     "question": "黃先生，60歲，經腹部電腦斷層、腹部血管攝影及肝臟切片檢查後確診為肝癌，下列敘述何者錯誤？",
     "choices": [
-      "手術切除對於小於5公分之單發性肝癌，是一種根除性（curative）的治療方法",
-      "肝腫瘤電燒治療對於小於3公分之單發性肝癌，治療成效良好",
-      "對於多發性肝癌，栓塞治療（trans-arterial embolization therapy, TAE）只會增加病患死亡率，不宜考慮",
-      "肝癌術後追蹤應包括腹部超音波及血中甲種胎兒蛋白（α-fetoprotein）檢查"
+      {
+        "text": "手術切除對於小於5公分之單發性肝癌，是一種根除性（curative）的治療方法",
+        "is_correct": false
+      },
+      {
+        "text": "肝腫瘤電燒治療對於小於3公分之單發性肝癌，治療成效良好",
+        "is_correct": false
+      },
+      {
+        "text": "對於多發性肝癌，栓塞治療（trans-arterial embolization therapy, TAE）只會增加病患死亡率，不宜考慮",
+        "is_correct": true
+      },
+      {
+        "text": "肝癌術後追蹤應包括腹部超音波及血中甲種胎兒蛋白（α-fetoprotein）檢查",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "7",
@@ -224,10 +428,22 @@
     "subject": "腫瘤科",
     "question": "一位40歲亞裔女性病人，沒有抽過菸，最近被診斷為非小細胞肺癌第四期，腫瘤有EGFR（epidermal growthfactor receptor）基因突變（exon 19 deletion），下列何種治療最為合適？",
     "choices": [
-      "EGFR抑制劑",
-      "EGFR抑制劑+化學治療",
-      "血管增生抑制抗體",
-      "EGFR抑制劑+血管增生抑制抗體"
+      {
+        "text": "EGFR抑制劑",
+        "is_correct": true
+      },
+      {
+        "text": "EGFR抑制劑+化學治療",
+        "is_correct": false
+      },
+      {
+        "text": "血管增生抑制抗體",
+        "is_correct": false
+      },
+      {
+        "text": "EGFR抑制劑+血管增生抑制抗體",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "12",
@@ -237,10 +453,22 @@
     "subject": "腫瘤科",
     "question": "關於肺癌病人，下列何者有比較高的表皮生長因子受體基因變異（epidermal growth factor receptormutation）？1.女性 2.腺癌（adenocarcinoma） 3.抽煙 4.亞洲人種 5.小細胞癌（small cellcarcinoma）",
     "choices": [
-      "123",
-      "345",
-      "124",
-      "125"
+      {
+        "text": "123",
+        "is_correct": false
+      },
+      {
+        "text": "345",
+        "is_correct": false
+      },
+      {
+        "text": "124",
+        "is_correct": true
+      },
+      {
+        "text": "125",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "50",
@@ -250,10 +478,22 @@
     "subject": "腫瘤科",
     "question": "對一個無乳癌家族或個人史的女性，下列何種乳癌篩選，比較符合美國、加拿大及歐洲的相關建議？",
     "choices": [
-      "自50歲起每2年做一次核磁共振檢查（MRI）",
-      "自40歲起每2年做一次乳房超音波（sonography）",
-      "自50歲起每2年做一次乳房攝影（mammography）",
-      "自35歲起每2年做正子攝影檢查（PET）"
+      {
+        "text": "自50歲起每2年做一次核磁共振檢查（MRI）",
+        "is_correct": false
+      },
+      {
+        "text": "自40歲起每2年做一次乳房超音波（sonography）",
+        "is_correct": false
+      },
+      {
+        "text": "自50歲起每2年做一次乳房攝影（mammography）",
+        "is_correct": true
+      },
+      {
+        "text": "自35歲起每2年做正子攝影檢查（PET）",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "39",
@@ -263,10 +503,22 @@
     "subject": "腫瘤科",
     "question": "一位55歲停經後女性乳癌病人，第3期（T2 [3 cm] N1 [1/10] M0），ER+，PR+，HER2-negative，grade2，她其他方面的健康良好，下列何者為較好的術後輔助治療？",
     "choices": [
-      "先行化學治療，再接續使用雌激素拮抗劑（如：tamoxifen）5年，不用芳香環轉化酶抑制劑",
-      "同時使用 化學治療和雌激素拮抗劑",
-      "先行化學治療，再接續使用芳香環轉化酶抑制劑（如：anastrozole）",
-      "同時使用 化學治療和芳香環轉化酶抑制劑"
+      {
+        "text": "先行化學治療，再接續使用雌激素拮抗劑（如：tamoxifen）5年，不用芳香環轉化酶抑制劑",
+        "is_correct": false
+      },
+      {
+        "text": "同時使用 化學治療和雌激素拮抗劑",
+        "is_correct": false
+      },
+      {
+        "text": "先行化學治療，再接續使用芳香環轉化酶抑制劑（如：anastrozole）",
+        "is_correct": true
+      },
+      {
+        "text": "同時使用 化學治療和芳香環轉化酶抑制劑",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "40",
@@ -276,10 +528,22 @@
     "subject": "腫瘤科",
     "question": "下列何種惡性病最可能以化學治療藥物（chemotherapy）治癒？",
     "choices": [
-      "non-smal cell lung carcinoma",
-      "colorectal carcinoma",
-      "seminoma",
-      "chronic myeloid leukemia"
+      {
+        "text": "non-smal cell lung carcinoma",
+        "is_correct": false
+      },
+      {
+        "text": "colorectal carcinoma",
+        "is_correct": false
+      },
+      {
+        "text": "seminoma",
+        "is_correct": true
+      },
+      {
+        "text": "chronic myeloid leukemia",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "44",
@@ -289,10 +553,22 @@
     "subject": "腫瘤科",
     "question": "一位 40 歲婦女自20 多歲就被診斷甲狀腺腫，因無症狀未繼續追蹤，自覺1 年來甲狀腺腫變大、聲音沙啞。下列理學檢查何者最不傾向惡性腫瘤？",
     "choices": [
-      "頸部可觸摸到淋巴結",
-      "甲狀腺腫有壓痛感",
-      "有聲帶麻痹",
-      "甲狀腺腫堅硬如石"
+      {
+        "text": "頸部可觸摸到淋巴結",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺腫有壓痛感",
+        "is_correct": true
+      },
+      {
+        "text": "有聲帶麻痹",
+        "is_correct": false
+      },
+      {
+        "text": "甲狀腺腫堅硬如石",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "1",
@@ -302,10 +578,22 @@
     "subject": "腫瘤科",
     "question": "一位 28 歲男性這兩個月來一直覺得胸悶，照了一張X 光，發現縱膈腔有一腫塊，身體檢查（physical examination）顯示左睪丸輕微腫大，其他無特殊發現。血中α-fetoprotein 1050 ng/mL（正常＜20），β-HCG 3562 mU/mL（正常＜5），LDH 357 U/L（正常＜271），這位病人最可能的診斷為何？",
     "choices": [
-      "seminomatous germ cell tumor",
-      "nonseminomatous germ cell tumor",
-      "non-small cell lung cancer",
-      "thymoma"
+      {
+        "text": "seminomatous germ cell tumor",
+        "is_correct": false
+      },
+      {
+        "text": "nonseminomatous germ cell tumor",
+        "is_correct": true
+      },
+      {
+        "text": "non-small cell lung cancer",
+        "is_correct": false
+      },
+      {
+        "text": "thymoma",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "9",
@@ -315,10 +603,22 @@
     "subject": "腫瘤科",
     "question": "一位 50 歲男士有缺鐵性貧血病史，因左鎖骨上腫塊求診，經病理切片診斷為轉移性腺癌與戒環細胞分化（signet ring cell differentiation）。在這個階段最適當的檢查為：",
     "choices": [
-      "上消化道內視鏡",
-      "胸部CT 掃描",
-      "骨掃描",
-      "PET 掃描"
+      {
+        "text": "上消化道內視鏡",
+        "is_correct": true
+      },
+      {
+        "text": "胸部CT 掃描",
+        "is_correct": false
+      },
+      {
+        "text": "骨掃描",
+        "is_correct": false
+      },
+      {
+        "text": "PET 掃描",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "46",
@@ -328,10 +628,22 @@
     "subject": "腫瘤科",
     "question": "一位 35 歲男病患經診斷為結腸癌，他的母親在20 歲時被診斷有子宮內膜癌，48 歲時被診斷有結腸癌。他外祖父55 歲時死於結腸癌，他38 歲的姊姊最近接受一次大腸鏡的檢查，被診斷有第一期直腸癌，但沒有發現息肉。下列那種突變跟他的結腸癌最可能有相關性？",
     "choices": [
-      "germ-line 的 hMSH2 gene 突變或低表現",
-      "ATM gene 的喪失異型結合（loss of heterozygosity）",
-      "p53 的單邊等位germ-line 基因突變（germ-line mutation of a single allele of p53 gene）",
-      "體細胞的nucleotide excision repair gene 突變"
+      {
+        "text": "germ-line 的 hMSH2 gene 突變或低表現",
+        "is_correct": true
+      },
+      {
+        "text": "ATM gene 的喪失異型結合（loss of heterozygosity）",
+        "is_correct": false
+      },
+      {
+        "text": "p53 的單邊等位germ-line 基因突變（germ-line mutation of a single allele of p53 gene）",
+        "is_correct": false
+      },
+      {
+        "text": "體細胞的nucleotide excision repair gene 突變",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "48",
@@ -341,10 +653,22 @@
     "subject": "腫瘤科",
     "question": "關於多發性內分泌腫瘤（multiple endocrine neoplasia, MEN）之敘述，下列何者錯誤？",
     "choices": [
-      "MEN 1 包含腦下腺、副甲狀腺及胰島素瘤",
-      "MEN 2A 與MEN 2B 之共同特徵是甲狀腺髓質癌（medullary thyroid cancer）及副甲狀腺瘤",
-      "MEN 2A 與MEN 2B 都是RET 致癌基因之突變所致",
-      "對於MEN 2，在嬰幼兒期作全甲狀腺切除手術，大多有助於減少因甲狀腺髓質癌之死亡"
+      {
+        "text": "MEN 1 包含腦下腺、副甲狀腺及胰島素瘤",
+        "is_correct": false
+      },
+      {
+        "text": "MEN 2A 與MEN 2B 之共同特徵是甲狀腺髓質癌（medullary thyroid cancer）及副甲狀腺瘤",
+        "is_correct": true
+      },
+      {
+        "text": "MEN 2A 與MEN 2B 都是RET 致癌基因之突變所致",
+        "is_correct": false
+      },
+      {
+        "text": "對於MEN 2，在嬰幼兒期作全甲狀腺切除手術，大多有助於減少因甲狀腺髓質癌之死亡",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "59",
@@ -354,10 +678,22 @@
     "subject": "腫瘤科",
     "question": "一位65歲老先生跌倒，造成右下肢骨折送醫，X光檢查發現兩側下肢長骨及鎖骨另有多處蝕骨（osteolytic）現象。腫瘤標記包括 PSA, CEA, SCC, AFP皆在正常範圍。以下檢查何者為診斷及分期所必要？①血液常規 ②血液球蛋白免疫電泳分析 ③腎功能 ④骨髓檢查",
     "choices": [
-      "僅①③",
-      "僅②③④",
-      "僅①②④",
-      "①②③④"
+      {
+        "text": "僅①③",
+        "is_correct": false
+      },
+      {
+        "text": "僅②③④",
+        "is_correct": false
+      },
+      {
+        "text": "僅①②④",
+        "is_correct": false
+      },
+      {
+        "text": "①②③④",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "10",
@@ -367,10 +703,22 @@
     "subject": "腫瘤科",
     "question": "下列關於惡性間皮細胞癌（malignant mesothelioma）的敘述，何者錯誤？",
     "choices": [
-      "與石綿（asbestos）的暴露有明顯的因果關係",
-      "抽菸不會增加罹患惡性間皮細胞癌的風險",
-      "在組織免疫染色上，CEA與TTF-1染色常呈現陽性反應",
-      "在臺灣，拆船業與水泥業工作者是屬於高風險群"
+      {
+        "text": "與石綿（asbestos）的暴露有明顯的因果關係",
+        "is_correct": false
+      },
+      {
+        "text": "抽菸不會增加罹患惡性間皮細胞癌的風險",
+        "is_correct": false
+      },
+      {
+        "text": "在組織免疫染色上，CEA與TTF-1染色常呈現陽性反應",
+        "is_correct": true
+      },
+      {
+        "text": "在臺灣，拆船業與水泥業工作者是屬於高風險群",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "48",
@@ -380,10 +728,22 @@
     "subject": "腫瘤科",
     "question": "陳太太是一位62歲的乳癌患者，在腫瘤切除手術後回診時對王醫師說：「我最近右上腹有點脹脹的感覺，是不是該進一步檢查？」，王醫師回答：「我了解您對乳癌的擔心，深怕問題沒有處理好；但手術前的各項檢查並沒有發現有局部腫瘤以外的問題…。」。王醫師使用的是那一種溝通技巧？",
     "choices": [
-      "個人支持（personal support）",
-      "同理心（empathy）",
-      "回應（reflection）",
-      "積極傾聽（active listening）"
+      {
+        "text": "個人支持（personal support）",
+        "is_correct": false
+      },
+      {
+        "text": "同理心（empathy）",
+        "is_correct": true
+      },
+      {
+        "text": "回應（reflection）",
+        "is_correct": false
+      },
+      {
+        "text": "積極傾聽（active listening）",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "70",
@@ -393,10 +753,22 @@
     "subject": "腫瘤科",
     "question": "56歲女性，15個月前被診斷為卵巢癌接受化學治療，最近主訴有噁心、嘔吐及食慾不振（anorexia）。半年前開始體重逐漸下降，已減輕20公斤，感覺越來越虛弱。檢查發現呼吸每分鐘約25次，結膜蒼白，腹部鼓脹，有腹水且有一10×30 cm之腫塊。治療此病人之惡病質（cachexia）與食慾不振，下列那一種藥物較適當？",
     "choices": [
-      "corticosteroid",
-      "prochlorperazine",
-      "morphine sulfate",
-      "cyproheptadine"
+      {
+        "text": "corticosteroid",
+        "is_correct": true
+      },
+      {
+        "text": "prochlorperazine",
+        "is_correct": false
+      },
+      {
+        "text": "morphine sulfate",
+        "is_correct": false
+      },
+      {
+        "text": "cyproheptadine",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "73",
@@ -406,10 +778,22 @@
     "subject": "腫瘤科",
     "question": "以下何項並非USPSTF（US Preventive Services Task Force）所強烈建議（class A）的癌症篩檢方式？",
     "choices": [
-      "針對40～49歲女性每兩年接受乳房攝影（mammography）",
-      "針對21～65歲女性每三年接受子宮頸抹片（Pap test）",
-      "針對50～75歲成人每年接受糞便潛血檢測（fecal occult blood testing）",
-      "針對50～75歲成人每十年接受大腸鏡檢查（colonoscopy）"
+      {
+        "text": "針對40～49歲女性每兩年接受乳房攝影（mammography）",
+        "is_correct": true
+      },
+      {
+        "text": "針對21～65歲女性每三年接受子宮頸抹片（Pap test）",
+        "is_correct": false
+      },
+      {
+        "text": "針對50～75歲成人每年接受糞便潛血檢測（fecal occult blood testing）",
+        "is_correct": false
+      },
+      {
+        "text": "針對50～75歲成人每十年接受大腸鏡檢查（colonoscopy）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "41",
@@ -419,10 +803,22 @@
     "subject": "腫瘤科",
     "question": "對於神經內分泌瘤（neuroendocrine tumor）的敘述，下列何者最正確？",
     "choices": [
-      "為良性腫瘤",
-      "只發生在腸胃道與胰臟",
-      "注射體抑素類似物（somatostatin analogue），為最有效的治療方式",
-      "可能合併腦下垂體腫瘤或副甲狀腺瘤"
+      {
+        "text": "為良性腫瘤",
+        "is_correct": false
+      },
+      {
+        "text": "只發生在腸胃道與胰臟",
+        "is_correct": false
+      },
+      {
+        "text": "注射體抑素類似物（somatostatin analogue），為最有效的治療方式",
+        "is_correct": false
+      },
+      {
+        "text": "可能合併腦下垂體腫瘤或副甲狀腺瘤",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "55",
@@ -432,10 +828,22 @@
     "subject": "腫瘤科",
     "question": "52歲男性，罹患轉移性腎細胞癌，主訴從臀部往下到左小腿之疼痛已數天。他描述疼痛性質是尖銳如刀刺、有灼熱感，疼痛分數可達7/10。下列何者是處理此病人疼痛最適當之藥物？",
     "choices": [
-      "gabapentin",
-      "codeine",
-      "meperidine",
-      "非類固醇類抗發炎藥（NSAID）"
+      {
+        "text": "gabapentin",
+        "is_correct": true
+      },
+      {
+        "text": "codeine",
+        "is_correct": false
+      },
+      {
+        "text": "meperidine",
+        "is_correct": false
+      },
+      {
+        "text": "非類固醇類抗發炎藥（NSAID）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "73",
@@ -445,10 +853,22 @@
     "subject": "腫瘤科",
     "question": "下列關於⼦宮頸癌（cervical cancer）的敘述，何者錯誤？",
     "choices": [
-      "發⽣率較⾼的地域包括南美洲、加勒比海及東南亞",
-      "有性⾏為前接受HPV疫苗注射可以減少HPV-16及HPV-18的感染，也可減少⼦宮頸的dysplasia",
-      "HPV的E6及E8分⼦是HPV相關⼦宮頸癌之致病因⼦",
-      "侵犯骨盆腔或陰道下三分之⼀的⼦宮頸癌屬於FIGO分期的第三期"
+      {
+        "text": "發⽣率較⾼的地域包括南美洲、加勒比海及東南亞",
+        "is_correct": false
+      },
+      {
+        "text": "有性⾏為前接受HPV疫苗注射可以減少HPV-16及HPV-18的感染，也可減少⼦宮頸的dysplasia",
+        "is_correct": false
+      },
+      {
+        "text": "HPV的E6及E8分⼦是HPV相關⼦宮頸癌之致病因⼦",
+        "is_correct": true
+      },
+      {
+        "text": "侵犯骨盆腔或陰道下三分之⼀的⼦宮頸癌屬於FIGO分期的第三期",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "41",
@@ -458,10 +878,22 @@
     "subject": "腫瘤科",
     "question": "關於grade IV astrocytoma（glioblastoma）的敘述，何者錯誤？",
     "choices": [
-      "此疾病預後不佳，平均存活期⼩於2年",
-      "⾸次治療以⼿術，接續併⽤化學治療（temozolomide）及放射治療為主要治療⽅式",
-      "O6-methylguanine-DNA methyltransferase（MGMT）有表現的腫瘤，對於temozolomide的治療較有療效",
-      "bevacizumab可⽤於復發後的病⼈，此藥物可以減少腫瘤周邊的⽔腫，也可延⻑progression-free survival"
+      {
+        "text": "此疾病預後不佳，平均存活期⼩於2年",
+        "is_correct": false
+      },
+      {
+        "text": "⾸次治療以⼿術，接續併⽤化學治療（temozolomide）及放射治療為主要治療⽅式",
+        "is_correct": false
+      },
+      {
+        "text": "O6-methylguanine-DNA methyltransferase（MGMT）有表現的腫瘤，對於temozolomide的治療較有療效",
+        "is_correct": true
+      },
+      {
+        "text": "bevacizumab可⽤於復發後的病⼈，此藥物可以減少腫瘤周邊的⽔腫，也可延⻑progression-free survival",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "42",
@@ -471,10 +903,22 @@
     "subject": "腫瘤科",
     "question": "有關肝細胞癌（hepatocellular carcinoma，即HCC）的臨床評估及診治，以下敘述何者錯誤？",
     "choices": [
-      "理學檢查時，應注意是否有jaundice、ascites、spider angioma、palmar erythema等可能指出有chronic liverdisease或liver cirrhosis的signs",
-      "血清AFP是常用的tumor marker；但並非所有的HCC患者，血清AFP皆會升高",
-      "ultrasound，triphasic CT及gadolinium-enhanced MRI皆是可應用來協助診斷HCC的影像檢查方式",
-      "正子攝影（FDG-PET）已被證實是診斷HCC最敏感的影像檢查方式"
+      {
+        "text": "理學檢查時，應注意是否有jaundice、ascites、spider angioma、palmar erythema等可能指出有chronic liverdisease或liver cirrhosis的signs",
+        "is_correct": false
+      },
+      {
+        "text": "血清AFP是常用的tumor marker；但並非所有的HCC患者，血清AFP皆會升高",
+        "is_correct": false
+      },
+      {
+        "text": "ultrasound，triphasic CT及gadolinium-enhanced MRI皆是可應用來協助診斷HCC的影像檢查方式",
+        "is_correct": false
+      },
+      {
+        "text": "正子攝影（FDG-PET）已被證實是診斷HCC最敏感的影像檢查方式",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "33",
@@ -484,10 +928,22 @@
     "subject": "腫瘤科",
     "question": "下列關於惡性黑色素細胞癌（malignant melanoma）的敘述，何者正確？",
     "choices": [
-      "西方病患惡性黑色素細胞癌的基因突變最多的是NRAS突變",
-      "東方病患惡性黑色素細胞癌的型態最常見的是肢端小痣（acral lentiginous）型",
-      "惡性黑色素細胞癌的初級預防是教育、篩檢、早期偵測",
-      "轉移惡性黑色素細胞癌的藥物治療只有標靶治療有效"
+      {
+        "text": "西方病患惡性黑色素細胞癌的基因突變最多的是NRAS突變",
+        "is_correct": false
+      },
+      {
+        "text": "東方病患惡性黑色素細胞癌的型態最常見的是肢端小痣（acral lentiginous）型",
+        "is_correct": true
+      },
+      {
+        "text": "惡性黑色素細胞癌的初級預防是教育、篩檢、早期偵測",
+        "is_correct": false
+      },
+      {
+        "text": "轉移惡性黑色素細胞癌的藥物治療只有標靶治療有效",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "34",
@@ -497,10 +953,22 @@
     "subject": "腫瘤科",
     "question": "關於第四期肺癌的治療，下列何者錯誤？",
     "choices": [
-      "第四期非小細胞肺癌有表皮生長因子受體（epidermal growth factor receptor）突變的治療是erlotinib、afatinib等標靶治療",
-      "第四期非小細胞肺癌有ALK基因重置（rearrangement）的治療是標靶治療，例如：crizotinib",
-      "免疫檢查站（checkpoint）抑制劑對第四期非小細胞肺癌的治療毫無幫助",
-      "第四期小細胞肺癌的治療主要是化學治療"
+      {
+        "text": "第四期非小細胞肺癌有表皮生長因子受體（epidermal growth factor receptor）突變的治療是erlotinib、afatinib等標靶治療",
+        "is_correct": false
+      },
+      {
+        "text": "第四期非小細胞肺癌有ALK基因重置（rearrangement）的治療是標靶治療，例如：crizotinib",
+        "is_correct": false
+      },
+      {
+        "text": "免疫檢查站（checkpoint）抑制劑對第四期非小細胞肺癌的治療毫無幫助",
+        "is_correct": true
+      },
+      {
+        "text": "第四期小細胞肺癌的治療主要是化學治療",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "35",
@@ -510,10 +978,22 @@
     "subject": "腫瘤科",
     "question": "去勢治療失敗的（castration-resistant）攝護腺癌（prostate cancer），其藥物治療不包括下列何者？",
     "choices": [
-      "flutamide",
-      "enzalutamide",
-      "abiraterone acetate",
-      "docetaxel"
+      {
+        "text": "flutamide",
+        "is_correct": true
+      },
+      {
+        "text": "enzalutamide",
+        "is_correct": false
+      },
+      {
+        "text": "abiraterone acetate",
+        "is_correct": false
+      },
+      {
+        "text": "docetaxel",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "36",
@@ -523,10 +1003,22 @@
     "subject": "腫瘤科",
     "question": "以下何者不是Krukenberg tumor常見的原發腫瘤部位？",
     "choices": [
-      "大腸（colon）",
-      "肺（lung）",
-      "胃（stomach）",
-      "乳房（breast）"
+      {
+        "text": "大腸（colon）",
+        "is_correct": false
+      },
+      {
+        "text": "肺（lung）",
+        "is_correct": true
+      },
+      {
+        "text": "胃（stomach）",
+        "is_correct": false
+      },
+      {
+        "text": "乳房（breast）",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "41",
@@ -536,10 +1028,22 @@
     "subject": "腫瘤科",
     "question": "48歲女性無抽菸史，因爬樓梯會喘，到內科門診，身體診察發現右側有胸水，經超音波導引胸水引流，胸水細胞檢驗發現adenocarcinoma，肺部電腦斷層顯現右下肺有3 cm腫瘤，併發兩側肺葉密密麻麻的轉移，核磁共振檢驗發現腦部無轉移，經支氣管切片，證實為肺腺癌（lung adenocarcinoma），其他器官功能正常，醫師評估performance status (PS) 1。下列那項處置最適當？",
     "choices": [
-      "右下肺葉切除併縱膈腔淋巴腺廓清（right lower lobe lobectomy＋mediastinal lymph nodes dissection）",
-      "單獨給與肋膜沾黏術（pleurodesis）",
-      "右下肺腫瘤立體定位放射手術（stereotactic radiosurgery）",
-      "用肺癌檢體，進行EGFR mutation及ALK rearrangements檢測"
+      {
+        "text": "右下肺葉切除併縱膈腔淋巴腺廓清（right lower lobe lobectomy＋mediastinal lymph nodes dissection）",
+        "is_correct": false
+      },
+      {
+        "text": "單獨給與肋膜沾黏術（pleurodesis）",
+        "is_correct": false
+      },
+      {
+        "text": "右下肺腫瘤立體定位放射手術（stereotactic radiosurgery）",
+        "is_correct": false
+      },
+      {
+        "text": "用肺癌檢體，進行EGFR mutation及ALK rearrangements檢測",
+        "is_correct": true
+      }
     ],
     "session": "108暑期",
     "no": "42",
@@ -549,10 +1053,22 @@
     "subject": "腫瘤科",
     "question": "以下有關hereditary nonpolyposis colon cancer（HNPCC；或稱Lynch's syndrome）常見的臨床病理及基因分子變異，何者錯誤？",
     "choices": [
-      "HNPCC大腸直腸癌患者診斷的中位年齡，較其他一般民眾大腸直腸癌診斷的中位年齡來得較年長",
-      "HNPCC患者的家屬也好發卵巢癌、子宮內膜癌或其他的腸胃道癌症",
-      "HNPCC與germline mutations of hMSH2或hMLH1相關",
-      "hMSH2或hMLH1之基因變異將導致細胞內DNA mismatch repair機制的缺損"
+      {
+        "text": "HNPCC大腸直腸癌患者診斷的中位年齡，較其他一般民眾大腸直腸癌診斷的中位年齡來得較年長",
+        "is_correct": true
+      },
+      {
+        "text": "HNPCC患者的家屬也好發卵巢癌、子宮內膜癌或其他的腸胃道癌症",
+        "is_correct": false
+      },
+      {
+        "text": "HNPCC與germline mutations of hMSH2或hMLH1相關",
+        "is_correct": false
+      },
+      {
+        "text": "hMSH2或hMLH1之基因變異將導致細胞內DNA mismatch repair機制的缺損",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "34",
@@ -562,10 +1078,22 @@
     "subject": "腫瘤科",
     "question": "下列關於頭頸癌的敘述何者錯誤？",
     "choices": [
-      "在西方國家，人類乳突病毒（human papilloma virus）與口咽部（oropharynx）頭頸癌的發生率增加有關",
-      "人類乳突病毒相關的頭頸癌與人類乳突病毒不相關的頭頸癌比較，預後較差",
-      "早期頭頸癌治療後，有可能在頭頸其他部位、肺部、食道出現第二原發（second primary）癌症",
-      "晚期頭頸癌有效的藥物治療，包括化學治療、標靶治療"
+      {
+        "text": "在西方國家，人類乳突病毒（human papilloma virus）與口咽部（oropharynx）頭頸癌的發生率增加有關",
+        "is_correct": false
+      },
+      {
+        "text": "人類乳突病毒相關的頭頸癌與人類乳突病毒不相關的頭頸癌比較，預後較差",
+        "is_correct": true
+      },
+      {
+        "text": "早期頭頸癌治療後，有可能在頭頸其他部位、肺部、食道出現第二原發（second primary）癌症",
+        "is_correct": false
+      },
+      {
+        "text": "晚期頭頸癌有效的藥物治療，包括化學治療、標靶治療",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "35",
@@ -575,10 +1103,22 @@
     "subject": "腫瘤科",
     "question": "下列腫瘤指數與其適用腫瘤種類的配對，何者錯誤？",
     "choices": [
-      "攝護腺癌：prostate specific antigen（PSA）",
-      "攝護腺癌：lactate dehydrogenase（LDH）",
-      "睪丸癌：alpha-fetoprotein（AFP）",
-      "睪丸癌：human chorionic gonadotropin（hCG）"
+      {
+        "text": "攝護腺癌：prostate specific antigen（PSA）",
+        "is_correct": false
+      },
+      {
+        "text": "攝護腺癌：lactate dehydrogenase（LDH）",
+        "is_correct": true
+      },
+      {
+        "text": "睪丸癌：alpha-fetoprotein（AFP）",
+        "is_correct": false
+      },
+      {
+        "text": "睪丸癌：human chorionic gonadotropin（hCG）",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "36",
@@ -588,10 +1128,22 @@
     "subject": "腫瘤科",
     "question": "以下那個遺傳基因變異導致卵巢癌發生的風險最高？",
     "choices": [
-      "BRCA1",
-      "BRCA2",
-      "MSH2",
-      "CHK2"
+      {
+        "text": "BRCA1",
+        "is_correct": true
+      },
+      {
+        "text": "BRCA2",
+        "is_correct": false
+      },
+      {
+        "text": "MSH2",
+        "is_correct": false
+      },
+      {
+        "text": "CHK2",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "41",
@@ -601,10 +1153,22 @@
     "subject": "腫瘤科",
     "question": "以下何者不是子宮內膜癌（endometrial carcinoma）的危險因子？",
     "choices": [
-      "肥胖",
-      "使用tamoxifen治療乳癌",
-      "單獨使用estrogen來治療停經後症候群",
-      "使用progestin治療不孕症"
+      {
+        "text": "肥胖",
+        "is_correct": false
+      },
+      {
+        "text": "使用tamoxifen治療乳癌",
+        "is_correct": false
+      },
+      {
+        "text": "單獨使用estrogen來治療停經後症候群",
+        "is_correct": false
+      },
+      {
+        "text": "使用progestin治療不孕症",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "42",

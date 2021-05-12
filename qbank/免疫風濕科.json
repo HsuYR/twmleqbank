@@ -1,12 +1,24 @@
 [
-    {
+  {
     "subject": "免疫風濕科",
     "question": "69歲男性退休高中老師，沒有糖尿病史，但是有慢性腎臟病史，3年前的血液肌酸酐2.6mg/dL。4週前打噴嚏後出現眼眶周圍紫斑，3週前腹瀉、瀝青便（tarry stool）、少尿、水腫、端坐呼吸。現在理學檢查身高160 cm，體重60 kg，肝脾明顯腫大，胸部X光心臟擴大,兩側中心肺泡浸潤。腎臟超音波左腎長度11.5 cm，右腎長度11.0 cm，血中血色素7.5g/dL，血中肌酸酐4.8 mg/dL，補體正常，尿液紅血球4～6/HPF，尿液蛋白質 4+。下列何者是最可能的診斷？",
     "choices": [
-      "類澱粉症（amyloidosis）",
-      "冷凝球蛋白血症（cryoglobulinemia）",
-      "韋氏肉芽腫（Wegener's granulomatosis）",
-      "全身性紅斑性狼瘡（SLE）"
+      {
+        "text": "類澱粉症（amyloidosis）",
+        "is_correct": true
+      },
+      {
+        "text": "冷凝球蛋白血症（cryoglobulinemia）",
+        "is_correct": false
+      },
+      {
+        "text": "韋氏肉芽腫（Wegener's granulomatosis）",
+        "is_correct": false
+      },
+      {
+        "text": "全身性紅斑性狼瘡（SLE）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "8",
@@ -16,10 +28,22 @@
     "subject": "免疫風濕科",
     "question": "一位罹患僵直性脊椎炎的患者，有一天突覺左眼腫脹、怕光及視力模糊。下列何者為首選治療藥物？",
     "choices": [
-      "methotrexate",
-      "hydroxychloroquine",
-      "local glucocorticoid administration",
-      "azathioprine"
+      {
+        "text": "methotrexate",
+        "is_correct": false
+      },
+      {
+        "text": "hydroxychloroquine",
+        "is_correct": false
+      },
+      {
+        "text": "local glucocorticoid administration",
+        "is_correct": true
+      },
+      {
+        "text": "azathioprine",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "9",
@@ -29,10 +53,22 @@
     "subject": "免疫風濕科",
     "question": "63歲男性為HBV帶原者。5年前開始有兩手小關節、手腕、手肘、膝蓋及腳踝關節酸痛，抽血檢查發現RF：29.7 IU/mL（normal< 10 IU/mL），ESR：18 mm/1h，CRP：1.0 mg/dL（normal<0.8 mg/dL），ALT：62 U/L。下列何種檢查結果陽性對患者的鑑別診斷最有幫助？",
     "choices": [
-      "anti-nuclear antibody",
-      "anti-SSA/anti-SSB antibody",
-      "anti-cyclic citrullinated peptide antibody",
-      "C3 and C4"
+      {
+        "text": "anti-nuclear antibody",
+        "is_correct": false
+      },
+      {
+        "text": "anti-SSA/anti-SSB antibody",
+        "is_correct": false
+      },
+      {
+        "text": "anti-cyclic citrullinated peptide antibody",
+        "is_correct": true
+      },
+      {
+        "text": "C3 and C4",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "10",
@@ -42,10 +78,22 @@
     "subject": "免疫風濕科",
     "question": "60歲的女病患主訴右膝關節腫脹及輕微疼痛已2週。抽出關節液檢驗，其外表黃色透明，黏稠度（viscosity）甚高，白血球濃度為250 cells/mm^3。最適宜的診斷為何？",
     "choices": [
-      "痛風性關節炎",
-      "退化性關節炎",
-      "細菌性關節炎",
-      "乾癬性關節炎"
+      {
+        "text": "痛風性關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "退化性關節炎",
+        "is_correct": true
+      },
+      {
+        "text": "細菌性關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "乾癬性關節炎",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "11",
@@ -55,10 +103,22 @@
     "subject": "免疫風濕科",
     "question": "下列何者免疫抑制劑與FKBP-12接合，可減少IL-2之產生？",
     "choices": [
-      "cyclosporine",
-      "tacrolimus",
-      "mycophenolate mofetil",
-      "sirolimus"
+      {
+        "text": "cyclosporine",
+        "is_correct": false
+      },
+      {
+        "text": "tacrolimus",
+        "is_correct": true
+      },
+      {
+        "text": "mycophenolate mofetil",
+        "is_correct": false
+      },
+      {
+        "text": "sirolimus",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "33",
@@ -68,10 +128,22 @@
     "subject": "免疫風濕科",
     "question": "55歲男性，有下背痛伴隨晨間僵硬（＞30分鐘）已有兩年，骨盆X光無明顯異常，病患曾有左跟踺（Achilles tendon）發炎病史，以目前病情判斷，何種疾病最有可能？",
     "choices": [
-      "僵直性脊椎炎（ankylosing spondylitis）",
-      "中軸脊椎關節炎（axial spondyloarthropathy）",
-      "退化性關節炎（osteoarthritis）",
-      "乾癬性關節炎（psoriatic arthritis）"
+      {
+        "text": "僵直性脊椎炎（ankylosing spondylitis）",
+        "is_correct": false
+      },
+      {
+        "text": "中軸脊椎關節炎（axial spondyloarthropathy）",
+        "is_correct": true
+      },
+      {
+        "text": "退化性關節炎（osteoarthritis）",
+        "is_correct": false
+      },
+      {
+        "text": "乾癬性關節炎（psoriatic arthritis）",
+        "is_correct": false
+      }
     ],
     "session": "105寒期",
     "no": "39",
@@ -81,10 +153,22 @@
     "subject": "免疫風濕科",
     "question": "下列對於全身性紅斑性狼瘡（SLE）病人血清中的各種自體抗體的描述，何者最為正確？",
     "choices": [
-      "anti-RNP對於診斷SLE的特異性最高",
-      "anti-histone抗體與SLE的腎炎最有相關",
-      "anti-Sm與SLE的psychosis最有相關",
-      "anti-phospholipid與habitual fetal loss最有相關"
+      {
+        "text": "anti-RNP對於診斷SLE的特異性最高",
+        "is_correct": false
+      },
+      {
+        "text": "anti-histone抗體與SLE的腎炎最有相關",
+        "is_correct": false
+      },
+      {
+        "text": "anti-Sm與SLE的psychosis最有相關",
+        "is_correct": false
+      },
+      {
+        "text": "anti-phospholipid與habitual fetal loss最有相關",
+        "is_correct": true
+      }
     ],
     "session": "105寒期",
     "no": "40",
@@ -94,10 +178,22 @@
     "subject": "免疫風濕科",
     "question": "一位34歲類風濕關節炎患者兩手PIP及MCP joints有腫脹，腕關節有腫脹及活動受限，兩側肘關節有腫脹及變形。ESR：83mm/1h，CRP：5.36 mg/dL（normal < 0.8 mg/dL），RF：635 IU/mL（normal<10 IU/mL），經以methotrexate 15mg/week+salfasalazine 500 mg QID及prednisolone 10 mg QD治療約半年無顯著效果，下一步應該選擇何種治療藥物最為恰當？",
     "choices": [
-      "anti-TNF-α",
-      "IL-1 receptor antagonist",
-      "prednisolone 1000 mg/day pulse therapy for 3 days",
-      "anti-pyrimidine agent"
+      {
+        "text": "anti-TNF-α",
+        "is_correct": true
+      },
+      {
+        "text": "IL-1 receptor antagonist",
+        "is_correct": false
+      },
+      {
+        "text": "prednisolone 1000 mg/day pulse therapy for 3 days",
+        "is_correct": false
+      },
+      {
+        "text": "anti-pyrimidine agent",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "8",
@@ -107,10 +203,22 @@
     "subject": "免疫風濕科",
     "question": "下列有關治療urticaria/angioedma的描述中，何者最為正確？",
     "choices": [
-      "topical glucocorticoids ointment對於acute urticaria最有效",
-      "H2 antihistamine對止癢最有效果",
-      "systemic glucocorticoids對chronic urticaria最有效",
-      "persistent vasculitic urticaria可以使用hydroxychloroquine作為輔助治療"
+      {
+        "text": "topical glucocorticoids ointment對於acute urticaria最有效",
+        "is_correct": false
+      },
+      {
+        "text": "H2 antihistamine對止癢最有效果",
+        "is_correct": false
+      },
+      {
+        "text": "systemic glucocorticoids對chronic urticaria最有效",
+        "is_correct": false
+      },
+      {
+        "text": "persistent vasculitic urticaria可以使用hydroxychloroquine作為輔助治療",
+        "is_correct": true
+      }
     ],
     "session": "105暑期",
     "no": "35",
@@ -120,10 +228,22 @@
     "subject": "免疫風濕科",
     "question": "抗磷脂質抗體症候群（antiphospholipid antibody syndrome）與下列何種異常最有相關？",
     "choices": [
-      "thrombocytopenia",
-      "proteinuria",
-      "photosensitivity",
-      "arthritis"
+      {
+        "text": "thrombocytopenia",
+        "is_correct": true
+      },
+      {
+        "text": "proteinuria",
+        "is_correct": false
+      },
+      {
+        "text": "photosensitivity",
+        "is_correct": false
+      },
+      {
+        "text": "arthritis",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "36",
@@ -133,10 +253,22 @@
     "subject": "免疫風濕科",
     "question": "全身性硬化症（systemic sclerosis）最常侵犯的內臟是：",
     "choices": [
-      "食道",
-      "心臟",
-      "腎臟",
-      "眼睛"
+      {
+        "text": "食道",
+        "is_correct": true
+      },
+      {
+        "text": "心臟",
+        "is_correct": false
+      },
+      {
+        "text": "腎臟",
+        "is_correct": false
+      },
+      {
+        "text": "眼睛",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "37",
@@ -146,10 +278,22 @@
     "subject": "免疫風濕科",
     "question": "下列關於關節炎分類的鑑別診斷中，何種組合最正確？",
     "choices": [
-      "tuberculous arthritis－acute monoarticular arthritis",
-      "virus-induced arthritis－chronic monoarticular arthritis",
-      "sarcoidosis－chronic polyarticular arthritis",
-      "infectious arthritis－acute polyarticular arthritis"
+      {
+        "text": "tuberculous arthritis－acute monoarticular arthritis",
+        "is_correct": false
+      },
+      {
+        "text": "virus-induced arthritis－chronic monoarticular arthritis",
+        "is_correct": false
+      },
+      {
+        "text": "sarcoidosis－chronic polyarticular arthritis",
+        "is_correct": true
+      },
+      {
+        "text": "infectious arthritis－acute polyarticular arthritis",
+        "is_correct": false
+      }
     ],
     "session": "105暑期",
     "no": "38",
@@ -159,10 +303,22 @@
     "subject": "免疫風濕科",
     "question": "30歲男病人主訴左手第2、3指及右手3、4指的遠端指骨關節（distal interphalangeal joint）紅腫熱痛已3星期。同時兩側下肢的皮膚也出現了許多突出會脫屑的紅疹塊。最可能的診斷為何？",
     "choices": [
-      "類風濕性關節炎",
-      "細菌性關節炎",
-      "全身性紅斑性狼瘡",
-      "乾癬性關節炎"
+      {
+        "text": "類風濕性關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "細菌性關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "全身性紅斑性狼瘡",
+        "is_correct": false
+      },
+      {
+        "text": "乾癬性關節炎",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "8",
@@ -172,10 +328,22 @@
     "subject": "免疫風濕科",
     "question": "下列有關anti-CCP（anti-cyclic citrullinated peptide antibody）之敘述，何者錯誤？",
     "choices": [
-      "多出現在類風濕性關節炎（RA）病患",
-      "一般而言此抗體高低與RA疾病的嚴重度相關",
-      "此CCP之形成，是由精氨酸（arginine）經由PAD酶轉換成瓜氨酸（citrulline）",
-      "使用anti-TNFα治療RA，anti-CCP抗體不會下降"
+      {
+        "text": "多出現在類風濕性關節炎（RA）病患",
+        "is_correct": false
+      },
+      {
+        "text": "一般而言此抗體高低與RA疾病的嚴重度相關",
+        "is_correct": true
+      },
+      {
+        "text": "此CCP之形成，是由精氨酸（arginine）經由PAD酶轉換成瓜氨酸（citrulline）",
+        "is_correct": false
+      },
+      {
+        "text": "使用anti-TNFα治療RA，anti-CCP抗體不會下降",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "35",
@@ -185,10 +353,22 @@
     "subject": "免疫風濕科",
     "question": "目前診斷Sjogren’s症候群，下列何種條件，可診斷原發性乾燥症（primary Sjogren’s syndrome）？1.口乾 2.眼乾3.Schirmer's test (+) 4.唾液腺體切片異常（超過1 focus淋巴球聚集） 5.唾液腺功能檢查異常 6.血中抗SSA或SSB抗體陽性 7.關節疼痛",
     "choices": [
-      "1234",
-      "1257",
-      "1235",
-      "1267"
+      {
+        "text": "1234",
+        "is_correct": true
+      },
+      {
+        "text": "1257",
+        "is_correct": true
+      },
+      {
+        "text": "1235",
+        "is_correct": true
+      },
+      {
+        "text": "1267",
+        "is_correct": true
+      }
     ],
     "session": "106寒期",
     "no": "36",
@@ -198,10 +378,22 @@
     "subject": "免疫風濕科",
     "question": "下列的何種全身性血管炎會有氣喘病的發作？",
     "choices": [
-      "Churg-Strauss syndrome",
-      "Goodpasture’s syndrome",
-      "essential mixed cryoglobulinemia",
-      "drug-induced vasculitis"
+      {
+        "text": "Churg-Strauss syndrome",
+        "is_correct": true
+      },
+      {
+        "text": "Goodpasture’s syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "essential mixed cryoglobulinemia",
+        "is_correct": false
+      },
+      {
+        "text": "drug-induced vasculitis",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "37",
@@ -211,10 +403,22 @@
     "subject": "免疫風濕科",
     "question": "32歲男性病人，因反覆發作葡萄膜炎（uveitis）從眼科轉診過來；詳細病史，發現其已有一年多常有口腔潰瘍疼痛的病史，且兩下肢也時常出現有壓痛的皮膚紅疹。但無慢性下背痛的病史，下列那一項檢查，可能具診斷的價值？",
     "choices": [
-      "pathergy test",
-      "Schober test",
-      "Schirmer’s test",
-      "PPD skin test"
+      {
+        "text": "pathergy test",
+        "is_correct": true
+      },
+      {
+        "text": "Schober test",
+        "is_correct": false
+      },
+      {
+        "text": "Schirmer’s test",
+        "is_correct": false
+      },
+      {
+        "text": "PPD skin test",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "38",
@@ -224,10 +428,22 @@
     "subject": "免疫風濕科",
     "question": "一位17歲的女性罹患蕁麻疹已有二年之久。時常會有無預警的發生全身搔癢、紅斑及條痕（erythema and wheal）出現。經服用抗組織胺（anti-histamine）有效，但是無法根除。則下列那一種檢查對疾病的病因追查最有幫忙？",
     "choices": [
-      "血清補體值（serum complement level）",
-      "嗜伊紅性白血球的總數（total eosinophil count）",
-      "抗過敏原IgE抗體的效價（allergen-specific IgE titer）",
-      "血清冷凝球蛋白的存在（presence of serum cryoglobulin）"
+      {
+        "text": "血清補體值（serum complement level）",
+        "is_correct": false
+      },
+      {
+        "text": "嗜伊紅性白血球的總數（total eosinophil count）",
+        "is_correct": false
+      },
+      {
+        "text": "抗過敏原IgE抗體的效價（allergen-specific IgE titer）",
+        "is_correct": true
+      },
+      {
+        "text": "血清冷凝球蛋白的存在（presence of serum cryoglobulin）",
+        "is_correct": false
+      }
     ],
     "session": "106寒期",
     "no": "39",
@@ -237,10 +453,22 @@
     "subject": "免疫風濕科",
     "question": "一位25歲女性病人被診斷為全身性紅斑性狼瘡（systemic lupus erythematosus, SLE），最近一次驗尿之RBC為50～75/HPF（high power field），每日尿蛋白為3.2公克，血中肌酸酐（creatinine）3個月內，由1.2mg/dL上升至2.4 mg/dL，下列敘述何者錯誤？",
     "choices": [
-      "腎病理切片最可能是瀰漫增生性腎絲球腎炎（diffuse proliferative glomerulonephritis）",
-      "給予靜脈脈衝類固醇治療（pulse steroid therapy）",
-      "給予細胞毒性藥物如cyclophosphamide，此藥亦可用脈衝治療方式給予",
-      "anti-double-stranded DNA抗體檢驗值的高低不可以當狼瘡腎炎活性的指標"
+      {
+        "text": "腎病理切片最可能是瀰漫增生性腎絲球腎炎（diffuse proliferative glomerulonephritis）",
+        "is_correct": false
+      },
+      {
+        "text": "給予靜脈脈衝類固醇治療（pulse steroid therapy）",
+        "is_correct": false
+      },
+      {
+        "text": "給予細胞毒性藥物如cyclophosphamide，此藥亦可用脈衝治療方式給予",
+        "is_correct": false
+      },
+      {
+        "text": "anti-double-stranded DNA抗體檢驗值的高低不可以當狼瘡腎炎活性的指標",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "8",
@@ -250,10 +478,22 @@
     "subject": "免疫風濕科",
     "question": "一位61歲罹患乾癬症的病患，在7年之後，兩側手指逐漸腫脹有如香腸指，又遠端指間關節有發炎反應，且指甲變厚易脆（如附圖），最有可能的診斷為何？",
     "choices": [
-      "osteoarthritis",
-      "rheumatoid arthritis",
-      "fungal infection",
-      "psoriatic arthritis"
+      {
+        "text": "osteoarthritis",
+        "is_correct": false
+      },
+      {
+        "text": "rheumatoid arthritis",
+        "is_correct": false
+      },
+      {
+        "text": "fungal infection",
+        "is_correct": false
+      },
+      {
+        "text": "psoriatic arthritis",
+        "is_correct": true
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015560/Scanned_File/QUE-015560.png",
     "session": "106暑期",
@@ -264,10 +504,22 @@
     "subject": "免疫風濕科",
     "question": "有關僵直性脊椎炎之敘述，下列何者錯誤？",
     "choices": [
-      "HLA-B27陽性者較B27陰性者，易出現葡萄膜炎（uveitis）",
-      "HLA-B27陽性者較陰性者，家族傾向較高",
-      "一般人口中，20%之HLA-B27陽性者，可出現僵直性脊椎炎",
-      "HLA-B27在北美之印第安人（Indians）其盛行率，遠高於臺灣原住民"
+      {
+        "text": "HLA-B27陽性者較B27陰性者，易出現葡萄膜炎（uveitis）",
+        "is_correct": false
+      },
+      {
+        "text": "HLA-B27陽性者較陰性者，家族傾向較高",
+        "is_correct": false
+      },
+      {
+        "text": "一般人口中，20%之HLA-B27陽性者，可出現僵直性脊椎炎",
+        "is_correct": true
+      },
+      {
+        "text": "HLA-B27在北美之印第安人（Indians）其盛行率，遠高於臺灣原住民",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "35",
@@ -277,10 +529,22 @@
     "subject": "免疫風濕科",
     "question": "一名50歲婦女，其主訴為突發性右肩嚴重疼痛，先前使用消炎鎮痛劑數天，卻無法有效緩解。到院時，右肩活動困難，觸診時subdeltoid bursa有明顯壓痛，尿酸8.0 mg/dL，rheumatoid factor 30 U/mL（正常＜20），經由X光及MRI照相結果如圖示，下列何種疾病最有可能？",
     "choices": [
-      "痛風關節炎",
-      "類風濕性關節炎",
-      "apatite晶體引發之關節炎",
-      "冰凍肩（frozen shoulder）"
+      {
+        "text": "痛風關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "類風濕性關節炎",
+        "is_correct": false
+      },
+      {
+        "text": "apatite晶體引發之關節炎",
+        "is_correct": true
+      },
+      {
+        "text": "冰凍肩（frozen shoulder）",
+        "is_correct": false
+      }
     ],
     "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015586/Scanned_File/QUE-015586.png",
     "session": "106暑期",
@@ -291,10 +555,22 @@
     "subject": "免疫風濕科",
     "question": "一病人有狼瘡病腎炎（lupus nephritis），有蛋白尿2.0 gm/day，合併腎功能不足（creatinine 2.0 mg/dL），下列何種藥物，最不適用於此病人？",
     "choices": [
-      "cyclosporine",
-      "leflunomide",
-      "rituximab",
-      "mycofenolate mofetil"
+      {
+        "text": "cyclosporine",
+        "is_correct": true
+      },
+      {
+        "text": "leflunomide",
+        "is_correct": false
+      },
+      {
+        "text": "rituximab",
+        "is_correct": false
+      },
+      {
+        "text": "mycofenolate mofetil",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "37",
@@ -304,10 +580,22 @@
     "subject": "免疫風濕科",
     "question": "一位56歲婦女主訴兩側手指關節及膝關節疼痛已3個月，且兩眼乾澀，也常口渴喝水，最近2星期右側腮腺突然腫脹，下列那一項檢驗最不會出現陽性結果？",
     "choices": [
-      "rheumatoid factors",
-      "antinuclear antibodies",
-      "anti-SS-A（Ro）/SS-B（La）antibodies",
-      "anticardiolipin IgG and IgM"
+      {
+        "text": "rheumatoid factors",
+        "is_correct": false
+      },
+      {
+        "text": "antinuclear antibodies",
+        "is_correct": false
+      },
+      {
+        "text": "anti-SS-A（Ro）/SS-B（La）antibodies",
+        "is_correct": false
+      },
+      {
+        "text": "anticardiolipin IgG and IgM",
+        "is_correct": true
+      }
     ],
     "session": "106暑期",
     "no": "38",
@@ -317,10 +605,22 @@
     "subject": "免疫風濕科",
     "question": "有關癌症患者化學治療期間發生細菌感染，在下列何種情況最常見？",
     "choices": [
-      "corticosteroid治療",
-      "中性顆粒細胞（neutrophil）計數<500/μL",
-      "Hb<7 gm/dL",
-      "體重損失>10%"
+      {
+        "text": "corticosteroid治療",
+        "is_correct": false
+      },
+      {
+        "text": "中性顆粒細胞（neutrophil）計數<500/μL",
+        "is_correct": true
+      },
+      {
+        "text": "Hb<7 gm/dL",
+        "is_correct": false
+      },
+      {
+        "text": "體重損失>10%",
+        "is_correct": false
+      }
     ],
     "session": "106暑期",
     "no": "39",
@@ -330,10 +630,22 @@
     "subject": "免疫風濕科",
     "question": "一位47歲的女性，近三年來有輕度口渴、掉髮、冬天手指頭會變白及變紫。另外，在手掌及手背有明顯的微血管擴張（telangiectasis）。近半年有吞嚥障礙。經抽血檢查發現ANA 1：160 centromere pattern，C3 108 mg/dL，C4 23.5 mg/dL，anti-Scl-70 85 AU/mL（normal <120 AU/mL），anti-centromere protein 218AU/mL（normal<120 AU/mL），anti-SSA 128 AU/mL（normal< 120 AU/mL），anti-dsDNA 108 IU/mL（normal<120IU/mL），anti-Sm/anti-RNP均為正常。最有可能的診斷為何？",
     "choices": [
-      "polymyositis",
-      "CREST syndrome",
-      "Sjogren's syndrome",
-      "systemic lupus erythematosus"
+      {
+        "text": "polymyositis",
+        "is_correct": false
+      },
+      {
+        "text": "CREST syndrome",
+        "is_correct": true
+      },
+      {
+        "text": "Sjogren's syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "systemic lupus erythematosus",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "11",
@@ -343,10 +655,22 @@
     "subject": "免疫風濕科",
     "question": "adalimumab（Humira）為一種抗腫瘤壞死因子（anti-TNF）之單株抗體，最不建議用於治療下列何種疾病？",
     "choices": [
-      "Crohn’s disease",
-      "ankylosing spondylitis",
-      "rheumatoid arthritis",
-      "systemic lupus eryhematosus"
+      {
+        "text": "Crohn’s disease",
+        "is_correct": false
+      },
+      {
+        "text": "ankylosing spondylitis",
+        "is_correct": false
+      },
+      {
+        "text": "rheumatoid arthritis",
+        "is_correct": false
+      },
+      {
+        "text": "systemic lupus eryhematosus",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "12",
@@ -356,10 +680,22 @@
     "subject": "免疫風濕科",
     "question": "32歲男病人罹患活動性C型病毒肝炎已數年。最近數星期，兩下肢皮膚出現許多有壓痛之小紅疹。且四肢麻木疼痛。檢查發現有輕度蛋白尿。下列那一項檢查陽性最具診斷價值？",
     "choices": [
-      "類風濕因子（RF）",
-      "抗細胞核抗體（ANA）",
-      "冷凝球蛋白（cryoglobulin）",
-      "C型肝炎病毒量（viral load）"
+      {
+        "text": "類風濕因子（RF）",
+        "is_correct": false
+      },
+      {
+        "text": "抗細胞核抗體（ANA）",
+        "is_correct": false
+      },
+      {
+        "text": "冷凝球蛋白（cryoglobulin）",
+        "is_correct": true
+      },
+      {
+        "text": "C型肝炎病毒量（viral load）",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "13",
@@ -369,10 +705,22 @@
     "subject": "免疫風濕科",
     "question": "下列有關各種血管炎臨床特徵的描述，何者最為正確？",
     "choices": [
-      "granulomatosis with polyangiitis—urticaria",
-      "microscopic polyangiitis—chronic sinusitis",
-      "Churg-Strauss syndrome—asthmatic attack",
-      "polyarteritis nodosa—severe migraine"
+      {
+        "text": "granulomatosis with polyangiitis—urticaria",
+        "is_correct": false
+      },
+      {
+        "text": "microscopic polyangiitis—chronic sinusitis",
+        "is_correct": false
+      },
+      {
+        "text": "Churg-Strauss syndrome—asthmatic attack",
+        "is_correct": true
+      },
+      {
+        "text": "polyarteritis nodosa—severe migraine",
+        "is_correct": false
+      }
     ],
     "session": "107寒期",
     "no": "37",
@@ -382,10 +730,22 @@
     "subject": "免疫風濕科",
     "question": "下列的何種發現對診斷ankylosing spondylitis最有幫助？",
     "choices": [
-      "positive HLA-B27",
-      "history of low back pain in old patients",
-      "pain on motion during chest expansion",
-      "symmetric sacroiliitis in X-ray films"
+      {
+        "text": "positive HLA-B27",
+        "is_correct": false
+      },
+      {
+        "text": "history of low back pain in old patients",
+        "is_correct": false
+      },
+      {
+        "text": "pain on motion during chest expansion",
+        "is_correct": false
+      },
+      {
+        "text": "symmetric sacroiliitis in X-ray films",
+        "is_correct": true
+      }
     ],
     "session": "107寒期",
     "no": "38",
@@ -395,10 +755,22 @@
     "subject": "免疫風濕科",
     "question": "一位 22 歲的男性病人主訴右膝關節腫痛已一個多月。最近半年來時常睡至下半夜因下背痠痛而醒來。上星期突然眼痛，視力模糊，被眼科醫師診斷為葡萄膜炎（uveitis）。請問下列那一種檢查對診斷最有幫助？",
     "choices": [
-      "骨盆腔X 光",
-      "右膝關節X 光",
-      "抽血檢查RF 及ANA",
-      "右膝關節液的檢查"
+      {
+        "text": "骨盆腔X 光",
+        "is_correct": true
+      },
+      {
+        "text": "右膝關節X 光",
+        "is_correct": false
+      },
+      {
+        "text": "抽血檢查RF 及ANA",
+        "is_correct": false
+      },
+      {
+        "text": "右膝關節液的檢查",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "8",
@@ -408,10 +780,22 @@
     "subject": "免疫風濕科",
     "question": "一位 30 歲女性病人，最近一週發燒及下肢水腫就醫。身體診察：意識清楚，口溫38.2°C，血壓170/100 mmHg，脈搏76/min，呼吸16/min，眼底、肺部、心臟、腹部和四肢關節均無異常，但下肢有顯著壓陷性水腫。血液生化檢查：尿素氮35 mg/dL，肌酸酐3.0 mg/dL。血清anti-neutrophil\ncytoplasmic antibody（ANCA）陰性，anti-nuclear antibody 陽性，尿液檢查：蛋白質(3+)，紅血球25-30 顆/高倍視野，紅血球圓柱體(+)，下列何項檢查對確立診斷有幫助？",
     "choices": [
-      "類風濕因子（rheumatoid factor）",
-      "C 型肝炎抗體（anti-hepatitis C virus antibody）",
-      "雙股去氧核糖核酸抗體（anti-double stranded DNA antibody）",
-      "冷凝球蛋白（cryoglobulin）"
+      {
+        "text": "類風濕因子（rheumatoid factor）",
+        "is_correct": false
+      },
+      {
+        "text": "C 型肝炎抗體（anti-hepatitis C virus antibody）",
+        "is_correct": false
+      },
+      {
+        "text": "雙股去氧核糖核酸抗體（anti-double stranded DNA antibody）",
+        "is_correct": true
+      },
+      {
+        "text": "冷凝球蛋白（cryoglobulin）",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "38",
@@ -421,10 +805,22 @@
     "subject": "免疫風濕科",
     "question": "有關風濕免疫疾病合併眼病變，下列何種組合最正確？",
     "choices": [
-      "類風濕性關節炎合併葡萄膜炎（uveitis）及全身性紅斑性狼瘡（SLE）合併眼視網膜病變",
-      "類風濕性關節炎合併鞏膜炎（scleritis）及原發性膽道硬化症合併乾燥症（Sjögren’s syndrome）",
-      "僵直性脊椎炎合併後房葡萄膜炎（posterior uveitis）及SLE 合併視網膜病變",
-      "乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎（anterior uveitis）"
+      {
+        "text": "類風濕性關節炎合併葡萄膜炎（uveitis）及全身性紅斑性狼瘡（SLE）合併眼視網膜病變",
+        "is_correct": false
+      },
+      {
+        "text": "類風濕性關節炎合併鞏膜炎（scleritis）及原發性膽道硬化症合併乾燥症（Sjögren’s syndrome）",
+        "is_correct": true
+      },
+      {
+        "text": "僵直性脊椎炎合併後房葡萄膜炎（posterior uveitis）及SLE 合併視網膜病變",
+        "is_correct": false
+      },
+      {
+        "text": "乾癬性關節炎合併鞏膜炎及僵直性脊椎炎合併前房葡萄膜炎（anterior uveitis）",
+        "is_correct": true
+      }
     ],
     "session": "104寒期",
     "no": "42",
@@ -434,10 +830,22 @@
     "subject": "免疫風濕科",
     "question": "在硬皮症之免疫病變中，下列何種細胞激素，可明顯地影響組織內fibroblast 產生大量之膠原纖維？",
     "choices": [
-      "tumor necrosis factor-α",
-      "transforming growth factor-β",
-      "interleukin-4",
-      "interferon-α"
+      {
+        "text": "tumor necrosis factor-α",
+        "is_correct": false
+      },
+      {
+        "text": "transforming growth factor-β",
+        "is_correct": true
+      },
+      {
+        "text": "interleukin-4",
+        "is_correct": false
+      },
+      {
+        "text": "interferon-α",
+        "is_correct": false
+      }
     ],
     "session": "104寒期",
     "no": "44",
@@ -447,10 +855,22 @@
     "subject": "免疫風濕科",
     "question": "巨大細胞血管炎（giant cell arteritis），常與下列何種疾病共同發生？",
     "choices": [
-      "rheumatoid arthritis",
-      "Sjogren’s syndrome",
-      "polymyalgia rheumatica",
-      "primary biliary cirrhosis"
+      {
+        "text": "rheumatoid arthritis",
+        "is_correct": false
+      },
+      {
+        "text": "Sjogren’s syndrome",
+        "is_correct": false
+      },
+      {
+        "text": "polymyalgia rheumatica",
+        "is_correct": true
+      },
+      {
+        "text": "primary biliary cirrhosis",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "35",
@@ -460,10 +880,22 @@
     "subject": "免疫風濕科",
     "question": "下列有關自體免疫疾病及其自體抗原的配對中，何者最為正確？",
     "choices": [
-      "multiple sclerosis—myelin-basic protein",
-      "rheumatoid arthritis—F-actin",
-      "autoimmune hepatitis—collagen type Ⅱ",
-      "Sjogren’s syndrome—deoxyribonucleoprotein"
+      {
+        "text": "multiple sclerosis—myelin-basic protein",
+        "is_correct": true
+      },
+      {
+        "text": "rheumatoid arthritis—F-actin",
+        "is_correct": false
+      },
+      {
+        "text": "autoimmune hepatitis—collagen type Ⅱ",
+        "is_correct": false
+      },
+      {
+        "text": "Sjogren’s syndrome—deoxyribonucleoprotein",
+        "is_correct": false
+      }
     ],
     "session": "104暑期",
     "no": "36",
@@ -473,10 +905,22 @@
     "subject": "免疫風濕科",
     "question": "Sjogren’s syndrome病人最有可能出現那一種腫瘤？",
     "choices": [
-      "thymoma",
-      "small cell carcinoma of lung",
-      "renal cell carcinoma",
-      "non-Hodgkin’s lymphoma"
+      {
+        "text": "thymoma",
+        "is_correct": false
+      },
+      {
+        "text": "small cell carcinoma of lung",
+        "is_correct": false
+      },
+      {
+        "text": "renal cell carcinoma",
+        "is_correct": false
+      },
+      {
+        "text": "non-Hodgkin’s lymphoma",
+        "is_correct": true
+      }
     ],
     "session": "104暑期",
     "no": "37",
@@ -486,10 +930,22 @@
     "subject": "免疫風濕科",
     "question": "關於痛風（gout）和急性痛風性關節炎（acute gouty arthritis）的治療，下列敘述何者錯誤？",
     "choices": [
-      "急性痛風性關節炎如果不治療也可在3至10天內自然緩解",
-      "治療急性痛風性關節炎時，如合併使用colchicine和降尿酸的藥物（例如allopurinol），會有最好的消炎效果",
-      "使用allopurinol治療痛風時，病人如果帶有HLA-B*5801基因，則產生嚴重皮膚過敏反應的機率比不帶此基因的機率高很多",
-      "Febuxostat是一種xanthine oxidase inhibitor，在腎臟功能不全的病人也可使用"
+      {
+        "text": "急性痛風性關節炎如果不治療也可在3至10天內自然緩解",
+        "is_correct": false
+      },
+      {
+        "text": "治療急性痛風性關節炎時，如合併使用colchicine和降尿酸的藥物（例如allopurinol），會有最好的消炎效果",
+        "is_correct": true
+      },
+      {
+        "text": "使用allopurinol治療痛風時，病人如果帶有HLA-B*5801基因，則產生嚴重皮膚過敏反應的機率比不帶此基因的機率高很多",
+        "is_correct": false
+      },
+      {
+        "text": "Febuxostat是一種xanthine oxidase inhibitor，在腎臟功能不全的病人也可使用",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "28",
@@ -499,10 +955,22 @@
     "subject": "免疫風濕科",
     "question": "有關復發性多軟骨炎（relapsing polychondritis）的敘述，下列何者正確？",
     "choices": [
-      "大部分病人會有類風濕因子（rheumatoid factor）陽性",
-      "大多數的病人會合併關節炎",
-      "大約有90%的病人會合併其他自體免疫疾病",
-      "治療以抗腫瘤壞死因子（anti-TNF）生物製劑為主"
+      {
+        "text": "大部分病人會有類風濕因子（rheumatoid factor）陽性",
+        "is_correct": false
+      },
+      {
+        "text": "大多數的病人會合併關節炎",
+        "is_correct": true
+      },
+      {
+        "text": "大約有90%的病人會合併其他自體免疫疾病",
+        "is_correct": false
+      },
+      {
+        "text": "治療以抗腫瘤壞死因子（anti-TNF）生物製劑為主",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "29",
@@ -512,10 +980,22 @@
     "subject": "免疫風濕科",
     "question": "30歲女性主訴近半年來口乾眼乾越來越嚴重，即使每天喝很多水也無法改善，眼科醫師經過Schirmer's test之後確認為乾眼症，轉介至風濕免疫科門診。下列何種處置比較恰當？",
     "choices": [
-      "直接使用高劑量類固醇治療",
-      "直接使用Cyclophosphamide治療",
-      "直接使用Rituximab治療",
-      "先抽血檢驗Anti-SSA/SSB抗體"
+      {
+        "text": "直接使用高劑量類固醇治療",
+        "is_correct": false
+      },
+      {
+        "text": "直接使用Cyclophosphamide治療",
+        "is_correct": false
+      },
+      {
+        "text": "直接使用Rituximab治療",
+        "is_correct": false
+      },
+      {
+        "text": "先抽血檢驗Anti-SSA/SSB抗體",
+        "is_correct": true
+      }
     ],
     "session": "107暑期",
     "no": "30",
@@ -525,10 +1005,22 @@
     "subject": "免疫風濕科",
     "question": "33歲女性因.持續發燒1個多月前來求診。病人12歲時曾因下肢紫斑與牙齦出血在其他醫院診斷為「自體免疫血小板低下」，經類固醇治療約半年左右就病情穩定也未再回診。初步實驗室檢驗白血球（WBC），3,200/μL，Hgb 8.5 g/dL，血小板60,000/ μL，尿液常規有蛋白尿protein 3+，血尿RBC 10～20/HPF。下列\f何項檢查對確立診斷最有幫助？",
     "choices": [
-      "C-反應蛋白（CRP）",
-      "抗中性球細胞質抗體（antineutrophil cytoplasmic antibodies）",
-      "抗核抗體（antinuclear antibodies）",
-      "間接庫姆氏試驗（indirect Coombs' test）"
+      {
+        "text": "C-反應蛋白（CRP）",
+        "is_correct": false
+      },
+      {
+        "text": "抗中性球細胞質抗體（antineutrophil cytoplasmic antibodies）",
+        "is_correct": false
+      },
+      {
+        "text": "抗核抗體（antinuclear antibodies）",
+        "is_correct": true
+      },
+      {
+        "text": "間接庫姆氏試驗（indirect Coombs' test）",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "31",
@@ -538,10 +1030,22 @@
     "subject": "免疫風濕科",
     "question": "38歲謝先生約半年前開始出現陣發性關節腫痛。病人痛過的關節包括左膝關節、雙手腕關節、左手第2、3、4掌指關節、右手第2掌指關節及右手第2近端指間關節與右肘關節。每次腫痛只侵犯1個關節，約3至5天自癒，從來沒有痛過足部的關節。但近2個月雙腕關節及雙手第2、3掌指關節與右手第2近端指間關節腫痛一直不消退，造成生活極大不便。以下何種檢查對確診病人為類風濕性關節炎最為重要？",
     "choices": [
-      "血清尿酸（serum uric acid）",
-      "雙手X光照相（X-ray of both hands）",
-      "抗環瓜氨酸抗體（anti-cyclic citrullinated peptides antibodies）",
-      "腕關節超音波檢查"
+      {
+        "text": "血清尿酸（serum uric acid）",
+        "is_correct": false
+      },
+      {
+        "text": "雙手X光照相（X-ray of both hands）",
+        "is_correct": false
+      },
+      {
+        "text": "抗環瓜氨酸抗體（anti-cyclic citrullinated peptides antibodies）",
+        "is_correct": true
+      },
+      {
+        "text": "腕關節超音波檢查",
+        "is_correct": false
+      }
     ],
     "session": "107暑期",
     "no": "32",
@@ -551,10 +1055,22 @@
     "subject": "免疫風濕科",
     "question": "有關多發性肌炎（polymyositis）的敘述，下列何者正確？",
     "choices": [
-      "statin類藥物會引發類似polymyositis的表現",
-      "在⼤於50歲的發炎性肌⾁病變（inflammatory myopathies）患者中，polymyositis是最常⾒的診斷",
-      "關節攣縮（joint contractures）常發⽣於polymyositis",
-      "⽪下鈣化（subcutaneous calcifications）常發⽣於polymyositis"
+      {
+        "text": "statin類藥物會引發類似polymyositis的表現",
+        "is_correct": true
+      },
+      {
+        "text": "在⼤於50歲的發炎性肌⾁病變（inflammatory myopathies）患者中，polymyositis是最常⾒的診斷",
+        "is_correct": false
+      },
+      {
+        "text": "關節攣縮（joint contractures）常發⽣於polymyositis",
+        "is_correct": false
+      },
+      {
+        "text": "⽪下鈣化（subcutaneous calcifications）常發⽣於polymyositis",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "31",
@@ -564,10 +1080,22 @@
     "subject": "免疫風濕科",
     "question": "有關顳動脈⾎管炎（temporal arteritis）的敘述，下列何者正確？",
     "choices": [
-      "屬於中⼩型⾎管炎",
-      "常常與風濕性多肌痛（polymyalgia rheumatica）⼀起發⽣",
-      "好發於20～40歲女性",
-      "通常對類固醇的治療反應不佳"
+      {
+        "text": "屬於中⼩型⾎管炎",
+        "is_correct": false
+      },
+      {
+        "text": "常常與風濕性多肌痛（polymyalgia rheumatica）⼀起發⽣",
+        "is_correct": true
+      },
+      {
+        "text": "好發於20～40歲女性",
+        "is_correct": false
+      },
+      {
+        "text": "通常對類固醇的治療反應不佳",
+        "is_correct": false
+      }
     ],
     "session": "108寒期",
     "no": "32",
@@ -577,10 +1105,22 @@
     "subject": "免疫風濕科",
     "question": "40歲李女⼠約3年前診斷為全⾝性紅斑狼瘡（systemic lupus erythematosus），除發病時曾有關節腫痛與⽪膚紅斑外，近2年病情尚稱穩定。李女⼠過去驗⾎就知道⾎中的抗⼼脂抗體（anticardiolipin antibodies）很⾼，為正常上限值的3倍，但過去並不曾發⽣⾎管栓塞。本次因左腿急性腫痛⾄急診室求診，影像學檢查⾒左腿有深部靜脈栓塞（deep vein thrombosis）。下列處置何者最為適當？",
     "choices": [
-      "加上aspirin，每⽇100毫克",
-      "加上⼝服warfarin，希望⽬標international normalized ratio（INR）2.0～2.5",
-      "應立即⽤⾼劑量類固醇治療",
-      "加上新型抗凝⾎藥物（new oral anticoagulants, NOAC）"
+      {
+        "text": "加上aspirin，每⽇100毫克",
+        "is_correct": true
+      },
+      {
+        "text": "加上⼝服warfarin，希望⽬標international normalized ratio（INR）2.0～2.5",
+        "is_correct": true
+      },
+      {
+        "text": "應立即⽤⾼劑量類固醇治療",
+        "is_correct": true
+      },
+      {
+        "text": "加上新型抗凝⾎藥物（new oral anticoagulants, NOAC）",
+        "is_correct": true
+      }
     ],
     "session": "108寒期",
     "no": "33",
@@ -590,10 +1130,22 @@
     "subject": "免疫風濕科",
     "question": "下列關於痛風（gout）和急性痛風性關節炎（acute gouty arthritis）的描述，何者錯誤？",
     "choices": [
-      "急性痛風性關節炎發生在下肢的機率比上肢高",
-      "痛風發生在男性的機率比女性高",
-      "高尿酸血症（hyperuricemia）是引起痛風的主要原因，因此急性痛風性關節炎發作時測血中尿酸值對疾病的\f診斷很有幫助",
-      "急性痛風性關節炎的關節液檢查可發現白血球上升的情形，關節液白血球計數可從數千至數萬"
+      {
+        "text": "急性痛風性關節炎發生在下肢的機率比上肢高",
+        "is_correct": false
+      },
+      {
+        "text": "痛風發生在男性的機率比女性高",
+        "is_correct": false
+      },
+      {
+        "text": "高尿酸血症（hyperuricemia）是引起痛風的主要原因，因此急性痛風性關節炎發作時測血中尿酸值對疾病的\f診斷很有幫助",
+        "is_correct": true
+      },
+      {
+        "text": "急性痛風性關節炎的關節液檢查可發現白血球上升的情形，關節液白血球計數可從數千至數萬",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "28",
@@ -603,10 +1155,22 @@
     "subject": "免疫風濕科",
     "question": "許多非關節炎疾病常可能合併關節病變，下列相關敘述何者正確？",
     "choices": [
-      "hypertrophic osteoarthropathy與肺癌（lung cancer）有關",
-      "pigmented villonodular synovitis（PVNS）與糖尿病（diabetes mellitus）有關",
-      "hemophilic arthropathy與慢性腎臟病（chronic kidney disease）有關",
-      "neuropathic joint disease與carpal tunnel syndrome有關"
+      {
+        "text": "hypertrophic osteoarthropathy與肺癌（lung cancer）有關",
+        "is_correct": true
+      },
+      {
+        "text": "pigmented villonodular synovitis（PVNS）與糖尿病（diabetes mellitus）有關",
+        "is_correct": false
+      },
+      {
+        "text": "hemophilic arthropathy與慢性腎臟病（chronic kidney disease）有關",
+        "is_correct": false
+      },
+      {
+        "text": "neuropathic joint disease與carpal tunnel syndrome有關",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "29",
@@ -616,10 +1180,22 @@
     "subject": "免疫風濕科",
     "question": "相較於瀰漫型硬皮症（diffuse systemic sclerosis），下列何者是侷限型硬皮症（limited systemic sclerosis）的特性？",
     "choices": [
-      "皮膚硬化進展較快",
-      "若併發間質性肺炎（interstitial lung disease）進展比較緩慢",
-      "關節疼痛較嚴重",
-      "常常出現anti-topoisomerase I（Scl-70）抗體陽性"
+      {
+        "text": "皮膚硬化進展較快",
+        "is_correct": false
+      },
+      {
+        "text": "若併發間質性肺炎（interstitial lung disease）進展比較緩慢",
+        "is_correct": true
+      },
+      {
+        "text": "關節疼痛較嚴重",
+        "is_correct": false
+      },
+      {
+        "text": "常常出現anti-topoisomerase I（Scl-70）抗體陽性",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "30",
@@ -629,10 +1205,22 @@
     "subject": "免疫風濕科",
     "question": "有關貝賽特氏症（Behcet's syndrome）的敘述，下列何者正確？",
     "choices": [
-      "病人常常會反覆口腔與生殖器潰瘍",
-      "很少攻擊眼睛",
-      "女性病人比男性多，而且病情較嚴重",
-      "很少會併發關節痛"
+      {
+        "text": "病人常常會反覆口腔與生殖器潰瘍",
+        "is_correct": true
+      },
+      {
+        "text": "很少攻擊眼睛",
+        "is_correct": false
+      },
+      {
+        "text": "女性病人比男性多，而且病情較嚴重",
+        "is_correct": false
+      },
+      {
+        "text": "很少會併發關節痛",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "31",
@@ -642,10 +1230,22 @@
     "subject": "免疫風濕科",
     "question": "31歲王小姐被診斷為全身性紅斑狼瘡併腎炎約7年，初發病時經過prednisolone與mycophenolate治療後，近5年24小時尿蛋白都小於0.5克，血中creatinine為0.6 mg/dL，目前用藥為prednisolone每日5毫克加hydroxychloroquine 200毫克。王小姐因近日即將結婚，有懷孕的計畫，所以到門診來諮詢是否需調整藥物。下列何項臨床處置最為適當？",
     "choices": [
-      "將prednisolone換成等強度dexamethasone",
-      "維持目前用藥不需改變",
-      "停掉hydroxychloroquine",
-      "加上azathioprine"
+      {
+        "text": "將prednisolone換成等強度dexamethasone",
+        "is_correct": false
+      },
+      {
+        "text": "維持目前用藥不需改變",
+        "is_correct": true
+      },
+      {
+        "text": "停掉hydroxychloroquine",
+        "is_correct": false
+      },
+      {
+        "text": "加上azathioprine",
+        "is_correct": false
+      }
     ],
     "session": "108暑期",
     "no": "32",
@@ -655,10 +1255,22 @@
     "subject": "免疫風濕科",
     "question": "關於退化性關節炎（osteoarthritis）的敘述，下列何者錯誤？",
     "choices": [
-      "是一種常見的關節炎，好發於年紀較大的病人",
-      "好發的關節包括手部的distal interphalangeal（DIP）joints、hip joints及knee joints",
-      "關節的X ray檢查常會發現narrowed joint space，但通常不會有bone erosion的情形",
-      "因為關節有發炎，因此病人血中的CRP和ESR值常會有上升的情形"
+      {
+        "text": "是一種常見的關節炎，好發於年紀較大的病人",
+        "is_correct": false
+      },
+      {
+        "text": "好發的關節包括手部的distal interphalangeal（DIP）joints、hip joints及knee joints",
+        "is_correct": false
+      },
+      {
+        "text": "關節的X ray檢查常會發現narrowed joint space，但通常不會有bone erosion的情形",
+        "is_correct": false
+      },
+      {
+        "text": "因為關節有發炎，因此病人血中的CRP和ESR值常會有上升的情形",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "29",
@@ -668,10 +1280,22 @@
     "subject": "免疫風濕科",
     "question": "針對乾燥症（Sjogren's syndrome）合併腺體外表現（extraglandular manifestations）的治療，下列何者正確？",
     "choices": [
-      "若併發關節炎通常使用抗腫瘤壞死因子（anti-TNF）治療",
-      "若併發血管炎可使用類固醇與免疫抑制劑治療",
-      "若併發淋巴癌使用高劑量類固醇治療即可",
-      "若併發雷諾氏症要使用非類固醇類消炎止痛藥治療"
+      {
+        "text": "若併發關節炎通常使用抗腫瘤壞死因子（anti-TNF）治療",
+        "is_correct": false
+      },
+      {
+        "text": "若併發血管炎可使用類固醇與免疫抑制劑治療",
+        "is_correct": true
+      },
+      {
+        "text": "若併發淋巴癌使用高劑量類固醇治療即可",
+        "is_correct": false
+      },
+      {
+        "text": "若併發雷諾氏症要使用非類固醇類消炎止痛藥治療",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "30",
@@ -681,10 +1305,22 @@
     "subject": "免疫風濕科",
     "question": "有關僵直性脊椎炎（ankylosing spondylitis），下列敘述何者正確？",
     "choices": [
-      "HLA-B27陰性就不是僵直性脊椎炎",
-      "結膜炎是僵直性脊椎炎常見的眼睛表現",
-      "僵直性脊椎炎病人大多數是HLA-B27陽性",
-      "僵直性脊椎炎病人女性比較多"
+      {
+        "text": "HLA-B27陰性就不是僵直性脊椎炎",
+        "is_correct": false
+      },
+      {
+        "text": "結膜炎是僵直性脊椎炎常見的眼睛表現",
+        "is_correct": false
+      },
+      {
+        "text": "僵直性脊椎炎病人大多數是HLA-B27陽性",
+        "is_correct": true
+      },
+      {
+        "text": "僵直性脊椎炎病人女性比較多",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "31",
@@ -694,10 +1330,22 @@
     "subject": "免疫風濕科",
     "question": "王太太某日在果園工作時被一隻蜜蜂叮咬，約10幾分鐘後，出現全身蕁麻疹（urticaria），接著呼吸困難，家人連忙將她送到急診室求診。抵達急診室時血壓為88/54 mmHg，心跳110 BPM。對王太太目前的狀況，應以下列何項優先給藥？",
     "choices": [
-      "methylprednisolone 60 mg靜脈注射",
-      "diphenhydramine 50～100 mg靜脈注射",
-      "albuterol 5 mg吸入",
-      "epinephrine 0.5 mg肌肉注射"
+      {
+        "text": "methylprednisolone 60 mg靜脈注射",
+        "is_correct": false
+      },
+      {
+        "text": "diphenhydramine 50～100 mg靜脈注射",
+        "is_correct": false
+      },
+      {
+        "text": "albuterol 5 mg吸入",
+        "is_correct": false
+      },
+      {
+        "text": "epinephrine 0.5 mg肌肉注射",
+        "is_correct": true
+      }
     ],
     "session": "109寒期",
     "no": "32",
@@ -707,10 +1355,22 @@
     "subject": "免疫風濕科",
     "question": "60歲何女士有高血壓10年，每日服用losartan 50 mg與hydrochlorothiazide 12.5 mg，血壓一直控制在理想範圍。2個月前因為肺結核開始服用四合一抗結核藥物，一週前何女士開始出現發燒及手部多發性小關節腫痛現象，抽血檢驗發現抗核抗體（ANA）1：1280陽性，anti-histone antibody陽性，但anti-dsDNA antibodies為陰性。下列處置何者最為適當？",
     "choices": [
-      "停掉losartan",
-      "停掉isoniazid",
-      "停掉hydrochlorothiazide",
-      "原有用藥都不停，加上prednisolone 0.5 mg/kg/day"
+      {
+        "text": "停掉losartan",
+        "is_correct": false
+      },
+      {
+        "text": "停掉isoniazid",
+        "is_correct": true
+      },
+      {
+        "text": "停掉hydrochlorothiazide",
+        "is_correct": false
+      },
+      {
+        "text": "原有用藥都不停，加上prednisolone 0.5 mg/kg/day",
+        "is_correct": false
+      }
     ],
     "session": "109寒期",
     "no": "33",
