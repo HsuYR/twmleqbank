@@ -1,0 +1,1135 @@
+[
+    {
+    "subject": "新陳代謝科",
+    "question": "下列何種病因，並非造成第二型糖尿病主要致病機轉？",
+    "choices": [
+      "胰島素阻抗性",
+      "胰島素分泌不足",
+      "昇糖激素分泌不足",
+      "游離脂肪酸過多"
+    ],
+    "session": "105寒期",
+    "no": "55",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於遺傳學原理應用於臨床醫學上之敘述，下列何者錯誤？",
+    "choices": [
+      "粒線體基因突變造成之疾病為父系遺傳（paternal transmission）",
+      "對於單基因孟德爾式遺傳疾病（monogenic Mendelian disorders），遺傳模式（mode ofinheritance）一般以族譜分析（pedigree analysis）決定之",
+      "基因體印記（genomic imprinting）現象，會使某些疾病遺傳模式不符單基因孟德爾式遺傳模式",
+      "複雜性遺傳疾病（complex genetic disorders），其臨床表現易受環境因素所影響"
+    ],
+    "session": "105寒期",
+    "no": "56",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於肥胖（obesity）之敘述，下列何者錯誤？",
+    "choices": [
+      "在臺灣，肥胖的定義是身體質量指數（BMI）大於等於30 Kg/m2",
+      "在臺灣，腹部肥胖的定義是女性腰圍大於80 cm，男性大於90 cm",
+      "肥胖很常見於Cushing’s syndrome",
+      "craniopharyngioma會引發多食症而造成肥胖"
+    ],
+    "session": "105寒期",
+    "no": "57",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於非自主體重減輕（involuntary weight loss）之敘述，下列何者錯誤？",
+    "choices": [
+      "一般臨床上有意義之體重減輕，定義為在6～12個月內，體重減輕＞5%",
+      "只有第一型糖尿病患控制不佳時，會有體重減輕；第二型糖尿病患控制不佳時仍多肥胖，不會體重減輕",
+      "病患沒有刻意節食或運動減重",
+      "合併有心悸或高血壓時，要考慮甲狀腺機能亢進或嗜鉻細胞瘤"
+    ],
+    "session": "105寒期",
+    "no": "58",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列那一種口服降血糖藥可能引起乳酸血症？",
+    "choices": [
+      "metformin",
+      "sitagliptin",
+      "pioglitazone",
+      "acarbose"
+    ],
+    "session": "105寒期",
+    "no": "59",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列那一項是調控 arginine vasopressin（AVP）增加分泌最重要的機制？",
+    "choices": [
+      "下視丘的osmoreceptors感受血液滲透壓的增加",
+      "心臟的壓力感受器（pressure receptors）感受血液容積或血壓的下降",
+      "噁心或嘔吐刺激髓腦的催吐中樞（emetic center in the medulla）",
+      "血管升壓素（angiotensin）增加"
+    ],
+    "session": "105寒期",
+    "no": "60",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "60歲女性因血壓較高至門診追蹤，無其它異常。平日不抽菸，每日睡前喝紅酒30 mL。父親死於腦中風、母親有糖尿病。血壓170/100 mmHg，身體質量指數（BMI）27.1 kg/m^2。應建議她如何作生活型態改變？",
+    "choices": [
+      "應減輕體重",
+      "每日鈉攝取量應低於6 gm",
+      "每日酒精攝取量應降低",
+      "生活型態對血壓的影響，目前尚無實證支持"
+    ],
+    "session": "105寒期",
+    "no": "66",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有一位妊娠32週的孕婦前來接受產前檢查，醫師除了要問診本胎不適症狀、過去孕產史、家庭疾病史及進行身體檢查外，還需要安排實驗室檢查。下列那項檢查是此懷孕時程所必需安\f排的？",
+    "choices": [
+      "甲狀腺功能",
+      "葡萄糖-6-磷酸去氫酶（蠶豆症檢查）",
+      "口服葡萄糖耐性試驗",
+      "B型肝炎表面抗原檢查"
+    ],
+    "session": "105寒期",
+    "no": "68",
+    "answer": "A,B,C,D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "32歲女性長期無月經，最近因打籃球時發生肋骨骨折，骨密度檢查T-score 為-2.8。病人曾於20歲時，因原發性無月經住院檢查，發現嗅覺不佳且子宮很小，因此曾服用口服避孕藥2年，之後因頭痛自行停藥。抽血檢查 LH＜0.8 IU/L, estradiol＜20pg/mL。下列有關骨鬆症之治療何者最恰當？",
+    "choices": [
+      "bisphosphonate",
+      "estrogen",
+      "calcium + Vit D",
+      "human recombinant PTH"
+    ],
+    "session": "105暑期",
+    "no": "13",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位30歲女性懷孕三個月，體檢發現其甲狀腺輕微腫大觸感堅實。驗血發現free T4 0.6 ng/dL（normal range 0.8～1.8ng/dL），T3 120 ng/dL（normal range 80～180 ng/dL），TSH 20μIU/mL（normal range 0.1～2.0 μIU/mL），你認為她的甲狀腺功能如何？",
+    "choices": [
+      "正常甲狀腺功能（euthyroidism）",
+      "甲狀腺功能亢進（hyperthyroidism）",
+      "次發性甲狀腺功能低下（secondary hypothyroidism）",
+      "原發性甲狀腺功能低下（primary hypothyroidism）"
+    ],
+    "session": "105暑期",
+    "no": "14",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "你正面對一位剛被診斷有第二型糖尿病的62歲女性，她懷疑自己也有骨質健康的問題，下列何者最能正確說明糖尿病和骨鬆症的相關性？",
+    "choices": [
+      "第二型糖尿病患者相對於第一型糖尿病患者有較高的骨質密度",
+      "第二型糖尿病患相對於一般人較少發生骨折",
+      "第二型糖尿病患相對於第一型糖尿病患有較高的骨折風險",
+      "血糖控制不良會降低骨質密度"
+    ],
+    "session": "105暑期",
+    "no": "54",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "診斷庫欣氏症（Cushing’s syndrome）下列何者最可靠？",
+    "choices": [
+      "早上8時皮醇（cortisol）血濃度",
+      "隔夜1 mg dexamethasone抑制試驗",
+      "半夜皮醇血濃度",
+      "低劑量dexamethasone抑制試驗"
+    ],
+    "session": "105暑期",
+    "no": "55",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者不是表面蛋白（apoproteins）的功能？",
+    "choices": [
+      "與脂蛋白接受器結合",
+      "輔助其他酵素",
+      "是合成脂蛋白分解酵素（lipoprotein lipase）的前身（precursor）",
+      "穩定脂蛋白之結構"
+    ],
+    "session": "105暑期",
+    "no": "56",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "57歲女性病人有挑食的習慣，幾天沒解大便，腹脹不舒服去看門診，醫師說她是代謝方面引起的急性便秘，下列何情況較不易引起急性便秘？",
+    "choices": [
+      "Hypothyroidism",
+      "Hypoadrenalism",
+      "Hypokalemia",
+      "Hypocalcemia"
+    ],
+    "session": "105暑期",
+    "no": "78",
+    "answer": "A,C,D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "50歲男性業務經理，因倦怠、性慾減少、陽痿來診。病人已婚育有一子20歲，自覺症狀自5年前開始每況愈下。病人自認工作勝任愉快、夫妻關係良好。經泌尿科診治，抽血檢查：FSH 2 mIU/mL，LH 1 mIU/mL，testosterone 0.4 ng/mL皆比正常人為低，給予睪固酮注射症狀改善。下列敘述何者最為恰當？",
+    "choices": [
+      "此為男性更年期，可以睪固酮症狀治療",
+      "睪丸應小而硬",
+      "應測定血中乳促素（prolactin）濃度",
+      "應以超音波測量陰莖血流"
+    ],
+    "session": "106寒期",
+    "no": "13",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "32歲男性病患，過去身體健康良好。此次因為近一日來四肢無力到急診求診。診視時發現病患在病床上意識清醒，呼吸正常，心跳為每分鐘 124次，規則；血壓120/78 mmHg；四肢無法舉離病床，輕觸和疼痛的感覺雙側相同，深部肌腱反射（deeptendon reflex）下降。實驗室檢驗發現血鉀為1.5 meq/L；血中 creatine kinase 671 IU/L（參考值，38～174 IU/L）；甲狀腺刺激素（thyroid stimulating hormone）為 0.013 μIU/mL（參考值，0.35～5.5 μIU/mL） 和游離T 4甲狀腺素（free T4thyroxine）為4.51 ng/dL（參考值，0.89～1.80 ng/dL）。此病患最有可能的診斷為何?",
+    "choices": [
+      "原發性皮質醛酮過多症（primary aldosteronism）",
+      "甲狀腺毒性週期性麻痹症（thyrotoxic periodic paralysis）",
+      "利尿劑使用過多",
+      "第一型及第二型腎小管酸血症（renal tubular acidosis）"
+    ],
+    "session": "106寒期",
+    "no": "14",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "50歲女性，有一甲狀腺結節，併高血壓，後來發現是甲狀腺髓質癌併嗜鉻細胞瘤。則她及她的小孩要作何種致癌基因（oncogene）檢查？",
+    "choices": [
+      "RAS",
+      "TRK",
+      "ERK",
+      "RET"
+    ],
+    "session": "106寒期",
+    "no": "51",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "維生素D可調控鈣質吸收及肌肉力度的強弱，抽血檢驗何種項目可以測知體內維生素D含量不足？",
+    "choices": [
+      "25 (OH) D",
+      "1,25 (OH)2 D",
+      "副甲狀腺素（PTH）",
+      "血中游離鈣的濃度"
+    ],
+    "session": "106寒期",
+    "no": "52",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者不是脂蛋白分解酵素（lipoprotein lipase）缺乏症之典型臨床表現？",
+    "choices": [
+      "發疹性黃色瘤（eruptive xanthomas）",
+      "胰臟炎",
+      "動脈硬化",
+      "三酸甘油酯過高"
+    ],
+    "session": "106寒期",
+    "no": "53",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列那一種狀況合併之糖尿病是由於胰島素分泌不足引起？",
+    "choices": [
+      "type A insulin resistance",
+      "leprechaunism",
+      "Rabson-Mendenhall syndrome",
+      "mutation(s) in insulin promoter factor-1（IPF-1）"
+    ],
+    "session": "106寒期",
+    "no": "54",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位病友疑似誤食遭到日本福島核災幅射塵污染之食物。除可使用碘化鉀（potassium iodide）治療碘（iodine）-131污染外，亦可使用下列何者治療銫（cesium）-137污染？",
+    "choices": [
+      "aluminum phosphate",
+      "bicarbonate",
+      "calcium diethylenetriaminopentaacetate",
+      "Prussian blue"
+    ],
+    "session": "106寒期",
+    "no": "62",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "承上題，有一項檢查為幅射傷害之敏感指標，與病友幅射暴露量與預後相關。在幅射暴露後之數日內需要每日多次檢測。此項上題病友最需要頻繁檢驗之項目為何？",
+    "choices": [
+      "絕對淋巴球計數（absolute lymphocyte count）",
+      "絕對嗜中性白血球計數（absolute neutrophil count）",
+      "乳酸脫氫酵素（lactate dehydrogenase）",
+      "嗜中性白血球染色體分析（neutrophil chromosomal analysis）"
+    ],
+    "session": "106寒期",
+    "no": "63",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "28歲婦女產下健康男嬰2個月後，因體重增加、倦怠、怕冷、便秘來就診，目前仍哺乳中。病人自訴產前體檢皆為正常，但產後感覺力不從心，身體檢查除臉部圓大、皮膚略微乾燥外並無特殊發現。血壓150/100 mmHg（產前120/80 mmHg），脈搏60/min 規則，抽血檢查Na：132 mM，K：3.5 mM，Ca：2.3 mM。下列那項檢查最具診斷價值：",
+    "choices": [
+      "ACTH，cortisol",
+      "Blood glucose",
+      "freeT4，hsTSH",
+      "憂鬱量表"
+    ],
+    "session": "106暑期",
+    "no": "14",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "24歲男性，兩手張開之長度較身高多兩吋，陰莖短小，無陰毛，嗅覺不佳。下列何者是此病人的檢查結果？",
+    "choices": [
+      "睪丸小而軟",
+      "性染色體為47XXY",
+      "身材矮小，三角臉",
+      "重度肥胖，智障"
+    ],
+    "session": "106暑期",
+    "no": "52",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "35歲女性，月經不規則已有兩年，最近八個月則完全無月經。身體檢查發現乳房有乳汁分泌。腦垂腺核磁共振檢查，發現腦垂腺前葉有一直徑1.5公分的腫瘤。則下列何者錯誤？",
+    "choices": [
+      "若不治療，長期會造成骨質疏鬆",
+      "腫瘤往上壓迫會造成視野缺損",
+      "可使用sulpiride治療",
+      "手術成功率與腫瘤大小呈負相關"
+    ],
+    "session": "106暑期",
+    "no": "53",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "18歲女性，左頸部腫痛且皮膚變紅，伴隨發燒，則下列何診斷最常見？",
+    "choices": [
+      "亞急性甲狀腺炎",
+      "先天有梨狀竇瘻管（pyriform sinus fistula）",
+      "先天有甲狀腺舌管囊腫（thyroglossal duct cyst）",
+      "甲狀腺未分化癌"
+    ],
+    "session": "106暑期",
+    "no": "54",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "腦下垂體受到放射線治療，最常出現的激素異常是下列何者？",
+    "choices": [
+      "生長激素（GH）",
+      "泌乳激素（Prolactin）",
+      "甲狀腺促進素（TSH）",
+      "腎上腺促進素（ACTH）"
+    ],
+    "session": "106暑期",
+    "no": "55",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "臨床上最常見的庫欣氏症候群（Cushing’s syndrome）原因是：",
+    "choices": [
+      "腎上腺皮質腫瘤",
+      "腦下垂體腫瘤",
+      "類固醇過量使用",
+      "胸腺腫瘤"
+    ],
+    "session": "106暑期",
+    "no": "56",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列關於第二型糖尿病治療之敘述，何者錯誤？",
+    "choices": [
+      "一般以糖化血紅素（hemoglobin A1c）小於7%為目標",
+      "口服降血糖藥物以磺氨尿素類（sulfonylurea）製劑為第一線用藥",
+      "DPP-4抑制劑之功能是提高餐後血中GLP-1之濃度",
+      "α-glucosidase抑制劑主要用於降低餐後血糖"
+    ],
+    "session": "106暑期",
+    "no": "57",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位40歲男性過去無任何病史，最近因為極度疲倦、嗜睡、食慾減少來就醫。病患回想這些症狀是在三個月前一次嚴重頭痛後發生。檢查發現飯前血糖90 mg/dL，PR 70/min，BP 100/60 mmHg，free T4 0.5 ng/dL（normal range 0.8～1.8 ng/dL），TSH 1.0 μIU/mL（normal range 0.1～2.0 μIU/mL），early morning cortisol 2.0 μg/dL（normal range 9.0～15 μg/dL），體毛、鬍鬚減少。電腦斷層攝影發現蝶鞍（sella）部位有一3公分不均質腫塊，壓迫腦下垂體組織。最可能的診斷為何？",
+    "choices": [
+      "泌乳激素瘤pituitary prolactinoma",
+      "腦下垂體中風pituitary apoplexy",
+      "顱咽管瘤craniopharyngioma",
+      "空蝶鞍症候群empty sella syndrome"
+    ],
+    "session": "107寒期",
+    "no": "15",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "體溫過低的原因最不可能是下列何者？",
+    "choices": [
+      "腦下腺機能低下",
+      "副甲狀腺機能低下",
+      "腎上腺機能低下（Addison's disease）",
+      "腦中風"
+    ],
+    "session": "107寒期",
+    "no": "20",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "依照美國國家膽固醇教育計劃（NCEP ATP III），下列何者不屬於代謝症候群風險評估指標之一？",
+    "choices": [
+      "高血壓",
+      "高血糖",
+      "高尿酸",
+      "高血脂"
+    ],
+    "session": "107寒期",
+    "no": "26",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列有關慢性腎病（chronic kidney disease）所引發之次發性副甲狀腺機能亢進（secondaryhyperparathyroidism）機轉之敘述，何者錯誤？",
+    "choices": [
+      "腎臟衰竭造成高磷血症（hyperphosphatemia）",
+      "Fibroblast growth factor 23抑制腎臟1-alpha hydroxylase，降低活性維他命D之合成",
+      "高磷血症（hyperphosphatemia）促進活性維他命D之產生",
+      "低鈣血症（hypocalcemia）刺激副甲狀腺荷爾蒙之產生"
+    ],
+    "session": "107寒期",
+    "no": "33",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列那一個病例最不符合所列之動脈血氣體分析和血清電解質的檢查結果〔pH：7.49，PaO2：90 mmHg，PaCO2：43 mmHg，HCO3-：28；Na+ 139，K+ 3.0，Cl- 89（電解質的單位是mmol/L）〕？",
+    "choices": [
+      "長期使用利尿劑",
+      "急性腹瀉三天",
+      "原發性皮質醛酮症",
+      "噁心嘔吐兩天"
+    ],
+    "session": "107寒期",
+    "no": "34",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "34歲男性，於健康檢查時發現高血鈣，低血磷，進一步測定 intact parathyroid hormone（iPTH）發現過高，為750 pg/mL，但超音波檢查並沒有發現副甲狀腺腺瘤，這時進一步做何檢查最恰當？",
+    "choices": [
+      "副甲狀腺Tc99m-sestamibi scan＋SPECT（single photon emission computed tomography）",
+      "I-131 thyroid uptake and scan",
+      "頸部MRI（magnetic resonance imaging）",
+      "頸部CT（computed tomography）"
+    ],
+    "session": "107寒期",
+    "no": "52",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "52歲女性，於健康檢查時發現血中CEA（carcinoembryonic antigen）升高，但大腸鏡和胸部電腦斷層攝影檢查皆正常。身體檢查發現甲狀腺有一結節腫，細針抽吸細胞學檢查看到紡綞型的細胞和大而橢圓的細胞，有藍色細胞質（劉氏染色）。則抽血驗下列何者可幫助確認診斷？",
+    "choices": [
+      "thyroglobulin",
+      "calcitonin",
+      "CA-199",
+      "CA-125"
+    ],
+    "session": "107寒期",
+    "no": "53",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "40歲女性，月亮臉，長青春痘，有水牛肩。抽血發現早上八點ACTH < 5.0 pg/mL，cortisol 22.6 μg/dL，下午四點ACTH < 5.0 pg/mL，cortisol 24.6 μg/dL，晚上11點口服1 mg之dexamethasone，隔天早上八點之cortisol 20.0 μg/dL。則下列何者正確？",
+    "choices": [
+      "進一步可做腎上腺電腦斷層攝影",
+      "此病人之診斷為Cushing’s disease",
+      "手術後不用服用cortisone acetate",
+      "這病人顯然長期在使用dexamethasone"
+    ],
+    "session": "107寒期",
+    "no": "54",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何種病變為第一型糖尿病自然病程中最早出現者？",
+    "choices": [
+      "視網膜",
+      "神經",
+      "腎臟",
+      "心血管"
+    ],
+    "session": "107寒期",
+    "no": "55",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者最不可能造成甲狀腺功能亢進？",
+    "choices": [
+      "葛瑞夫茲病（Graves' disease）",
+      "橋本氏甲狀腺炎",
+      "服用過量含碘物質",
+      "甲狀腺癌"
+    ],
+    "session": "107寒期",
+    "no": "56",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於血脂治療之敘述，下列何者錯誤？",
+    "choices": [
+      "fibric acid衍生物是治療血中三酸甘油脂（triglyceride）過高之第一線用藥",
+      "statin是治療血中膽固醇（cholesterol）過高之第一線用藥",
+      "fibric acid衍生物與Statin合併使用可能造成橫紋肌溶解症（rhabdomyolysis）",
+      "fibric acid衍生物與Statin嚴禁合併使用"
+    ],
+    "session": "107寒期",
+    "no": "57",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位 88 歲男性有攝護腺肥大病史，主訴近半年來體能衰退很多，身體虛弱，3 個月前曾因近乎昏厥（near syncope）送至急診處，心跳較慢約58/min，規則，抽血發現Na+ 124 mmol/L，Troponin I＜0.012 ng/mL。病人無高血壓、糖尿病、抽菸、心絞痛及呼吸困難病史，安排核子醫學掃描，心臟超音波及24 小時心電圖檢查均正常。一個月前全身無力更加重且有嚴重便秘，又至急診，身體檢查無呼吸困難，無脫水或四肢水腫。血中Na+ 104 mmol/L，其他生化檢查：Cr 1.0 mg/dL，BUN 15.3 mg/dL，K+ 5.4 mmol/L，Ca2+ 2.07 mmol/L，albumin 4.7 g/dL，blood sugar 113 mg/dL。下列敘述何者錯誤？",
+    "choices": [
+      "此病人住院時serum osmolality 為248 mOsmol/kg H2O，urine osmolality 為369 mOsmol/kg H2O，因\n此屬於low osmolality 的hyponatremia",
+      "病人無edema，為euvolemic status，因此病因不會是心臟衰竭或肝腎病變",
+      "病人cortisol 23.3 μg/dL，ACTH 13.9 pg/mL，因此病因不是cortisol deficiency",
+      "病人hsTSH 66.7 μIU/mL，因此病因為hyperthyroidism"
+    ],
+    "session": "104寒期",
+    "no": "2",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位 35 歲女性因多尿就醫。限水試驗前，其血液滲透壓288 mOsm/kg（normal 282-295 mOsm/kg），尿液滲透壓250 mOsm/kg，限水試驗6 小時後，其血液滲透壓298 mOsm/kg，尿液滲透壓300 mOsm/kg，皮下注射pitressin 5 單位後1 小時，其血液滲透壓290 mOsm/kg，尿液滲透壓550 mOsm/kg。最可能\n之診斷為：",
+    "choices": [
+      "腦下垂體部分ADH 分泌不足",
+      "腦下垂體全部ADH 分泌不足",
+      "心理性飲水過量",
+      "腎原性尿崩症"
+    ],
+    "session": "104寒期",
+    "no": "13",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位 60 歲女性有甲狀腺腫大病史數年，三個月前開始有心悸，甲狀腺右葉有一3 cm 觸感堅實結節，心電圖顯示心房震顫、驗血發現free T4 1.9 ng/dL（normal range 0.8-1.8 ng/dL），T3 190 ng/dL（normal range 80-180 ng/dL），TSH＜0.2 μIU/mL（normal range 0.25-4.0 μIU/mL），甲促素（TSH）受體抗體陰性反應。下一步應該做什麼檢查來診斷甲狀腺功能異常之病因？",
+    "choices": [
+      "甲狀腺超音波",
+      "甲狀腺I-131 掃描",
+      "甲釋素刺激試驗（TRH stimulation test）",
+      "18FDG 正子斷層攝影（18FDG-PET/CT）"
+    ],
+    "session": "104寒期",
+    "no": "14",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "為減少糖尿病腎病變微白蛋白尿之發生與進展，糖化血色素（HbA1c）應控制在：",
+    "choices": [
+      "＜5.0 %",
+      "＜6.0 %",
+      "＜7.0 %",
+      "＜8.0 %"
+    ],
+    "session": "104寒期",
+    "no": "35",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "抗利尿激素（anti-diuretic hormone）不適當分泌症候群（SIADH），會造成下列何種電解質異常？",
+    "choices": [
+      "高鈉血症",
+      "低鈉血症",
+      "高鉀血症",
+      "低鉀血症"
+    ],
+    "session": "104寒期",
+    "no": "37",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位 20 歲男性因突發四肢無力至急診室就診，血壓150/90 mmHg，心跳110 次/分鐘，血液檢查發現：鈉138 mmol/L，鉀2.4 mmol/L，氯106 mmol/L，肌酸酐0.9 mg/dL，滲透度290 mOsmol/kgH2O，pH 值7.40，重碳酸根23 mmol/L；尿液檢查發現：肌酸酐98.5 mg/dL，鈉102 mmol/L，鉀10.4 mmol/L，氯98 mmol/L，滲透度600 mOsmol/kg H2O。則下列敘述，何者錯誤？",
+    "choices": [
+      "病患可能罹患甲狀腺功能亢進，需檢測病患之甲狀腺功能",
+      "病患因尿液排泄大量鉀離子，需大量補充鉀離子",
+      "鉀離子之補充加入生理食鹽水（normal saline）比加入5%葡萄糖要好",
+      "需密切監測血鉀，以避免反彈性高血鉀"
+    ],
+    "session": "104寒期",
+    "no": "41",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列有關卡門氏症（Kallmann syndrome）之敘述，何者錯誤？",
+    "choices": [
+      "KAL 基因之作用在於引導性釋素細胞由嗅覺板移至下視丘",
+      "核磁共振攝影出現嗅球（olfactory bulb）及嗅溝（olfactory sulcus）發育不良",
+      "伴有智能不足",
+      "伴有上顎缺損"
+    ],
+    "session": "104寒期",
+    "no": "60",
+    "answer": "A,B,C,D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "根據公式，當一位病人的總膽固醇為287 mg/dL，三酸甘油酯為175 mg/dL 及高密度脂蛋白膽固醇（HDL-C）為90 mg/dL 時，計算出來的低密度脂蛋白膽固醇（LDL-C）值為多少？",
+    "choices": [
+      "22 mg/dL",
+      "85 mg/dL",
+      "130 mg/dL",
+      "162 mg/dL"
+    ],
+    "session": "104寒期",
+    "no": "61",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位 33 歲男性，因肥胖來門診諮詢。為強化病人減重的動機，你會告訴他有關肥胖的併發症。肥胖會增加下列那一種疾病的風險？",
+    "choices": [
+      "甲狀腺功能低下症（hypothyroidism）",
+      "退化性關節炎（osteoarthritis）",
+      "風濕性心臟病（rheumatic heart disease）",
+      "骨質疏鬆症（osteoporosis）"
+    ],
+    "session": "104寒期",
+    "no": "67",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一20歲男士有隱睪症病史，因睪丸腫大求診。體格檢查發現雙邊鎖骨上淋巴結腫大和乳房女性化。在這個階段最不合適的檢查應為：",
+    "choices": [
+      "血清甲型胎兒蛋白（AFP）",
+      "血清β-人類絨毛膜促性腺激素（β-HCG）",
+      "血清LDH",
+      "乳房超音波"
+    ],
+    "session": "104暑期",
+    "no": "39",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列口服降血糖藥物中，不會引起體重增加的是那一種？",
+    "choices": [
+      "glyburide",
+      "metformin",
+      "pioglitazone",
+      "repaglinide"
+    ],
+    "session": "104暑期",
+    "no": "49",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "附圖為血脂代謝之流程，其中之甲、乙及丙各代表何種產物？",
+    "choices": [
+      "甲：low-density lipoprotein、乙：very-low-density lipoprotein、丙：chylomicron",
+      "甲：high-density lipoprotein、乙： low-density lipoprotein、丙：chylomicron",
+      "甲：very-low-density lipoprotein、乙：low-density lipoprotein、丙：chylomicron",
+      "甲：low-density lipoprotein、乙： high-density lipoprotein、丙：chylomicron"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016572/Scanned_File/QUE-016572.png",
+    "session": "104暑期",
+    "no": "62",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "承上題，在乙之apolipoprotein為何？",
+    "choices": [
+      "ApoB100",
+      "ApoB48",
+      "ApoE",
+      "ApoC"
+    ],
+    "session": "104暑期",
+    "no": "63",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於kwashiorkor malnutrition的敘述，何者最不適當？",
+    "choices": [
+      "是長期飢餓的結果（starvation-related malnutrition）",
+      "身體診察可能發現水腫、頭髮容易拔出（easy hair pluckability）",
+      "實驗室檢查可能發現血清白蛋白低（＜2.8 g/dL）、血液淋巴球減少（lymphocytes＜1,500/μL）",
+      "Body mass index仍在正常範圍"
+    ],
+    "session": "107暑期",
+    "no": "7",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位65歲男性糖尿病患，最近剛在門診治療肺結核，追蹤抽血結果卻發現異常：total bilirubin 3 mg/dL（正常值：0.2～1.2）、direct bilirubin 0.3 mg/dL（正常值：0～0.4）。下列敘述何者最不適當？",
+    "choices": [
+      "可能與肺結核藥物引發溶血有關",
+      "病患此時驗尿將發現urine bilirubin呈陽性反應",
+      "病患此時驗尿將發現urine urobilinogen呈陽性反應",
+      "病患此時驗血中的糖化血色素（HbA1C），會有假性偏低的可能"
+    ],
+    "session": "107暑期",
+    "no": "8",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關感覺之神經學檢查，下列那一項描述最正確？",
+    "choices": [
+      "以針刺（pinprick）檢查痛感（pain），所檢查的神經纖維為大神經",
+      "以棉花縷（cotton wisp）檢查觸感（touch），所檢查的神經纖維為大神經及小神經",
+      "以音叉（tuning fork）檢查震動感覺（vibration），所檢查的神經纖維為小神經",
+      "以特定關節之被動移動（passive movement of specific joints）檢查關節位置（joint position），所檢查的神經纖維為小神經"
+    ],
+    "session": "107暑期",
+    "no": "9",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "甲狀腺的觸診是診斷疾病的重要依據，根據1994年UNICEF（聯合國兒童基金會）的分類法，對甲狀腺大小的分級描述何者正確？①甲狀腺組織看不到，也摸不到：Grade 0 ②甲狀腺組織看不到，但摸的到：Grade1 ③甲狀腺組織看的到，也摸的到：Grade 2",
+    "choices": [
+      "僅①②",
+      "僅①③",
+      "僅②③",
+      "①②③"
+    ],
+    "session": "107暑期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關糖尿病口服藥物的敘述，下列何者錯誤？",
+    "choices": [
+      "Metformin單獨使用不太會引起低血糖，其最嚴重的副作用為乳酸血症",
+      "Thiazolidinediones及dipeptidyl-peptidase IV inhibitors可能會引起心臟衰竭",
+      "Dapagliflozin及empagliflozin屬於胰島素增敏劑",
+      "Acarbose的作用機轉為抑制腸道的碳水化合物消化與吸收"
+    ],
+    "session": "107暑期",
+    "no": "50",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "糖尿病足部病變是導致下肢截肢的主要原因，下列敘述何者錯誤？",
+    "choices": [
+      "下肢的神經病變可導致足部的變形",
+      "下肢動脈血流供應不足可引起間歇性跛行（intermittent claudication）",
+      "足部潰瘍經常伴隨細菌感染，因血糖控制不良，最常見的菌種為克雷伯氏肺炎桿菌（Klebsiellapneumoniae）",
+      "如果感染沒有適當控制，可引起骨髓發炎"
+    ],
+    "session": "107暑期",
+    "no": "51",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於減重，下列敘述何者錯誤？",
+    "choices": [
+      "飲食控制的重點，在於減少總熱量的攝取",
+      "一般而言，在6個月內，減輕原先體重的15 %，是一個很容易達成的目標",
+      "對重度肥胖的病人，在內科療法無效時，減重手術（bariatric surgery）是一種合理的選擇",
+      "Lorcaserin 是作用在中樞神經，為抑制食慾的藥物"
+    ],
+    "session": "107暑期",
+    "no": "52",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關高脂血症之敘述，下列何者最不適當？",
+    "choices": [
+      "血中三酸甘油酯濃度偏高，與心臟病無關",
+      "血中三酸甘油酯濃度偏高，治療的首選藥物是纖維酸衍生物（fibric acid derivatives）",
+      "血中低密度脂蛋白膽固醇（LDL-C）濃度偏高，與心臟病有關",
+      "治療高膽固醇血症，首選的藥物是使達錠（statin）"
+    ],
+    "session": "107暑期",
+    "no": "53",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者是原發性副甲狀腺功能亢進的患者，最可能出現的電解質變化？",
+    "choices": [
+      "高血鈣、低血磷",
+      "低血鈣、高血磷",
+      "低血鈣、低血磷",
+      "高血鈣、高血磷"
+    ],
+    "session": "107暑期",
+    "no": "54",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者不是典型之甲狀腺功能亢進（hyperthyroidism）的症狀？",
+    "choices": [
+      "女性病患之⽉經量減少及⽉經週期不規則",
+      "體重增加",
+      "⼼悸或⼼律不整",
+      "怕熱"
+    ],
+    "session": "108寒期",
+    "no": "50",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者是甲狀腺髓質癌（medullary thyroid cancer）的細胞來源？",
+    "choices": [
+      "濾泡細胞（follicular epithelial cells）",
+      "濾泡旁細胞（calcitonin producing cells, C cells）",
+      "淋巴球細胞（lymphocytes）",
+      "纖維⺟細胞（fibroblasts）"
+    ],
+    "session": "108寒期",
+    "no": "51",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關糖尿病的分類、診斷與病因，下列敘述何者最正確？",
+    "choices": [
+      "第1型糖尿病好發於30歲以上，與⾃體免疫有關",
+      "空腹⾎糖超過100 mg/dL或HbA1c超過6%即達糖尿病診斷標準",
+      "第2型糖尿病與肥胖及家族遺傳有關，是臨床上最常⾒的糖尿病型態",
+      "妊娠型糖尿病好發於婦女懷孕的前3個⽉，與胰島素阻抗有關"
+    ],
+    "session": "108寒期",
+    "no": "52",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關⾎脂質的代謝，下列敘述何者最正確？",
+    "choices": [
+      "最⼤的脂蛋⽩分⼦為非常低密度脂蛋⽩（very-low-density lipoprotein）",
+      "Apolipoprotein是脂蛋⽩分⼦上的蛋⽩質，與⾎脂質的代謝有關",
+      "乳糜粒（chylomicron）在肝臟內形成，其蛋⽩質成分為apolipoprotein B-48",
+      "胰島素阻抗會使⾎脂質代謝異常，⾎中的⾼密度脂蛋⽩會上升"
+    ],
+    "session": "108寒期",
+    "no": "53",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於代謝症候群（metabolic syndrome）之敘述，下列何者錯誤？",
+    "choices": [
+      "與胰島素作⽤的阻抗（insulin resistance）有關",
+      "⾎中⼩⽽緻密的低密度脂蛋⽩（small, dense LDL）濃度會減少",
+      "會增加⼼⾎管疾病的風險",
+      "⾎中極低密度脂蛋⽩（VLDL） 的濃度會增加"
+    ],
+    "session": "108寒期",
+    "no": "54",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "52歲女性患者，半年來有間歇性⼼悸、冒冷汗、頭痛、⾎壓突然升⾼到約180/100 mmHg的情況，下列何種內分泌疾病最需要列入診斷考量？",
+    "choices": [
+      "嗜鉻細胞瘤（pheochromocytoma）",
+      "甲狀腺功能亢進（hyperthyroidism）",
+      "庫欣⽒症（Cushing's syndrome）",
+      "原發性醛固酮過⾼症（primary aldosteronism）"
+    ],
+    "session": "108寒期",
+    "no": "55",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "⼀位女性病患右側甲狀腺及右下邊脖⼦淋巴腺無痛性腫⼤，其右側甲狀腺灰階及彩⾊杜⼘勒超⾳波檢查如圖，最可能的診斷為何？",
+    "choices": [
+      "甲狀腺炎（thyroiditis）",
+      "甲狀腺乳突狀癌（papillary carcinoma）",
+      "甲狀腺瘤（adenoma）",
+      "良性多發性結節（nodular goiter）"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-023484/Scanned_File/QUE-023484.png",
+    "session": "108寒期",
+    "no": "74",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "甲狀腺癌的病患接受手術切除，並完成高劑量之放射碘-131同位素治療後，臨床上，下列何者為血液中追蹤甲狀腺癌是否復發之生化指標？",
+    "choices": [
+      "四碘甲狀腺素（T4）",
+      "三碘甲狀腺素（T3）",
+      "甲狀腺球蛋白（thyroglobulin）",
+      "甲促素（TSH）"
+    ],
+    "session": "108暑期",
+    "no": "47",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "低血糖是臨床上常見的現象，下列那一項敘述最不適當？",
+    "choices": [
+      "胰島素瘤（insulinoma）的典型表現為Whipple's triad，是低血糖最常見的原因",
+      "低血糖可引起致命的結果，必須及時處理",
+      "低血糖的常見症狀包括發慌、心跳加速、冒冷汗及昏迷等",
+      "臨床上可引起低血糖的藥物包括胰島素、sulfonylureas及glinides類"
+    ],
+    "session": "108暑期",
+    "no": "48",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於非自主性的體重流失（involuntary weight loss）的敘述，下列何者錯誤？",
+    "choices": [
+      "在6至12個月內，體重下降超過4.5公斤",
+      "在6至12個月內，體重下降大於原先體重的5%",
+      "甲狀腺功能亢進時，食慾減退是體重下降的主因",
+      "慢性阻塞性肺病是其中一個原因"
+    ],
+    "session": "108暑期",
+    "no": "49",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關脂質代謝之敘述，下列何者錯誤？",
+    "choices": [
+      "腸道所吸收的脂肪，經腸細胞組成乳糜微粒（chylomicron）後，進入乳糜小管",
+      "分解血液中之三酸甘油脂的酶，是荷爾蒙敏感性脂肪酶（hormone-sensitive lipase）",
+      "低密度脂蛋白（LDL）是由血液中的極低密度脂蛋白（VLDL）轉化而成",
+      "高密度脂蛋白（HDL）可以和其他血中的脂蛋白進行脂質交換"
+    ],
+    "session": "108暑期",
+    "no": "50",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "因甲狀腺功能亢進造成心律不整的患者，應儘量避免使用下列何種藥物，以避免甲狀腺功能亢進惡化？",
+    "choices": [
+      "digoxin",
+      "amiodarone",
+      "propranolol",
+      "diltiazem"
+    ],
+    "session": "108暑期",
+    "no": "51",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "若懷疑病人有橋本氏症（Hashimoto's thyroiditis）造成甲狀腺功能低下，檢查下列何種抗體最能佐證？",
+    "choices": [
+      "anti-dsDNA antibody",
+      "anti-IgG4 antibody",
+      "anti-TSH receptor antibody",
+      "anti-thyroglobulin antibody, anti-thyroid peroxidase antibody"
+    ],
+    "session": "108暑期",
+    "no": "52",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位67歲女性，服用含類固醇中藥多年治療背痛，有庫欣氏症（Cushing's syndrome）外觀，經家人勸告後已停藥1個月。現因泌尿道感染引發低血壓休克、意識不清被送來急診。除使用抗生素、輸液、升壓藥物治療外，應立刻給與何種處置？",
+    "choices": [
+      "立即抽血送驗cortisol，不必等報告結果出來，可立即注射糖皮質素（glucocorticoid）治療",
+      "立即抽血送驗cortisol，須等報告結果出來確認為腎上腺機能不足，才能給與糖皮質素（glucocorticoid）治療",
+      "抽血送驗上午8點與下午4點的cortisol後，立即注射糖皮質素（glucocorticoid）治療",
+      "立刻進行促腎上腺素刺激測驗（ACTH stimulation test），測驗完畢立即注射糖皮質素（glucocorticoid）治療"
+    ],
+    "session": "108暑期",
+    "no": "53",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "17歲女性病人由母親陪同就醫，母親發現病人最近半年瘦了10公斤，病人自覺容易口渴且排尿較為頻繁。理學檢查發現病人消瘦，血壓100/70 mmHg，其餘無特殊異常。如果只能安排一項檢查來診斷，下列何者最適當？",
+    "choices": [
+      "尿蛋白與尿糖",
+      "指尖血糖測定",
+      "血清電解質",
+      "全血球計數（complete blood count）"
+    ],
+    "session": "108暑期",
+    "no": "67",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列有關「新生兒先天性甲狀腺機能低下症篩檢」的敘述，何者錯誤？",
+    "choices": [
+      "特異度比敏感度更重要",
+      "不會產生嚴重的副作用",
+      "偽陰性造成的結果，會影響病人的早期治療",
+      "偽陽性的機會高"
+    ],
+    "session": "108暑期",
+    "no": "69",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列口服降血糖藥，何種最可能引起維生素B12缺乏？",
+    "choices": [
+      "biguanides",
+      "acarbose",
+      "thiazolidinediones",
+      "sulfonylureas"
+    ],
+    "session": "109寒期",
+    "no": "3",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關與血脂異常相關的黃色脂肪瘤（xanthoma）之敘述，下列何者錯誤？",
+    "choices": [
+      "只有血液中低密度脂蛋白膽固醇（LDL cholesterol）過高時才會發生，與血液中甘油三脂（triglyceride）的濃度無關",
+      "常分布在皮下（subcutaneous）處",
+      "常分布在肌腱鞘（tendon sheath）處",
+      "常分布在身體四肢的伸肌表面（extensor surface）"
+    ],
+    "session": "109寒期",
+    "no": "11",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關甲狀腺荷爾蒙對於人體代謝及發育的敘述，下列何者錯誤？",
+    "choices": [
+      "在幼年期缺少甲狀腺荷爾蒙，會造成智力不足、身材矮小且終身不可逆的呆小症（cretinism）",
+      "甲狀腺荷爾蒙可以降低細胞對氧氣的消耗，並且降低脂肪和碳水醣類化合物的代謝平衡，以提供正常生長和發育的需求",
+      "若甲狀腺荷爾蒙過度分泌，會造成身體消瘦、情緒緊張焦慮、心跳加速、雙手顫抖，有時甚至會造成心臟衰竭",
+      "甲狀腺荷爾蒙是維持生命所不可或缺的，一旦缺乏會造成人體對寒冷的耐受性降低，體重異常增加、身體黏液性腫（myxedema）、神智和身體活動變得笨拙和遲鈍"
+    ],
+    "session": "109寒期",
+    "no": "50",
+    "answer": "B"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關糖尿病慢性併發症的敘述，下列何者錯誤？",
+    "choices": [
+      "糖尿病慢性併發症的發生與糖尿病的罹病期及血糖控制有關",
+      "病人最好能定期接受糖尿病慢性併發症的篩檢",
+      "病人可能有腹瀉或便秘的現象",
+      "糖尿病的腎臟病變在早期就會有肌酸酐上升的現象"
+    ],
+    "session": "109寒期",
+    "no": "51",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "有關代謝症候群（metabolic syndrome）的敘述，下列何者錯誤？",
+    "choices": [
+      "與肥胖及年齡有關，胰島素阻抗為可能的病理成因",
+      "病人可能會有血壓或血糖的升高",
+      "有代謝症候群的人罹患心臟血管疾病的風險會上升",
+      "診斷的條件包括高三酸甘油脂血症及低密度脂蛋白膽固醇升高"
+    ],
+    "session": "109寒期",
+    "no": "52",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "關於減重手術（bariatric surgery），下列敘述何者錯誤？",
+    "choices": [
+      "對新陳代謝的好處，部分是因為改變了腸道荷爾蒙分泌濃度所致",
+      "通常在限制型（restrictive）手術之外，再合併吸收不良型（malabsorptive）手術，可增加減重效果",
+      "可用來改善重度肥胖之第二型糖尿病病人的血糖控制",
+      "無法降低重度肥胖病人的死亡率"
+    ],
+    "session": "109寒期",
+    "no": "53",
+    "answer": "D"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何種降血糖藥物，最容易發生低血糖的副作用？",
+    "choices": [
+      "dipeptidyl peptidase-4（DPP-4）抑制劑",
+      "sodium-glucose co-transporter 2（SGLT2）抑制劑",
+      "meglitinide",
+      "glucagon-like peptide 1（GLP-1）受體促進劑"
+    ],
+    "session": "109寒期",
+    "no": "54",
+    "answer": "C"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "下列何者是術前診斷甲狀腺瘤良惡性最準確的方式？",
+    "choices": [
+      "甲狀腺細針穿刺細胞學檢查",
+      "甲狀腺超音波",
+      "頸部電腦斷層",
+      "頸部核磁共振"
+    ],
+    "session": "109寒期",
+    "no": "55",
+    "answer": "A"
+  },
+  {
+    "subject": "新陳代謝科",
+    "question": "一位50歲男性患者，未服用任何藥物和保健食品，主訴體重上升，有月亮臉、水牛肩、中心型肥胖、皮膚薄、易瘀青，下列處置何者最不適當？",
+    "choices": [
+      "隨機測量血中ACTH和cortisol",
+      "抽血測量上午8點與下午4點的ACTH和cortisol",
+      "測量24小時尿液的cortisol量",
+      "做 1 mg dexamethasone suppression test"
+    ],
+    "session": "109寒期",
+    "no": "56",
+    "answer": "A"
+  }
+]

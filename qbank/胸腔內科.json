@@ -1,0 +1,1165 @@
+[
+    {
+    "subject": "胸腔內科",
+    "question": "51歲男性病患，因為近半年來右上背酸痛和右上肢麻痹和無力到院就醫。他因這些病症在他院接受止痛藥物治療和手術治療頸椎椎間盤突出開刀，但症狀未見改善。到院前三個月，他開始出現右眼皮下垂和視力模糊。他過去抽菸，一天一包達三十年之久。到院胸部X光和電腦斷層檢查如圖。多次痰液微生物顯微鏡檢和培養均為陰性。以下何者是最有可能的診斷？",
+    "choices": [
+      "pancoast tumor",
+      "過敏性肺部氣管麴菌感染（allergic bronchopulmonary aspergillosis）",
+      "肺膿瘍（lung abscess）",
+      "肺部動脈靜脈畸形（arterio-venous malformation of the lung）"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-014591/Scanned_File/QUE-014591.png",
+    "session": "105寒期",
+    "no": "1",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位70歲男性病人因右側肋膜積液（pleural effusion）掛胸腔科門診，經胸腔超音波檢查並做肋膜積液抽吸送檢，肋膜積液分析發現白血球1280/mm^3，neutrophil/lymphocyte ratio：8/92，蛋白質（protein）數值為3.8 g/dL，血清蛋白質為5.2 g/dL，細胞學檢查無惡性細胞，adenosine deaminase（ADA）為70 IU/L，在臺灣最可能的診斷是：",
+    "choices": [
+      "惡性肋膜積液",
+      "結核性肋膜積液",
+      "肺炎併發肋膜積液",
+      "膿胸"
+    ],
+    "session": "105寒期",
+    "no": "15",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "胸部電腦斷層發現毛玻璃狀病灶（ground glass opacity, GGO），有關其臨床意義的敘述，下列何者錯誤？",
+    "choices": [
+      "有可能是早期adenocarcinoma",
+      "有可能是atypical adenomatous hyperplasia",
+      "如果是solid GGO，很可能是慢性發炎，定期追蹤即可",
+      "有可能是肺腺癌的前身，應積極正確診斷"
+    ],
+    "session": "105寒期",
+    "no": "48",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "60歲男性，主述長期咳痰，呼吸不暢，最近有關節痠痛症狀。身體檢查時看到杵狀指（clubbing fingers）。下列那些疾病應優先列入鑑別診斷？1.肺癌 2.急性肺炎 3.支氣管擴張症 4.先天性心臟病 5.肝硬化 6.克隆氏症（Crohn’s disease）",
+    "choices": [
+      "123456",
+      "僅3456",
+      "僅2456",
+      "僅135"
+    ],
+    "session": "105寒期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "肺癌患者出現下列何種表徵時，仍可考慮接受根除性手術治療？",
+    "choices": [
+      "咳血",
+      "腫瘤侵犯造成上腔靜脈症候群（superior vena cava syndrome）",
+      "腫瘤或淋巴腺壓迫造成聲帶麻痺、聲音沙啞",
+      "惡性肋膜積水"
+    ],
+    "session": "105寒期",
+    "no": "50",
+    "answer": "A,B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於theophylline在慢性阻塞性氣道疾病（chronic obstructive airway disease）的治療敘述，何者錯誤？",
+    "choices": [
+      "抽煙與喝酒會增加theophylline的代謝",
+      "支氣管擴張效果主要來自於抑制呼吸道平滑肌之phosphodiesterase",
+      "低劑量theophylline有抗發炎效果，主要是直接抑制細胞核內histone deacetylase-2的活性",
+      "做為附加（add-on）治療，效果比吸入型長效性乙二型增效劑（long acting β2-agonist）弱"
+    ],
+    "session": "105寒期",
+    "no": "51",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列對於支氣管性氣喘的特性敘述，何者錯誤？",
+    "choices": [
+      "支氣管反應過度（hyperresponsiveness）",
+      "陣發性產生呼吸困難、咳嗽或是哮鳴音",
+      "最常見之危險因子（risk factor）是過敏",
+      "因過敏性產生氣喘，常容易發生於40歲以後"
+    ],
+    "session": "105寒期",
+    "no": "54",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "對於急性氣喘發作，下列何者藥物不是第一線的治療選項？",
+    "choices": [
+      "β-2 Adrenergic agents",
+      "Anticholinergics",
+      "Corticosteroids",
+      "Theophylline"
+    ],
+    "session": "105寒期",
+    "no": "77",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "ㄧ位70歲男性病人，主訴為進行性呼吸困難、咳嗽、但痰不多，胸部X光片顯示兩側下肺葉浸潤，HRCT（high-resolutionCT）顯示主要變化為basilar and subpleural reticular opacities，traction bronchiectasis and honeycombing表現，最可能的診斷為：",
+    "choices": [
+      "usual interstitial pneumonia（UIP）",
+      "nonspecific interstitial pneumonia（NSIP）",
+      "cryptogenic organizing pneumonia",
+      "aspiration pneumonia"
+    ],
+    "session": "105暑期",
+    "no": "11",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位70歲男性，意識清楚，因咳嗽、黃痰和發燒來醫院就診，胸腔科門診的胸部X光片顯示右上葉肺炎，患者的vital signs：BP 150/80 mmHg，heart rate 110/min（regular），respiratory rate 33/min，BT：38℃；依據指引，此病患的最適宜治療方式是：",
+    "choices": [
+      "門診治療",
+      "一般病房住院治療",
+      "加護病房住院治療",
+      "立即施打肺炎疫苗"
+    ],
+    "session": "105暑期",
+    "no": "12",
+    "answer": "B,C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "COPD發炎反應中有許多發炎介質，包括IL-8, TNF-α, IL-1β這些發炎介質的基因活化主要是經由那一個轉錄因子（Transcriptional factor）？",
+    "choices": [
+      "NF-κB",
+      "AP-1",
+      "JNK",
+      "HIF-1α"
+    ],
+    "session": "105暑期",
+    "no": "47",
+    "answer": "A,B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關呼吸衰竭（respiratory failure）之敘述，何者錯誤？",
+    "choices": [
+      "一般以動脈血中的氣體（如氧氣、二氧化碳）分壓為判斷標準",
+      "肺纖維化（idiopathic pulmonary fibrosis）是屬於第一類（type I）呼吸衰竭，又稱氧合衰竭（oxygenation failure）",
+      "重度慢性阻塞性肺疾（chronic obstructive pulmonary disease）是屬於第二類（type II）呼吸衰竭，又稱換氣衰竭（ventilation failure）",
+      "第一類（type I）呼吸衰竭的低血氧症皆能經由氧氣治療（oxygen therapy）得到改善"
+    ],
+    "session": "105暑期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於縱膈腔腫塊（mediastinal mass）的敘述，何者錯誤？",
+    "choices": [
+      "畸胎瘤（benign teratoma）常出現在前縱膈腔",
+      "淋巴瘤（lymphoma）常出現在前、中縱膈腔",
+      "支氣管囊腫（bronchogenic cyst）、心包膜囊腫（pericardial cyst）常出現在中縱膈腔",
+      "Morgagni’s橫膈疝氣（diaphragm hernia）常出現在後縱膈腔"
+    ],
+    "session": "105暑期",
+    "no": "50",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關肺栓塞（pulmonary embolism）的診斷敘述，何者錯誤？",
+    "choices": [
+      "氣促（dyspnea）、胸痛、咳血等症狀不具特異性",
+      "診斷主要靠肺血管攝影（pulmonary angiography）",
+      "血清中d-dimer的檢測具有高敏感度、低特異性的特點",
+      "使用核醫通氣-灌注肺掃描檢查，會出現「通氣-灌注不吻合」（ventilation-perfusion mismatch）的影像"
+    ],
+    "session": "105暑期",
+    "no": "51",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關氣喘病患呼吸道過度反應性（airway hyperresponsiveness）之敘述，下列何者錯誤？",
+    "choices": [
+      "常以支氣管激發試驗中使FEV1下降20%之methacholine濃度（PC20）或劑量（PD20）來表示",
+      "如果某病患methacholine劑量-反應曲線在高劑量時未出現平原（plateau）現象也代表呼吸道高反應性之存在",
+      "某病患methacholine PC20<8 mg/mL即可診斷為氣喘",
+      "methacholine PC20值越低代表呼吸道高反應性越高"
+    ],
+    "session": "105暑期",
+    "no": "52",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於過敏性支氣管肺麴黴菌病（allergic bronchopulmonary aspergillosis），下列何種影像學徵象最少見？",
+    "choices": [
+      "肺擴張不全（atelectasis）",
+      "支氣管囊腫（bronchocele）",
+      "肺實質化（consolidation）",
+      "明顯的肋膜積液 （pleural effusion）"
+    ],
+    "session": "105暑期",
+    "no": "74",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "林老太太因為咳嗽兩個月且體重減輕，至門診就醫，胸部X光如圖所示，最可能的診斷為：",
+    "choices": [
+      "黴漿菌肺炎",
+      "支氣管擴張症",
+      "肺癌",
+      "肺氣腫"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015241/Scanned_File/QUE-015241.png",
+    "session": "106寒期",
+    "no": "11",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "邱女士，因有大量濃痰和咳血至門診就醫，胸部X光如圖所示，最正確的診斷為：",
+    "choices": [
+      "肺栓塞（pulmonary embolism）",
+      "支氣管擴張症（bronchiectasis）",
+      "肺癌（lung cancer）",
+      "肺纖維化（lung fibrosis）"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015242/Scanned_File/QUE-015242.png",
+    "session": "106寒期",
+    "no": "12",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "COPD患者休息狀態時，動脈血已出現缺氧現象，該病患較不可能因COPD而出現下列那一項呼吸生理的障礙？",
+    "choices": [
+      "第一秒吐氣量（FEV1）低於預期值的50%",
+      "分流（shunt）增加",
+      "換氣／灌流失衡（ventilation/perfusion mismatching）",
+      "第一秒吐氣量（FEV1）低於預期值的25%時，可能同時伴有動脈血中二氧化碳升高（PaCO2）"
+    ],
+    "session": "106寒期",
+    "no": "46",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關阻塞性睡眠呼吸中止症（obstructive sleep apnea, OSA）的敘述，下列何者錯誤？",
+    "choices": [
+      "主要是靠肺量計（spirometry）和腦波圖來診斷",
+      "肥胖者與OSA的發生有密切關係",
+      "容易有打鼾、白天嗜睡及夜間睡眠呼吸中斷等症狀",
+      "治療以睡眠時佩戴正壓呼吸器（continuous positive airway pressure）為主"
+    ],
+    "session": "106寒期",
+    "no": "47",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "以標靶藥物（酪胺酸動力酶抑制劑，tyrosine kinase inhibitor）治療非小細胞肺癌，治療效果最主要的決定因素為何？",
+    "choices": [
+      "細胞分類－肺腺癌",
+      "性別－女性",
+      "抽菸史－不抽菸者",
+      "表皮成長因子受體（epidermal growth factor receptor）特定基因變異"
+    ],
+    "session": "106寒期",
+    "no": "48",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於氣喘（bronchial asthma）的治療敘述，何者正確？",
+    "choices": [
+      "宜常規使用速效性乙二型交感神經增效劑（rapid acting β–agonist）來控制症狀",
+      "使用中劑量吸入性類固醇而效果不佳時，應優先提高類固醇劑量來控制發炎反應",
+      "使用吸入型長效性乙二型交感神經增效劑與吸入型類固醇合併製劑，可有效控制持續性氣喘（persistent asthma）",
+      "白三烯酸拮抗劑（leukotriene antagonist）適用於重度持續性氣喘（severe persistent asthma）"
+    ],
+    "session": "106寒期",
+    "no": "49",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "快速、淺短呼吸指數（rapid-shallow-breathing index）為何時，病患成功脫離呼吸器之機會較高？",
+    "choices": [
+      "＜105",
+      "＜140",
+      "＜210",
+      "＜250"
+    ],
+    "session": "106寒期",
+    "no": "50",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "61歲男性突發性的胸痛、呼吸困難，其胸部X光如圖示，最主要的診斷為何？",
+    "choices": [
+      "肺氣腫",
+      "肺挫傷出血",
+      "氣胸",
+      "肺炎"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-015304/Scanned_File/QUE-015304.png",
+    "session": "106寒期",
+    "no": "74",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關氣喘（bronchial asthma）的敘述，下列何者正確？",
+    "choices": [
+      "吸入型類固醇（inhaled corticosteroid）的廣泛使用是近年來氣喘病患死亡率減少的主因之一",
+      "氣喘（bronchial asthma）的定義（definition）很容易達成共識，診斷也容易與其他疾病區隔分開",
+      "氣喘（bronchial asthma）病患的氣道黏膜（airway mucosa）發炎，主要是有白血球（neutrophils），B淋巴球（B-lymphocytes）和肥胖細胞（mast cells）浸潤造成",
+      "氣喘控制不良（poor control of bronchial asthma）的最主要原因是短效支氣管擴張劑（bronchodilators）不規則使用"
+    ],
+    "session": "106暑期",
+    "no": "13",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關呼吸困難（dyspnea）之敘述，下列何者錯誤？",
+    "choices": [
+      "焦慮不會引起呼吸困難",
+      "呼吸困難是一種主觀上對呼吸不順暢的感覺",
+      "呼吸困難的原因甚多，包括心衰竭或呼吸道阻塞",
+      "病人的呼吸困難，且伴隨著夜間陣發性呼吸困難（paroxysmal nocturnal dyspnea），其原因可能是心衰竭所致"
+    ],
+    "session": "106暑期",
+    "no": "17",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關bronchiectasis的治療敘述，何者錯誤？",
+    "choices": [
+      "對反覆感染的病患應長期使用抗生素，以防止呼吸道進一步的破壞",
+      "適當的使用支氣管擴張劑可以改善病患的症狀",
+      "肺部復健改善呼吸道痰液蓄積，扮演重要的角色",
+      "aspergilloma所引起反覆咳血，可以考慮外科切除治療"
+    ],
+    "session": "106暑期",
+    "no": "46",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "使用成人呼吸器 \"volume-cycled\" 通氣模式時，降低吸氣流量（flow rate）之設定，而維持其他設定，會產生下列何種現象？",
+    "choices": [
+      "延長吸氣時間（Ti）",
+      "增加潮氣容積（VT）",
+      "增加尖峰吸氣壓（PIP）",
+      "增加呼吸次數（RR）"
+    ],
+    "session": "106暑期",
+    "no": "47",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "50歲男性，體重60公斤。因燒燙傷合併急性呼吸窘迫症候群接受呼吸器治療，三天後其動脈血液氣體分析為：pH = 7.50；PaCO2 = 22 mmHg；PaO2 = 78 mmHg。其呼吸器設定吸入氧氣濃度（FiO2）= 0.5，呼吸次數 = 14次/min，潮氣容積（tidal volume）= 660 mL，吐氣末正壓值（PEEP）= 10 cmH2O，吸氣最大流量（peak inspiratory flow）= 60 L/min。則應調整那個參數值最為妥當？",
+    "choices": [
+      "增加吸入氧氣濃度（FiO2）",
+      "增加吐氣末正壓值（PEEP）",
+      "減少潮氣容積（tidal volume）",
+      "增加吸氣最大流量（peak inspiratory flow）"
+    ],
+    "session": "106暑期",
+    "no": "48",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何者不是滲出性肋膜積液（exudative pleural effusion）的常見原因？",
+    "choices": [
+      "肺炎",
+      "惡性腫瘤",
+      "胰臟炎",
+      "心臟衰竭"
+    ],
+    "session": "106暑期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何者不是以low tidal volume; high PEEP改善acute respiratory distress syndrome（ARDS）的目的？",
+    "choices": [
+      "減少barotrauma",
+      "減少氧氣毒性（oxygen toxicity）",
+      "減少死亡率",
+      "減少呼吸器引發的感染"
+    ],
+    "session": "106暑期",
+    "no": "51",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位67歲退休農夫近5年來逐漸感到運動時呼吸困難，經高解析度電腦斷層（HRCT）檢查，診斷出間質性肺纖維化（interstitial lung fibrosis）。下列敘述何者錯誤？",
+    "choices": [
+      "自體免疫性或類肉瘤（sarcoidosis）所引起的病變機率較小",
+      "肺功能的異常包括：FVC, FEV1降低，FEV1/FVC接近正常，而TLC降低",
+      "運動肺功能的變化可作為預後的預測",
+      "一氧化碳瀰散量（CO diffusing capacity, DLCO）通常會降低，但DLCO/VA（alveolar ventilation）是正常"
+    ],
+    "session": "107寒期",
+    "no": "45",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "根據Light's criteria，下列何者不是診斷滲出性肋膜積液（exudative pleural effusion）的條件？",
+    "choices": [
+      "胸水中，白蛋白（albumin）的量＞3 g/dL",
+      "「胸水中蛋白質」與「血清中蛋白質」的比值＞0.5",
+      "「胸水中lactate dehydrogenase（LDH）」與「血清中lactate dehydrogenase（LDH）」的比值＞0.6",
+      "「胸水中lactate dehydrogenase（LDH）值」大於「血清中 lactate dehydrogenase（LDH）正常上限值」的2/3"
+    ],
+    "session": "107寒期",
+    "no": "47",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "腫瘤旁症候群（paraneoplastic syndrome）中，副甲狀腺素相關胜肽（parathyroid hormonerelatedpeptide）的產生最常見於何種肺癌的組織學型態？",
+    "choices": [
+      "小細胞肺癌（small cell lung cancer）",
+      "腺癌（adenocarcinoma）",
+      "鱗狀細胞癌（squamous cell carcinoma）",
+      "大細胞肺癌（large cell carcinoma）"
+    ],
+    "session": "107寒期",
+    "no": "48",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於肺外結核（extrapulmonary tuberculosis）治療的敘述，何者錯誤？",
+    "choices": [
+      "淋巴腺結核是最常見的肺外結核",
+      "脊椎結核（Pott's disease）所併發的脊髓病變（myelopathy）多數能隨著藥物治療而逐漸恢復",
+      "結核性心包膜炎（pericarditis）的治療除了抗結核標準治療外，類固醇治療未被確認可改善病情",
+      "結核性腦膜炎（meningitis）治療為標準抗結核治療6個月"
+    ],
+    "session": "107寒期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於慢性阻塞性肺疾（chronic obstructive pulmonary disease, COPD）的敘述，何者錯誤？",
+    "choices": [
+      "抽菸是最主要的危險因子",
+      "肺功能檢查中的「一秒量（FEV1）」是單一最好評估嚴重度的指標",
+      "不會呈現陽性之支氣管激發試驗（bronchial provocation test）",
+      "經支氣管擴張試驗（bronchodilator test）後之「一秒量（FEV1）」小於0.7"
+    ],
+    "session": "107寒期",
+    "no": "50",
+    "answer": "C,D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位27歲男性氣喘患者，常有氣喘急性發作，下列何種檢查對於偵測此患者病情之變化最簡單有效？",
+    "choices": [
+      "痰之嗜伊紅性白血球細胞數",
+      "免疫球蛋白E（IgE）之檢查",
+      "FEV1/FVC",
+      "自行使用尖峰呼氣流速（PEFR）之檢查"
+    ],
+    "session": "107寒期",
+    "no": "51",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位55歲男性，因慢性咳嗽已十幾年而至門診就醫，最近咳嗽症狀加劇，且咳嗽有黏稠、甚至膿痰。他抽菸已35年，每天約需兩包菸，一年前已戒菸。理學檢查發現血壓為160/86 mmHg，脈搏96次/分，身體質量指數（body mass index）為31，說話時有哮鳴聲，胸部X光發現支氣管壁增厚，兩側肺野肺紋增加。下列那一項肺功能檢查結果，與這位病人無關？",
+    "choices": [
+      "殘餘容積（residual volume）減少",
+      "第一秒用力吐氣量（forced expiratory volume in one second, FEV1）減少",
+      "第一秒用力吐氣量與肺活量（forced vital capacity, FVC）比值（FEV1/FVC）降低",
+      "肺活量中間50%的用力吐氣流速（FEF25-75）降低"
+    ],
+    "session": "107寒期",
+    "no": "67",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位70歲病患疑似急性冠心症 ，測量其氧合血紅素飽和度顯示為91%，呼吸速度20次/分鐘，若考量使用氧氣治療，下列敘述何者正確？",
+    "choices": [
+      "血紅素飽和度＞90 %，不需使用氧氣",
+      "若使用鼻導管（nasal cannula），流量每分鐘1～6 L，可提供的氧氣濃度約為21～30%",
+      "若使用Venturi面罩，流量每分鐘4～12 L，可提供的氧氣濃度約為24～50%",
+      "若使用非再吸入型面罩（non-rebreathing mask），流量每分鐘6～10 L，可提供的氧氣濃度約為60～100%"
+    ],
+    "session": "107寒期",
+    "no": "76",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位 70 歲男性病人因肺炎住進加護病房，經插氣管內管，給予氧氣和呼吸器輔助呼吸後，動脈血檢查（給予FiO2 60%）PaO2 = 60 mmHg，PaCO2 = 32 mmHg，pH = 7.38，胸部X 光片顯示兩側肺炎浸潤明顯，下列敘述和處置何者最正確？",
+    "choices": [
+      "病況尚未演變成急性呼吸窘迫症候群（acute respiratory distress syndrome，ARDS）",
+      "呼吸器初始設定建議給予12 mL/kg predicted body weight，對病患較有幫助",
+      "經給予廣效性抗生素，大部分病人在7 天內可改善，並脫離呼吸器",
+      "死亡率約在26～44%間，且大多非因肺部原因而死亡"
+    ],
+    "session": "104寒期",
+    "no": "11",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何者最可能引起transudative pleural effusion？",
+    "choices": [
+      "肺結核（tuberculosis）",
+      "類肉瘤（sarcoidosis）",
+      "尿毒症（uremia）",
+      "肺栓塞（pulmonary embolism）"
+    ],
+    "session": "104寒期",
+    "no": "12",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何種藥物對於硬皮症早期之間質性肺病變（interstitial lung disease）效果最佳？",
+    "choices": [
+      "corticosteroid",
+      "hydroxychloroquine",
+      "D-penicillamine",
+      "cyclophosphamide"
+    ],
+    "session": "104寒期",
+    "no": "43",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於結核病治療之敘述，何者正確？",
+    "choices": [
+      "採用一週二到三次的高劑量療法，可以縮短療程，減少抗藥性",
+      "曾接受過抗結核藥物治療，且服藥不規律者，發生抗藥性的機率高",
+      "一旦罹患多重抗藥性，仍可使用標準藥物合併治療，於六個月內完治",
+      "臺灣因為過去抗生素濫用，產生許多超級抗藥結核病（XDRTB），每年約占新結核病個案的1 %，\n成為嚴重的公衛問題"
+    ],
+    "session": "104寒期",
+    "no": "54",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於早期非小細胞肺癌（non-small cell lung cancer）處置的敘述，下列何者錯誤？",
+    "choices": [
+      "在IA 期，肺葉切除術（lobectomy）比楔狀切除術（wedge resection）有比較低的局部復發率",
+      "若有共病（comorbidities），肺功能差的患者，可以考慮楔狀切除（wedge resection）或肺節切除\n（segmentectomy）",
+      "第一期非小細胞肺癌病人的五年存活率約60-80 %",
+      "第IA 期病人術後輔助化學治療（adjuvant chemotherapy）有存活上的好處"
+    ],
+    "session": "104寒期",
+    "no": "55",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列關於氣喘（bronchial asthma）疾病的敘述，何者錯誤？",
+    "choices": [
+      "呼吸道慢性發炎反應（chronic inflammation）",
+      "呼吸道過度反應（hyperresponsiveness）",
+      "多屬不可逆性的氣道阻塞（irreversible airway obstruction）",
+      "屬異質性（heterogeneous）疾病，常是基因與環境因素交互作用所致"
+    ],
+    "session": "104寒期",
+    "no": "56",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關肺炎合併肋膜積液治療之敘述，何者錯誤？",
+    "choices": [
+      "pH＜7.0應引流治療",
+      "白血球＞10000/mm3應引流治療",
+      "LDH＞1000 unit/L 應引流治療",
+      "細菌培養呈陽性，應引流治療"
+    ],
+    "session": "104寒期",
+    "no": "57",
+    "answer": "A,B,C,D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位 52 歲女性，主訴咳嗽痰多，胸部X 光片和CT 影像如下圖，則最可能的診斷為下列何者？",
+    "choices": [
+      "囊狀支氣管擴張（cystic bronchiectasis）",
+      "膿胸（empyema）",
+      "橫膈疝脫（diaphragmatic hernia）",
+      "空洞性肺癌（cystic lung carcinoma）"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-016264/Scanned_File/QUE-016264.png",
+    "session": "104寒期",
+    "no": "74",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "25歲女病人因呼吸困難及心悸就診。身體診察顯示血壓110/64 mmHg，脈搏116/min，兩側肺底可聽見濕性囉音。心臟聽診發現第一心音增加，心尖部位及胸骨左側下緣可聽見明顯的二尖瓣開瓣音（opening snap, OS）及心舒期隆隆雜音（diastolic rumbling murmur）。下列敘述何者正確？",
+    "choices": [
+      "第一心音增加，表示二尖瓣狹窄不嚴重",
+      "第二心音至開瓣音的間期（S2-OS interval）愈長表示二尖瓣狹窄愈嚴重",
+      "心跳快為此類病人心臟的代償機轉，此時把心跳降低對病情不好，反而加重",
+      "diastolic rumbling murmur在此類病人發生心臟衰竭加重，心臟排血量低時，心雜音強度可能減弱甚至消失"
+    ],
+    "session": "104暑期",
+    "no": "2",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "48歲女性主訴胸悶，偶有眩暈並有運動時呼吸困難，身體診察脈搏64/min, 心臟大小正常，有S4 gallop，在胸骨右緣第三及四肋間有Grade IV/VI射出型心縮期雜音, 向頸部放散（radiation to neck）。血行動力學壓力（mmHg）如下：右心房平均壓：6；右心室43/8；肺動脈：43/18（平均壓28）；肺動脈楔壓：平均壓22；左心室227/33；主動脈139/72（平均壓98），病人之心臟病為：",
+    "choices": [
+      "僧帽瓣狹窄",
+      "僧帽瓣閉鎖不全",
+      "主動脈瓣狹窄",
+      "主動脈瓣閉鎖不全"
+    ],
+    "session": "104暑期",
+    "no": "3",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "63歲的男性患者有多次流鼻血，曾到耳鼻喉科求診，被診斷為慢性鼻竇炎引起鼻黏膜潰瘍出血。三個月之後因感冒引起久咳不癒有三週之久。其間偶有多次小咳血發生。胸部X光攝影可見數顆大小不等的腫塊。抽血檢查發現ANA 1：40 (-)，hemoglobin 8.9 g/dL，ESR 21mm/1h，CRP 3.2 mg/dL。最可能的診斷為何？",
+    "choices": [
+      "lung cancer",
+      "granulomatosis with polyangiitis（Wegener’s syndrome）",
+      "Behcets’s disease",
+      "lung tuberculoma"
+    ],
+    "session": "104暑期",
+    "no": "8",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "原發性自發性氣胸（primary spontaneous pneumothorax）的敘述，下列何者最不恰當？",
+    "choices": [
+      "大都是因為肋膜氣泡（pleural blebs）破裂",
+      "約有一半（50％）病患會再次發生氣胸",
+      "初次治療可考量簡單抽吸（simple aspiration）",
+      "胸腔鏡所做肋膜黏連（thoracoscopy with pleural abrasion）氣胸再發生率約25%"
+    ],
+    "session": "104暑期",
+    "no": "11",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位50歲女性肺結核病患，已服第一線4種抗結核藥物一個月，病人主訴食慾較差，稍微倦怠，但小便更深黃，肝功能檢查發現bilirubin T/D 15/8 mg/dL，AST：68 U/L，ALT：70U/L。最不可能是那一種抗結核藥物引起？",
+    "choices": [
+      "isoniazid",
+      "rifampin",
+      "ethambutol",
+      "pyrazinamide"
+    ],
+    "session": "104暑期",
+    "no": "12",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關咳嗽之敘述，何者錯誤？",
+    "choices": [
+      "在正常情況下，咳嗽可用來做清理呼吸道的保護機制",
+      "有些藥物，如ACEI（angiotensin-converting enzyme inhibitor）亦會引起咳嗽",
+      "胃食道逆流會引起食道發炎，但不會引發慢性咳嗽",
+      "咳嗽可因外在因子（如煙、塵）或內在因子（如呼吸道分泌物）誘發"
+    ],
+    "session": "104暑期",
+    "no": "15",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位40歲亞裔女性病人，沒有抽菸史，最近被診斷為非小細胞肺癌第四期，腫瘤有EGFR基因突變，下面何種治療較為合適？",
+    "choices": [
+      "EGFR 抑制劑",
+      "EGFR 抑制劑+化學治療",
+      "抑制血管增生抗體",
+      "EGFR 抑制劑+抑制 血管增生抗體"
+    ],
+    "session": "104暑期",
+    "no": "40",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關COPD病生理的敘述，何者錯誤？",
+    "choices": [
+      "COPD的炎症反應常會引起全身性的共病（co-morbidities）",
+      "COPD患者的肺功能異常是由於慢性炎症所造成的結構性變化，長期的使用抗發炎藥物如類固醇，幾乎可以完全恢復",
+      "COPD也可能發生於非抽煙者",
+      "參與COPD的發炎反應的發炎介質很多，包括IL-8, TNF-α, IL-1β"
+    ],
+    "session": "104暑期",
+    "no": "46",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何者不是造成急性呼吸窘迫症（acute respiratory distress syndrome）的原因？",
+    "choices": [
+      "溺水（near-drowning）",
+      "胃含物吸入（aspiration of gastric contents）",
+      "有機磷中毒（organophosphate intoxication）",
+      "吸入性傷害（inhalation injury）"
+    ],
+    "session": "104暑期",
+    "no": "47",
+    "answer": "A,B,C,D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關胸痛的鑑別診斷與描述，下列那一項最不適當？",
+    "choices": [
+      "章魚壺心肌症（Takotsubo cardiomyopathy）通常以突然發作的胸痛或呼吸急促表現",
+      "氣胸（pneumothorax）的風險因素包括男性、抽菸、家族病史等",
+      "心包炎（pericarditis）引起的胸痛在平躺時改善，坐起或身體前傾時加劇",
+      "使用硝酸甘油（nitroglycerin）可能改善食道痙攣（esophageal spasm）所引起的胸痛"
+    ],
+    "session": "107暑期",
+    "no": "11",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列有關氣喘的發病機制（pathogenesis），何者正確？",
+    "choices": [
+      "呼吸道上皮細胞主要為防禦功能，並不參與發炎反應",
+      "過敏原或病毒性感染會誘使T helper 2（TH2）淋巴球分泌interleukin-5，促使嗜酸性白血球進入呼吸道",
+      "氣喘的發炎介質會導致呼吸道平滑肌收縮，但平滑肌本身並不會釋放發炎介質",
+      "嗜中性白血球主要是對抗細菌性感染，並不參與發炎反應"
+    ],
+    "session": "107暑期",
+    "no": "42",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列那一種肺癌組織型，為我國最常見者？",
+    "choices": [
+      "adenocarcinoma",
+      "squamous cell carcinoma",
+      "large cell carcinoma",
+      "small cell carcinoma"
+    ],
+    "session": "107暑期",
+    "no": "43",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於肺癌診斷及分期，下列何者正確？",
+    "choices": [
+      "正子電腦斷層造影（PET-CT）之偽陽性低，如果發現對側淋巴腺有顯影，就表示N3，病人不宜手術切除腫瘤",
+      "肺臟核磁共振（MRI of lung）是肺癌的首選影像檢查",
+      "在急診胸部X光片中，發現右側胸腔全白，應馬上安排胸部電腦斷層",
+      "肺癌期別檢驗（staging workup）時，若病人有莫名疼痛或alkaline phosphatase（ALP）不明原因升高，可以安排全身骨骼掃描（whole body bone scan）檢查"
+    ],
+    "session": "107暑期",
+    "no": "44",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "30歲之男性病人，因有突發性左側胸痛，呼吸困難而至急診處就醫，觸診（palpation）時發現左下肺野觸覺震顫（tactile fremitus）減少，敲診時為hyper-resonant，聽診時呼吸音減少，最可能診斷為下列何者？",
+    "choices": [
+      "左側肋膜腔積水",
+      "左側氣胸",
+      "肺氣腫",
+      "左下肺葉肺炎"
+    ],
+    "session": "107暑期",
+    "no": "45",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "24歲女性患者，因意識不清被送來急診處。在吸入室內空氣時，其動脈血液氣體分析顯示pH 7.12，PaCO280 mmHg，PaO2 45 mmHg，HCO3- 28 mEq/L，BE(ECF) 0 mEq/L。其低血氧症最可能之原因為何？",
+    "choices": [
+      "急性氣喘發作",
+      "慢性阻塞性肺疾併急性發作",
+      "安眠藥中毒，換氣不足",
+      "肺炎併呼吸衰竭"
+    ],
+    "session": "107暑期",
+    "no": "46",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "因為父親罹患開放性肺結核而接受接觸者檢查的23歲男性，他的胸部X光檢查正常，但丙型干擾素血液測驗（interferon-γ release assay）為陽性。下列何種建議最不適當？",
+    "choices": [
+      "接受9個月的每日一次isoniazid治療",
+      "接受12個劑量的每星期一次isoniazid及rifapentine治療",
+      "接受2個月的每日一次rifampin及pyrazinamide治療",
+      "若其父親罹患的菌株為isoniazid抗藥性，可建議服用4個月的rifampin治療"
+    ],
+    "session": "107暑期",
+    "no": "47",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "42歲的男性，過去身體都十分健康，也沒有任何全身性疾病。此次因為罹患A型流行性感冒後，併發細菌性肺炎。其最可能的致病菌為何？",
+    "choices": [
+      "肺炎鏈球菌（Streptococcus pneumoniae）或金黃色葡萄球菌（Staphylococcus aureus）",
+      "綠膿桿菌（Pseudomonas aeruginosa）或克雷氏桿菌（Klebsiella pneumoniae）",
+      "黴漿菌（Mycoplasma pneumoniae）",
+      "厭氧性細菌"
+    ],
+    "session": "107暑期",
+    "no": "48",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於原發性肺癌的敘述，何者錯誤？",
+    "choices": [
+      "鱗狀上⽪癌（squamous cell carcinoma）是⽬前最常⾒的組織型態",
+      "腺癌（adenocarcinoma）會有腺泡（acinar）、乳突（papillary）、⿂鱗（lepidic）、固態（solid）等的型態",
+      "跟吸菸相關性⾼的是鱗狀上⽪癌、⼩細胞癌（small-cell carcinoma）",
+      "表⽪⽣⻑因⼦受體（epidermal growth factor receptor）突變常出現於腺癌"
+    ],
+    "session": "108寒期",
+    "no": "36",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關⽯綿肺症（asbestosis）的敘述，下列何者錯誤？",
+    "choices": [
+      "主要是暴露於⽯綿⽣產過程所造成，常⾒⽤於防火或電流絕緣的材料中",
+      "肺部容易出現瀰漫性纖維化病灶",
+      "可能合併出現肺癌或間⽪細胞瘤（mesothelioma）",
+      "肺功能出現阻塞性功能障礙及氣體瀰散量（diffusing capacity）下降，為病⼈呼吸急促的主因"
+    ],
+    "session": "108寒期",
+    "no": "43",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於肋膜腔積液（pleural effusion）的敘述，下列何者正確？",
+    "choices": [
+      "正常⼈有肋膜液體（pleural fluid）做為潤滑作⽤，主要是由visceral pleura產⽣，然後由parietal pleura吸收",
+      "根據Light's criteria，鑑別肋膜腔積液（pleural effusion）是transudate或exudate，須檢測肋膜液體（pleural fluid）和⾎清（serum）的LDH和total protein",
+      "肋膜腔積液中adenosine deaminase（ADA）level＞50 mg/L，須⾼度懷疑為淋巴瘤（lymphoma）",
+      "結核（tuberculosis）造成的肋膜腔積液，⼤多可以培養出結核菌（Mycobacterium tuberculosis）"
+    ],
+    "session": "108寒期",
+    "no": "44",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於肺腺癌基因突變及標靶治療，下列敘述何者正確？",
+    "choices": [
+      "在東亞肺腺癌，EGFR突變率約10～20%",
+      "有EGFR突變的第四期肺腺癌，可⽤EGFR tyrosine kinase inhibitor治癒（cure）",
+      "ALK translocation的肺腺癌病⼈年紀中位數（median age），較整體肺腺癌患者的年紀中位數年輕",
+      "ALK translocation之肺腺癌，經標靶治療產⽣抗藥性後，約50～60%產⽣exon 20 T790M突變"
+    ],
+    "session": "108寒期",
+    "no": "45",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "55歲之女性病⼈，有⾼⾎壓及糖尿病史在使⽤藥物，抱怨⻑期乾咳已有近3個⽉，沒有咳⾎及呼吸困難。⾝體診查及例⾏胸部X光片檢查皆為正常，對於病⼈的診斷，下列何者最為優先？",
+    "choices": [
+      "肺功能檢查",
+      "⿐竇X光片檢查",
+      "詢問使⽤抗⾼⾎壓藥物情形",
+      "24⼩時食道pH值檢查"
+    ],
+    "session": "108寒期",
+    "no": "46",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "75歲男性病⼈，因多年來有運動時呼吸困難現象，前來醫院就診。就診時沒有發燒，⾝體診查發現有兩⼿有杵狀指（clubbing fingers），且聽診時可聽到兩側下肺野有細囉⾳（fine crackles），下列何種疾病為最可能的診斷？",
+    "choices": [
+      "肺纖維化症",
+      "肺⽔腫",
+      "肺炎",
+      "肺癌"
+    ],
+    "session": "108寒期",
+    "no": "47",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "28歲的開放性肺結核女性病⼈，接受含有isoniazid, rifampin, ethambutol及pyrazinamide的抗結核藥物治療，在治療3個星期後，發⽣嚴重痛風。最有可能導致其痛風發作的藥物為何？",
+    "choices": [
+      "isoniazid",
+      "rifampin",
+      "ethambutol",
+      "pyrazinamide"
+    ],
+    "session": "108寒期",
+    "no": "48",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "過去⾝體都⼗分健康的46歲男性病⼈，因為發燒及咳嗽3天到⾨診就醫，胸部X光檢查有疑似肺炎病灶。下列何者最不可能為致病菌？",
+    "choices": [
+      "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "黴漿菌（Mycoplasma pneumoniae）",
+      "鮑⽒不動桿菌（Acinetobacter baumannii）",
+      "嗜⾎桿菌（Haemophilus influenzae）"
+    ],
+    "session": "108寒期",
+    "no": "49",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "依2015年American Heart Association Guidelines執⾏成⼈⼼肺復甦時，應提供的通氣次數及通氣量（潮氣容積），下列敘述何者較不適當？",
+    "choices": [
+      "使⽤袋瓣⾯罩（Bag-Valve-Mask）時，成⼈為每分鐘通氣10～12次",
+      "當插上氣管內管時，成⼈每次通氣間隔約6秒",
+      "當插上氣管內管時，成⼈的壓胸及通氣比為30：2",
+      "維持每次6～7 mL/kg的通氣量"
+    ],
+    "session": "108寒期",
+    "no": "75",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於氣胸（pneumothorax）的敘述，下列何者正確？",
+    "choices": [
+      "原發性自發性氣胸（primary spontaneous pneumothorax）的病人，發生一次氣胸後，約有50%會復發",
+      "一位使用呼吸器的病人，突然發生張力性氣胸（tension pneumothorax）時，醫師無法靠身體診查診斷出來",
+      "病人有肋膜積水（pleural effusion），經細針導管引流後，出現氣胸（pneumothorax），一定是針頭導致臟層肋膜（visceral pleura）破洞",
+      "慢性阻塞性肺病（chronic obstructive pulmonary disease）的病人發生氣胸，只要給與氧氣治療及觀察即可"
+    ],
+    "session": "108暑期",
+    "no": "43",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "52歲男性病人，在坐起來的時候，比躺下時有較低血氧症（orthodeoxia）及呼吸困難（platypnea），此位病人最可能罹患下列何種疾病？",
+    "choices": [
+      "睡眠呼吸中止症候群",
+      "心臟衰竭",
+      "肝硬化併門脈高壓",
+      "氣喘"
+    ],
+    "session": "108暑期",
+    "no": "44",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "70歲的男性，因為咳嗽10個月及體重減輕就醫，其胸部X光檢查如附圖。關於進一步的檢驗，下列何者最不適當？",
+    "choices": [
+      "痰液塗片耐酸性染色鏡檢（acid-fast stain）",
+      "痰液分枝桿菌培養（mycobacterial culture）",
+      "痰液結核菌核酸增幅檢驗（nucleic acid amplification test）",
+      "丙型干擾素血液測驗（interferon γ release assay）"
+    ],
+    "img_link": "https://www.learningbar.tw/Objects/Questions_and_Answers/QUE-028535/Scanned_File/QUE-028535.png",
+    "session": "108暑期",
+    "no": "45",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於非結核分枝桿菌（nontuberculous mycobacteria）的治療，下列敘述何者最不適當？",
+    "choices": [
+      "一旦確認為非結核分枝桿菌的感染，就必須立刻治療，避免疾病惡化",
+      "通常治療非結核分枝桿菌肺部感染，都必須同時用多種藥物治療",
+      "Mycobacterium avium complex通常治療藥物包括macrolide（如clarithromycin）, ethambutol及rifamycin（rifampin或rifabutin）",
+      "Mycobacterium kansasii通常以isoniazid, rifampin及ethambutol治療"
+    ],
+    "session": "108暑期",
+    "no": "46",
+    "answer": "A"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "一位45歲男性清潔工，過去健康情形良好，無任何病史，因呼吸急促胸悶住院，chest X-ray發現兩側肺野有零散的毛玻璃病灶（ground-glass opacities），病人主訴前兩週去廢棄工廠打掃並清除雜物，一週前開始咳嗽、發燒、胸悶現象，住院後經支氣管鏡肺泡灌洗術（bronchoalveolar lavage）檢查發現有lymphocytosis現象，此病人最有可能的診斷為：",
+    "choices": [
+      "allergic bronchopulmonary aspergillosis",
+      "eosinophilic pneumonia",
+      "tuberculosis",
+      "hypersensitivity pneumonitis"
+    ],
+    "session": "108暑期",
+    "no": "64",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "承上題，此病人最佳的治療藥物為何？",
+    "choices": [
+      "廣效型抗生素",
+      "抗黴菌藥物",
+      "類固醇",
+      "抗病毒藥物"
+    ],
+    "session": "108暑期",
+    "no": "65",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "假設你收集100位肺癌病人及1000位年齡、性別及社會經濟狀況相似的非肺癌控制群為研究對象，100位肺癌病人有90位是有規律的吸菸者，1000位控制群有270位是規律的吸菸者，則吸菸得到肺癌的危險勝算比（odds ratio）是多少？",
+    "choices": [
+      "4.0999999999999996",
+      "24.33",
+      "300",
+      "3.33"
+    ],
+    "session": "108暑期",
+    "no": "72",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "有關慢性阻塞性肺病（chronic obstructive pulmonary disease）之敘述，下列何者錯誤？",
+    "choices": [
+      "主要造成因素包括抽菸、空氣污染或基因缺陷所導致",
+      "發炎細胞主要為嗜中性白血球（neutrophils）及巨噬細胞（macrophages），並無T lymphocytes或eosinophils參與",
+      "臨床症狀及肺功能表現與慢性氣喘有時不易區分",
+      "臨床治療以支氣管擴張劑為主，部分特定病患也可以使用吸入型類固醇"
+    ],
+    "session": "109寒期",
+    "no": "43",
+    "answer": "B"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何者為成人常見的前縱膈腔腫瘤？",
+    "choices": [
+      "食道腫瘤（esophageal tumor）",
+      "神經性腫瘤（neurogenic tumor）",
+      "胸腺瘤（thymoma）",
+      "支氣管囊腫（bronchogenic cyst）"
+    ],
+    "session": "109寒期",
+    "no": "44",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於間皮瘤（mesothelioma）的敘述，下列何者正確？",
+    "choices": [
+      "peritoneal mesothelioma比pleural mesothelioma較常見",
+      "pleural fluid或ascites之cytology，通常就足以診斷",
+      "預後良好，中位數存活期（median overall survival）為3年",
+      "少部分的間皮瘤（mesothelioma）為良性"
+    ],
+    "session": "109寒期",
+    "no": "45",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "要診斷肺尖（lung apices）上的病灶，下列何種X光片的照法，最為適當？",
+    "choices": [
+      "PA view",
+      "lateral view",
+      "lateral decubitus view",
+      "lordotic view"
+    ],
+    "session": "109寒期",
+    "no": "46",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "70歲男性抽菸近50年，有多年長期咳嗽及運動時呼吸困難症狀，近日咳嗽及呼吸困難加劇前往急診處就醫。身體診查發現病人意識清楚，血壓穩定，但呼吸快速及胸部聽診有呼氣喘鳴聲（wheezes）。胸部X光片沒有肺炎之現象，痰液不多，其呼吸空氣時動脈血液氣體分析顯示pH 7.274，pCO2 78 mmHg，pO2 40 mmHg，HCO3- 36 mEq/L，BE(ECF) +9 mEq/L。給予氧氣後，下列何種處理最為正確？",
+    "choices": [
+      "給予重碳酸鈉輸液來改善酸血症",
+      "迅速給予氣管內插管及使用呼吸器以改善pCO2至40 mmHg",
+      "給予茶鹼（aminophylline）靜脈注射治療",
+      "先給予支氣管擴張劑吸入治療，並考慮使用非侵襲性呼吸器治療"
+    ],
+    "session": "109寒期",
+    "no": "47",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列何種菌株的藥物敏感性試驗結果，符合多重抗藥性結核病（multidrug-resistant tuberculosis）的定義？",
+    "choices": [
+      "isoniazid及streptomycin抗藥，但rifampin及ethambutol敏感",
+      "isoniazid, ethambutol及streptomycin抗藥，但rifampin敏感",
+      "isoniazid及rifampin抗藥，但ethambutol及streptomycin敏感",
+      "rifampin, ethambutol及streptomycin抗藥，但isoniazid敏感"
+    ],
+    "session": "109寒期",
+    "no": "48",
+    "answer": "C"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "關於呼吸器相關肺炎（ventilator-associated pneumonia），下列敘述何者最不適當？",
+    "choices": [
+      "住院後5到7天內發生的呼吸器相關肺炎，致病菌可能不是多重抗藥菌，而是如肺炎鏈球菌（Streptococcuspneumoniae）或嗜血桿菌（Haemophilus influenzae）等",
+      "住院7天後發生的呼吸器相關肺炎，致病菌較可能為多重抗藥菌，如綠膿桿菌（Pseudomonas aeruginosa）或鮑氏不動桿菌（Acinetobacter baumannii）等",
+      "氣管內管插管雖可避免大量的分泌物吸入，但無法避免微量吸入（microaspiration）",
+      "為避免呼吸器相關肺炎，必須將病人頭部抬高至少60度，以避免產生吸入性肺炎"
+    ],
+    "session": "109寒期",
+    "no": "49",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "下列那一項處置最不會增加住院病人醫療照護相關感染肺炎（healthcare-associated pneumonia）的風險？",
+    "choices": [
+      "儘量讓病人平躺以維持住院的舒適度",
+      "給與麻醉藥物（narcotics）全天止痛",
+      "為方便抽痰延長使用氣管內插管（endotracheal intubation）",
+      "使用口服sucralfate藥物治療胃炎"
+    ],
+    "session": "109寒期",
+    "no": "57",
+    "answer": "D"
+  },
+  {
+    "subject": "胸腔內科",
+    "question": "50歲男性主訴胸痛和咳嗽，胸部影像如圖，則最可能的診斷為下列何者？",
+    "choices": [
+      "肺癌",
+      "侷限性肋膜積液",
+      "葉間積液（interlobar effusion）",
+      "肺動脈栓塞（pulmonary embolism）"
+    ],
+    "session": "109寒期",
+    "no": "75",
+    "answer": "A"
+  }
+]
